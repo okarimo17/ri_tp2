@@ -1,19 +1,13 @@
+function tokenizeText(text){
+    let result = text.split(/[^a-z0-9äâàéèëêïîöôùüûœç-]+/i)
+    result = result.join(' ')
+    // Removing void - not connected to number of text
+    result= result.replace(/[\s+|\t+](-[\s+|\t+])+/g," ")
+    // Remove - after text
+    result= result.replace(/(\w)-[\s+|\t+]+/g,"$1 ")
+    // replacing many consucetive spaces with one space remove space arount the text (begining and end)
+    result = result.replace(/ +/g, ' ').trim()
+    return result
+}
 
-
-// const Tokenizer = require('./tokenizer')
-// const util = require('util')
-
-// const AggressiveTokenizer = function () {
-//   Tokenizer.call(this)
-// }
-// util.inherits(AggressiveTokenizer, Tokenizer)
-
-// module.exports = AggressiveTokenizer
-
-// AggressiveTokenizer.prototype.tokenize = function (text) {
-//   // break a string up into an array of tokens by anything non-word
-//   return this.trim(text.split(/[^a-z0-9äâàéèëêïîöôùüûœç-]+/i))
-// }
-
-
-// text.split(/[^a-z0-9äâàéèëêïîöôùüûœç-]+/i))
+module.exports = tokenizeText

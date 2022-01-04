@@ -1,5 +1,9 @@
 
 const fs = require('fs')
+const makeIndex = require('./custom_algorithms/make_index')
+
+
+makeIndex()
 
 // let natural = require('natural')
 // let stemmer = require('snowball-stemmers').newStemmer('french')
@@ -40,5 +44,3 @@ function cleanFile(){
     
 }
 
-
-cleanFile()
