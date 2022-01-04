@@ -1,8 +1,8 @@
 require('./constants')
-const makeIndex = require('./custom_algorithms/make_index')
+const createIndex = require('./custom_algorithms/create_index')
 
 
-makeIndex()
+createIndex()
 
 // let natural = require('natural')
 // let stemmer = require('snowball-stemmers').newStemmer('french')

@@ -37,8 +37,7 @@ function tokenizeTextAndRemoveStopWords(text){
             return word;
         }
     })
-    result = words.join(" ")
-    return result
+    return words
 }
 
 module.exports = textCleaner

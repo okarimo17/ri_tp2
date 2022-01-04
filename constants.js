@@ -1,2 +1,2 @@
 // Corpus Directory
-global.corpus = __dirname+'/corpus/original/'
+global.corpus = __dirname+'/corpus/'
