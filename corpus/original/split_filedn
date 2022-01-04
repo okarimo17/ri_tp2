@@ -1,0 +1,3000 @@
+﻿Les origines de ce jeu remontent au Ve siècle av. J.-C. en Chine sous le nom de jianzi, aujourd'hui disséminé en Asie et depuis peu en Europe et aux ةtats-Unis.[réf. nécessaire]
+
+La pratique du Pili développe les réflexes, l'agilité et la concentration. Pour ces raisons, il est utilisé depuis des décennies en Chine, par les plus jeunes pour l'éveil et pour les moins jeunes en tant qu'activité physique. Il est aussi intégré aux entraînements militaires.
+
+Matériel
+D'une taille de 20 centimètres, le pili est formé de 4 plumes d'oie, ainsi que d'une base elle même composée de caoutchouc, de rondelles de carton et d'aluminium recyclé, et d'une grosse rondelle optionnelle de métal, utilisée ou non selon le lestage désiré (en fonction des conditions climatiques et des préférences des joueurs).
+
+
+<#5615>
+Pillow lava
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la géologie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Un pillow lava (ou lave en coussins) est une lave qui a été émise par un volcan sous-marin (notamment au voisinage des dorsales océaniques) ou par un volcan émergé dont les coulées vont jusqu'en mer ou dans un lac. Sortant à une température de 1000 à 1200 degrés, elle se couvre d'une pellicule de verre qui, n'étant pas complètement refroidie, forme une sorte de baudruche souple, progressivement gonflée par la lave qui continue d'être émise. On aboutit ainsi à des empilements de boules en forme de coussins ou de polochons d'une taille de plusieurs mètres, sur de grandes épaisseurs.
+
+Des plongeurs sous-marins ont pu filmer la formation de pillow-lavas, à seulement quelques mètres de profondeur, sur les côtes de l'île d'Hawaii.
+
+La lave composant les pillow lavas est surtout du basalte. Les pillow lavas se rencontrent dans le partie supérieure des complexes ophiolitiques.
+
+On peut ainsi trouver des pillow lavas à la surface du sol, où ils sont apparus à la suite de mouvements tectoniques (obduction de portions de lithosphère océanique sur le continent). Des spécimens magnifiques sont visibles à Aci Castello (sur la côte est de la Sicile, au nord de Catane) au pied du château. Vieux de 300 à 200 000 ans, ils ont été portés à la surface par les mouvements de surrection de la côte. Au pied du rocher, surplombé par le château, s'étend une surface sub-horizontale. Elle comprend une zone plus plane en son sein et un bourrelet sur ses marges avant de plonger dans la mer. La croûte de hyaloclastites des pillow-lavas a disparu. On peut observer les conduits d'alimentation, des boules et de nombreux pillow coupés en deux : le c?ur, en étoile, est alors parfaitement visible.
+
+Les plus beaux pillow lavas des Alpes sont sans doute ceux du Chenaillet, un sommet du Briançonnais (Hautes-Alpes), sur la frontière franco-italienne, au sud-est du col de Montgenèvre.
+
+
+<#5616>
+Pile (informatique)
+
+Pour les articles homonymes, voir pile. 
+En informatique, une pile (en anglaisstack) est une structure de données basée sur le principe « dernier arrivé, premier sorti » (ou LIFO pour Last In, First Out), ce qui veut dire que les derniers éléments ajoutés à la pile seront les premiers à être récupérés. Le fonctionnement est celui d'une pile d'assiettes : on ajoute des assiettes sur la pile, et on les récupère dans l'ordre inverse, en commençant par la dernière ajoutée.
+
+Pile d'appel
+La pile d'appel (souvent appelée « la pile » tout court, parfois « pile système ») est, sur la plupart des architectures de microprocesseurs, une pile particulière dans laquelle sont poussés tout ou partie des paramètres d'appel des procédures ou fonctions, ainsi que l'adresse de retour. Par ailleurs, on y crée un espace pour des variables locales. La pile est ainsi formée de cadres de piles (stack frames) comprenant pour chaque procédure en cours d'appel imbriqué ses paramètres, ses variables locales et son point de retour. La pile système sert à sauver le contexte (valeur des registres, point de retour...) lors des exceptions et des interruptions. Devant pouvoir être lue comme écrite, la pile se trouve donc en RAM.
+
+Primitives
+
+Voici les primitives communément utilisées pour manipuler des piles. Il n'existe pas de normalisation pour les primitives de manipulation de pile. Leurs noms sont donc indiqués de manière informelle.
+
+« Empiler » : ajoute un élément sur la pile. Terme anglais correspondant : « Push ».
+« Dépiler » : enlève un élément de la pile et le renvoie. Terme anglais correspondant : « Pop ».
+« La pile est-elle vide ? » : renvoie vrai si la pile est vide, faux sinon.
+« Nombre d'éléments de la pile » : renvoie le nombre d'éléments dans la pile.
+
+Algorithme
+
+Architecture basée sur la pile
+Certains processeurs n'utilisent pas de registre générique, mais uniquement la pile. Par exemple, les calculatricesHewlett-Packard, les processeurs Focus, ou les machines Burroughs de la gamme B 5000
+
+Aspect mathématique
+En matière de structures abstraites, on peut considérer qu'une pile est un monoïde libre, c'est-à-dire un ensemble muni d'une loi de composition interne (la concaténation) associative et possédant un élément neutre.
+
+Applications
+
+Dans un navigateur web, une pile sert à mémoriser les pages Web visitées. L'adresse de chaque nouvelle page visitée est empilée et l'utilisateur dépile l'adresse de la page précédente en cliquant le bouton « Afficher la page précédente ».
+L'évaluation des expressions mathématiques en notation post-fixée (ou polonaise inverse) utilise une pile.
+La fonction « Annuler la frappe » (en anglais Undo) d'un traitement de texte mémorise les modifications apportées au texte dans une pile.
+Un algorithme de recherche en profondeur utilise une pile pour mémoriser les n?uds visités.
+Par exemple, on peut très simplement inverser les éléments contenus dans un tableau ou dans une chaîne de caractères (pour tester un palindrome) en utilisant une pile. Il suffit d'empiler les éléments sur une pile puis de reconstituer le tableau (ou la chaîne) inverse en dépilant les éléments.
+Les algorithmes récursifs admis par certains langages (LISP, Algol, Pascal, C, etc.) utilisent implicitement une pile d'appel. Dans un langage non récursif (FORTRAN par exemple), on peut donc toujours simuler la récursion en créant les primitives de gestion d'une pile.
+
+
+<#5617>
+Pilagل
+
+Les Pilagلs sont un peuple amérindien de la familia Guaycurْ qui habite au centre de la province argentine de Formosa. Certains groupes vivent également dans la province du Chaco.
+
+Comme les Abipones, les Mocovيs et les Tobas, ils furent appelés Frentones par les Espagnols et Guaycurْs par les Guaranيs, à cause de l'habitude qu'ils avaient de se raser la partie antérieure (frontale) du crâne.
+
+Ils parlent leur propre langue ainsi que le castillan.
+
+Ils étaient plus ou moins 4.500 en 2004-2005 [1], répartis en 19 communautés du centre de la province de Formosa. Ces communautés sont : Campo del Cielo, Ayo La Bomba, El Simbolar, El Descanso, Pozo Molina, La Lيnea, Laqtasatanyi, Barrio Qompي Juan Sosa (à Pozo del Tigre), La Yolita ou Ceferino Namuncurل, Pozo Navagan, Cacique Coquero, Kilَmetro 12, Estanislao del Campo, San Martيn 2, Pozo de los Chanchos, Sanchez Ibarreta, Juan Bautista Alberdi, Bartolomé de las Casas (partagée avec les Tobas) et Colonia El Calaudillal.
+
+Ils ont pu conserver une grande partie de leur culture autochtone. Ils sont de grande taille et de complexion forte.
+
+A l'origine ils étaient chasseurs et cueilleurs. Parmi les fruits qu'ils collectaient, on comptait ceux du caroubier du Chaco, du chaٌar, du mistol, du tuna ou figuier de Barbarie et du molle.
+
+Le massacre de Rincَn Bomba
+En 1947, les Pilagلs furent victimes d'un massacre perpétré par la gendarmerie argentine à Rincَn Bomba. Entre 400 et 500 d'entre eux, tous sans défense, y laissèrent leur vie, et il y eut 200 disparus. Ces faits, occultés pendant des décennies, ont été mis au jour en 2005, suite à une action en justice engagée par la Federaciَn Pilagل contre l'Etat argentin.
+
+Article détaillé : es:Masacre de Rincَn Bomba.
+
+Références
+
+?INDEC - Encuesta Complementaria de Pueblos Indيgenas (ECPI) 2004-2005 - Complément du recensement national de la population, des ménages et de l'habitat.[xls]
+
+
+<#5618>
+Pile à maillets
+
+La technique utilisée pour la fabrication artisanale du papier dans les quelques moulins qui fonctionnent encore en France, comme le moulin Richard de Bas à Ambert dans le Puy-de-Dôme, est restée très proche des méthodes d'origine.
+
+Autrefois, on utilisait des chiffons de récupération provenant de linges usagés. Le chiffon doit être entreposé humide dans un local clos où on le laisse fermenter naturellement pendant quelques semaines pour faciliter les opérations de défibration.
+
+Après pourrissement, le coton est découpé en fines lamelles et introduit avec de l'eau dans des cuves creusées dans d'énormes poutres.
+
+De gros maillets en bois garnis de clous tranchants et actionnés par la force motrice de la roue du moulin à eau retombent à intervalles réguliers sur le chiffon pour le réduire en fines particules.
+
+L'opération peut durer 40 heures, et permet de défiler le chiffon et de séparer les fibres qui constituent les fils pour former la pâte, sans raccourcir les fibres, car la longueur des fibres de coton confère au papier ainsi fabriqué une qualité essentielle.
+
+Portail de l'archéologie
+
+
+<#5619>
+PIL
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	{{{image}}}	|
+	|	
+
+Sigles d'une seule lettre	|
+	|	
+
+Sigles de deux lettres	|
+	|	>
+Sigles de trois lettres	|
+	|	AAA à DZZ
+EAA à HZZ
+IAA à LZZ
+MAA à PZZ	|	QAA à TZZ
+UAA à XZZ
+YAA à ZZZ	|
+	|	
+
+Sigles de quatre lettres	|
+	|	
+
+Sigles de cinq lettres	|
+	|	
+
+Sigles de six lettres	|
+
+Chercher PIL
+sur Acronym Finder
+PIL peut faire référence à :
+
+Public Image Limited, un groupe musical britannique,
+
+Pilar au Paraguay, selon la liste des codes AITA des aéroports
+
+
+<#5620>
+Pilotwings 64
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le jeu vidéo.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) (voir l'aide à la rédaction).	|
+
+	|	Pilotwings 64	|
+	|		|
+	|		|
+	|	ةditeur	|	Nintendo	|
+	|	Développeur	|	Paradigm Entertainment	|
+	|	Distributeur	|	{{{distributeur}}}	|
+	|	Concepteur	|		|
+	|		|
+	|	Début du projet	|		|
+	|	Date de sortie	|	
+23 juin1996 (Japon)
+25 septembre1996 (ةtats-Unis)
+
+1er mars1997 (Europe)	|
+	|	Licence	|		|
+	|	Version	|		|
+	|	Genre	|	Simulateur de vol	|
+	|	Mode de jeu	|	Un joueur	|
+	|	Plate-forme	|	Nintendo 64	|
+	|	Média	|	Cartouche	|
+	|	Langue	|		|
+	|	Contrôle	|	Manette	|
+	|		|
+	|	ةvaluation	|	ESRB : Kids to Adults (K-A)	|
+	|	Moteur	|		|
+
+Pilotwings 64 est un jeu vidéo créé par Shigeru Miyamoto, sorti en 1996 sur Nintendo 64.
+
+Portail du jeu vidéo
+
+Portail Nintendo
+
+
+<#5621>
+Pillar
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le rock.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pillar est un groupe de rock chrétien, créé en 1988 au Kansas.
+
+Discographie
+
+Above (2001)
+Fireproof (2002)
+Fireproof (2003)
+Broken Down: The E.P. (2003)
+Fireproof (2003)
+Bring Me Down (2004)
+Where Do We Go From Here (2004)
+Where Do We Go From Here (Limited Edition) (2005)
+The Reckoning (2006)
+For The Love Of The Game (2008)
+
+Portail du rock
+
+
+<#5622>
+Piledriver
+
+
+Le Piledriver (marteau-pilon en français) est le nom d'une prise de catch. Cette prise est majoritairement utilisée dans la lutte professionnelle, mais il est possible de voir des piledrivers dans certains combats d'Ultimate Fighting Championship. Le but d'un piledriver est de provoquer un KO complet de l'adversaire.
+
+Celle-ci s'applique habituellement en bloquant la tête de son adversaire entre ses cuisses, en le forçant à se pencher vers l'avant, puis en enroulant le tour de la taille pour ensuite se laisser tomber assis après l'avoir soulevé du sol, la tête de l'adversaire entrant ainsi directement en contact avec le sol. C'est le Texas piledriver.
+
+Cette prise peut donc être très dangereuse, et est bannie de la WWE depuis l'accident de Stone Cold Steve Austin lors de son combat contre Owen Hart en 1997. Après un Reverse piledriver, la tête de Steve Austin percuta violemment le matelas du ring, le paralysant momentanément. Malgré cela, le combat continua, ce qui empira l'état du cou et de la colonne vertébrale du catcheur. Cet accident est probablement une des causes de la retraite presque complète de Steve Austin, qui était à l'époque le catcheur babyface qui remplissait le plus les arènes. Seul certains lutteurs vétérans comme The Undertaker, Mick Foley ont encore le droit de pratiquer cette prise.
+
+En revanche, les piledrivers ne sont pas bannis dans les indies wrestling, ni dans le puroresu.
+
+Variantes
+
+Argentine piledriver
+L'attaquant applique un argentine backbreaker rack à son adversaire, puis il balance son adversaire vers l'avant et vers le bas, en tenant toujours une jambe, et la tête avant de tomber assis, en conduisant la tête de l'adversaire au sol.
+
+Belly to back piledriver
+L'attaquant et son adversaire sont face à face, l'attaquant place sa tête sous entre les jambes de l'adversaire en les aggripant, puis il le soulève et tombe assis ou agenouillé, conduisant la tête directement au sol. Inventé par Takao Omori qui l'a appelé Axe Guillotine Driver.
+
+Cradle piledriver
+Popularisé par Jerry Lynn. Quoi que similaire a un piledriver normal, le Cradle piledriver est plus difficile à contrer, une fois dans la position adéquate. La prise varie de l'originelle par l'étreinte de l'adversaire par ses jambes, et non par sa taille. En le prenant plus haut, la force de l'impact est augmentée.
+
+Double underhook piledriver
+L'attaquant bloque la tête de l'adversaire entre les jambes, puis il applique un underhook à la victime et celui-ci le soulève et tombe dans une position assise ou à genoux pour conduire la tête de l'adversaire au sol.
+
+Flip piledriver
+L'attaquant place la tête de son adversaire entre ses jambes comme pour un Powerbomb puis s'élance en avant afin de faire un saut perilleux avant, ou front flip, puis retombe en position assise tout en tenant son adversaire ce qui entraine la tête de ce dernier au sol. Cette prise est la prise de finition de Petey Williams, appellée Canadian Destroyer, travaillant actuellement a la TNA.
+
+Reverse piledriver
+
+C'est cette variante, le Reverse piledriver qui est responsable de l'interdiction des piledrivers à la WWE. Aussi appelé Belly to belly piledriver, l'attaquant applique un scoop à son adversaire, enroule la taille de l'adversaire avec les bras, puis tombe assis, en conduisant la tête de l'adversaire au sol.
+
+Tombstone piledriver
+Aussi un Belly to belly piledriver, cette prise a été popularisée par The Undertaker puis plus tard par Kane. Elle est une variante du Reverse piledriver, pour laquelle l'attaquant ne retombe pas assis, mais à genoux. Justin Credible utilise une version tournante qu'il a nommé That's Incredible!
+
+Scoop side piledriver
+L'attaquant applique un scoop à son adversaire, le place contre l'épaule et tombe sur ses genoux conduisant la tête contre le matelas.
+
+Scoop slam piledriver
+L'attaquant applique un scoop à son adversaire et tombe sur ses genoux conduisant la tête contre le matelas. Cette prise est beaucoup utilisée par Hiroyoshi Tenzan dont il l'a nommé TTD (Tenzan Tombstone Driver).
+
+Texas piledriver
+Connu aussi sous le nom de Traditional piledriver ou simplement Piledriver, c'est le piledriver classique et l'original des piledrivers. L'attaquant bloque la tête de son adversaire entre ses cuisses, en le forçant à se pencher vers l'avant, puis en enroulant le tour de la taille pour ensuite se laisser tomber assis après l'avoir soulevé du sol, la tête de l'adversaire entrant ainsi directement en contact avec le sol.
+
+Vertical suplex piledriver
+Connu aussi sous le nom de Steiner Screw Driver ou PilePlex. Très popularisée par Scott Steiner, il apprit en revenant du Japon. Variante du reverse piledriver, l'attaquant applique un front facelock et le soulève vers le haut dans une position vertical suplex, étant variante du reverse piledriver, il tourne l'adversaire de 180° vers le côté et dans une position de ventre à ventre, il tombe dans en s'asseyant conduisant la tête vers le bas.
+
+
+<#5623>
+Pilgrim
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Pilgrim qui signifie pèlerinage en anglais fait référence à :
+
+En Musique
+
+Pilgrim (1973) de Larry Gatlin
+Pilgrim (1989) de Barry McGuire
+Pilgrim (1992) de Joey Molland
+Pilgrim (1995) de Shaun Davey
+Pilgrim de Eric Clapton
+Pilgrim (1999) de Marty Stuart
+Pilgrim (2001) de Ruthie Henshall
+Pilgrim, une chanson de l'album Uriah Heep Sweet Freedom
+Une chanson de Widespread Panic
+Une chanson de l'album A Matter of Life and Death de Iron Maiden
+
+Un patronyme
+
+Billy Pilgrim
+Paul Pilgrim
+Peace Pilgrim
+Scott Pilgrim
+
+Divers
+
+Pilgrim, une race d'oie domestique
+Un prix littéraire de science fiction, le Pilgrim Award
+La Centrale nucléaire de Pilgrim
+Un jeu video PC Pilgrim : Faith as a Weapon
+
+
+<#5624>
+Pile à combustible à hydrure de bore direct
+
+Les piles à combustibles directes à hydrure de bore ou DBFC (acronyme de l'expression anglaise Direct Borohydride Fuel Cell) sont une sous-catégorie de piles à combustible alcalines dans lesquelles le combustible est une solution de borohydrure de sodium.
+
+Fonctionnement
+
+Principes généraux
+Le borohydrure de sodium peut être utilisé dans des piles à combustible expérimentales comme stockage d'hydrogène. Il est, comme combustible, moins inflammable et moins volatil que le pétrole, mais beaucoup plus corrosif. Il est relativement intéressant d'un point de vue environnemental, puisqu'il se dégrade rapidement en sels inertes lorsqu'il est rejeté dans la nature. L'hydrogène est alors généré pour une pile à combustible par une décomposition catalytique de la solution aqueuse de borohydrure, selon la réaction suivante : NaBH4 + 2 H2O ? NaBO2 + 4 H2
+
+Cependant, il est plus interessant d'oxyder ce combustible directement pour éviter la production d'hydrogène et, dans le même temps, augmenter légèrement le rendement énergétique :
+
+à la cathode : 2 O2 + 4 H2O + 8 e- ? 8 OH- E0 = 0,4 V/ESH
+à l'anode : NaBH4 + 8 OH- ? NaBO2 + 6 H2O + 8 e- E0 = -1,24 V/ESH
+
+La force électromotrice théorique est donc de 1,64 V.
+
+Les DBFC pourraient être produites de manière moins onéreuse que les piles à combustible traditionnelles, ne nécessitant pas de catalyseurs comme le platine, et produisent plus d'énergie par unité de volume que ces dernières. Cependant, les DBFC produisent de l'hydrogène à partir d'une réaction secondaire de NaBH4 avec de l'eau chauffée par la pile. Cet hydrogène peut être soit extrait directement par échappement ou dirigé vers une pile à combustible conventionnelle. De plus, la pile à combustible produit de l'eau, qui peut être recyclée pour permettre des concentrations plus élevées en NaBH4.
+
+Après avoir rejeté son hydrogène et avoir été oxydé, NaBO2 ou le borate est produit. Le borate est relativement inerte et non toxique; c'est un détergent commun et un additif pour savons, bien qu'il soit toxique pour les fourmis et constitue donc un des composants des poisons pour fourmis. Le borax produit peut être extrait vers un réservoir à déchets ou une poche souple dans la pile à combustible.
+
+Le borate peut être ré-hydrogéné en combustible borohydrure au moyen de différentes techniques, certaines d'entre elles ne nécessitant rien de plus que de l'eau et de l'électricité ou de la chaleur. Ces techniques sont toujours en développement actif.
+
+Remarques
+
+Il existe deux types de DBFC qui ne diffèrent que par la nature de leur électrolyte solide (travailler avec un électrolyte solide permet d'éviter au maximum la carbonatation de l'électrolyte). Ainsi, soit l'électrolyte est une membrane polymère échangeuse de cations, et le courant est transporté dans la membrane par des cations comme Na+; soit l'électrolyte est une membrane anionique et le courant est transporté dans celle-ci par les ions OH-.
+Les membranes actuellement les plus utilisées par les équipes de recherche sont des membranes protoniques, comme le nafion.
+
+Technologie et industrie
+
+Avantages
+Stockage
+L'utilisation d'un combustible permet un stockage plus facile que pour un combustible gazeux. Le borohydrure de sodium, d'énergie massique 9,3 kWh.kg-1 (à comparer avec les 6,3 kWh.kg-1), délivre une force électromotrice théorique de 1,64 V, supérieure à la technologie concurrente de pile à combustible à méthanol direct (1,21 V). Cependant, le temps de demie-vie du borohydrure de sodium (sous des conditions d'acidité pH = 14) est de l'ordre de 180 jours, ce qui peut s'avérer problématique pour des applications à longs termes.
+
+Fonctionnement en milieu alcalin
+Le fonctionnement en milieu alcalin (basique) offre deux avantages à la technologie DBFC :
+
+l'utilisation possible de catalyseurs non nobles (à l'inverse du palladium, par exemple), permettant ainsi de réduire les coûts.
+une meilleure cinétique de la réaction électrochimique par rapport à un milieu acide.
+
+Inconvénients
+Hydrolyse des borohydrures
+En pratique, il existe un problème anodique de compétition entre l'oxydation directe des borohydrures et leur hydrolyse, selon la réaction suivante :
+
+Cette réaction parasite, bien que défavorisée cinétiquement en milieu alcalin, est catalysée par la plupart des catalyseurs utilisés pour l'oxydation des borohydrures, diminuant ainsi la puissance et limitant l'efficacité énergétique du système.
+
+« Cross-over » dans les piles à combustibles liquides
+Le phénomène de « cross-over », qui comprend de manière habituelle deux composantes : la diffusion et l'électro-osmose, constitue l'un des problèmes majeurs des piles à combustibles à alimentation liquide. Pour la DBFC, ce phénomène est moins important théoriquement que pour la DMFC : en effet, l'électro-osmose, qui est définie comme un flux d'ions OH- ou d'ions H+ solvaté par l'eau ou par le combustible, ne se produit pas dans les piles DBFC, les hydroxydes se déplacent de la cathode vers l'anode, et qu'il n'y a donc pas de flux de combustible.
+
+Verrous technologiques
+La DBFC possède un nombre important de barrières technologiques à résoudre avant une possible commercialisation :
+
+Il n'existe pas (pour le moment) de ionomère anionique commercial en solution. Or, pour pouvoir récupérer l'électricité produite par les réactions électrochimiques, il est nécessaire d'avoir un maximum de zones catalytiques permettant en même temps la conduction ionique et électronique. Si à l'anode la solution basique de combustible permet de conduire efficacement les ions dans tout le volume de la couche active, à la cathode les ions ne sont présents qu'à l'interface intime avec la membrane ce qui réduit considérablement la surface active puisqu'il n'y a plus de notion d'électrode volumique.
+La réaction d'hydrolyse est importante et ne permet pas une utilisation maximale du combustible, l'efficacité énergétique du système en est donc pénalisée.
+Il y a apparition de borohydrures (et/ou d'autres produits) à la cathode liée à un phénomène de cross-over non maîtrisé. L'étude et le développement de catalyseurs cathodiques non perturbés en présence de borohydrures sont donc nécessaires. Un travail sur la membrane est aussi nécessaire pour limiter le cross-over.
+
+Sur le combustible
+Les borates produits sont relativement inertes et non toxiques pour les hommes (mais pas pour les fourmis). Ils sont communéments utilisés comme détergents et additifs pour les savons. Les borates peuvent être ré-hydrogénés en NaBH4 par différentes techniques, dont certaines ne nécessitent comme apport que de l'eau et de l'énergie sous forme électrique ou thermique. Ces techniques sont toujours en développement.
+
+Le borohydrure de sodium coûte actuellement environ 50 $/kg (40?/kg environ), mais en procédant au recyclage du borax et à une production de masse, les coûts descendraient probablement vers 1 $/kg (0,8 ?/kg).
+
+Références
+
+(en)The Direct Sodium Borohydride Fuel Cell for Unmanned Underwater Vehicle Application (pdf)
+(en)MERIT reseach on DBFC
+
+(en) Cet article est partiellement ou en totalité issu d'une traduction de l'article de Wikipédia en anglais intitulé « Direct borohydride fuel cell ».
+
+Portail de la chimie
+
+
+<#5625>
+Pilote
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	
+	|	
+Voir « pilote » sur le Wiktionnaire.
+	|
+
+Le mot pilote d'une manière général désigne une personne ou une entité qui conduit quelque chose :
+
+en aviation, un pilote est également appelé un aviateur ;
+en compétition automobile, un pilote automobile conduit une voiture ;
+en compétition motocycliste, pilote de motocyclette ;
+dans le domaine maritime, on trouve:
+
+le pilote (homme de métier) ;
+le pilotage maritime (métier/service);
+le bateau pilote (bateau en service de pilotage) ;
+
+en biologie, désigne divers animaux marins :
+
+Le poisson-pilote désigne les rémoras ou l'espèce Naucrates ductor ;
+La baleine pilote désigne des cétacés : les globicéphales ;
+
+en informatique :
+
+un pilote (ou driver en anglais) permet à un système d'exploitation de reconnaître un certain matériel et de l'utiliser ;
+PILOT est un langage de programmation ;
+
+Pilote était un périodique de bandes dessinées qui est paru de 1959 à 1989 ;
+dans le monde de la télévision, le pilote désigne un épisode d'une série télévisée (généralement, le premier) servant à introduire les personnages et l'univers mis en scène. Au vu des résultats d'audience du pilote, les producteurs peuvent décider de la viabilité ou de la non-viabilité de la série.
+
+Patronyme
+
+Jacques-Marie Pilote de La Barolière (1746-1827), général français.
+Marie-Lise Pilote (?-), humoriste québécoise.
+Pierre Pilote (né en 1931), joueur canadien de hockey sur glace.
+
+
+<#5626>
+Pilar Lَpez de Ayala
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une actrice ou un acteurespagnol.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pilar Lَpez de Ayala (née à Madrid, le 18 septembre1978) est une actrice espagnole de cinéma.
+
+Connue pour avoir travaillé pour des séries de télévision comme Menudo es mi padre, dirigée par Manuel Valdivia et Guillermo F. Groizard.
+
+Filmographie
+
+El niٌo invisible (1995)
+El paraيso perdido (1999)
+Aviso de bomba (2000)
+La gran vida (2000)
+Bلilame el agua (2000)
+Besos para todos (2000)
+Juana la Loca (2001)
+El puente de San Luis rey (2004)
+Obaba (2005)
+Bienvenido a casa (2006)
+Alatriste (2006)
+ہ la télévision
+
+Yo, una mujer (1996)
+Menudo es mi padre (1996)
+Al salir de clase (1997)
+
+Portail du cinéma
+
+
+<#5627>
+Pilseta
+
+Une pilseta est une subdivision de Lettonie qui représente une ville. Elle a, le plus souvent, un territoire rural rattaché. Centres de commerce et d'échange, elles sont reliés entre elles par un réseau de bus et/ou de train.
+
+La structure administrative est un peu différente du pagasts puisque plus large. Le nom est aussi différent dome alors qu'il s'agit de padome pour les novads et les pagasts.
+
+Liste des pilseta
+Il y a 77 pilsetas en Lettonie
+
+Article détaillé : Villes de Lettonie.
+Les plus grandes villes sont appelées lielpilseta.
+
+Portail des pays baltes
+
+
+<#5628>
+Pilatus PC-9
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un aéronef.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|		|	Pilatus PC-9 Turbo-Trainer	|		|
+
+	|
+	|	
+
+	|
+	|	Rôle	|	Avion d'entraînement	|
+	|	Statut	|		|
+	|	Constructeur	|	Pilatus	|
+	|	Premier vol	|		|
+	|	Mise en service	|		|
+	|	Date de retrait	|		|
+	|	Investissement	|		|
+	|	Coût unitaire	|		|
+	|	Nombre construit	|		|
+	|	ةquipage	|
+	|	2 (élève pilote et instructeur)	|
+	|	Motorisation	|
+	|	Moteur	|	Pratt & Whitney	|
+	|	Nombre	|	1	|
+	|	Type	|	Turbopropulseur	|
+	|	Puissance unitaire	|	950 ch	|
+	|	Dimensions	|
+	|	[[Image:|275px|center]]	|
+	|	Envergure	|	10,19 m	|
+	|	Longueur	|	10,14 m	|
+	|	Hauteur	|	3,26 m	|
+	|	Surface alaire	|	16,28 m²	|
+	|	Masses	|
+	|	ہ vide	|	1 725 kg	|
+	|	Carburant	|		|
+	|	Avec armement	|	kg	|
+	|	Maximale	|	3 200 kg	|
+	|	Performances	|
+	|	Vitesse maximale	|	502 km/h (Mach 0,68)	|
+	|	Vitesse de décrochage	|	km/h	|
+	|	Plafond	|	8 000 m	|
+	|	Vitesse ascensionnelle	|	1 182 m/min	|
+	|	Distance franchissable	|	1 593 km	|
+	|	Charge alaire	|	kg/m²	|
+	|	Rapport poids/poussée	|	{{{poidspoussée}}}	|
+	|	Armement	|
+	|	Interne	|	aucun	|
+	|	Externe	|	aucun	|
+	|	Avionique	|
+	|		|
+
+Le Pilatus PC-9 est un avion d'entraînement biplace suisse construit par Pilatus Aircraft. Son moteur pouvant atteindre 1150 ch est muni d'un turbocompresseur et son hélice tourne à un régime maximal de 2000 tours/min. Il a été mis en service en 1988. L'armée suisse l'utilise essentiellement pour des missions d'entraînements de la DCA avec le remorquage de cibles.
+
+
+<#5629>
+Pilier soissonnais
+
+
+Le pilier soissonnais est un type de piliergothique apparu pour la première fois dans la cathédrale de Soissons. Ses caractéristiques sont :
+
+une forme cylindrique
+une colonnette unique adossée au pilier du côté de la nef principale.
+
+
+<#5630>
+Pile à combustible à acide formique
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la chimie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+La pile à combustible à acide formique est un type de pile à combustible utilisant l'acide formique (ou acide méthanoïque, de formule HCOOH) en tant que combustible. Sa faible densité de puissance convient parfaitement aux appareils électroniques tel que le téléphone cellulaire.
+
+Différence par rapport aux autres piles à combustible
+Les piles à combustible à acide formique transforme l'acide formique et l'oxygène (O2) en dioxyde de carbone (CO2) et en eau (H2O) afin de produire de l'énergie. Après des campagnes de tests, les chercheurs ont exclu l'acide formique de la liste des combustibles pratiques, car ils ont constaté un survoltage électrochimique important lors de leurs expériences. En d'autres termes, la réaction chimique est trop imprévisible pour être efficacement utilisée.
+
+Cependant, d'autres chercheurs (en particulier le groupe de Richard Masel de l'Université de l'Illinois à Urbana-Champaign) ont récemment découvert la raison pour laquelle ce type de combustible était peu puissant. En effet, l'utilisation du platine en tant que catalyseur, une pratique courante dans la majorité des piles à combustible, en diminue le rendement. Selon eux, afin de remédier à ce problème, il suffit d'employer du palladium pour obtenir de meilleurs résultats comparables à ceux des piles à combustible à méthanol (H2COH) direct.
+
+Portail de la chimie
+Portail de l'électricité et de l'électronique
+
+
+<#5631>
+Pili-pili
+
+Pour les articles homonymes, voir Pili. 
+
+	|	
+	|	
+Cet article est une ébauche concernant la botanique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le pili-pili est un piment rouge de petite taille fort piquant. L'étymologie provient probablement du nom d'un fameux bar à Paris d'où on tiendrait également l'expression "vendredi c pili".
+
+
+<#5632>
+Pilea pumila
+
+	|	
+Pilea pumila	|
+	|		|
+	|	Pilea pumila	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Magnoliophyta	|
+	|	Classe	|	Magnoliopsida	|
+	|	Sous-classe	|	Hamamelidae	|
+	|	Ordre	|	Urticales	|
+	|	Famille	|	Urticaceae	|
+	|	Genre	|	Pilea	|
+	|	Nom binominal	|
+	|	Pilea pumila
+(L.) A.Gray, 1848	|
+	|	Classification phylogénétique	|
+	|	Clade	|	Angiospermes	|
+	|	Clade	|	Dicotylédones vraies	|
+	|	Clade	|	Rosidées	|
+	|	Clade	|	Fabidées	|
+	|	Ordre	|	Rosales	|
+	|	Famille	|	Urticaceae	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Pilea pumila est une plante annuelle d'Amérique du Nord de la famille des Urticaceae. On la rencontre dans une grande partie à l'Est des montagnes rocheuses. Les plantes qui sont généralement érigée mesurent entre 10 à 70 cm de haut, forment souvent de larges colonies, et sont assez communes à la fois en tant que plante de sous-bois ou en tant qu'adventice dans les jardins.
+
+Le feuillage opposé est simple avec les bords dentées, ovales, et avec de longs pétioles. Les feuilles et les tiges sont translucides et d'un vert brillant, jaunnissent en automne. Les inflorescences poussent à l'aisselle des feuilles en cymes, unisexué avec les deux genres présents sur la même plante, jaunes verdatres, et pollinisées par le vent. La floraison se déroule depuis le milieux de l'été au début de l'automne. Les fruits (achènes) sont avec des taches pourpres. Les racines sont fibreuses, superficielles, et adventices sur la tige dans les régions humides où quand celle-ci est en contact avec le sol.
+
+La plante est souvent confondue avec la « grande ortie » (Urtica dioica), mais peut être différenciée par l'absence de trichomes, ou poils urticants, et par l'inflorescence peu subdivisée.
+
+La plante est le plus souvent présente sur un sol riche, humide et à la fois dans des situation ensoleillée ou ombragé. Elle est parfois utilisé comme couvre-sol ou pour attirer les cervidés.
+
+Liens externes
+
+Pilea pumiladansFlora of North America(en)
+Pilea pumiladansFlora of China(en)
+Pilea pumiladansFlora of Missouri(en)
+Pilea pumila (L.) Graydanscatalogueoflife.org(en)
+Référence ITIS : Pilea pumila (L.) Gray(fr) (+version(en))
+Référence NCBITaxonomy : Pilea pumila(en)
+Référence GRIN : espècePilea pumila (L.) A. Gray(en)
+
+
+<#5633>
+Pile à combustible réversible
+
+Une pile à combustible réversible est une pile à combustible conçue pour :
+
+consommer un réactant chimique A, afin de produire de l'électricité et un composé chimique chimique B
+et également pour consommer de l'électricité et le produit chimique (devenu donc réactant) B, afin de produire A.
+
+Par exemple une pile à hydrogène consomme de l'hydrogène (H2) et de l'oxygène (O2) et produit de l'électricité et de l'eau (H2O) ; une pile à hydrogène réversible doit également pouvoir consommer de l'électricité et de l'eau afin de produire de l'hydrogène et de l'oxygène.
+
+Par définition, le procédé de n'importe quelle pile à combustible est réversible. Cependant, un appareil donné est habituellement optimisé pour fonctionner dans un sens, et n'est pas forcément fabriqué de telle manière qu'il soit réversible. Les piles à combustible fonctionnant dans ce mode inverse ne sont généralement pas très efficaces, et ne conviennent donc pas pour le stockage d'énergie à petite et moyenne échelle. La plupart des piles à combustible fonctionnant en mode réversible sont donc vendues principalement à titre expérimental ou de démonstration.
+
+Portail de la chimie
+Portail de l'électricité et de l'électronique
+
+
+<#5634>
+Pilote sur les ondes
+
+	|	Pilote sur les ondes	|
+	|	Album par Sheila	|
+	|	Sortie	|	1980	|
+	|	Enregistrement	|	Paris
+France
+Studio Family Sound
+
+	|
+	|	Genre(s)	|	Variété	|
+	|	Producteur(s)	|	Claude Carrère	|
+	|	Label	|	Carrère	|
+	|	Albums de Sheila	|
+	|	
+	|	
+
+King of the world
+(1980)	|	King of the world
+(1980)	|
+
+	|	
+	|	Little darlin
+(1981)	|	
+
+Little darlin
+(1981)	|
+
+	|
+
+Pilote sur les ondes est un album studio (et une chanson) de Sheila sorti en 1980 en LP 33 tours, et en K7 audio
+
+Les photos de la pochette de cet album sont de Aubert, Botti, Urli, Laffont.
+
+Liste des titres
+Pilote sur les ondes
+L'amour au téléphone
+Louis
+Rocky angel
+Peur du silence
+Les sommets blancs de Wolfgang
+Psychodrame
+Je ne suis qu'une fille
+Ma haute fidélité
+
+Production
+
+ةdition Album original :
+
+33 tours / LPStéréoCarrère 67.573 sorti en 1980
+Cassette audioCarrère 70.573 sortie en 1980
+
+Portail de la musique
+
+
+<#5635>
+Pila (Italie)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les communes italiennes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pila	|
+	|	Nom italien	|	Pila	|
+	|	Pays	|	
+Italie	|
+	|	
+Région
+	|	Piémont
+	|
+	|	
+Province
+	|	Verceil
+	|
+	|	code ISTAT	|	002096	|
+	|	code postal	|	13020	|
+	|	Préfixe tel	|	0163	|
+	|	Coordonnées	|	45° 46' Nord
+
+8° 5' Est/45.767, 8.083	|
+	|	Superficie	|	8 km²	|
+	|	Population	|	114 hab. - ()	|
+	|	Densité	|	14 hab./km²	|
+	|	Code cadastral	|	G666	|
+	|	Localisation	|
+	|	
+
+	|
+	|	pas de site web
+	|
+
+Pila est une commune italienne de la province de Verceil dans la région Piémont en Italie.
+
+Administration
+	|	Liste des maires (sindaci) successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	14 mai 2004	|	Germano Gilardi	|	Lista civica	|	-	|
+	|	Toutes les données ne nous sont pas encore connues.	|
+
+Hameaux
+
+Communes limitrophes
+Pettinengo, Piode, Scopello
+
+Piémont · Communes de la Province de Verceil
+
+	|	Alagna Valsesia ? Albano Vercellese ? Alice Castello ? Arborio ? Asigliano Vercellese ? Balmuccia ? Balocco ? Bianzè ? Boccioleto ? Borgo Vercelli ? Borgo d'Ale ? Borgosesia ? Breia ? Buronzo ? Campertogno ? Carcoforo ? Caresana ? Caresanablot ? Carisio ? Casanova Elvo ? Cellio ? Cervatto ? Cigliano ? Civiasco ? Collobiano ? Costanzana ? Cravagliana ? Crescentino ? Crova ? Desana ? Fobello ? Fontanetto Po ? Formigliana ? Gattinara ? Ghislarengo ? Greggio ? Guardabosone ? Lamporo ? Lenta ? Lignana ? Livorno Ferraris ? Lozzolo ? Mollia ? Moncrivello ? Motta de' Conti ? Olcenengo ? Oldenico ? Palazzolo Vercellese ? Pertengo ? Pezzana ? Pila ? Piode ? Postua ? Prarolo ? Quarona ? Quinto Vercellese ? Rassa ? Rima San Giuseppe ? Rimasco ? Rimella ? Riva Valdobbia ? Rive ? Roasio ? Ronsecco ? Rossa ? Rovasenda ? Sabbia ? Salasco ? Sali Vercellese ? Saluggia ? San Germano Vercellese ? San Giacomo Vercellese ? Santhià ? Scopa ? Scopello ? Serravalle Sesia ? Stroppiana ? Tricerro ? Trino ? Tronzano Vercellese ? Valduggia ? Varallo Sesia ? Verceil ? Villarboit ? Villata ? Vocca	|
+
+Portail de l'Italie
+
+
+<#5636>
+Pile & face
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un filmaméricain.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) selon les conventions filmographiques.	|
+
+Pile & face (Sliding Doors) est un film américain réalisé par Peter Howitt sorti en 1998.
+
+Résumé
+Après avoir été licenciée, Helen rentre chez elle. Mais lorsque les portes du métro se referment devant elle et qu'elle reste sur le quai, nous suivons ce qui aurait pu se passer si elle n'avait pas raté le métro ainsi que ce qui se passe pour celle qui a pu rentrer chez elle.
+
+Fiche technique
+
+Titre : Pile & face
+Titre au Canada : Les Portes du destin
+Titre original : Sliding doors
+Réalisation : Peter Howitt
+Production : Philippa Braithwaite
+Producteur exécutif : Guy East
+Scénario : Peter Howitt
+Directeur de la photographie : Remi Adefarasin
+Montage : John Smith
+Musique : David Hirschfelder
+Chef décorateur : Maria Djurkovic
+Durée : 99 minutes (1 h 39)
+
+Distribution
+
+Gwyneth Paltrow : Helen Quilley
+John Hannah : James Hammerton
+John Lynch : Gerry
+Jeanne Tripplehorn : Lydia
+Zara Turner : Anna
+Douglas McFerran : Russell
+
+Autour du film
+
+Ne pas confondre avec Pile ou face de Robert Enrico avec Philippe Noiret et Michel Serrault en 1980.
+
+
+<#5637>
+Pilules bleues
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la bande dessinée.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pilules bleues est une bande dessinéeautobiographique en noir et blanc.
+
+Scénario et dessins : Frederik Peeters
+
+Synopsis
+Cette bande dessinée traite des relations amoureuses de l'auteur avec une de ses anciennes connaissances du lycée, Cati, qu'il rencontre à nouveau quelques années plus tard, et qui est devenue séropositive. Il y raconte la manière dont le couple gère la maladie, et fait part de ses doutes et questionnements : la pitié et la compassion qu'il oppose à l'amour ; la peur de la mort ; la paternité.
+
+Analyse
+Le titre Pilules bleues est une référence à la trithérapie.
+
+Prix Rodolphe Tِpffer pour la jeune bande dessinée genevoise, en 2001
+
+Publication
+
+ةditeurs
+
+Atrabile (2001) ISBN 2-9700165-6-7
+
+Portail de la bande dessinée
+
+
+<#5638>
+Pilote (journal)
+
+	|	 Pilote	|
+	|	{{{nomorigine}}}	|
+	|		|
+	|		|
+	|	Pays	|	
+France	|
+	|	Langue(s)	|	Français	|
+	|	Périodicité	|	Hebdomadaire puis Mensuelle	|
+	|	Genre	|	bande dessinée	|
+	|	Date de fondation	|	29 octobre1938	|
+	|	Date du dernier numéro	|	octobre1989	|
+	|	Ville d'édition	|	Paris	|
+	|		|
+	|	ISSN	|		|
+	|		|
+
+Pilote (Mâtin, quel journal !) est un magazine français hebdomadaire de bande dessinée créé le 29 octobre1959 et qui parut pour la dernière fois en mensuel en octobre1989.
+
+Présentation
+Outre la bande dessinée, Pilote publiait également des nouvelles, romans, reportages et blagues en tous genres.
+
+Il a fortement influencé le monde de l'édition de la bande dessinée en Europe, aux ةtats-Unis et au Japon.
+
+Depuis l'été 2003, de nouveaux numéros ont été publiés dans une périodicité « irrégulomadaire », ne paraissant que « quand les pages sont prêtes ». Son slogan devient alors « Pilote, le journal qui s'amuse à revenir ». Ainsi, en avril 2008, un nouveau numéro dans lequel « 60 auteurs réinventent mai 68 » sort en kiosque, avec comme slogan « Pilote, le journal qui s'amuse à lancer un pavé ».
+
+ہ sa création, le directeur de la publication était Jean Hébrard, le rédacteur en chef François Clauteaux, remplacé par Raymond Joly après six numéros, et René Goscinny alors secrétaire de rédaction. La périodicité au départ était hebdomadaire.
+
+Chronologie éditoriale
+
+1960 : Georges Dargaud rachète le journal un peu mal en point (pour le franc symbolique). Le rédacteur en chef est Denis Lefèvre-Toussaint.
+1962 : Nouveau rédacteur en chef, Marcel Bisraux.
+Fin 1963, Pilote va mal, René Goscinny et Jean-Michel Charlier sont nommés rédacteur en chef et chargés de relancer le journal.
+1974 : René Goscinny lâche les rênes, Guy Vidal devient rédacteur en chef. En juin, Pilote devient mensuel.
+1986 : Fin de Pilote mensuel, fusion avec Charlie Mensuel, le journal prend donc le nom Pilote & Charlie.
+1988 : Reprise du nom de Pilote.
+octobre 1989 : Fin de parution de Pilote.
+19 juin2003 : parution d'un numéro spécial.
+septembre2004 : parution d'un numéro « spécial Noël 2004 ».
+Avril2008 : parution d'un numéro « spécial Mai 1968 ».
+
+Séries célèbres
+De nombreuses séries de bande dessinée franco-belge devenues célèbres ont commencé leur carrière dans Pilote. On peut citer par ordre chronologique de première apparition :
+
+1959 :
+
+Astérix le Gaulois (de René Goscinny et Albert Uderzo)
+Tanguy et Laverdure (de Jean-Michel Charlier et Albert Uderzo)
+Le démon des Caraïbes, futur Barbe-Rouge (de Jean-Michel Charlier et Victor Hubinon)
+Bob Morane (de Henri Vernes), d'abord en roman, puis en BD à partir de 1965 avec Gérald Forton, puis William Vance à partir de 1968.
+
+1962 :
+
+Valentin le vagabond dessiné par Tabary avec la participation de Fred et de Goscinny.
+
+1963 :
+
+Achille Talon (de Greg)
+le Grand Duduche (de Cabu)
+Fort Navajo (ancêtre de Lieutenant Blueberry, de Gir, alias Jean Giraud et Jean-Michel Charlier)
+Norbert et Kari par Christian Godard
+
+1965 :
+
+Philémon (de Fred)
+Les Dingodossiers (de René Goscinny et Marcel Gotlib)
+
+1966 :
+
+Lieutenant Blueberry
+
+1967 :
+
+Lucky Luke (de René Goscinny et Morris) qui était publié auparavant dans Spirou
+Valérian (de Jean-Claude Mézières et Pierre Christin)
+
+1968 :
+
+Iznogoud, à l'époque : Calife Haroun El Poussah (de René Goscinny et Tabary)
+Rubrique à brac (de Marcel Gotlib)
+
+1969 :
+
+Cellulite (de Claire Bretécher)
+
+1970 :
+
+Lone Sloane (de Philippe Druillet)
+
+1971 :
+
+Le Concombre Masqué (de Mandryka)
+
+1972 :
+
+Brindavoine (de Jacques Tardi)
+
+1973 :
+
+Le Génie des alpages (de F'murr)
+
+1975 :
+
+Léonard (de Turk et De Groot)
+
+1978 :
+
+Les Phalanges de l'Ordre noir (de Pierre Christin et Enki Bilal qui collaborait à Pilote depuis 1972)
+Le Vagabond des Limbes (de Julio Ribera et Christian Godard)
+
+1981 :
+
+Cargal - Légendes du chevalier Cargal de Gil Formosa et Pecqueur
+
+
+<#5639>
+Pilُes (Paraيba)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville du Brésil.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pour les articles homonymes, voir Pilُes. 
+6° 54' 07" S35° 37' 22" W/-6.901944444, -35.622777778
+
+	|	Pilُes	|
+	|		|
+	|	
+	|	
+	|	
+Drapeau de Pilُes	|
+
+	|
+	|		|
+	|	Administration	|
+	|	Pays
+Région
+ةtat	|	
+Brésil
+Nord-Est
+Paraيba
+	|
+	|	Maire	|	Iremar Flôr de Souza
+jusqu'en 2008	|
+	|	
+Date de fondation	|	
+20 août1953	|
+	|	[ Site officiel de Pilُes]	|
+	|	Démographie	|
+	|	Population	|	6 936 hab. (IBGE 04/2007)	|
+	|	Aire urbaine	|	hab.	|
+	|	Densité	|	120,0 hab./km²	|
+	|	Gentilé	|	pilonense	|
+	|	Langue(s)	|	portugais	|
+	|	Géographie	|
+	|	Fuseau horaire	|	UTC-3	|
+	|	Indicatif téléphonique	|		|
+	|	Code postal	|		|
+	|	Superficie	|	64 km²	|
+	|	Altitude	|	m.	|
+	|	Latitude
+Longitude	|	6° 54' 07" Sud
+
+35° 37' 22" Ouest/-6.901944444, -35.622777778	|
+	|	Localisation de Pilُes	|
+	|		|
+	|	Centres d'intérêts	|
+	|		|
+
+Pilُes est une ville brésilienne de l'ouest de l'ةtat de la Paraيba.
+
+Sa population était estimée à 6 936 habitants en 2007. La municipalité s'étend sur 64 km².
+
+Portail du Brésil
+
+
+<#5640>
+Pilier d'Eliseg
+
+Le Pilier d'Eliseg (Croes Elisedd en gallois, Elise's Pillar ou Pillar of Eliseg en anglais) est un monument qui se dresse près de l'abbaye de Valle Crucis, dans le Denbighshire (Pays de Galles).
+
+Le Pilier d'Eliseg fut érigé sous les ordres de Cyngen ap Cadell, roi de l'ancien royaume gallois de Powys, en l'honneur de son bisaïeul Elisedd ap Gwylog. On pense que l'inscription Eliseg que l'on peut trouver sur la colonne est une erreur du sculpteur.
+
+Les inscriptions en latin qui figurent sur le pilier font mention de plusieurs personnalités citées dans l'Historia Brittonum. En outre, elles font également référence à des faits qui n'y figurent pas. Une traduction de ce texte, l'un des plus longs de l'époque précédente les invasions vikings au Pays de Galles est la suivante :
+Concenn son of Catell, Catell son of Brochmail, Brochmail son of Eliseg, Eliseg son of Guoillauc.
+And that Concenn, great-grandson of Eliseg, erected this stone for his great-grandfather Eliseg.
+The same Eliseg, who joined together the inheritance of Powys... out of the power of the Angles with his sword and with fire.
+Whosoever repeats the writing, let him give a blessing on the soul of Eliseg.
+This is that Concenn who captured with his hand eleven hundred acres [4.5 km²] which used to belong to his kingdom of Powys...[ici la colonne est cassée]Britu son of Vortigern, whom Germanus blessed, and whom Sevira bore to him, daughter of Maximus the king, who killed the king of the Romans.
+Conmarch painted this writing at the request of king Concenn.
+The blessing of the Lord be upon Concenn and upon his entire household, and upon the entire region of Powys until the Day of Judgement.
+Soit en français :
+Concenn fils de Catell, Catell fils de Brochmail, Brochmail fils d'Eliseg, Eliseg fils de Guoillauc
+Et ce Concenn, arrière-petit-fils d'Eliseg érigea cette stèle pour son bisaïeul Eliseg
+Le même Eliseg qui rassembla l'héritage de Powys... hors du pouvoir des Angles de son épée et par le feu
+Puisse quiconque répétant cet écrit bénir l'âme d'Eliseg
+Le Concenn qui captura de ses mains onze cents acres (4,5 km²) qui avaient appartenu à son royaume de Powys[ici la colonne est cassée]Britu, fils de Vortigern, béni par Germanus et enfanté par Servira, fille du roi Maximus qui tua le roi des Romains
+Conmarch grava cet écrit sur la demande du roi Concenn
+Que la bénédiction du Seigneur soit sur Concenn et toute sa maison et toute la région du Powys jusqu'au Jour du Jugement Dernier.
+Le pilier avait été abattu par les "têtes rondes" (partisans du Parlement) lors de la guerre civile anglaise (1642 à 1646) et la tombe qui était dessous fut profanée. En 1696, Edward Lhuyd examina le pilier et copia l'inscription. La partie inférieure a disparu, mais la partie supérieure a été érigée à nouveau en 1779. De nos jours, l'inscription qui y figurait est devenue presque illisible.
+
+Portail de l'archéologie
+
+
+<#5641>
+Pilau
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la géographie de la Tunisie et une île ou un archipel.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pilau	|
+	|		|
+	|	Pays	|	Tunisie	|
+	|	Province	|	Bizerte	|
+	|	Localisation	|	Mer Méditerranée	|
+	|	Latitude	|	37°12' N	|
+	|	Longitude	|	10°14' E	|
+	|	Point culminant	|	116 m	|
+	|	Population	|	خle inhabitée	|
+
+Pilau[1] (????) est une île rocheuse située au nord de la Tunisie.
+
+Elle se trouve au nord-ouest du cap Sidi Ali El Mekki et à un mile au nord de la côte de Raf Raf. Culminant à 116 mètres, elle présente un sommet conique.
+
+Pilau vient du malaispulau qui signifie « île ». Les marins de la région nomment cette île « rocher du Pilau » traduit de l'arabeHaajret El Pilau. Cette île est aussi dénommée K'minnaria[2] qui signifie « sommet en feu » en arabe.
+
+Références
+
+? On trouve également les orthographes Pilao ou Pilaw sur certaines cartes postales.
+?(fr)Plan de la région orientale du gouvernorat de Bizerte
+
+
+<#5642>
+Pilar (partido)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'Argentine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Pilar
+	|
+	|	
+	|		|
+
+	|
+	|	Nom officiel	|	Pilar	|
+	|	Capitale	|	Pilar	|
+	|	Pays
+Province	|	
+Argentine
+Buenos Aires	|
+	|	Fondée
+Fondateur	|	-
+-	|
+	|	Population:	|	
+	|
+	|	 - Total	|	232 463 hab.	|
+	|	 - Densité	|	654,83 hab./km²	|
+	|	Gentilé	|	pilarense	|
+	|	Code téléphone	|	02322	|
+	|	Code postal	|	B1629	|
+	|	Localisation	|	
+	|
+	|	 - Coordonnées	|	34°28'S58°55'W/-34.467, -58.917	|
+	|	Superficie	|	352 km²	|
+	|	Distance	|	
+	|
+	|	 - de Buenos Aires
+	|	45 km	|
+	|	Maire
+	|	Humberto Zْccaro	|
+	|	Site Internet
+	|	http://www.pilar.gov.ar	|
+	|	IFAM Statistics
+	|	IFAM	|
+
+Pilar est un partido de la province de Buenos Aires dont la capitale est Pilar.
+
+
+<#5643>
+Piltdown
+
+Piltdown est un village de Grande-Bretagne, située en Angleterre dans le Sussex. Il donna son nom à l'Homme de Piltdown, dont les ossements y furent découverts en 1908.
+
+
+<#5644>
+Pile au lithium
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la chimie et l'énergie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Les piles au lithium sont des piles, dont le couple électrochimique est basé sur le lithium. Leur anode en lithium leur confère une tension double des piles salines et des piles alcalines (3 V contre 1,5 V). Elles sont utilisées dans les appareils électroniques portables de consommation courante et très répandues dans l'industrie.
+
+Histoire
+Cette section est vide, pas assez détaillée ou incomplète. Votre aide est la bienvenue !
+
+Description
+Le terme « pile au lithium » désigne en fait une famille de différents systèmes chimiques, comprenant notamment de nombreux types de cathodes et d'électrolytes.
+
+Principe
+ہ l'anode, le lithium (Li) s'oxyde en ions lithium (Li+) :
+Li => Li+ + e-
+ہ la cathode, c'est une réduction faisant intervenir le chlorure de thionyle (SOCl2) qui se produit :
+2 SOCl2 + 4 e- => 4 Cl- + SO2 + S
+Les électrons libérés d'un côté et consommés de l'autre circulent pour donner un courant électrique.
+
+Soit une équation globale :
+2 SOCl2 + 4 Li => 4 Li+ + 4 Cl- + SO2 + S
+La pile s'arrête donc de fonctionner lorsque le lithium est entièrement consommé, ou que le réactif de cathode (ici, chlorure de thionyle) est entièrement consommé.
+
+ہ noter que comme toutes les piles, les piles au lithium ne sont pas rechargeables, seuls les accumulateurs électriques (accu) le sont.
+
+Avantages et inconvénients
+Ces piles sont bien adaptées aux applications nécessitant un courant extrêmement faible où une longue durée de vie est indispensable, tels que les systèmes d'alarme sans fil par exemple.
+
+Applications
+
+Industrie
+Les piles au chlorure de lithium-thionyle ont une densité énergétique importante. Dans celles-ci, un mélange liquide de chlorure de thionyle et de tétrachloroaluminate de lithium jouent respectivement les rôles de la cathode et de l'électrolyte. Un matériel poreux en carbone sert d'électrode positive, de cathode qui reçoit les électrons du circuit extérieur. Cependant, les piles au chlorure de lithium-thionyle ne sont généralement pas vendues aux consommateurs, par contre elles sont utilisées dans les milieux commerciaux et industriels, ou installées dans des appareils pour lesquels le changement de piles n'est pas effectué par le consommateur lui-même.
+
+Domestique
+Le type de cellule de piles au lithium le plus couramment utilisé pour la vente aux particuliers utilise du lithium métallique comme anode et, du dioxyde de manganèse comme cathode, avec un sel de lithium dissous dans un solvant organique.
+
+Sécurité et législation
+Cette section est vide, pas assez détaillée ou incomplète. Votre aide est la bienvenue !
+
+ہ voir
+
+Accumulateur électrique
+Batterie d'accumulateurs
+Batterie lithium
+Effet mémoire
+
+Portail de la chimie
+Portail de l'électricité et de l'électronique
+
+
+<#5645>
+Pile ou face (film)
+
+Pile ou face est un film policier français de Robert Enrico sorti en 1980
+
+Synopsis
+ہ Bordeaux, l'inspecteur Baroni enquête sur la mort d'une femme, Mme Morlaix, tombée par la fenêtre de son appartement après une dispute avec son mari. Persuadé de la culpabilité de M. Morlaix, il s'acharne à vouloir le faire avouer bien que l'affaire soit rapidement classée et qu'une affaire de trafic de drogue secoue la ville.
+
+Citation
+Philippe Noiret & Dorothée :
+
+- On devient pas flic. On finit flic. (...) - C'est pas déshonorant. - اa devrait pas l'être non. Au début, j'étais même assez fier. Seulement, petit à petit, la politique nous a mis le grappin dessus, et, du Service de l'Etat, on est passé au service du Pouvoir - et ça - mon petit c'est pas la même chose. Remarquez c'est pareil dans tous les pays du monde, mais c'est pas ça qui me console. Alors à force de faire des sales trucs, on est devenu des sales flics.
+
+Philippe Noiret & Guilhaine Dubos :
+
+- Aaah ! Le pâté en croute du dimanche ! Tu t'es trompée de jour, on est pas dimanche ! Ta mère elle... - Oh ! Je ne le fais pas aussi bien qu'elle... Il doit y avoir un secret... - Un secret... Comme le hachis parmentier ou le boeuf en gelé. - Avoue qu'elle te manque... - Aux heures des repas.
+
+Fiche technique
+
+Titre : Pile ou face
+Réalisateur : Robert Enrico
+Scénario : Michel Audiard et Gary Graver (sous le pseudonyme de Robert McCallum) d'après le roman Suivez le veuf d'Alfred Harris
+Production : Georges Cravenne
+Musique : Lino Léonardi
+Image : Didier Tarot
+Montage : Patricia Nény
+Date de sortie : 30 août1980
+
+Distribution
+
+Philippe Noiret : Inspecteur Louis Baroni
+Michel Serrault : Edouard Morlaix
+Dorothée : Laurence Bertil
+Bernard Le Coq : Philippe, le gendre de Baroni
+André Falcon : Lampertuis
+Pierre Arditi : Pierre Larrieu
+Jean Desailly : Bourgon-Massenet
+Gaëlle Legrand : Zepp
+Fred Personne : L'ami de Baroni
+Antoinette Moya : Mme Morlaix
+Guilhaine Dubos : La fille de Baroni
+Jacqueline Doyen
+Jacques Maury : L'avocat
+Daniel Darion
+Jean-Pierre Helbert
+
+Autour du film
+
+Le titre du film est inspiré du nom du chien de Georges Cravenne dont c'était la première production. Il avait découvert l'année précédente le roman Suivez le veuf que lui avait fait lire Bertrand Javal, producteur exécutif du film.
+Tout au long du film, Morlaix (Michel Serrault) fait longuement mention de l'île de Talua où il rêve d'aller vivre. C'est sur cette petite île du Pacifique que se déroulait en 1961 l'intrigue du film Le Diable à quatre heures de Mervyn LeRoy avec notamment Spencer Tracy et Frank Sinatra parmi les rôles principaux.
+
+
+<#5646>
+Pilotage
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Le pilotage est la tâche du pilote, que celui-ci soit aux commandes d'un avion, d'une voiture de course, d'une motocyclette ou d'un bateau.
+
+Le pilotage maritime consiste à guider les grands navires près des côtes et à l'approche des ports.
+
+Le pilotage d'un projet. Pour plus d'informations, voir Comité de pilotage ou programme (gestion de projet).
+
+
+<#5647>
+Pilُes
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Pilُes peut désigner :
+
+Brésil
+
+Pilُes, municipalité située dans l'ةtat de la Paraيba
+
+Pilُes, municipalité située dans l'ةtat du Rio Grande do Norte
+
+le rio Pilُes, cours d'eau de l'ةtat de Santa Catarina
+
+le rio Pilُes, cours d'eau de l'ةtat de Sمo Paulo
+
+
+<#5648>
+Pila
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Voir aussi la page d'homonymie Pyla.
+
+Pila, une commune italienne de la province de Verceil ;
+Pi?a, une ville de Pologne, dans la Voïvodie de Grande-Pologne.
+
+
+<#5649>
+Pilocarpine
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la médecine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+La pilocarpine est un alcaloïde extrait des feuilles de jaborandi (Pilocarpus pennatifolius Lemaire ou Pilocarpus microphyllus), de la famille des rutacées.
+
+Utilisations
+la pilocarpine est un alcaloïde [parasympathomimétique] à action directe, entraînant surtout des effets muscariniques, entre autres une augmentation de la sécrétion des glandes salivaires.
+
+Elle est utilisée comme parasympathicomimétique, provoquant par exemple un myosis quand elle est utilisée par voie oculaire (vasodilatation).
+
+On peut l'utiliser comme traitement oral de la xérostomieiatrogène, suite à de la radiothérapie dans la région du cou.
+
+Myotique par constriction du sphincter irien.
+
+Caractèristiques
+La pilocarpine a l'apparence d'aiguilles (ou lamelles) incolores, elle est inodore mais possède une saveur amère.
+
+Cette molécule est très soluble dans l'eau et l'alcool, insoluble dans l'éther et soluble dans seulement 555 p. de chloroforme.
+
+Médicament sur la liste 1.
+
+Se conserve à l'abri de la lumière et de l'humidité.
+
+ةtude clinique
+L'efficacité et la sécurité de la pilocarpine ont été démontrées par une étude randomisée en double aveugle, chez 207 patients souffrant de xérostomie causée par la radiothérapie.
+
+A la dose de 15 mg par jour, en 3 prises, la pilocarpine réduit ou supprime la sécheresse de la bouche et la difficulté de parler.
+
+Notes et références de l'article
+
+
+<#5650>
+Pilotage (moto)
+
+Le pilotage d'un engin à deux roues est régi par des règles physiques précises importantes à connaître pour la sécurité, la performance et le plaisir de conduite.
+
+Généralités
+
+Le braquage inversé ou contre braquage
+Aux vitesses inférieures à 20 km/h, la stabilité est facilement obtenue par un ajustement constant effectué par le pilote grâce au guidon, de la même façon qu'avec une bicyclette. La direction de la moto est alors contrôlée par le guidon et la position du motard ; tourner le guidon à droite (pousser sa branche gauche) conduira la moto vers la droite, et inversement.
+
+Aux vitesses supérieures à 20 km/h, la position du motard a peu d'importance dans la direction prise, le braquage inverse constitue la seule méthode efficace de changement de direction d'évitement d'urgence d'obstacles. Ce phénomène étant assez contraire à ce que pense le débutant motocycliste, les moto-écoles indiquent simplement qu'il faut "pousser le guidon du côté où l'on veut tourner" pour donner un semblant de logique à la man?uvre.
+
+Le braquage inversé, mal proprement désigné comme un contre-braquage, est l'exploitation d'une loi physique. Lorsque la moto va plus vite, la stabilité est assurée par l'action conjuguée de la chasse (la géométrie de direction) et l'effet gyroscopique des roues qui s'oppose à l'inclinaison de la moto. Bien que de nombreuses moto-écoles expliquent que le phénomène est du à la précession gyroscopique, l'explication du braquage inverse est la suivante: à grande vitesse, la moto possède une énergie cinétique (). Lorsque l'on tourne le guidon d'un coté (par exemple à gauche), le point de contact roue-sol se déplace dans la direction correspondante (à gauche). Cependant, à cause de l'importante inertie de l'engin, le centre de gravité continue à suivre une trajectoire rectiligne. De ce fait, la moto penche dans la direction opposée au braquage (ie: à droite). Une fois penchée, elle tourne naturellement dans cette direction, à l'inverse donc de l'impulsion donnée au guidon; c'est l'auto-braquage.
+
+La précession gyroscopique de la roue contribue à la contre-direction et au guidage. L'inclinaison des roues par rapport au sol, nommée carrossage, entraîne le guidage. Plus les roues sont inclinées, plus la moto tourne (c'est ainsi que nous faisons tourner une brouette à une roue, en l'inclinant). La roue réagit à la force qui lui est appliquée en tournant à 90 degrés de celle-ci. D'autres facteurs importants influent la direction de la moto, comme la géométrie du cadre, notamment l'inclinaison de la fourche par rapport à l'axe de la roue directrice (la roue avant). La preuve est le fait que l'on puisse garder la stabilité sans l'aide des mains, et, dans une certaine mesure, se diriger, ainsi que le fait que l'on puisse garder la stabilité et se diriger sur une seule roue (un stoppie pour la roue arrière levée et un wheeling pour la roue avant levée).
+
+Pilotage sur le domaine routier
+
+La position de conduite
+La prise de virage est facilitée par une bonne position prenant en compte ces points:
+
+le pilote est assis contre le réservoir (le centre de gravité est vers l'avant) ;
+les genoux serrent le réservoir (meilleure stabilité) ;
+les pieds ne sont pas en canard et leur partie large est posée sur leur repose-pied;
+les bras sont dans l'alignement poignets-coudes-épaules, c'est-à-dire que les coudes ne sont pas écartés;
+le dos n'est pas droit mais légèrement étiré en arrière pour délester les poignets et rapprocher encore le centre de gravité vers l'avant;
+le regard se porte sur le point de corde voire sur la sortie de courbe; un virage aveugle ou une conduite de nuit empêche ce regard et par conséquent l'anticipation du pilotage.
+
+Contrairement au pilotage sur piste, le déhanché n'apporte pas plus de performance; il en résulte une prise de risque supplémentaire. En effet, cette position verouille la direction de la moto et oblige à prendre la corde du virage avant d'avoir une visibilité suffisante pour passer en toute sécurité; aucun mouvement d'urgence n'est réalisable proprement dans ces conditions. Au contraire, le pilote reste souple et plus droit que la moto ce qui permet de faire rapidement contre-poids en cas de danger immédiat. De plus, la corde du virage est à prendre uniquement lorsque la visibilité le permet, c'est-à-dire plus tard qu'en déhanché. Le fait d'être souple tout en maintenant la moto par les genoux permet une action rapide et une sortie de virage précoce.
+
+Les trajectoires
+La force centrifuge dûe à l'inertie du véhicule impose naturellement une trajectoire rectiligne et une force vers l'extérieur du virage; elle dépend de la masse, de la vitesse et du rayon du virage (). Seule la force d'adhérence permet au véhicule de suivre une trajectoire circulaire.
+
+D'une manière naturelle, le réflexe est de regarder quelques mètres devant sa roue avant à la manière d'un enfant sur son vélo. Il est fondamental de réussir à dépasser cette mauvaise habitude en regardant constamment le plus loin possible, là où la moto doit passer. Il faut surmonter ce réflexe, c'est la clé de l'anticipation, de l'équilibre et finalement du plaisir à moto; cela induit un décalage entre le regard, qui anticipe, et l'action en cours pour laquelle tout est déjà décidé. Cette façon d'agir apporte une facilité et une sécurité non négligeable.
+
+Ensuite, pour des raison de sécurité, il faut se contraindre à de pas mordre sur la voie servant au sens de circulation opposé, non seulement les roues mais aussi le corps; souvent le haut du corps se retrouve dans l'autre voie lorsque la moto est inclinée lors d'un passage en courbe. Un bon moyen est d'imaginer et de se convaincre que l'autre voie n'existe pas; tout doit tenir dans la voie utilisable.
+
+Les quatre étapes
+
+Les trajectoires sur route ouverte sont différentes de celles prises sur un circuit pour la simple et bonne raison que prendre la corde le plus tôt possible n'est pas compatible avec le besoin de visibilité sur le réseau routier. Elles peuvent être isolées en quatre étapes:
+
+La position d'entrée: encore en ligne droite, un virage se profile au loin. L'analyse du virage permet d'adapter l'allure de la moto. L'anticipation est maximale surtout si le freinage consiste uniquement à n'utiliser que le frein moteur;
+La découverte du virage: le virage arrive aussi il faut se placer vers le milieu de la chaussée pour un virage à droite ou à droite de la chaussée pour un virage à gauche en attendant d'avoir une visibilité totale sur l'ensemble du virage; le regard se porte le plus loin possible à la recherche d'obstacles éventuels;
+La sollicitation: dès que la sortie du virage est visible, c'est le moment d'agir en contre-braquant afin de rejoindre le point de corde du virage. Il faut veiller à ne pas couper la voie;
+La reprise de stabilité: si la voie est libre, une ré-accélération contrôlée permet de redresser la moto pour sortir du virage.
+
+Les zones de danger
+
+Sur le réseau routier, il est important de prendre en considération l'existence de zones dangereuses telles que décrites sur le schéma ci-contre. Certains virages sont dits aveugles car ils ne permettent pas d'avoir une visibilité suffisante pour voir leur fin, c'est le cas en territoire montagneux ou lorsque des constructions masquent la vision; une mauvaise évaluation du virage ou une chaussée d'adhérence variable risque de surprendre le pilote. En cas de virage à droite, il faut veiller à ne pas heurter des obstacles latéraux (poteaux, glissières, panneaux) à cause de l'inclinaison. Les virages sont à prendre de préférence à allure réduite pour ensuite sortir facilement avec l'accélération. Il est vital de savoir quelle place occupe la moto sur la route lorsqu'elle est inclinée ; cet oubli oblige le pilote à se redresser et à accentuer le contre-braquage pour terminer le virage lorsqu'un véhicule se présente en sens inverse ; le même problème surgit lorsque les autres véhicules coupent le virage.
+
+Utilisation du freinage
+
+Le freinage actif
+Le freinage est l'une des man?uvres essentielles en moto. Il entraine une décélération produisant une force horizontale orientée de l'arrière vers l'avant suivant le principe d'inertie; le moment de cette force par rapport à l'axe des roues entraine une action verticale descendante sur l'avant traduit par l'enfoncement de la fourche, et une action verticale ascendante soulageant la roue arrière. Ainsi le poids se répartit entre l'avant et l'arrière au prorata des distances des roues par rapport au centre de gravité de l'ensemble moto et pilote. La direction du poids est verticale et la direction de l'effort d'inertie est horizontale, aussi la répartition du poids se superpose aux effets d'inertie de la décélération. Cette action est vulgarisé de façon incorrecte en terme de transfert de masse.
+
+Les suspension de véhicules avant permettent, en s'enfonçant, d'absorber une partie de ce poids supplémentaire. Un freinage avant trop appuyé dans ces conditions peut entrainer le décollage de la roue arrière (lorsque les suspensions avant arrivent en butée) et/ou le blocage avec dérapage de la roue avant (c'est la chute presque assurée dans ce dernier cas).
+
+Le frein avant est le plus efficace et peut assurer 100 % du freinage. Cependant, le frein arrière permet d'assoir et de stabiliser l'engin, il permet également un freinage tardif en courbe. Le pilote doit appliquer le maximum de freinage sur la roue avant en serrant progressivement la commande afin d'obtenir le transfert de masse, donc d'adhérence, sur la roue avant, tout en utilisant le frein arrière pour équilibrer l'engin. La roue arrière, qui est encore chargée au début de freinage, peut être freinée moyennement à non freinée lorsque quasiment toute la masse est passée sur la roue avant. Le dosage frein avant / arrière dépend des caractéristiques de la moto et des pneus, généralement la proportion 70 % à l'avant et 30 % à l'arrière est recommandée, le freinage arrière permettant de stabiliser la moto. Une pression trop importante sur le frein arrière peut entrainer le blocage de la roue arrière, qui est cependant moins critique que celui de la roue avant. Il suffit au pilote de relâcher un peu la pression sur le frein arrière pour rétablir les bonnes conditions et terminer son freinage correctement.
+
+Lors du freinage, le pilote doit tenir ses genoux serrés contre le réservoir, le dos le plus droit possible, le regard qui porte haut, droit devant et les bras sont verrouillés. La moto est si possible à la verticale, car le freinage de la roue avant a pour effet de redresser la moto. Lors du passage des épreuves du permis de conduire, les candidats reçoivent systématiquement une instruction sur le freinage d'urgence. Lors du passage de la partie technique du permis de conduire, le candidat peut être amené à effectuer un freinage d'urgence devant l'inspecteur du permis de conduire.
+
+ہ l'instar des automobiles, certaines motos, principalement de grosse cylindrée sont maintenant équipées d'un anti-blocage des freins dit ABS permettant de limiter les risques de blocage de roue en cas de freinage appuyé. Il existe également une gestion automatisée du dosage de puissance entre les roues avant et arrière, tel le dual-CBS de la marque Honda ou le freinage intégral BMW.
+
+Le frein-moteur
+Chaque motard, en fonction de son expérience, de sa machine, des conditions atmosphériques, a pour un virage donné une vitesse de passage idéale à laquelle il se sentira en sécurité. Une bonne manière « d'appréhender » ce virage, de le « lire », de connaître la vitesse de passage sécurisante, consiste à rétrograder suffisamment longtemps à l'avance. Cela permet :
+
+d'avoir le temps d'observer l'approche du virage, d'intégrer tous les paramètres, d'anticiper;
+d'ajuster la vitesse de manière non brutale;
+d'être plutôt en sur-régime (préférable pour, d'un filet de gaz, avoir une vitesse constante dans le virage);
+de ne pas avoir à trop se concentrer sur le freinage en l'ayant anticipé. تtre debout sur les freins à l'entrée du virage provoque une perte de concentration pour le passage du virage.
+
+Si le pilote ressent une impression de vitesse excessive, il suffit d'abandonner le filet de gaz au profit du frein moteur qui, conjugué à l'augmentation des frottements dans le virage, fera tomber très vite la vitesse qui sera sécurisante très peu de temps après le début du virage. Généralement, on s'apercevra alors qu'effectivement, on aurait pu passer à la vitesse d'entrée.
+
+L'anticipation
+Plus que tout autre caractéristique du pilotage, l'anticipation est la clé d'un bon pilotage. Sur circuit, cela se résume à un bon enchaînement d'accélérations, de freinages et de prises d'angle. Toutefois, la conduite sur le réseau routier oblige à prendre en compte d'autres impératifs :
+
+l'insertion dans le trafic : l'avantage d'une forte accélération n'empêche pas d'être surpris par un freinage brutal des véhicules s'insérant devant la moto, ou par un conducteur désireux de passer à tout prix avant la moto dans le cas d'une remontée de file ;
+les dépassements : même rapides, ils doivent être jugés correctement. Les véhicules à doubler peuvent ne pas laisser assez de place pour un rabattement d'urgence. Un véhicule peut décider subitement de couper l'axe pour tourner à gauche, ce qui arrive souvent en zone urbaine et en période estivale. Certaines peintures au sol sont glissantes et, couplé à une épaisseur, déstabilisante, devenant avec une météo humide un risque d'accident ;
+l'échappatoire : il faut en permanence prévoir un évitement d'urgence et par conséquence la place qu'il occupera (ouverture de portières, nid de poule). La circulation sur la voie rapide de gauche implique de s'écarter au mieux des véhicules de la voie adjacente.
+être vu : Le motard roule toujours avec les feux de croisement allumés, obligatoire même de jour dans la majorité des pays, afin d'être plus facilement visible au milieu du trafic routier. Le suivi d'un véhicule se fait de préférence sur la partie gauche de la voie utilisée ce qui permet d'être mieux vu en se montrant dans les rétroviseurs central et gauche de l'automobile. Cela offre de plus une échappatoire en cas de ralentissement fort.
+
+Les déplacements en groupe
+Il s'agit souvent d'un moment de plaisir et de partage d'expérience. Les motos sont généralement de même gabarits afin d'éviter les frustrations de ceux qui sont au taquet en permanence et des autres qui passent leur temps à freiner pour attendre leurs congénères.
+
+Il existe quelques règles particulières que les habitués adoptent au sein d'un groupe, mais beaucoup sont communes à tous les groupes pour des raisons de sécurité:
+
+le groupe idéal ne dépasse pas 5 motos;
+le chef de groupe, ou guide, ouvre la voie, il est le plus expérimenté et à un comportement sain sur la route et par conséquent il s'agit souvent du plus âgé;
+le moins expérimenté suit le chef de groupe pour observer un bon exemple;
+le plus excité sera canalisé en étant placé derrière le second;
+le groupe est fermé par quelqu'un d'aussi expérimenté que le chef de file; il doit s'assurer que tout va bien et doit pouvoir remonter jusqu'au chef de groupe en cas d'urgence, il est le "feu rouge" du groupe, il s'assure qu'aucun danger ne viendra de l'arrière par un conducteur trop pressé par exemple;
+chacun à sa place, il ne s'agit pas de remonter le maximum de copains pour le plaisir de passer devant;
+le déplacement en ligne droite s'effectue en quinconce : l'un à gauche, l'autre plus loin à droite, etc., afin de permettre à chacun d'avoir une visibilité suffisante de la route et de ne pas accrocher le prédécesseur lors de freinages non prévus;
+éviter l'effet de horde en n'imposant pas aux autres usagers des contraintes supplémentaires, par exemple lors des dépassements ou des stationnements.
+
+Les dépassements doivent être effectués avec ordre en prenant la place de son prédécesseur lorsque celui-ci poursuit son dépassement, il ne s'agit pas de s'incruster en masse entre deux véhicules.
+
+Pilotage sur piste
+Certains préfèrent légèrement dégonfler les pneus pour leur permettre de chauffer plus rapidement. S'il s'agit d'une moto utilisée également sur le réseau routier, les suspensions doivent être durcies afin de limiter les variations d'attitude de la moto aux accélérations et décélérations. Peu importe ce qu'il se passe derrière, les trajectoires doivent être facilement anticipées par les autres et les ralentissements en lignes droites annoncés en levant le bras gauche; cela évitera des téléscopages. En plus des éléments habituels de protection, une combinaison avec sliders est recommandée pour une meilleure protection. Il convient de vérifier la validité de son assurance si celle-ci n'est pas comprise dans le prix de location du circuit.
+
+La position de conduite
+Les déplacements sur la moto et la mise sur l'angle mettent à contribution les repose-pieds, ils ont ainsi plus d'importance que durant la conduite sur route. La position déhanchée est indispensable pour quatre raisons :
+
+cela permet de jeter la moto sur l'angle en amplifiant l'effet du contre-braquage
+déplacer le corps à l'intérieur du virage permet d'enlever de l'angle à la moto, ainsi à vitesse égale un virage pourra être pris avec moins d'angle
+le fait de poser le genou permet d'avoir un repère d'angle
+lors de petites glisses de la roue arrière le fait d'être "posé" sur le genou permet à la moto de ne pas se coucher
+
+Contrairement à la conduite sur route, coller le corps au réservoir empêche la mobilité dans les enchaînements; quelques centimètres entre le réservoir et la pilote sont les bienvenus. Il en est de même pour les genoux: le pilote peut desserer l'étreinte avec le réservoir.
+
+Les trajectoires
+ہ la différence de la conduite sur route, toute la largeur de la piste doit être utilisée. La prise de trajectoire peut ainsi de résumer à trois grandes étapes:
+
+en ligne droite : freinage, rétrogradage, regard à la corde;
+entrée de virage : contre-braquage, passage au point de corde;
+sortie du virage : redresser la moto, accélérer.
+
+Dans un enchaînement de virages, il faut privilégier le dernier afin de sortir le plus rapidement possible. D'une façon générale, le freinage doit prendre un minimum de temps.
+
+Utilisation du freinage
+Le freinage s'effectue les bras tendus en se jettant en arrière afin de compenser en partie le transfert de masse vers l'avant qui a lieu lors du freinage. Il est utile de prendre des repères pour diminuer les distances de freinage. Seuls deux doigts placés sur le levier de frein permettent de garder les autres doigts sur la poignée des gaz afin de pouvoir continuer à jouer sur l'accélération.
+
+Le frein arrière est peu utilisé à cause du transfert de masse important lors des freinages appuyés. Son utilisation se cantonne à asseoir la moto en entrée de virage. Dans le cas moins idéal où le pilote entre dans un virage trop rapidement, le frein arrière permet de ralentir sans quitter brutalement la trajectoire, chose inévitable avec le freinage de l'avant seul.
+
+Pilotage en tout terrain
+Cette section est vide, pas assez détaillée ou incomplète. Votre aide est la bienvenue !
+
+Les techniques de base
+Les virages se passent généralement le plus court possible en roulant à allure réduite en jouant avec l'embrayage. La moto est penchée du côté du virage, le corps de l'autre côté pour garder l'équilibre mais en gardant les épaules parallèles au guidon; les jambes sont ainsi écartées.
+
+En descente, le corps part en arrière proportionnellement au degré de la pente.
+
+Une montée s'effectue avec élan suivi d'une accélération régulière en s'asseyant légèrement afin d'augmenter l'adhérence du pneu arrière. Les jambes continuent d'amortir le relief du terrain.
+
+Les techniques élaborées
+Le saut, appelé jump, ?
+
+L'extension ?
+
+Le pivot consiste à ?
+
+
+<#5651>
+Pile à combustible alcaline
+
+
+Les piles à combustible alcalines (ou AFC selon l'acronyme de l'appellation anglaise alkaline fuel cell) est une des technologies de piles à combustible les plus développées. C'est aussi une technologie qui fut employée lors des expéditions lunaires. Les agences spatiales ont utilisé les AFC dès le milieu des années 1960, lors des programmes Gemini, Apollo, Soyouz 7K-L3 et pour les navettes spatiales Shuttle et Bourane. Les AFC consomment de l'hydrogène et de l'oxygène pur en produisant de l'eau potable, de la chaleur et de l'électricité. Elles sont parmi les piles à combustible les plus efficaces, avec un potentiel atteignant les 70 %.
+
+La pile à combustible produit de l'énergie grâce à une réaction d'oxydo-réduction entre l'hydrogène et l'oxygène. A l'anode, l'hydrogène est oxydé selon la réaction : 
+produisant de l'eau et lâchant deux électrons. Les électrons transitent par un circuit externe et retournent à la cathode, où ils réduisent l'oxygène selon la réaction : 
+produisant des ions hydroxyde.
+
+La réaction totale nette consomme une molécule d'oxygène (O2) et deux d'hydrogène (H2) pour produire deux molécules d'eau (H2O). De l'électricité et de la chaleur sont créés, produits secondaires de la réaction.
+
+Les électrodes sont séparées par une matrice poreuse saturée par une solution alcaline aqueuse, comme par exemple de l'hydroxyde de potassium (KOH). Les solutions aqueuses ne rejettent pas de dioxyde de carbone (CO2) ce qui peut empoisonner facilement la pile. Pour cette raison, ce type de pile nécessite de l'oxygène pur, ou du moins de l'air purifié. Ces procédés sont relativement coûteux, ce qui fait que peu de développements continus sont produits sur la technologie AFC. La NASA a d'ailleurs opté pour les piles à combustible à membrane échangeuse de protons pour la prochaine génération de navettes spatiales.
+
+Les AFC restent cependant les moins chères des piles à combustible à produire. Le catalyseur requis pour les électrodes peuvent être choisis parmi de nombreux produits chimiques relativement peu coûteux comparés à ceux requis pour d'autres types de piles à combustible.
+
+
+<#5652>
+Pilliga
+
+30° 21' 00" S148° 54' 00" E/-30.35000, 148.9000
+
+Pilliga (210 habitants) est un petit village de de la Nouvelle-Galles-du-Sud, en Australie, à 20 km au nord de Coonabarabran
+
+Il est situé à proximité de la forêt protégée de Pilliga, une forêt semi-aride de région tempérée qui abrite le cyprès noir d'Australie (Callitris endilicheri) ou l'Eucalyptus crebra avec des Melaleuca. La faune comprend de nombreux macropodidae mais aussi des koalas, des Leipoa ocellata, des cacatoès de Latham mais aussi la "souris Pilliga".
+
+La ville possède aussi des sources artésiennes avec une eau à 37°C et des bains libres d'accès.
+
+Selon la légende, la région était habitée avant l'arrivée des européens par le Yowie, une sorte de yéti australien.
+
+Portail de l'Australie
+
+
+<#5653>
+Pile à combustible à acide phosphorique
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la chimie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Les piles à combustible à acide phosphorique (ou PAFC d'après l'anglais phosphoric acid fuel cells) sont un type de pile à combustible qui utilise l'acide phosphorique comme électrolyte.
+
+Description
+Les électrodes sont constituées de papier carbone enduit de platine finement dispersé (catalyseur), ce qui les rend relativement chères à produire. Ces piles ne sont pas affectées par les impuretés de dioxyde de carbone dans la vapeur d'hydrogène. L'acide phosphorique se solidifie à une température de 40°C (soit 313 K), rendant difficile le démarrage de ces piles et restreignants les PAFC aux fonctionnements en continu.
+
+Cependant, dans une gamme de fonctionnement de 150 à 200 °C (de 423 à 473 K), l'eau produite peut être convertie en vapeur pour le chauffage de l'air et de l'eau. Les PAFC sont habituellement utilisées dans des applications stationnaires (c'est-à-dire en régime continu et stable) avec un rendement énergétique combiné proche de 80 %, et elles continuent à dominer le marché des piles à combustibles sur sites.
+
+Liens externes
+
+Inventaire US des polluants : acide phosphorique
+
+(en) Cet article est partiellement ou en totalité issu d'une traduction de l'article de Wikipédia en anglais intitulé « Phosphoric-acid fuel cell ».
+
+Portail de la chimie
+Portail de l'électricité et de l'électronique
+
+
+<#5654>
+Pila-Canale
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune de la Corse-du-Sud.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pila-Canale	|
+	|	{{{image}}}	|
+	|	Pays	|	
+
+France	|
+	|	Région	|	Corse	|
+	|	Département	|	Corse-du-Sud	|
+	|	Arrondissement	|	Ajaccio	|
+	|	Canton	|	Santa-Maria-Siché	|
+	|	Code INSEE	|	2A232	|
+	|	Code postal	|	20123	|
+	|	Maire
+Mandat en cours	|	Antoine de Peretti
+2001-2008	|
+	|	Intercommunalité	|	Sans	|
+	|	Latitude
+Longitude	|	41° 48' 49" Nord
+
+8° 54' 37" Est/41.8136111111, 8.91027777778	|
+	|	Altitudes	|	moyenne : 350 m
+minimale : 13 m
+maximale : 561 m	|
+	|	Superficie	|	1880 ha = 18,8 km²	|
+	|	Population sans
+doubles comptes	|	278 hab.
+(1999)	|
+	|	Densité	|	14 hab./km²	|
+	|	
+
+	|
+
+Pila-Canale est une communefrançaise, située dans le département de la Corse-du-Sud et la régionCorse. Pila-Canale se dit en langue corse Pila-Canali
+
+Géographie
+Pila-canale est situé à 400m d'altitude au dessus de la vallée du Taravo le village a été bati en pente et se situe à 30 km de Propriano et à 35 km d'Ajaccio.
+
+Histoire
+
+Administration
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	1983	|	2006	|	Robert Feliciaggi	|		|		|
+	|	2006	|	2008	|	Antoine de Peretti	|		|		|
+	|	2008	|	2014	|	Antoine de Peretti	|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+Démographie
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|
+	|	461	|	488	|	408	|	305	|	265	|	278	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes	|
+
+Lieux et monuments
+Le village compte quelques fontaînes (dont certaines potables) à son église et son monument au mort.
+
+Personnalités liées à la commune
+
+Robert Feliciaggi fut longtemps maire de Pila-Canale. Il fut assassiné sur le parking de l'aéroport d'Ajaccio en mars 2006. Conseiller général divers-droite de Corse-du-Sud, il dirigea plusieurs établissements de jeux en Afrique avec son associé Michel Tomi. Proches de Charles Pasqua et du RPF, ils furent tous les deux mis en examen dans l'affaire du finacement illégal du RPF.
+
+Jean-Jé Colonna est un des résidents célèbres de ce village, dont son oncle, Jean Colonna, fut le maire. Ancien de la French Connection et paisible retraité, il pourchassa les assassins de son père, tué dans la guerre du Combinatie.
+
+Jacques Bozzi
+
+
+<#5655>
+Pilatus Aircraft
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une entreprise suisse.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pour les articles homonymes, voir Pilatus. 
+	|	Pilatus Aircraft	|
+	|	
+	|
+	|	Fiche d'identité	|
+	|	Siège social :	|	Stans	|
+	|	Effectif :	|	1330 (en 2005)	|
+	|	Site corporatif :	|	www.pilatus-aircraft.com	|
+	|	Données financières	|
+	|	Chiffre d'affaires :	|	571,5 millions CHF (2006)	|
+	|	Résultat net :	|	24 millions CHF (2005)	|
+	|	
+mettre à jour
+
+	|
+
+Pilatus Aircraft est une fabrique suisse d'aviation située à Stans. Pilatus est le leader mondial pour les avions turbo-propulsés à un seul moteur.
+
+Origine du nom
+
+La montagne Pilatus qui se trouve à côté du siège de l'entreprise.
+
+Histoire
+
+16
+décembre
+1939, fondation de l'entreprise
+1941, le SB2-Pelikan
+1943, l'avion d'entraînement P-2
+1948, le P-4
+1952, le P-3
+1959, le PC-6
+1972, le B-4/PC-11
+1978, le PC-7
+1986, le PC-9
+1999, le PC-21
+
+Produits
+
+Le PC-6 appelé aussi "Pilatus Porter PC-6"
+Le PC-7 MK II
+Le PC-9 M
+Le PC-12
+Le PC-21
+Les systèmes d'entrainement
+
+Chiffres
+
+Employés: 1 284 (2004)
+Chiffres d'affaire : 464 millions frs (2004)
+Nombres d'avions vendus : 83 (2004)
+
+Liens externes
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur Pilatus Aircraft.
+	|
+
+(en)Site de l'entreprise
+Visite virtuelle 360x180° de l'intérieur du Pilatus PC12 java ou quicktime sur photo360.net
+
+Portail des entreprises
+Portail de l'aéronautique
+Portail de la Suisse
+
+
+<#5656>
+Pile électrique de Bagdad
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'archéologie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+La pile électrique de Bagdad est le nom d'une poterie datant du IIIe siècle av. J.-C., découverte dans un village près de Bagdad en 1936. Elle est devenue célèbre depuis que quelques archéologues, tels que Wilhelm Kِnig, ont émis l'hypothèse qu'elle aurait servi de pile électrique. Cette thèse est actuellement toujours controversée.
+
+Introduction
+Dans les années 1930, un archéologue autrichien du nom de Wilhelm Kِnig découvre dans les sous-sols du musée de Bagdad une étrange poterie de 15 cm de haut pour un diamètre d'environ 7,5 cm. D'après les datations effectuées séparément par Wilhelm Kِnig et le docteur St. John Simpson du département Priche Orient Ancien du British Museum, cette poterie remonterait à l'an 224 avant J.-C. Quelques-unes ont été découvertes dans les ruines de Khujut Rabu près de Bagdad et dix autres à Ctésiphon.
+
+Ce dispositif est fermé d'un bouchon en bitume. Sous le bouchon, est disposée une tige de fer, entourée d'un cylindre de cuivre. Ces deux éléments sont isolés à la base par un tampon de bitume. Le cylindre est soudé en son fond par un alliage de plomb et d'étain. Les éléments manquants pour que cette « pile » antique fonctionne sont les fils de connexion et de l'acide pour la réaction. Une telle pile peut fonctionner avec du jus de fruit à la place de l'acide[1]. Suivant les tests effectués, les chercheurs ont obtenu des tensions électriques de l'ordre de 0,5 à 1 volt. On ignore néanmoins l'intensité délivrable par une telle pile.
+
+Ces poteries ont disparu lors du pillage du musée de Bagdad en avril 2003[2].
+
+Controverses sur l'usage de l'objet
+La patine bleue retrouvée sur le cylindre de cuivre est caractéristique de la galvanoplastie à l'argent, comme aussi caractéristique de l'oxydation du cuivre. On peut éventuellement supposer que ces piles auraient été utilisées pour plaquer des objets avec des métaux précieux[3]. Cette hypothèse serait conforme à la découverte de bijoux dorés par catalyse, des vases de cuivres plaqués argent vieux de plus de 2500 ans ; cependant le dépôt d'or par placage ne nécessite pas d'avoir recours à la galvanoplastie, il peut être réalisé mécaniquement avec de fines feuilles de métal.
+
+Cependant les archéologues restent divisés sur l'utilisation réelle de l'objet : même si plusieurs expériences ont prouvé que celui-ci pouvait délivrer un courant électrique, le faible rendement de celui-ci, ainsi que certains détails (absence de fils électriques/points de connexion, fermeture hermétique du vase, niveaux de connaissances à cette époque) seraient des arguments défavorables à l'utilisation de l'objet en tant que pile[2].
+
+Notes
+
+? Nota : le jus de fruit contient généralement de l'acide.
+? a? b?(fr)ampere.cnrs.fr, @.Ampère et l'histoire de l'électricité - « La « pile de Bagdad » : une pile électrique il y a deux mille ans ? »
+?(fr)Futura-science, « Les piles électriques de Bagdad, mystère ou mystification ? » par Claire Kِnig
+
+Bibliographie
+
+Eggert, G., "The enigmatic battery of Baghdad". Skeptical Inquirer, May-June 1996 V20 N3 PG31(4)
+
+Articles connexes
+
+OOPArt
+
+Liens externes
+
+La pile électrique du Musée de Bagdad sur le site CIRAC
+La « pile de Bagdad » : une pile électrique deux siècles avant Jésus-Christ ? sur la plateforme ampère et l'histoire de l'électricité du CNRS.
+
+Portail de l'archéologie
+
+
+<#5657>
+Pilar Vasquez
+
+Pour les articles homonymes, voir Vasquez. 
+	|	
+	|		|	Pilar Vasquez	|		|
+
+	|
+	|		|
+	|	Carrière professionnelle	|
+	|	1981
+(1ermatch officiel connu) - 1994
+(dernier match officiel)	|
+	|		|
+	|	Nationalité	|	
+Pérou	|
+	|	Naissance	|	15 mai1963(1963-05-15)(45 ans)	|
+	|	Gains en tournois	|	232 790 $	|
+	|	Palmarès	|
+	|	En simple	|
+	|	Titre(s)	|	0	|
+	|	Meilleur classement	|	66e (30/04/1984)	|
+	|	En double	|
+	|	Titre(s)	|	0	|
+	|	Meilleur classement	|	140e (25/06/1990)	|
+	|	
+Compléter/corriger
+
+	|
+
+Pilar Vasquez (née le 15 mai1963) est une joueuse de tennispéruvienne, professionnelle du début des années 1980 à 1994.
+
+Elle a atteint le 66e rang mondial en simple le 30 avril1984 et le 140e en double le 25 juin1990.
+
+En 1983, elle a joué le 4e tour à l'US Open (battue par Martina Navrلtilovل), sa meilleure performance en simple dans une épreuve du Grand Chelem.
+
+Pendant sa carrière, Pilar Vasquez n'a gagné aucun titre sur le circuit WTA.
+
+Palmarès Pilar Vasquez
+
+Titres en simple
+Aucun
+
+Finales de simple perdues
+	|		|	Date[1]	|	Nom et lieu du tournoi	|	Cat.	|	($)	|	Surf.	|	Vainqueur	|	Score	|
+	|	1	|	18/10/82	|	Japan Open, T?ky?	|		|	50 000	|	Dur (ext.)	|	Laura Gildemeister	|	3-6, 6-4, 6-0	|
+
+Titres en double
+Aucun
+
+Finales de double perdues
+Aucune
+
+Parcours en Grand Chelem
+
+En simple
+	|	Année	|	Open d'Australie	|	Roland-Garros	|	Wimbledon	|	US Open	|
+	|	1981	|	-	|	3e tour (1/16)	|	Hana Mandlيkovل	|	-	|	1er tour (1/64)	|	C. Tanvier	|
+	|	1982	|	-	|	1er tour (1/64)	|	 Kim Steinmetz	|	-	|	1er tour (1/64)	|	Chris Evert	|
+	|	1983	|	-	|	1er tour (1/64)	|	Yvona Brzلkovل	|	-	|	4e tour (1/8)	|	M. Navrلtilovل	|
+	|	1984	|	-	|	1er tour (1/64)	|	Eva Pfaff	|	2e tour (1/32)	|	P. Casale	|	1er tour (1/64)	|	L. Bonder	|
+	|	1985	|	-	|	1er tour (1/64)	|	Bettina Bunge	|	1er tour (1/64)	|	Anne Minter	|	-	|
+	|	1987	|	1er tour (1/64)	|	M. W. Witmeyer	|	-	|	-	|	-	|
+	|	1988	|	1er tour (1/64)	|	Akiko Kijimuta	|	-	|	-	|	-	|
+	|	1989	|	2e tour (1/32)	|	C. Tanvier	|	-	|	-	|	-	|
+	|	1991	|	1er tour (1/64)	|	L. G. Arraya	|	-	|	-	|	-	|
+
+ہ droite du résultat, l'ultime adversaire
+
+En double
+	|	Année	|	Open d'Australie	|	Roland-Garros	|	Wimbledon	|	US Open	|
+	|	1981	|	-	|	2e tour (1/16)
+B. Remilton	|	G. Coles
+Naoko Sat?	|	-	|	1er tour (1/32)
+Kim Sands	|	Laura duPont
+B. Jordan	|
+	|	1982	|	-	|	1er tour (1/32)
+Duk-Hee Lee	|	Betty Stِve
+Teeguarden	|	-	|	2e tour (1/16)
+ Carmen Perea	|	C. Reynolds
+Paula Smith	|
+	|	1983	|	-	|	1er tour (1/32)
+Harrington	|	Amy Holton
+ H. Rosenberg	|	-	|	1er tour (1/32)
+V. N. Dunbar	|	Elise Burgin
+J. Russell	|
+	|	1984	|	-	|	3e tour (1/8)
+Rene Uys	|	B. Remilton
+Naoko Sat?	|	-	|	1er tour (1/32)
+Rene Uys	|	Anne Minter
+E. Minter	|
+	|	1985	|	-	|	1er tour (1/32)
+H. Manset	|	K. Maleeva
+M. Maleeva	|	-	|	-	|
+	|	1988	|	1er tour (1/32)
+ T. Mochizuki	|	A. Kijimuta
+ P. Moreno	|	-	|	-	|	-	|
+	|	1989	|	2e tour (1/16)
+ C. Christian	|	A. Dechaume
+E. Derly	|	-	|	-	|	-	|
+	|	1990	|	-	|	1er tour (1/32)
+A. Vieira	|	R. Kordovل
+A. Temesvari	|	-	|	-	|
+	|	1991	|	1er tour (1/32)
+Elly Hakami	|	Anne Minter
+T. Morton	|	-	|	-	|	-	|
+
+Sous le résultat, la partenaire; à droite, l'ultime équipe adverse
+
+Parcours en Fed Cup
+Voir fiche détaillée sur : (en)fedcup.com
+
+Classements en fin de saison (simple)
+	|	Année	|	1987[2]	|	1988	|	1989	|	1990	|	1991	|	1992	|	1993	|	1994	|
+	|	Rang	|	153	|	? 161	|	? 181	|	?152	|	? 305	|	? 346	|	? 285	|	? 590	|
+
+Notes
+
+? Pour chaque tournoi, la date indiquée correspond à la première journée, en général un lundi.
+? Aucune donnée n'est disponible sur le site de la WTA pour les saisons antérieures.
+
+
+<#5658>
+Pilgrimage
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	
+	|	
+Voir « pilgrimage » sur le Wiktionnaire.
+	|
+
+Pilgrimage est un mot anglais signifiant Pèlerinage.
+
+Il peut désigner aussi :
+
+Deux femmes (Pilgrimage, 1933) un film de John Ford
+Pilgrimage, un album du groupe de rock Wishbone Ash
+
+
+<#5659>
+Pile à combustible à carbonate fondu
+
+
+Les piles à combustible à carbonate fondu, ou MCFC (d'après l'acronyme de l'appellation anglaise Molten-carbonate fuel cell) sont des piles à combustible fonctionnant à des températures à partir de 600 °C et au-delà. Elles démontrent les plus grandes efficacités parmi tous les types de piles à combustible, y compris les piles à combustible à oxyde solide, les piles à combustible à membrane d'échange de protons et les piles à combustible à acide phosphorique, et ne sont pas sujettes aux problèmes de matériaux à haute température qui affectent la technologie des piles à combustible à oxyde solide.
+
+La technologie
+Les MCFC sont actuellement développées pour les applications dans les centrales électriques au gaz naturel et au charbon, les applications industrielles et militaires. Elles fonctionnent à haute température, avec un électrolyte composé de sels de carbonate fondu en suspension dans une matrice céramique poreuse et chimiquement inerte d'électrolyte solide d'alumine béta (ou BASE selon l'acronyme de l'appellation anglaise : beta-alumina solid electrolyte). De plus, puisqu'elles opèrent à de hautes températures (classiquement vers 650 °C - soit 920 K environ - et au delà), des métaux non précieux peuvent être utilisés comme catalyseurs à l'anode et/ou à la cathode, réduisant ainsi les coûts.
+
+Une efficacité accrue est une autre des raisons pour lesquelles les MCFC offrent des réductions de coûts significatives par rapport aux piles à combustible à acide phosphorique (PAFC). Les MCFC peuvent atteindre des rendements approchant les 60 %, ce qui est considérablement plus élevé que les 37 à 42 % atteints par les PAFC. Lorsque la chaleur gaspillée est recyclée et utilisée, ce rendement peut atteindre les 85 %.
+
+Au contraire des piles à combustible alcalines, à acide phosphorique ou à membrane à électrolyte polymère, les MCFC ne nécessitent pas un reformeur externe afin de convertir des combustibles plus énergétiquement dense en hydrogène. En raison des hautes températures de fonctionnement des MCFC, ces combustibles sont convertis en hydrogène dans la pile elle-même par un processus appelé reformage interne, ce qui réduit aussi les coûts.
+
+Les piles à combustible à carbonate fondu ne sont pas sujettes à l'"empoisonnement" au monoxyde de carbone (CO) ou au dioxyde de carbone (CO2) - elles peuvent en effet les utiliser comme combustibles - ce qui les rend plus attractives pour l'utilisation des gaz issus du charbon. Elles sont également plus résistantes aux impuretés que les autres types de piles à combustible, ce qui fait que les scientifiques pensent qu'elles pourraient être susceptibles de reformer intérieurement le charbon, assurant qu'elles peuvent être rendues résistantes aux impuretés (comme les sulfures) et les particules résultant de la conversion du charbon, une des sources de combustible fossile les plus polluantes, en hydrogène.
+
+Les développements
+
+Recherche actuelle
+Le fabricant leader sur le marché des MCFC est actuellement FuelCell Energy. Le premier désavantage de la technologie MCFC est sa durabilité. Les hautes températures auxquelles ces piles fonctionnent et la corrosivité des électrolytes utilisés conduisent à des pannes et abrègent la durée de vie des piles. Les scientifiques sont actuellement en train d'étudier des matériaux résistants à la corrosion et la conception des piles afin d'accroître la durée de vie sans perte des performances.
+
+Pile à combustible MTU
+L'entreprise allemande MTU Friedrichshafen a présenté à la foire de Hanovre 2006 une MCFC : pesant 20 T l'unité, elle peut produire 240 kW de puissance électrique à partir de gaz variés, les biogaz inclus. L'air rejeté est assez pur pour qu'il ne soit pas qualifié de fumée polluante. La température de cette fumée est d'environ 400 °C, ce qui est suffisant pour une utilisation dans de nombreux procédés industriels. Une possibilité alternative est de produire de l'électricité par le biais d'une turbine à vapeur. En fonction du type de gaz, l'efficacité électrique se situe entre 42 et 49 %. Une turbine à gaz peut accroître ce rendement jusqu'à 64%. L'unité peut être utilisée en cogénération.
+
+
+<#5660>
+Pilas
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune d'Espagne.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pilas	|
+	|	
+	|		|
+	|		|
+	|		|		|
+	|	Drapeau	|	Blason	|
+
+	|
+	|		|
+	|	Données générales	|
+	|	Pays	|	
+Espagne	|
+	|	CCAA	|	
+Andalousie	|
+	|	Province	|	Séville	|
+	|	Comarque	|	El Aljarafe	|
+	|	Code postal	|	41 840	|
+	|	Gentilé	|	Pileٌo, -ٌa	|
+	|	Culture	|
+	|	Données géographiques	|
+	|	Coordonnées
+ - latitude :
+ - longitude :	|	
+	|
+	|	Superficie	|	45,94 km²	|
+	|	Altitude moy.	|	63 m.	|
+	|	Population (INE)
+ - total :
+ - densité :
+ - année :	|	
+12 171 hab.
+264,93 hab./km²
+2006	|
+	|	Politique	|
+	|	Maire
+ - nom :
+ - parti :
+ - mandat :	|	
+José L. Ortega Irizo
+PP
+	|
+	|	Site web	|	www.pilas.es	|
+	|	
+Cette boîte: voir ? disc. ? mod.	|
+
+Pilas est une commune d'Espagne, dans la province de Séville, communauté autonome d'Andalousie.
+
+Sources
+
+(es) Cet article est partiellement ou en totalité issu d'une traduction de l'article de Wikipédia en espagnol intitulé « Pilas ».
+
+Portail de l'Espagne
+
+
+<#5661>
+Pile (architecture)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'architecture ou l'urbanisme.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Une pile est un massif de maçonnerie soutenant, sous forme de piliers, les arches d'un pont ou d'un viaduc.
+
+Portail de l'architecture et de l'urbanisme
+
+
+<#5662>
+Pilates
+
+La méthode Pilates, parfois simplement appelée Pilates, est un système d'exercice physique développé dans le début du XXe siècle par Joseph Pilates, allemand émigré aux ةtats-Unis. Il écrivit deux livres sur sa méthode : "Return to Life through Contrology" et "Your Health: A Corrective System of Exercising That Revolutionizes the Entire Field of Physical Education".
+
+Pilates appela sa méthode Contrology, en référence à la façon dont la méthode encourage l'utilisation de l'esprit pour contrôler les muscles. C'est un programme permettant de rééquilibrer les muscles du corps, en se concentrant sur les muscles principaux qui interviennent dans l'équilibre du corps et le maintien de la colonne vertébrale. Dans cette méthode, on essaye de renforcer les muscles trop faibles et de décontracter les muscles trop tendus, on tient également compte du rythme de la respiration lors de l'exécution des mouvements, du bon alignement de la colonne et du maintien d'une bonne posture générale.
+
+Bibliographie
+
+Pilates, Joseph H. and William J. Miller. Pilates' Return to Life Through Contrology. (republished Paperback), (Judd Robbins, Editor), ISBN 0-9614937-9-8
+
+Pilates, Joseph H. Your Health: A Corrective System of Exercising That Revolutionizes the Entire Field of Physical Education. (republished in Paperback), ( Judd Robbins Editor), ISBN 0-9614937-8-X
+
+"Pilates avec le ballon", tous les exercices avec le ballon, Colleen Craig, Ed.Exclusif, 2006, ISBN 2848910607
+
+Liens externes
+
+La méthode pilates : les réponses aux questions
+[1]: controverse à l'encontre de la méthode
+CoreBody Centre Pilates : méthode et cours de Pilates sur Paris
+
+Portail du sport
+
+
+<#5663>
+Pillage
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le domaine militaire.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le pillage est un acte de guerre qui tient de la destruction et du vol massif, souvent accompagné de viols, et par extension, tout type d'actes civils semblables.
+
+Histoire
+Les plus célèbres pillards du Haut Moyen آge sont les Vandales, les Huns, durant leurs conquêtes ; les peuples germaniques mirent à sac Rome à trois reprises durant les Grandes invasions.
+
+Pendant la Révolution française, plusieurs monuments historiques et cathédrales ont été pillés par les insurgés, causant la perte de reliques ancestrales.
+
+Pillage technologique
+Le développement considérable du Web, l'utilisation des sources ouvertes comme méthode de renseignement (Robert Steele), accroît la visibilité sur les ressources, notamment informatiques, des entreprises, et peut conduire à certaines formes de pillage technologique.
+
+Les méthodes de recherche d'information à l'aide de moteurs de recherche, sur des ressources informatiques indexées, peuvent utiliser des registres de métadonnées, ce qui accroît l'efficacité des recherches. Ces méthodes, le plus souvent légales, peuvent dans certains cas transgresser la législation.
+
+
+<#5664>
+Pilier d'Héliodoros
+
+Le pilier d'Héliodoros a été érigé vers 110 av. J.-C. dans le centre de l'Inde à Vidisha par Héliodoros, un ambassadeur grec du roi indo-grecAntialkides à la cour du roi Sunga Bhagabhadra. Le pilier est situé devant un temple à Vasudeva, il était surmonté par une sculpture de Garuda et dédié probablement au dieu Vasudeo.
+
+Inscriptions
+Le pilier comporte deux inscriptions. La première décrit la situation d'Héliodoros et ses relations avec les Sunga et les rois indo-grecs.
+Ce pilier couronné par un Garuda a été érigé sur ordre du Bhagavata... Héliodoros, le fils de Dion, homme de Taxila, ambassadeur grec du roi Bhagabhadra, fils d'une princesse de Bénarès, le sauveur, au cours de la quatorzième année de son règne prospère. (Archaeological Survey of India, rapport annuel (1908-1909))
+Bien que ce ne soit pas parfaitement clair, l'inscription semble se référer à Héliodoros comme un Bhagavata (sanskrit, celui qui est dévoué à Bhagavat), la plus ancienne mention de la foi hindou envers Vishnou, considérant Kapila et le Bouddha comme ses avatars. (voir Bhagavata-Purana).
+
+La seconde inscription est un rappel des préceptes bouddhistes sur la manière d'obtenir le nirv?na, indiquant qu'Héliodoros suit toujours les principes de la foi bouddhiste.
+
+La réconciliation entre l'hindouisme et le bouddhisme
+Le pilier d'Héliodoros semblent indiquer une certaine réconciliation, par l'intégration du Bouddha dans le panthéon vishnouite, entre le bouddhisme, la foi des Indo-grecs et l'hindouisme suivi par les Sunga, qui avaient persécuté les bouddhistes du temps de Pusyamitra Sunga.
+
+
+<#5665>
+Pile au mercure
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la chimie et l'énergie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Dans les piles au mercure, celui-ci est présent sous sa forme ionique (Hg2+) et sous la forme d'oxyde de mercure (HgO).
+
+Du côté de l'anode, en chlorure de zinc (ZnCl), des électrons sont libérés par la réaction d'oxydation :
+Zn + H2O => ZnO + 2 H+ + 2 e-
+De l'autre côté (celui de la cathode), l'oxyde de mercure se réduit en mercure :
+HgO + 2 H+ + 2 e- => Hg + H2O
+Il y a donc d'un côté libération d'électrons et de l'autre consommation d'électrons. Les électrons circulent donc par le circuit électrique pour permettre la réaction d'oxydo-réduction.
+
+Lorsqu'il n'y a plus de zinc d'un côté ou plus d'oxyde de mercure de l'autre, la pile est à plat. Il faut la recycler.
+
+Portail de la chimie
+Portail de l'électricité et de l'électronique
+
+
+<#5666>
+Pilotage automatique (métro)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les transports.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le tapis de pilotage automatique (PA) du métro parisien est un système de grecque.
+
+Description
+Il permet à une rame d'être à la vitesse optimale pour la section de voie sur laquelle elle roule, une sorte de régulateur de vitesse (cruise control) pour métro, mais qui respecte la signalisation.
+
+Ce système est cependant extrêmement rudimentaire, et reste basé sur des cantons fixes, contrairement aux systèmes modernes d'assistance à la conduite comme Ouragan. Pour rudimentaire qu'il soit, ce système mis en service en 1972 ne compte aucun accident. Le système Ouragan quant à lui connaît des déboires et n'est pas encore en service en 2008.
+
+Le système est cependant débrayable par le conducteur, qui peut choisir de contrôler la vitesse de la rame lui-même.
+
+Ce système ne répond pas aux exigences de la conduite automatique intégrale, c'est-à-dire sans conducteur.
+
+Il fut testé en premier sur le MP 51 en 1951.
+
+Technique
+Cette section est vide, pas assez détaillée ou incomplète. Votre aide est la bienvenue !
+
+Portail des transports en خle-de-France
+Portail du chemin de fer
+
+
+<#5667>
+Pilsen
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville de République tchèque.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pilsen (fr et de)
+Plze? (cz)	|
+	|		|
+	|	
+Vue depuis le clocher de l'église St Barthélémy	|
+	|	Pays	|	
+République tchèque	|
+	|	Région	|	Région de Pilsen	|
+	|	Région historique	|	Bohême	|
+	|	Code postal	|	301 00	|
+	|	Latitude	|	49°35' N	|
+	|	Longitude	|	13° 29' E	|
+	|	Altitude	|	293-452 m	|
+	|	Population	|	(2003)  164 180 hab.	|
+	|	Maire	|	Pavel Rِdl	|
+	|	Site(s) touristique(s)	|	Site de la ville	|
+	|	Localisation
+	|
+
+Pilsen (Plze? en tchèque) est la capitale de la région de Pilsen en République tchèque. La ville est située au confluent de quatre rivières : عhlava, عslava, Radbuza et M?e.
+
+Histoire
+Les premières mentions de Pilsen (correspondant à l'actuel vieux Pilsen) remontent à l'année 976. Cette année, le prince Boleslav II de Bohême a vaincu l'armée du roi allemand Otton II du Saint-Empire.
+
+En 1295, le roi tchèque Venceslas II crée le nouveau Pilsen, correspondant à la ville actuelle. Sa position stratégique sur la voie fluviale entre Prague et la Bavière lui permet de prospérer rapidement. Elle est à l'époque la troisième ville du pays après Prague et Kutnل Hora. Dès le Moyen-آge, le houblon récolté dans les environs, un des meilleurs d'Europe, est à la base d'une production de bières réputées.
+
+En 1599, Pilsen devient résidence impériale pendant 9 mois, Rodolphe II du Saint-Empire ayant fui la peste qui sévissait à Prague.
+
+En 1618, a lieu la Bataille de Pilsen.
+
+Après la guerre de Trente Ans, Pilsen connaît une période de déclin.
+
+Au XIXe siècle, la ville connaît une rapide croissance démographique et industrielle. C'est alors que sont fondés deux établissements qui ont rendu Pilsen célèbre dans le monde entier :
+
+L'usine de constructions mécaniques ?koda.
+La brasseriePilsner Urquell (en tchèque : Plze?sk‎ prazdroj) qui depuis 1842 produit la célèbre Pilsner Urquell. Grâce à cette brasserie la ville est connue pour sa production de bière.
+
+Pilsen donna d'ailleurs ainsi son nom aux bières dites « Pils » (aussi appelée Pilsener, Pilsen ou Pilsner)
+
+Le 6 mai1945, Pilsen est libérée par la IIIe armée américaine, conduite par le général Patton. Selon un accord américano-soviétique, le général n'avait plus le droit d'avancer et de libérer Prague et dut même évacuer la ville quelques jours plus tard. Un bâtiment en l'honneur des Américains commémore cette libération.
+
+Pilsen s'inscrit aussi dans l'histoire du combat contre le communisme. Le 1er juin1953, Pilsen est le théâtre de la première manifestation de masse contre le communisme de tout le bloc soviétique.
+
+De nos jours, Pilsen reste un centre industriel, commercial, culturel et administratif important. Plusieurs étudiants sont inscrits à l'Université de Bohême de l'Ouest, dont les locaux sont dispersés dans plusieurs bâtiments de la ville.
+
+Bâtiments historiques
+La place et les rues à proximité de la ville forment un centre architectural gothique qui est classé parmi les réserves de Monument historique (Tchéquie).
+
+Sur la place
+
+La cathédrale St-Barthélémy, monument culturel, est sans doute le monument le plus remarquable de la ville. Sa construction commença peu après la fondation de la ville. Sa tour de 102,6 mètres est la plus haute de République tchèque. Il s'agit aujourd'hui d'une cathédrale, car la bulle du Pape de l'année 1993 a rangé Pilsen parmi les villes épiscopales. Sur son autel central se trouve la Vierge de Pilsen, ?uvre dominante du style dit des "belles saintes vierges" de l'art gothique tchèque. Sa seconde tour, abattue par la foudre en 1525, n'a jamais été reconstruite.
+La mairie Renaissance, décorée de sgraffites sombres, construite selon les plans de l'architecte italien Giovanni de Statia dans les années 1554 - 1559. Dans la partie arrière de la grande salle de la mairie se trouve une maquette de plastique du centre historique de la ville.
+La colonne de la peste de 1681 se situe entre la mairie et la cathédrale. Elle est couronnée d'une madone dorée.
+L'archidiaconat est le bâtiment baroque le plus vieux de la ville (1710).
+Les nombreuses demeures renaissance et baroque.
+
+A proximité de la place
+
+Les souterrains de la ville se sont formés depuis le Moyen-آge par le raccordement progressif de caves de deux à trois étages. Le labyrinthe complexe de couloirs, de caves et de puits fait partie, de par son étendue supérieur à 20 kilomètres, des plus vastes d'Europe centrale. Sa profondeur est de 8 à 12 mètres.
+La grande Synagogue , troisième plus grande synagogue au monde, date de 1893. Ce majestueux bâtiment édifié dans un style maure et roman avec ses intérieurs d'un grand intérêt sert aujourd'hui de salle de concerts et d'expositions.
+Le monastère franciscain, un des bâtiments les plus vieux de la ville, possède un intérieur gothique et une façade baroque.
+
+Dans le parc Kopeck‎
+
+Le bâtiment de représentation du théâtre Josef Kajetan Tyl a été édifié dans les années 1899 - 1902 dans un style néorenaissance avec des éléments d'Art nouveau, par l'architecte A. Bal?لnek.
+La maison municipale "Beseda" date de 1901 et orne le parc de Kopeck‎. Elle contient aujourd'hui un café, une salle de bal et un cinéma. Elle est caractéristique de l'Art nouveau.
+Le bâtiment néorenaissance du Musée de Bohême occidentale du début du XXe siècle, constitue l'une des dominantes architecturales de la ville. Restauré en 2000, il présente une collection d'armes remontant au XIVe siècle et des expositions ponctuelles.
+
+Plus loin du centre
+
+La gare centrale, de style art nouveau.
+Le monument aux Américains, célébrant la libération de Pilsen par les Américains [1].
+
+Transport
+Le premier tramway apparaît dans les rues pilsenoises en 1899. L'inventeur Franti?ek K?i?يk participe grandement à sa création. Le réseau s'est lentement développé. Dans les années 1960-1980, le réseau prend une grande ampleur en reliant les nouvelles banlieues au centre ville. Depuis, il n'y a pas eu de changement majeur.
+
+Le trolley-bus entre en fonction, en 1941, pensant la seconde guerre mondiale. Le tracé était alors dans le quartier Dobrouvka. Après la guerre, le réseau s'étend à nouveau. En 1970, les lignes de trolley bus sont annulées dans les quartiers Ko?utka et Bolevec, à cause de l'extension des lignes de tramway. Mis à part, une petite prolongation dans les quartiers de Bory et Doudlevce, le réseau reste à peu près inchangé.
+
+Hôtes célèbres
+
+Vaclav Koranda, prêtre hussite radical de Pilsen, quitta sa ville pour Tabor.
+Jan ?i?ka tenta souvent, et sans succès, de prendre militairement la ville.
+Rodolphe II du Saint-Empire séjourna souvent à Pilsen. De 1599 à 1600, il fuit la peste régnant à Prague et vécut à Pilsen, dans le bâtiment accolé à l'actuelle mairie.
+Albrecht von Wallenstein séjourna dans la ville du 10 décembre 1633 au 22 février 1634. Il la quitta pour Cheb, où il fut assassiné le 25 février 1634.
+
+Personnages célèbres nés à Pilsen
+
+Josef Mandl, peintre
+Franti?ek Krلsn‎, architecte
+Vojt?ch ?يp, sculpteur
+Matou? Mandl, homme de lois et bourgmestre
+Kardinلl Beran
+Jind?ich Plachta, comédien
+Josef Skupa, auteur
+Ji?ي Trnka, cinéaste d'animation, né à Pilsen le 24 février1912.
+Miroslav Hornي?ek, comédien
+Karel Janovick‎, compositeur
+Miroslav Zikmund, voyageur et écrivain
+Ji?ي Such‎, homme de théâtre, poète et musicien
+Karel Gott, célèbre chanteur tchèque
+Jana Preissovل, comédienne
+Martin Straka, joueur de Hockey
+Kate?ina K?rkovل, médaille de bronze aux Jeux Olympiques
+Petr ?ech, gardien de but de Chelsea et de l'équipe nationale tchèque
+Marie Ros?lkovل, actrice
+Franti?ek Kreuzmann, acteur
+Franti?ek Kovل?يk, acteur
+
+Références
+
+? Brochure du centre d'information touristique de Pilsen.
+
+Liens externes
+
+Plze? - Czech.cz, Le site web officiel de la République Tchèque
+
+Jumelages
+
+Liège (Belgique)
+Limoges (France)
+
+Sport
+
+Hockey sur glace: HC Lasselsberger Plze?, de l'Extraliga
+Football: Viktoria Plze?
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur Pilsen.
+	|
+
+
+<#5668>
+Pilote automatique
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'aéronautique et la mer.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Un pilote automatique (souvent abrégé PA) est un système permettant de maintenir un véhicule sur une trajectoire et avec une vitesse préétablies.
+
+Un PA est un dispositif électronique qui transmet des ordres à des sous-systèmes hydrauliques ou électriques sollicitant les gouvernes et le moteur d'un avion ou d'un navire en lieu et place du pilote humain en fonction des instructions que celui-ci aura préalablement données (voir commande de vol électrique). Les impulsions données par le pilote (humain ou automatique) sont ensuite amplifiées par des servocommandes.
+
+Aéronautique
+Un PA peut fonctionner selon plusieurs modes selon le but recherché. Les modes de base sont :
+
+la tenue d'altitude
+la tenue de cap
+la tenue de vitesse
+
+Des modes plus sophistiqués sont par exemple sur hélicoptère, la tenue de position au dessus d'un point donné (vol stationnaire).
+
+Histoire
+Un premier PA assurant la tenue d'attitude et de cap fut développé en 1914 par Lawrence Sperry. En 1918, Sperry fonda la Sté Lawrence Sperry Aircraft Company qui produisait des composants pour les systèmes de navigation et de pilotage et qui commercialisa son PA.
+
+Vers 1930 des versions spéciales de PA ont été développées par Junkers. Sur le célèbre "Tante Ju" (Junkers Ju 52/1m) - ou sur le Junkers W34fao 397kW - ils avaient pour fonction primordiale d'améliorer la compensation et la régulation de la commande de profondeur. Ce dernier point est particulièrement ardu à l'aide du simple manche en cas de stress et en présence de rafales.
+
+Plus tard, des PA spéciaux furent mis au point pour le vol en piqué comme pour le Junkers Ju 87 B. Ce PA commande l'aérofrein et force l'avion à effectuer une descente avec très forte pente. Arrivé à basse altitude ou après largage des bombes, le PA replaçait l'avion dans sa position initiale (voir aussi Stuka et Ernst Udet).
+
+Des développements plus récents assistent le pilotage en effaçant les rafales ('Gust Alleviation' sur Airbus A320). Ce système destiné à améliorer le confort des passagers est cependant critiqué par certains pilotes qui lui reprochent de les priver du retour d'information sur les conditions de vent régnantes.
+
+Marine
+
+Voiliers
+Sur un voilier on peut différencier le régulateur d'allure qui conserve une route relative par rapport à la direction du vent, et le pilote automatique qui conservera un cap. Les pilotes automatiques électroniques peuvent utiliser les informations de systèmes de navigation externes (boussole, récepteur GPS, girouette) afin de diriger le voilier en fonction d'un cap, d'une route ou de la direction du vent.
+
+Navires
+Le pilote automatique est un système permettant de conserver un cap, l'information de cap peut être fournie par un compas qu'il soit magnétique, gyroscopique ou satellitaire. Le but étant de maintenir ce cap en limitant au maximum les mouvements du gouvernail.
+
+Liens externes
+
+(en)Site du fabricant Sperry (marin)
+(fr)Dossier pilote automatique voilier
+
+Portail de l'aéronautique
+Portail du monde maritime
+
+
+<#5669>
+Pilcomayo
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un cours d'eau.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Rيo Pilcomayo appelé aussi parfois Araguay est le nom d'une rivière située au centre de l'Amérique du Sud qui constitue le plus long affluent de la rivière Paraguay.
+
+Description du cours
+Ce cours d'eau prend sa source au centre de la Bolivie, dans le sud-est du département d'Oruro, et coule vers le sud-est jusqu'à son confluent avec le Paraguay, en aval de la ville d'Asunciَn au Paraguay. Après avoir quitté la Bolivie, le Rيo Pilcomayo délimite la frontière entre l'Argentine et le Paraguay, tout au long de son cours inférieur, où il traverse le Gran Chaco. La longueur du Pilcomayo avoisine les 2 500 km.
+
+Particularité
+Les eaux du Pilcomayo sont contaminées par les minerais qui sont exploités à Sucre et à Potosi, en Bolivie.
+
+La fluctuation des méandres du Pilcomayo entre l'Argentine et le Paraguay pose des problèmes de délimitation des frontières puisqu'on ne sait plus à qui attribuer les méandres morts. (Michel FOUCHER, Fronts et frontières)
+
+
+<#5670>
+Pilumnus
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la mythologie romaine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Selon la mythologie romaine, Pilumnus était le dieu protecteur des nouveau-nés, puis, plus tard, des cultures.
+
+On le trouve souvent associée à son frêre Picummus ou Picumnus. Les deux dieux sont souvent présentés comme complémentaires :
+
+On les désigne parfois sous l'épithète de Sterquilinius, représentant la culture
+
+Pilumnus réprésente le battage du grain
+Picumnus l'engrais donné aux champs.
+
+Les deux dieux étaient en même temps protecteurs de la naissance, on préparait pour eux un repas à l'occasion des naissances
+
+Pilumnus écartait les nouveaux-né des mauvaises influences et des mauvais génies provenant de la forêt (Sylvanus)
+Picumnus donnait à l'enfant la vigueur et la santé.
+
+Pilumnus fait aussi partie d'une triade protectrice de l'enfant, avec
+
+Intercidona, divinité de la hache qui taille les poutres de la maison,
+Deverra qui balaie le grain battu sur l'aire par le pilum.
+
+Ces trois divinités font des rondes de nuit autour de la maison pour écarter Sylvanus. Trois hommes tournaient autour de la demeure frappant les portes avec une hache et un fléau, puis les balayaient pour symboliser ces dieux.
+
+Portail de la Rome antique
+
+
+<#5671>
+Pilotage d'un avion
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'aéronautique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Un avion peut être représenté dans le trièdre de référence formé par :
+
+l'axe x : axe longitudinal ou axe de roulis.
+l'axe y : axe transversal ou axe de tangage.
+l'axe z : axe de lacet.
+
+Piloter un avion c'est :
+
+maintenir l'avion sur sa trajectoire, ou bien
+commander et contrôler une variation de trajectoire, dans le plan vertical ou dans le plan horizontal.
+
+L'avion est soumis à des forces dûes aux mouvements de l'atmosphère qui l'entoure.
+
+faible perturbation : le pilote laisse l'avion (normalement stable) "moyenner" sa trajectoire.
+forte perturbation : l'équilibre initial est modifié, le pilote agit sur les gouvernes pour que l'avion revienne à sa position initiale. Exemple : rafale ascendante, l'avion monte, le pilote corrige et rend la main pour maintenir l'altitude.
+
+Action sur les gouvernes
+Le pilote agit sur les gouvernes pour modifier la trajectoire de l'avion dans le plan vertical (montée ou descente) ou dans le plan horizontal (en virage). Pour être équilibré, le virage peut nécessiter une action sur les trois axes.
+
+Pour obtenir un mouvement de tangage le pilote actionne le manche qui commande la gouverne de profondeur.
+Elle est située le plus loin possible de l'aile, sur l'empennage horizontal ou bien sur un plan canard.
+
+Pour obtenir un mouvement de roulis le pilote actionne latéralement le manche qui commande les ailerons.
+Ces gouvernes sont généralement situées le plus loin possible de l'axe de roulis, donc vers l'extrémité des ailes.
+
+Pour obtenir un mouvement de lacet le pilote actionne le palonnier (pédales) qui commande la gouverne de direction avec ses pieds.
+Elle est située le plus loin possible de l'axe de lacet, sur l'empennage vertical. Le palonnier est également couplé avec la roulette de direction de l'avion (avion à train classique) ou le roue avant de l'avion (avion à train tricycle), ce qui permet de diriger l'appareil au sol. En vol, le palonnier est une commande secondaire dite "de symétrie" qui sert à équilibrer le débit d'air sur les deux ailes de l'avion, et donc à équilibrer la portance.
+La plupart des avions présentent un couplage en lacet-roulis : on peut commander un mouvement de roulis avec la gouverne de lacet (roulis induit). D'autre part une rotation en roulis entraîne généralement une rotation en lacet dans le mauvais sens pour le virage (lacet inverse).
+
+Les pédales servent aussi au freinage, dans ce cas le pilote appuit sur les deux pédales en même temps.
+
+Instruments
+Dans les différentes phases du pilotage (décollage, vol en palier, atterrissage), le pilote cherchera à maintenir un certain nombre de paramètres à une valeur précise. Pour cela, il aura recours aux instruments:
+
+L'anémomètre (badin)
+Celui-ci mesure la vitesse de l'avion dans la masse d'air qui l'entoure (à ne pas confondre avec la vitesse sol). C'est l'instrument fondamental utilisé par le pilote. Le décrochage est lié au dépassement de l'incidence maximale de l'avion, cependant comme il n'y a pas d'incidencemètre dans la plupart des avions légers, on se réfère à la vitesse de décrochage donnée par l'instrument (variable suivant la configuration de l'avion: sans volet ou avec). Cette vitesse de décrochage est valide dans le cas d'un vol rectiligne. L'anémomètre détermine la vitesse en mesurant la différence entre la prise d'air dynamique de l'avion (tube de Pitot) et les prises d'air statiques.
+
+L'altimètre
+C'est un manomètre qui calcule l'altitude de l'appareil en se basant sur les prises d'air statiques de l'appareil. Cette altitude est calculée par rapport à une référence que le pilote détermine par le calage d'une pression de référence (pression au niveau de la mer, QNH, ou pression au niveau du sol de l'aéroport, QFE). Comme la température et la pression atmosphérique locales évoluent, cet instrument doit être recalibré après chaque vol.
+
+Le variomètre
+Mesure la vitesse de montée ou de descente de l'appareil. L'instrument utilise également les prises d'air statiques pour calculer le taux de changement d'altitude.
+
+La bille et l'indicateur de virage
+La bille est l'indicateur de symétrie du vol. Pour être en vol symétrique, on donnera du palonnier selon la règle "le pied chasse la bille". L'indicateur de virage permet de connaître le taux de virage de l'avion.
+
+Le compas
+C'est une boussole. Celle ci est fiable en mouvement rectiligne uniforme. Pour éviter les perturbations magnétiques dans le cockpit, celui-ci est placé loin des autres instruments.
+
+Le directionnel, ou conservateur de cap gyroscopique
+Outil gyroscopique remplissant le rôle du compas dans les phases d'accélération (virages, modifications de trajectoires en général). Du fait de la précession des gyroscopes, le directionnel doit être recalibré sur la boussole tous les quarts d'heure.
+
+L'horizon artificiel.
+Outil gyroscopique indispensable en vol aux instruments (IFR). Il permet de connaître l'assiette et l'inclinaison de l'avion.
+En vol à vue (VFR), le pilote doit constamment effectuer un circuit visuel entre les informations extérieures et les informations données par les instruments. En fonction des différents stades du vol, on ne contrôle pas les mêmes paramètres.
+
+Navigation
+La modification de la trajectoire, en particulier dans le plan horizontal, permet de suivre une route par rapport au sol. L'opération consistant à connaître sa position et à diriger l'avion s'appelle la navigation. Ces deux fonctions sont distinctes et sont éventuellement assurées par deux membres d'équipage distincts : le pilote et le navigateur.
+
+Portail de l'aéronautique
+
+
+<#5672>
+Pile à combustible
+
+
+Une pile à combustible est une pile où la fabrication de l'électricité se fait grâce à l'oxydation sur une électrode d'un combustibleréducteur (par exemple l'hydrogène) couplée à la réduction sur l'autre électrode d'un oxydant, tel que l'oxygène de l'air.
+
+Historique
+
+1839: Découverte de l'effet pile à combustible par le suisse Christian Schِnbein
+
+1839-1842: Réalisation du premier modèle de laboratoire de pile à combustible par William R. Grove
+
+1932: Reprise des études au sujet de la pile à combustible par Francis T. Bacon, qui réalise un premier prototype de 1 kW en 1953, puis 5 kW en 1959. Ce prototype servira de modèle pour les futures piles à combustible utilisées lors des missions spatiales Apollo.
+
+Le très long laps de temps (plus d'un siècle) qui s'est écoulé entre la réalisation du premier modèle de pile à combustible et les premières utilisations s'explique par le très fort développement qu'ont connu les autres types de générateurs d'énergie électrique et par le fait que le coût des matériaux utilisés dans la pile à combustible reste encore actuellement élevé.
+
+En 2007: Il semble que les PAC fonctionnant au méthanol destinées à alimenter l'électronique portable seront commercialisées avant celles destinées à l'industrie automobile.
+Ce n'est que mi-2007 que sous l'égide du Japon un début de réflexion sur des normes, règles et standards de fabrication et de sûreté a commencé, de manière à faciliter l'usage généralisé de ces PAC. Le Japon espère ainsi réduire de 50 % ses émissions de CO2 liées à la petite électronique, en proposant par ailleurs des batteries dont l'autonomie sera multipliée par trois[1].
+
+Généralités
+Une pile à combustible est une pile où la fabrication de l'électricité se fait grâce à l'oxydation sur une électrode d'un combustibleréducteur (par exemple le dihydrogène) couplée à la réduction sur l'autre électrode d'un oxydant, tel que le dioxygène de l'air. La réaction d'oxydation de l'hydrogène est accélérée par un catalyseur qui est généralement du platine. Si d'autres combinaisons sont possibles, la pile la plus couramment étudiée et utilisée est la pile dihydrogène-dioxygène ou dihydrogène-air. La pile à combustible n'est pas une source d'énergie mais un vecteur d'énergie.
+
+Pile à combustible à l'hydrogène
+Le fonctionnement d'une pile dihydrogène-dioxygène est particulièrement propre puisqu'il ne produit que de l'eau et consomme uniquement des gaz. Mais jusqu'en 2006, la fabrication de ces piles est très coûteuse, notamment à cause de la quantité non négligeable de platine nécessaire.
+
+Une des difficultés majeures réside dans la synthèse et l'approvisionnement en dihydrogène. Sur Terre, l'hydrogène n'existe en grande quantité que combiné à l'oxygène (H2O), au soufre (H2S) et au carbone (combustibles fossiles de types gaz ou pétroles). La production de dihydrogène nécessite donc soit de consommer des combustibles fossiles, soit de disposer d'énormes quantités d'énergie à faible coût, pour l'obtenir à partir de la décomposition de l'eau, par voie thermique ou électrochimique.
+
+Ensuite, le dihydrogène peut être comprimé dans des bouteilles à gaz (pression en général de 350 ou 700 bars), ou liquéfié ou combiné chimiquement sous forme de méthanol ou de méthane qui seront ensuite transformés pour libérer du dihydrogène. Les rendements énergétiques cumulés des synthèses du dihydrogène, de compression ou liquéfaction, sont généralement assez faibles. Le dihydrogène n'est donc pas une source d'énergie primaire, c'est un simple vecteur d'énergie difficile à produire et à stocker.
+
+Le principe de fonctionnement
+
+La pile à combustible fonctionne à l'inverse de l'électrolyse de l'eau pure. Elle transforme l'énergie chimique en énergie électrique directement. C'est un générateur.
+
+Elle est semblable à une pile ordinaire. Elle possède une cathode et une anode séparées par un électrolyte qui assure entre autres le passage du courant par transfert ionique des charges.
+Comme une pile classique, elle consomme son oxydant (ici le dioxygène O2) et son réducteur (ici le dihydrogène H2). Elle continue de fonctionner tant qu'elle est approvisionnée en dihydrogène et dioxygène. Le réducteur peut être aussi du méthanol ou du gaz naturel.
+
+ہ l'anode, a lieu la réaction d'oxydation suivante : H2 ? 2H+ + 2e-
+Il y a donc production de 2 électrons par molécule de dihydrogène.
+L'ion H+ passe de l'anode à la cathode et provoque un courant électrique par transfert des électrons dans le circuit électrique.
+ہ la cathode, les ions H+ sont consommés suivant la réaction de réduction: O2 + 4H+ + 4e- ? 2H2O
+
+La tension théorique produite est de 1.23 Volt pour une pile fonctionnant à 25°C avec de l'oxygène et de l'hydrogène purs à 1 bar. En pratique, la tension fournie par une pile débitant un courant électrique évolue généralement entre 0.5 et 0.8 Volt : cette perte de potentiel trouve son origine dans différents phénomènes physiques qui se produisent au niveau des électrodes, de l'électrolyte et des dispositifs de distribution des réactifs et d'évacuation des produits (en savoir plus).
+
+Une pile à combustible alimentée en hydrogène et en air ne produit que de l'eau dont on peut parfois observer directement la condensation lorsqu'elle fonctionne à basse température.
+
+Les réactions sont rendues possibles par la présence d'un catalyseur de dissociation de la molécule d'hydrogène qui peut être une fine couche de platine divisé sur un support poreux qui constitue l'électrode à dihydrogène.
+
+Pile à combustible au méthanol
+Il existe deux types de piles à combustible au méthanol :
+
+Les piles RMFC (Reformed Methanol Fuel Cell) : dans ces piles, le méthanol est reformé pour produire l'hydrogène qui alimentera la pile.
+Les piles DMFC (Direct Methanol Fuel Cell) : dans ces piles, le méthanol est directement oxydé dans le c?ur de la pile et ne nécessite pas d'être reformé.
+
+Tableau récapitulatif des différentes techniques de piles à combustible
+	|	Description	|	ةlectrolyte	|	Ions mis en ?uvre	|	Gaz/liquide à l'anode	|	Gaz à la cathode	|	Puissance	|	Température de fonctionnement	|	Rendement électrique	|	Maturité	|	Domaine	|
+	|	AFC - Pile à combustible alcaline	|	Hydroxyde de potassium	|	OH-	|	dihydrogène	|	dioxygène	|	10 à 100 kW	|	60°C à 90°C	|	Stack : 60-70 % Système : 62 %	|	Commercialisé/ Développement	|	Portable, transport	|
+	|	DBFC - Pile à combustible à hydrure de bore direct	|	Membrane protonique
+Membrane anionique
+	|	H+
+OH-
+	|	NaBH4 liquide	|	oxygène	|	250mW/cm²	|	20°C à 80°C	|	50% monocellule	|	Développement	|	portable <20W	|
+	|	PEMFC - Pile à combustible à membrane d'échange de protons	|	Membrane polymère	|	H+	|	dihydrogène	|	dioxygène	|	0,1 à 500 kW	|	60 à 100°C	|	Stack : 50-70 % Système : 30-50 %	|	Commercialisé/ Développement	|	portable, transport, stationnaire	|
+	|	DMFC - Pile à combustible à méthanol direct	|	Membrane polymère	|	H+	|	méthanol	|	dioxygène	|	mW à 100 kW	|	90 à 120°C	|	Stack : 20-30 %	|	Commercialisé/ Développement	|	transport, stationnaire	|
+	|	DEFC - Pile à combustible à éthanol direct	|		|		|		|		|		|	90 à 120°C	|		|	Développement	|		|
+	|	FAFC - Pile à combustible à acide formique	|		|		|		|		|		|	90 à 120°C	|		|	Développement	|		|
+	|	PAFC - Pile à combustible à acide phosphorique	|	Acide phosphorique	|	H+	|	dihydrogène	|	dioxygène	|	jusqu'à 10 MW	|	environ 200°C	|	Stack : 55 % Système : 40 %	|	Développement	|	transport, stationnaire	|
+	|	MCFC - Pile à combustible à carbonate fondu	|	Carbonate de métaux alcalins	|	CO32-	|	dihydrogène, Méthane, Gaz de synthèse	|	dioxygène	|	jusqu'à 100 MW	|	environ 650°C	|	Stack : 55 % Système : 47 %	|	Développement/ Mise sur le marché	|	stationnaire	|
+	|	PCFC - Pile à combustible à céramique protonante	|		|		|		|		|		|	700°C	|		|	Développement	|		|
+	|	SOFC - Pile à combustible à oxyde solide	|	Céramique	|	O2-	|	dihydrogène, Méthane, Gaz de synthèse	|	dioxygène	|	jusqu'à 100 MW	|	800 à 1050°C	|	Stack : 60-65 % Système : 55-60 %	|	Développement	|	stationnaire	|
+
+Applications et perspectives
+Grâce aux progrès incessants de ces techniques, dont les premiers développements dans le domaine spatial remontent aux années 1960, et à la baisse des prix, son utilisation croît dans de nouveaux domaines. Notamment pour alimenter des prototypes d'ordinateurs portables, de téléphones portables ou d'appareils photo ou encore de véhicules propres.
+
+Cependant, la viabilité industrielle à grande échelle de tels systèmes se heurte au faible rendement énergétique global de l'ensemble des opérations. En effet, chaque étape (synthèse de l'hydrogène, séchage du gaz, stockage, vaporisation, rendement des réactions électrochimiques de la pile, circulation des fluides, régulation thermique, maintenance, récupération du platine, etc.) réduit un rendement global encore très décevant. Il suppose donc la disponibilité d'une source d'énergie primaire économique et inépuisable à l'échelle humaine.
+
+D'autres voies de stockage et de transport de l'hydrogène peuvent aussi être envisagées pour réduire les pertes, comme par exemple, le conditionnement solide et stable de l'hydrogène sous forme de pastilles aminées.
+
+L'utilisation de la pile à combustible en cogénération, permettant de valoriser la production thermique de la pile, est considérée d'un point de vue environnemental et technique comme avantageuse mais demeure encore trop chère pour une utilisation courante.
+
+Programmes de recherche ou de développement
+
+Par zones géographiques
+Les ةtats-Unis développent de nombreux projets soutenus par le gouvernement, parfois présentés comme une des solutions majeures contre le réchauffement climatique.
+
+Au Canada, l'Institut d'Innovation en Piles à Combustible du Conseil National de Recherches du Canada (IIPC-CNRC), a été créé en septembre 2006 sur 6500 m², en Colombie britannique (UBC), dans la grappe technologique de la région de Vancouver, pilote dans ce domaine.
+Il vise à développer l'industrie de l'hydrogène et des piles à combustible au Canada. C'est une plate-forme de démonstration autant que de recherche, qui abrite aussi le Programme de Vancouver sur les véhicules à piles à combustible, ainsi que le projet d'autoroute de l'hydrogène de la Colombie britannique, épaulés par des labos consacrés à l'alimentation en hydrogène et aux techniques de piles à combustible intégrées. Le site dispose de pompes géothermiques et de moyens photovoltaïques de production d'hydrogène.
+
+En France, l'ADEME, EDF et le CEA ont installé un RESEAU "PILE A COMBUSTIBLE le 25 juin 1999 piloté par Catherine Ronge, directrice R&D d'Air liquide et Roger Ballay, directeur adjoint de la recherche à EDF, co-animé par l'ADEME et le Commissariat à l'Energie Atomique (CEA) avec pour mission d'accélérer les recherches sur la pile à combustible en identifiant les verrous technologiques, en animer la communauté scientifique autour d'un pôle d'expertise susceptible de valoriser et diffuser les avancées de la recherche, de développer les partenariats public-privé une réflexion prospective sur le développement de ces techniques.
+
+Depuis 2005, en France, le réseau PACo a été remplacé par le programme PANH (Plan d'action sur l'hydrogène et les piles à combustible) de l'ANR ([Agence Nationale de la Recherche])
+
+Automobile
+
+Daimler :
+
+NECAR
+Toute une famille de véhicules avec différents types de combustible (hydrogène gazeux, méthanol,...). A ce jour (2007) Daimler a construit le plus grand nombre de véhicules utilisant une pile à combustible (plus de 100). Mercedes a d'ailleurs annoncé la production en série pour le grand public de la classe B Hydrogène en 2010.
+
+Ford :
+
+Focus FCV
+
+General Motors :
+
+Hydrogen 3 présenté en mai 2004.
+Sequel voiture. La pile à hydrogène de 73 kW est alimentée par trois bouteilles à gaz bobinées composite de dihydrogène de 700 bars (2005).
+Chevy Volt: concept présenté en janvier 2007 au salon automobile de Detroit (ةtats-Unis).
+
+Michelin :
+
+prototype de voiture Hy-light fonctionnant avec une pile à hydrogène (présentation en mars 2005). La pile est alimentée par du dihydrogène provenant de trois bouteilles haute pression bobinées composite.
+prototype de voiture Hy-light 2 fonctionnant avec une pile à combustible fabriqué par Michelin même. Elle a été présentée en septembre 2007. Par rapport à la hy-light, la 2ème génération possède des batteries et plus des supercapacités.
+
+PSA :
+
+Projet GENEPAC (2002-2006) mené en collaboration avec le CEA. Pile hydrogène de type PEMFC de 80 kW.
+
+Toyota :
+
+Voiture cinq places FCHV-4 et bus FCHV-US1. Ces programmes ont été présentés pour la première fois en 2001. Ils comportent une pile à hydrogène de 90 kW.
+
+Suzuki (en collaboration avec General Motors) :
+
+Prototype de voiture Mr Wagon FCW'. La pile à hydrogène est alimentée par du dihydrogène contenu dans des réservoirs à 700 bars.
+
+Hyundai :
+
+Tucson FCEV : voiture hybride. La pile à hydrogène de 80 kW est alimentée par une bouteille à gaz bobinée composite.
+
+Honda :
+
+Honda FCX
+Honda CR-X
+
+Hummer :
+
+Hummer O2
+
+Peugeot
+
+Le modèle expérimental 207 CC
+
+BMW:
+
+BMW Hydrogen 7
+N'utilise pas de pile à combustible. Il s'agit d'un moteur à combustion classique utilisant de l'hydrogène comme combustible.
+
+Autres domaines
+
+Axane (Air liquide) :
+
+Evopac, système d'alimentation autonome alimenté par du dihydrogène.
+
+Système de refroidissement par évaporation inspiré des plantes vertes pour les piles à combustible des ordinateurs portables de demain.
+
+Cambridge Consultants
+
+Pôle de compétitivité Tenerrdis
+
+Références
+
+? [http://www.nni.nikkei.co.jp/AC/TNKS/Nni20070928D28JFF03.htm Nikkei Net] (29 septembre 2007) (en)
+
+Liens externes
+
+Site avec pages didactiques d'une équipe de recherche du CNRS et de Nancy-Université
+Site du HFC consulting group
+Dossier > La pile à combustible, pourquoi et comment ?
+Dossier > Pile à combustible - La fée hydrogène : l'énergie de demain ?
+Dossier illustré sur la pile à combustible
+Site consacré à la pile à combustible
+Site très complet sur la pile à combustible
+Dossier du commissariat à l'énergie atomique (CةA) sur les nouvelles techniques de l'énergie
+Application d'une pile à combustible dans une voiture pour le Shell Eco Marathon par des élèves de l'ESSTIN
+Dossier présentant le prototype Hy-Light de Michelin, voiture fonctionnant avec une PAC alimentée à l'hydrogène
+Site officiel de la Hy-light de Michelin
+TIPE sur la pile à combustible réalisé en 2005, avec élément de calcul du rendement
+
+Ouvrages de référence
+Benjamin Blunier et Abdellatif Miraoui, Piles à combustible, Principes, modélisation, applications avec exercices et problèmes corrigés, Ellipses, Technosup, 2007, 192 p. (ISBN 978-2-7298-3107-3).
+
+Méziane Boudellal, "La pile à combustible", Dunod, Technique et ingénierie, 2007, 304p. (ISBN 978-2-1005-0112-0)
+
+Liens internes
+
+Propulsion alternative
+
+Portail de la chimie
+Portail de l'énergie
+Portail de l'électricité et de l'électronique
+
+
+<#5673>
+Piloselle de Lepèletier
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Piloselle de Lepèletier	|
+	|		|
+	|	Hieracium peleterianum	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Magnoliophyta	|
+	|	Classe	|	Magnoliopsida	|
+	|	Ordre	|	Asterales	|
+	|	Famille	|	Asteraceae	|
+	|	Genre	|	Hieracium	|
+	|	Nom binominal	|
+	|	Hieracium peleterianum
+Mérat, 1812	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Asterales	|
+	|	Famille	|	Asteraceae	|
+	|	Références	|
+	|	Tela Botanica 33729	|
+	|		|
+	|	Feuilles	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+La Piloselle de Lepèletier (Hieracium peleterianum), également appelée ةpervière de Lepèletier, est une plante vivace du genre des ةpervières et de la famille des Astéracées.
+
+Description
+Feuilles hérissées de longs poils blanchâtres sur la face inférieure.
+
+Elémént caractéristique de la Piloselle de Lepèletier : Les fleurs ont leurs ligules externes rouge violacé sur leur face inférieure.
+
+
+<#5674>
+Pilatus PC-21
+
+
+	|	
+	|	
+Cet article ou cette section ne cite pas suffisamment ses sources.
+(date inconnue)
+Son contenu est donc sujet à caution. Wikipédia doit être fondée sur des sources fiables et indépendantes. Améliorez cet article en liant les informations à des sources, au moyen de notes de bas de page (voir les recommandations).	|
+
+	|	
+	|		|	Pilatus PC-21	|		|
+
+	|
+	|	
+
+	|
+	|	Rôle	|	Avion d'entraînement	|
+	|	Statut	|	{{{statut}}}	|
+	|	Constructeur	|	{{{constructeur}}}	|
+	|	Premier vol	|	{{{premiervol}}}	|
+	|	Mise en service	|	{{{miseenservice}}}	|
+	|	Date de retrait	|	{{{dateretrait}}}	|
+	|	Investissement	|	{{{investissement}}}	|
+	|	Coût unitaire	|	{{{coûtunitaire}}}	|
+	|	Nombre construit	|	{{{nombreconstruit}}}	|
+	|	ةquipage	|
+	|	Un pilote et un instructeur	|
+	|	Motorisation	|
+	|	Moteur	|	Un turbopropulseur Pratt & Whitney Canada PT6A-68B 1600hp	|
+	|	Nombre	|	{{{nombredemoteur}}}	|
+	|	Type	|	{{{typedemoteur}}}	|
+	|	Puissance unitaire	|	{{{puissanceunitaire}}}	|
+	|	Dimensions	|
+	|	[[Image:{{{plan3vues}}}|275px|center]]	|
+	|	Envergure	|	9.11 m	|
+	|	Longueur	|	11.23 m	|
+	|	Hauteur	|	4.05 m	|
+	|	Surface alaire	|	{{{surfaceaile}}} m²	|
+	|	Masses	|
+	|	ہ vide	|	2270 kg	|
+	|	Carburant	|	{{{carburant}}}	|
+	|	Avec armement	|	{{{masseavecarme}}} kg	|
+	|	Maximale	|	4250 kg	|
+	|	Performances	|
+	|	Vitesse maximale	|	{{{vitessemaxi}}} km/h (Mach ???)	|
+	|	Vitesse de décrochage	|	{{{vitessemini}}} km/h	|
+	|	Plafond	|	11582 m	|
+	|	Vitesse ascensionnelle	|	1219 m/min	|
+	|	Distance franchissable	|	1295 km	|
+	|	Charge alaire	|	{{{chargealaire}}} kg/m²	|
+	|	Rapport poids/poussée	|	{{{poidspoussée}}}	|
+	|	Armement	|
+	|	Interne	|	{{{armeprincipale}}}	|
+	|	Externe	|	{{{armeaux}}}	|
+	|	Avionique	|
+	|	{{{avionique}}}	|
+
+Le Pilatus PC-21 est un avion d'entraînementsuisse construit par Pilatus Aircraft.
+
+Conception
+Le PC-21 est, comme son illustre prédécesseur le Pilatus PC-7 et le moins connu PC-9, un avion d'entraînement destiné à la formation des pilotes. Beaucoup moins coûteux que les jets, il présente néanmoins de nombreuses qualités aéronautiques, ainsi qu'un cockpit moderne.
+
+Aujourd'hui, ayant dépassé le stade de prototype et reçu les autorisations nécessaires, il commence à être industrialisé. Les forces aériennes suisses ont commandés 6 appareils et la république de Singapour en a commandé 19.
+
+Développement
+Le développement du PC-21 a officiellement commencé en novembre 1997, lorsque Pilatus a fait voler pour la première fois son PC-7 Mk II évolution du PC-7 Turbo Trainer. Ce modèle comportait de nombreuses améliorations pouvant présager d'un prochain avion d'entraînement à turbo-prop.
+
+Le premier prototype est sorti d'usine en avril 2002 et a volé pour la première fois le 1er juillet de la même année. Le second prototype a volé le 7 juin 2004. Un des prototypes s'est crashé le 13 janvier 2005 à Buochs en Suisse suite à une erreur de pilotage lors d'un entrainement en vu d'un air show. Le pilote d'essai est décédé et une personne au sol a été blessée.[1]
+
+Engagement
+Cet appareil est surtout utilisé pour la formation avancée des pilotes et leur perfectionnement.
+
+Dispositifs
+Le PC-21 est équipé d'un habitacle ultra-moderne. Il est pressurisé, son cockpit affiche 3 écrans à cristaux liquides pour les informations des systèmes standards. Il dispose également d' un afficheur tête haute (HUD).
+
+Galerie photos
+	|	
+
+Pilatus PC-21
+	|	
+
+Pilatus PC-21
+	|	
+
+Pilatus PC-21
+	|	
+
+Pilatus PC-21
+	|
+	|	
+
+Pilatus PC-21
+	|
+
+
+<#5675>
+PiHex
+
+PiHex était un projet visant à obtenir des chiffres du nombre pi écrit en binaire. Le projet PiHex a permis, en particulier, de déterminer le 1015e bit de pi (et les 76 suivants) ce qui reste un record à ce jour. L'algorithme de calcul utilise la formule de Bellard, une version améliorée de la formule de Bailey, Borwein et Plouffe. Le projet utilisait des resources de calcul distribuées sur presque 2 000 ordinateurs. Le projet PiHex a pris fin le 11 septembre 2000.
+
+Le projet est une conséquence de la formule obtenue par David Bailey, Peter Borwein et Simon Plouffe en 1995 qui permet de calculer des chiffres hexadécimauxisolés du nombre pi, sans avoir à calculer les précédents. L'objectif du projet PiHex est de calculer, non pas le plus de bits de pi après la virgule, mais les bits de pi les plus loins après la virgule[1].
+
+Le projet PiHex a établi plusieurs records successifs :
+
+le 30 août 1998, calcul du cinq billionième bit de pi (et des 76 bits suivants) ;
+le 9 février 1999, calcul du quarante billionième bit de pi (et des 76 bits suivants) ;
+le 11 septembre 2000, calcul du mille billionième bit de pi (et des 76 bits suivants).
+
+Le calcul du mille billionième bit a pris 1,2 million d'heures CPU[2] et l'utilisation de 1 734 ordinateurs dans 56 pays.
+
+Notes
+
+? Par exemple, les 9 premières décimales fractionnaires (après la virgule) de pi sont 141592654, donc les premiers bits fractionaires sont 00100100001111. Et le 10e bit le plus loin après la virgule est 0.
+? Pour donner un ordre de grandeur, sur un seul ordinateur ce calcul aurait pris 137 ans. Cependant pour être exact il faudrait décompter le coût de la distribution du calcul sur de nombreuses machines.
+
+
+<#5676>
+Pihem
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune du Pas-de-Calais.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pihem	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	Nord-Pas-de-Calais	|
+	|	Département	|	Pas-de-Calais	|
+	|	Arrondissement	|	Saint-Omer	|
+	|	Canton	|	Lumbres	|
+	|	Code Insee	|	62656	|
+	|	Code postal	|	62570	|
+	|	Maire
+Mandat en cours	|	Jean-Claude Coyot
+2008-2014	|
+	|	Intercommunalité	|	Communauté de communes du Pays de Lumbres	|
+	|	Latitude
+Longitude	|	50° 41' 02" Nord
+
+2° 12' 50" Est/50.6838888889, 2.21388888889	|
+	|	Altitude	|	70 m (mini) - 134 m (maxi)	|
+	|	Superficie	|	7,13 km²	|
+	|	Population sans
+doubles comptes	|	893 hab.
+(1999)	|
+	|	Densité	|	125 hab./km²	|
+
+Pihem est une communefrançaise, située dans le département du Pas-de-Calais (62) et la régionNord-Pas-de-Calais.
+
+Ses habitants sont les pihémois.
+
+Armoiries
+
+Le blason porte un lion noir, marque de la famille de Fiennes, longtemps maîtresse du territoire.
+
+Généralité
+Pihem signifie "la maison du puits". Les habitations se répartissent entre le village et 2 hameaux qui sont Bientques et Petit Bois.
+
+Toponymie
+Pihem est un nom composé de deux syllabes celtoteutoniques : "Pi" et "Hem".
+
+Pi vient de Pit/Put/Putja, signifiant puits et Hem de Hem/Heim/Haim signifiant maison. Ce qui veut dire la maison du puits. ہ signaler l'installation de ce village sur une hauteur , d'où la nécessité d'un puits pour accéder à l'eau, source de vie.
+
+Bientques : est un nom gallo germanique avec un suffixe latin -inal-inas, et de Bekko/Bikko, nom d'homme germanique.
+
+Lespinoy : (Espinoy). Epoque médiéval à partir de Spinetum signifie lieu planté d'épines. Indique sans doute un défrichement.
+
+Petit Bois : appelé en 1412 Bus d'aval, le bois d'amont signifiant hameau installé près (ou à la place) du petit bois de Pihem.
+
+Géographie
+Latitude 50° 41' 02" Nord Longitude 02° 12' 50" Est Altitude 70 m (mini) - 134 m (maxi) Superficie 713 ha = 7,13 km²
+
+Histoire
+Des silexnéolithiques furent découverts dans le l?ss, laissant penser que le territoire était déjà occupé à la fin de la préhistoire (de 6000 à 2 500 av. J.-C.).
+
+A l'époque gallo-romaine, le territoire fait partie de la cité des Morins, dont le siège se trouvait à Tarvanna (Thérouanne).
+
+En 1072, on retrouve la trace du fief de Bienquennes, qui faisait partie de la banlieue de Saint-Omer , sous le Comte d'Artois.
+
+Quartiers
+Un quartier du village s'appelle "Le Tonkin", parce que, dit-on, il y eut des querelles de femmes pendant la guerre d'Indochine.
+A l'extrémité du village, près de la route départementale 928 allant à Wizernes, au fond d'un vallonnement, se trouve un endroit connu sous le nom de "Haies de Cambennes", plus communément appelé "Le coupe-gorge", probablement dû au fait qu'en 1769, un inconnu hollandais, Nicolas Lacroix, étranger au pays, fut retrouvé tué dans un champ de blé à cet endroit.(extrait du registre d'état civil de Pihem de 1769).
+
+Administration
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	mars 2001	|	2008	|	André Delobel	|		|		|
+	|	mars
+2008	|		|	Jean-Claude Coyot	|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+Démographie
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|
+	|	519	|	532	|	515	|	616	|	802	|	893	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes	|
+
+Lieux et monuments
+Il y a les ravins de Pihem se situant au 2/3 sur la commune d'Halline. L'église de pihem.
+
+Personnalités liées à la commune
+
+
+<#5677>
+Pihen-lès-Guînes
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune du Pas-de-Calais.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pihen-lès-Guînes	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	Nord-Pas-de-Calais	|
+	|	Département	|	Pas-de-Calais	|
+	|	Arrondissement	|	Calais	|
+	|	Canton	|	Guînes	|
+	|	Code Insee	|	62657	|
+	|	Code postal	|	62340	|
+	|	Maire
+Mandat en cours	|	Jean-Luc Marot
+2008-2014	|
+	|	Intercommunalité	|	Communauté de communes du Sud-Ouest du Calaisis	|
+	|	Latitude
+Longitude	|	50° 52' 20" Nord
+
+1° 47' 15" Est/50.8722222222, 1.7875	|
+	|	Altitude	|	23 m (mini) - 121 m (maxi)	|
+	|	Superficie	|	9,25 km²	|
+	|	Population sans
+doubles comptes	|	394 hab.
+(1999)	|
+	|	Densité	|	42 hab./km²	|
+
+Pihen-lès-Guînes est une communefrançaise, située dans le département du Pas-de-Calais et la régionNord-Pas-de-Calais.
+
+Géographie
+
+Histoire
+Le nom de Pihen apparaît pour la première fois dans la charte de fondation de l'abbaye d'Andres en 1084, sous la forme Pithem, du germanique pit (puits) + heim (habitation, village), devenu PIHEN par amuissement du T. On écrit -HEN dans le Calaisis et le Boulonnais, -HEM ailleurs. Pihem (près de Wizernes) est le même mot que Pihen, ce qui entraîna de nombreuses erreurs dans l'acheminement du courrier et amena la commune à modifier son nom en Pihen-lès-Guînes en 1923.
+
+Il n'est pas douteux que le village soit très ancien. On aurait retrouvé des sépultures remontant à l'époque du haut Moyen آge, notamment des sépultures en forme de sarcophages et des squelettes reposant directement sur la craie. Des tuiles très épaisses, façonnées à la main, ont été à plusieurs reprises remontées à la surface d'un champ par le soc d'une charrue. Témoins de temps beaucoup plus reculés, des défenses de mammouth et un crâne de rhinocéros furent mis au jour lors de la construction de la route départementale.
+
+ہ noter "l'étoile itinéraire" que constitue le centre du village où viennent aboutir 7 chemins, dont plusieurs remontent au Moyen آge. La commune est traversée de part en part sur un axe est-ouest par une voie antique que l'on considère comme romaine, branche dérivée, à Guînes, de la Leulène (ou chemin de Leulingue) qui va en droite ligne de Thérouanne à Sangatte. Cette branche dérivée de voie romaine relie Guînes à Wissant qui était un port d'embarquement vers l'Angleterre très fréquenté au Moyen آge. Ce chemin est une portion de la Via Francigena, chemin de pèlerinage qui reliait Canterbury (ou Cantorbéry) à Rome dont Sigéric, archevêque de Canterbury de 989 à 994 fait la plus ancienne description en 990 lors de son retour de Rome. Cet itinéraire, en 80 étapes d'environ 20 km, est connu par un manuscrit. C'est sur la base de cet itinéraire, plus anciennement attesté même que celui de Compostelle, qu'a été balisé l'itinéraire actuel.
+
+Au Moyen آge, Pihen fit partie du Comté de Guînes, puis demeura aux Anglais de 1347 à 1558, comme toutes les paroisses du Calaisis. Après la libération par François, deuxième Duc de Guise, en 1558, Pihen fait partie du "pays reconquis" : après le départ des colons anglais établis depuis la capitulation de Calais en 1347 et l'expulsion des propriétaires français, il faut répartir les terres entre leurs nouveaux propriétaires. En 1560 on compte onze propriétaires sur une surface de 1307 mesures environ pour quinze propriétaires en 1585 se partageant environ 2000 mesures (actuellement 925 hectares).
+
+Les tribulations de Pihen n'étaient pas terminées pour autant. ہ cette époque, les rois de France et d'Espagne étant en guerre, le territoire de Pihen était dans la zone des combats, les Espagnols venant de la Flandre voisine qui était alors en leur possession. Un jour on était aux Français et le lendemain on pouvait se retrouver Espagnol. Ce qui fut le cas de 1596 à 1598. L'ancienne église, du XIIIe siècle, en fit les frais puisqu'elle fut incendiée à cette époque.
+
+Administration
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	mars
+2008	|		|	Jean-Luc Marot	|		|		|
+	|	mars 2001	|	2008	|	Christian Drincqbier	|		|		|
+	|	1995	|	2001	|	Thierry Calais	|		|		|
+	|	1983	|	1995	|	Pascal Potterie	|		|		|
+	|	1945	|	1983	|	Jean-Charles Level	|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+Démographie
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|	2003	|
+	|	331	|	349	|	309	|	357	|	413	|	394	|	470	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes	|
+
+Lieux et monuments
+
+L'église Notre-Dame de l'Annonciation
+
+L'église était anciennement placée sous le vocable de la Nativité de la Sainte Vierge.
+
+De l'édifice du XIIIe siècle ne subsiste plus que le ch?ur. De forme polygonale à trois pans, il est éclairé par des fenêtres à lancette. Ses voûtes à nervures sont supportées par des colonnes dont le fût très mince est accolé aux angles de la construction et surmontés de chapiteaux qui forment crochets. Les murs sont en craie taillée, sur les angles du chevet s'appliquent des contreforts peu saillants dont la base se perd dans les sous-bassements de l'église.
+
+D'après les notes de l'abbé Haigneré (historiographe du Pas-de-Calais du XIXe siècle), une tour se trouvant entre le ch?ur et la nef présentait des arcades romanes dans sa partie basse. Cette tour n'existe plus. La nef a été reconstruite vers le milieu du XIXe siècle. Un clocher qui fait porche la précède. Celui-ci abrite deux cloches qui portent des inscriptions relatives à leur baptême.
+
+Grosse cloche : Eugénie, 1836, bénite par Mr Lattaignant, curé de Pihen. Parrain : Roger, baron de Colbert de Castel Hill. Marraine : Eugénie Podevin, née Devin des Ervilles. Mr Adolphe Podevin-Carpentier étant maire de Pihen.
+
+Petite cloche : Augustine-Georgina, 1888, bénite par Mr Gallais, curé doyen de Guînes. Parrain : M. Georges Van Robais. Marraine : Augustine Mollien Devin des Ervilles. Mr Eugène Rémy étant curé et M. Férréol, maire.
+
+La croix de fer surmontant le clocher est cantonnée par des spirales donnant la date de 1826
+
+Les notes de l'abbé Haigneré signalent plusieurs épitaphes anciennes dont celle sur une dalle en pierre bleue de Marquise dans le pavage de la basse église portant le nom de Bernard Cannet, marchand à Boulogne-sur-Mer, décédé le 3 janvier 1709. En 1970, la réfection du dallage du ch?ur, une pierre tombale très bien conservée à été mise à jour portant le nom d'Adrien le Roy, décédé le 8 septembre 1634.
+
+L'ancien cimetière, qui entourait l'église, compte plusieurs pierres tombales anciennes en pierre grise de Marquise, ainsi celles d'Alexandre-Roger de Colbert de Castel Hill, décédé au château de la Rocherie le 19 juillet 1829 et de François de Reynaud d'Arnaud.
+
+Le nouveau cimetière, transféré depuis assez longtemps, est situé à quelques distances dans l'ancien "Courtil des Rois". La croix du cimetière fut érigée le 27 juin 1875 par Alphonse de Guizelin et sa femme Louise de Montbrun.
+
+Le château d'Alenthun
+
+Le manoir du Beauregard
+
+Le château de la Rocherie
+
+Le château de la Quennevacherie
+
+L'ancien moulin
+
+Situé sur la hauteur, sur la route de Bonningues-lès-Calais existe toujours une tour ruinée qui autrefois était un moulin à vent.
+
+Ce moulin construit en brique de sable sur fondation de pierre de Landrethun date de 1839. Certaines anciennes cartes postales lui donnent le nom de "moulin Lay" ou "moulin Lay-Tristam". Près de l'entrée tournée vers Calais une niche datée de 1879, encore visible, abritait une statue en bois peint représentant saint Donat (l'iconographie de ce saint le représente avec des cheveux et une barbe semblables à ceux du Christ, les bras à l'horizontale (tendus en avant), la main droite tenant un glaive, pointe en l'air.
+
+Il s'agissait d'un moulin de type "tour", celui-ci a généralement un corps fixe en pierre ou en briques, surmonté d'une toiture pouvant pivoter, seule, sur 360°. Elle supporte les ailes et abrite le rouet et la lanterne. Pour mettre les ailes face au vent, l'arrière du moulin est équipé d'une guivre (queue) descendant jusqu'au sol à la disposition du meunier. Des cartes postales anciennes montrent que les ailes sont de type "flamand" : les ailes sont dissymétriques, chacune d'elles peut atteindre jusqu'à 12 mètres, créant une envergure de 24 ou 25 mètres. Le côté droit est équipé de planches inclinées formant le bord étroit de l'aile, le côté gauche se compose d'un quadrillage de barreaux et de lattes.
+
+Cimetière du Commonwealth britannique
+
+Personnalités liées à la commune
+
+Famille Colbert de Castel Hill, liée à Colbert, ministre de Louis XIV. Voir Maison de Colbert
+
+Famille de Hautecloque. Voir Maréchal Philippe Leclerc de Hauteclocque
+
+Famille Van Robais. Voir Château de Bagatelle à Abbeville
+
+
+<#5678>
+PIHDA
+
+
+	|	
+	|	
+Cet article ou cette section doit être recyclé.
+Une réorganisation et une clarification du contenu est nécessaire. Discutez des points à améliorer en page de discussion.	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la médecine et la Côte d'Ivoire.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+La Polyclinique Internationale Hotel Dieu d'Abidjan est établissement médical privé multidisciplinaire fondé en 1996 par le chirurgien Assad Bassit.
+
+L'établissement composé de deux unités est normalisé depuis 2004 selon la norme QC100.
+
+Plateaux technique
+
+62 Chambres dont 06 suites,
+05 Blocs opératoires,
+04 Salles de réanimation,
+01 Bloc endoscopique,
+01 unité d'urgence,
+03 ambulances et 2 véhicules de liaison,
+03 Salles d'accouchement,
+02 Salles de réanimation néonatalogie (photothérapie),
+02 Salles de radiographie télécommandée avec amplificateur de brillance et développeuse automatique,
+02 Radios mobiles,
+15 Scopies,
+05 Echographies - Doppler,
+01 Panoramique dentaire,
+01 Mammographie,
+01 Scanner multibarette,
+02 Dopplers (1 Fixe - 1 Mobile),
+02 Pharmacies,
+01 Salle d'hémodialyse avec 05 appareils,
+13 Salles de consultation,
+01 Cabinet dentaire complet,
+01 Salle de consultation mixte avec équipement d'investigation à titre externe,
+01 équipement complet pour toutes les opérations endoscopiques y compris l'endoscopie urologique et l'arthroscopie,
+01 équipement complet de Traumatologie Orthopédie,
+01 équipement complet de chirurgie maxillo-faciale,
+01 équipement pour la chirurgie ORL,
+01 équipement pour la neurochirurgie,
+01 équipement pour la coelio Chirurgie,
+01 équipement pour la chirurgie urologique,
+01 équipement pour la chirurgie Ophtalmologique.
+
+Toutes les explorations ambulatoires : ECG, EMG (dernière génération), EEG (36 pistes), Audiométrie, Cystoscopie, etc.?. peuvent être effectuées.
+
+Prix Obtenus
+
+Quality Summit Award - New York 2005
+Etoile Internationale de la Qualité - Paris 2006
+Century International Quality ERA Award - Genève 2007
+
+Liens externes
+
+site officielle
+

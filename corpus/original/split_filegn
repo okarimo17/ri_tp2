@@ -1,0 +1,3000 @@
+﻿L'alimentation en courant électrique du réseau a été partagé en deux secteurs, le sud étant suralimenté tandis que le nord manquait d'énergie. A 17h45, l'ensemble de l'alimentation électrique était passée hors tension et 1.500 trains étaient en panne sur le réseau.
+
+Panne européenne de novembre 2006 - 10 millions de clients touchés
+Le 4 novembre 2006, une panne de grande importance a touché le réseau de l'UCTE, privant d'électricité environ 10 millions de clients.
+
+L'origine serait la mise hors-service programmée de deux lignes 400kV, pour laisser le passage à un navire à Ems, en Allemagne. Les lignes restantes auraient commencé à surchauffer, provoquant leur déconnexion. Par un "effet domino" de report de charge, de nombreuses autres lignes auraient décroché, entrainant pratiquement une scission du réseau de l'UCTE en 2, suivant une ligne Nord-Sud. [4],[5].
+
+Les conséquences de cette panne d'électricité ont été aggravées par le comportement d'ensemble de la production décentralisée. Dans la plupart des pays européens, ce comportement a été marqué par le caractère aléatoire des déconnexions et des reconnexions des centrales éoliennes.
+
+L'Europe de l'Ouest étant alors en déficit de production, des délestages ont été nécessaires pour éviter un écroulement total du réseau. Environ 10% des clients ont dû être déconnectés.
+
+L'ensemble du réseau a pu être rétabli en environ une heure.
+
+Panne électrique en Californie en Janvier 2008 privant 615 000 foyers suite à une tempête
+Les vendredi 04 et samedi 05 janvier plus de 600.000 foyers et entreprises sont privés de courant suite à une tempête cyclonique ayant entraîné de fortes pluies et d'abondantes chutes de neige en altitude en Californie du Nord selon la compagnie d'électricité Pacific Gas and Electric.
+
+Panne électrique en Floride le 26 Février 2008
+Trois millions de personnes sont touchées par une une énorme panne électrique en Floride USA suite à un problème technique dans une station secondaire vers Miami. Deux réacteurs nucléaires sont arrêtés[6].
+
+Mécanismes conduisant aux grands incidents
+Les systèmes électriques des grands pays sont conçus, construits et exploités de telle sorte que les utilisateurs du réseau ne subissent pas, dans certaines limites, les conséquences des aléas les plus courants. Par exemple, la règle du « N-1 », en vigueur sur le réseau UCTE, prévoit que le réseau électrique doit rester viable après la perte de n'importe quelle ligne ou de n'importe quel groupe. En France, où le référentiel de la sûreté du système électrique est plus exigeant, on applique la règle dite « N-k », avec k>1: typiquement, aucun écroulement du réseau ne doit se produire, même si 2 groupes de production déclenchent.
+
+Mais, comme on peut le voir à travers les exemples de grandes pannes précédents, il peut survenir des situations beaucoup plus complexes résultant d'incidents multiples, très proches dans le temps voire simultanés, associés parfois à des défaillances de systèmes de protection, de régulations ou d'opérateurs. Le retour d'expérience sur les grands incidents montre qu'ils sont toujours la conséquence d'une combinaison de plusieurs aléas.
+
+En dépassant le cadre des aléas initiaux primaires (perte d'un groupe de production par exemple) et de leurs combinaisons potentielles multiples, l'analyse des grands incidents montre également que si l'on se place à un niveau plus synthétique, la genèse d'un grand incident se traduit souvent par l'un des quatre phénomènes électromécaniques suivants[7],[8],[9] :
+
+la cascade de surcharges de lignes de transport et leur déclenchement ;
+l'écroulement de fréquence ;
+l'écroulement de tension ;
+la rupture de synchronisme entre les groupes de production.
+
+Lorsque les grands incidents sont très complexes et se produisent sur des réseaux étendus, ces quatre phénomènes peuvent se succéder, se superposer ou s'associer ; ainsi, l'incident du 19 décembre 1978 en France a commencé avec le phénomène 1 puis s'est accéléré et étendu avec le phénomène 4 ; l'incident européen du 4 novembre 2006 a commencé avec le phénomène 1 et s'est poursuivi avec le phénomène 2.
+
+A la fin des années 90, certains auteurs ont évoqué un cinquième phénomène : l'apparition d'oscillations à basse fréquence entre des parties importantes d'un système électrique très étendu ; cependant, si l'utilisation d'enregistreurs très perfectionnés, tels que les WAMS[10] (Wide Area Measurement Systems), montre que les grands systèmes électriques sont effectivement parfois sujets à occurrences d'oscillations à basse fréquence mal amorties, aucun grand incident n'est encore survenu suite à ce phénomène.
+
+Mesures préventives
+Parmi les mesures préventives mises en ?uvre par les compagnies d'électricité pour éviter les pannes de courant majeures[11], on peut citer :
+
+Enfouissement des lignes électriques pour diminuer la sensibilité du réseau aux perturbations atmosphériques (foudre, verglas, ..)
+Redondance des lignes électriques pour que la défaillance d'une simple ligne ne conduise pas à un évènement indésirable
+Maintien d'une réserve de puissance dans les centrales électriques
+Interconnexion avec les pays voisins pour augmenter la stabilité du réseau
+Systèmes spécifiques d'amélioration de la stabilité du réseau FACTS
+Nécessité que les exigences en matière de stabilité des installations de production décentralisée lors de la survenue de variations de la fréquence du réseau interconnecté synchrone soient plus contraignantes, c'est-à-dire n'agréer les éoliennes que si elles continuent à fonctionner quand la fréquence du réseau chute et qu'il faut absolument soutenir le réseau au lieu de se déconnecter.
+
+Très souvent, les pannes majeures sur un réseau électrique font intervenir un déséquilibre entre la production et la consommation. Le principale moyen de se prémunir contre ce phénomène est de mettre en place des plans de délestage.
+
+Parades[12],[13]
+La prévention des grandes pannes d'électricité, qui est l'un des objets de la sûreté de fonctionnement des systèmes électriques, est une activité complexe qui repose sur la mise en ?uvre de dispositions multiples, qui doivent être adaptées à la dynamique des quatre phénomènes électromécaniques exposés dans le chapitre précédent. Ces dispositions doivent permettre de prévenir, détecter et traiter les dysfonctionnements pouvant conduire à l'apparition de l'un de ces phénomènes, et, si le phénomène se produit malgré tout, d'en contrôler l'évolution.
+
+Une conception robuste de la prévention des grandes pannes demande de s'appuyer sur une organisation conceptuelle rigoureuse. Les dispositions de défense du système électrique français géré par RTE, dont le Club des Opérateurs de Grands Réseaux souligne qu'elles doivent être considérées comme l'une des meilleures approches au monde[14], reposent sur la mise en ?uvre de lignes de défense successives, selon l'approche dite « défense en profondeur ». Ces dispositions portent d'une part sur le domaine matériel, d'autre part sur le domaine organisationnel et humain. Les lignes de défense se rapportent à trois volets différents : la prévention et la préparation, la surveillance et l'action, et enfin les parades ultimes.
+
+La prévention et la préparation consistent à faire en sorte que les phénomènes redoutés ne puissent pas s'amorcer, à se protéger contre les défaillances possibles des équipements par la redondance matérielle et fonctionnelle, à identifier les activités à risque et à les garantir par leur mise sous assurance qualité. Le système électrique doit également être conçu de façon à pouvoir supporter certains aléas, ce qui est nécessaire puisque on ne peut jamais empêcher totalement l'occurrence d'aléas (le retour d'expérience est là pour le montrer).
+
+Le volet de la surveillance et de l'action regroupe les actions qui permettent de détecter les écarts des grandeurs (fréquence, tension, courants?) qui sont caractéristiques du bon fonctionnement du système électrique, et de déclencher les actions appropriées - manuelles ou automatiques - lorsque c'est nécessaire.
+
+Le troisième volet est le registre ultime. Quelles soient les précautions prises avec les deux volets précédents, nul exploitant de réseau n'est totalement à l'abri de l'initialisation d'une grande panne. Lorsque l'on parvient à ce stade, il faut procéder à des actions exceptionnelles pour enrayer l'écroulement, quitte à devoir perdre une partie du réseau ou de la consommation, faute de quoi on risque de perdre la totalité du réseau (ainsi, le 4 novembre 2006, la totalité du réseau européen aurait pu être perdue si la chute de fréquence s'était prolongée quelques secondes de plus, et seul le délestage fréquencemétrique automatique a sauvé la situation). Ces mesures doivent être extrêmement rapides ; c'est pourquoi le recours aux actions humaines ne suffit pas, et il faut s'appuyer sur des dispositifs automatiques.
+
+Différentes conceptions existent dans le monde quant à la conception de ces dispositifs automatiques. Elles dépendent en particulier de la structure du système électrique concerné, et des ressources qui peuvent être dégagées. En effet, la conception de dispositifs automatiques a toujours un coût, alors qu'au contraire on ne peut jamais être totalement sûr que ces dispositifs seront efficaces (au contraire, ils peuvent même être à l'origine de fonctionnements intempestifs). Il y a donc un équilibre à trouver.
+
+Dans certains systèmes électriques, on considère qu'il est trop coûteux et trop complexe de se protéger, et il n'y a pas vraiment de mise en place de dispositifs, hormis des dispositions relativement rustiques de délestage. On admet alors que le réseau s'écroule, et on cherche à le remettre en service au plus vite.
+
+Dans d'autres pays où la structure du réseau électrique est assez simple, on considère qu'on peut se protéger en cherchant à détecter par des études en amont (études de stabilité notamment) les combinaisons d'aléas à redouter (par exemple la perte simultanée de telle ligne et de tel groupe de production), puis l'on met en place pour chaque combinaison redoutée un automatisme capable de détecter l'occurrence et d'entreprendre une action appropriée que l'on aura identifiée (en général, il s'agit d'action sur la topologie, la production et la consommation). Dans cette approche, qui est appelée « événementielle », on met ainsi en place une série d'automates spécifiques (SPS[15] ou Special Protection Schemes dans la terminologie anglaise). Ainsi, le Brésil recourt beaucoup à de tels équipements.
+
+Dans les systèmes électriques plus complexes, comme le réseau nord-américain, ou comme le réseau européen qui est encore plus maillé, une telle conception ne convient pas : l'identification des combinaisons à redouter serait beaucoup trop compliquée, et demanderait un nombre considérable de SPS ; de plus, compte tenu des évolutions incessantes du contexte électrique, il faudrait sans cesse changer les fonctionnalités et l'emplacement de ces équipements ; par ailleurs, il y a toujours un risque non négligeable qu'un SPS, conçu théoriquement pour agir sur une occurrence précise, s'active de façon indésirable dans d'autres configurations non prévues. C'est pourquoi on préfère revenir à la source et mettre en place des dispositifs capables de détecter l'émergence du phénomène électromécanique redouté lui-même, et d'enclencher des actions. Ainsi, les dispositions de défense sont conçues en France de façon à savoir détecter l'écroulement de tension, ou la perte de synchronisme entre zones du réseau[16]. Ceci n'exclut pas de compléter ces dispositions par un nombre très limité de SPS.
+
+Mesures correctives
+
+Références
+
+? D. Hoffmann, A. Cayol, Y. Harmand, J.M. Tesseron, "Mémento de la sûreté du système électrique" (première édition), ISBN n°2-9513605-0-9, Edition VBD, Montrouge, 1999 - Réédition en 2004 disponible en ligne sur le site officiel de RTE
+? A. Merlin, "Les grandes pannes des réseaux électriques (Europe, USA) sont-elles dues à l'ouverture du marché de l'électricité?", Revue de l'Electricité et de l'Electronique (REE), n°3, mars 2004
+?- OFEN - Rapport suisse sur le black-out du 28 septembre 2003
+?A. Merlin et J.P. Desbrosses, European Incident of 4 th November 2006 The events and the first lessons drawn, revue Electra, février 2007
+? J.M. Tesseron, Bilan 2006 de la sûreté du système électrique français, disponible en français et en anglais sur le site officiel www.rte-france.com de RTE
+?(en)Power returns for most Fla. customers, sur usatoday.com
+? A. Cheimanoff, L. Feignier, J.C. Gougeuil, "Analyse des incidents d'exploitation conduisant à un fonctionnement dégradé: 1) Facteurs propices à un fonctionnement dégradé et mécanismes correspondants, 2) Analyse de quatre processus de dégradation", Revue Générale de l'Electricité (RGE), tome 87, n°3, mars 1978
+? J.P. Barret, A. Cheimanoff, F. Maury, "Conditions générales de conception et d'exploitation d'un système de production et transport d'électricité: rappel sur les causes générales des incidents graves", Revue Générale de l'Electricité (RGE), tome 89, n°4, avril 1980
+?Michel Aguet, Sûreté des grands réseaux électriques, Forum E'Cité-Genève -SIG, 1er juillet 2005
+? voir le numéro 2 de Réseaux, bulletin du chapitre français IEEE Power Engineering Society, disponible sur le site IEEE PES France
+? J.M. Tesseron, G. Testud, D. Hoffmann, Y. Harmand, "Les dispositions de défense contre les écroulements du réseau électrique français", Revue de l'Electricité et de l'Electronique (REE), n°9, octobre 2002
+? "Defense Plan against extreme contingencies", revue ELECTRA du CIGRة, n°231, avril 2007
+? "Defense Plan against extreme contingencies", rapport de la Task Force CIGRE C2.02.24, avril 2007
+? H. Tanaka, M. Kaminaga, M. Kormos,Y. Makarov, T. Baffa Scirocco, J.M. Tesseron, I. Welch, Cascading events and how to prevent them, Very Large Power Grid Operators Working Group, White Paper, Oct 25, 2005
+? CIGRE, Task Force 38.02.19, Brochure Technique 187, System Protection Schemes in Power Networks, juin 2001 »
+?Jean-Michel Tesseron, "Mission: Sûreté - Lutter contre les blackouts", Conférence AG IEEE France Section, 14 mars 2008
+
+
+<#10849>
+Panthère de Bangangté
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un club de football et le Cameroun.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|		|	Panthère de Bangangté	|		|
+
+	|
+	|		|
+	|	Club fondé en	|		|
+	|	Couleurs	|	Vert et jaune	|
+	|	Stade	|	Stade municipal de Bangangté
+(20 000 places)	|
+	|	Président	|		|
+	|	Entraîneur	|		|
+	|	Siège	|	PO Box
+Bangangté	|
+	|	
+	|		|		|		|
+	|		|
+	|		|
+	|		|
+	|	Extérieur	|
+
+	|	
+	|		|		|		|
+	|		|
+	|		|
+	|		|
+	|	Domicile	|
+
+	|
+
+La Panthère sportive du Ndé est un club camerounais de football basé à Bangangté chef-lieu du département du Ndé (Ouest Cameroun) et évoluant actuellement en deuxième division du championnat camerounais.
+
+Infrastructures
+Les joueurs de "Nzuimanto" reçoivent dans une antre dont la capacité est estimée à 20000 places[1]
+
+Anciens joueurs
+
+ Richard Towa
+Bachirou Salou
+
+Palmarès
+
+Coupe du Cameroun: Champion en 1988
+
+Notes et références
+
+? référence, http://www.worldstadiums.com/africa/countries/cameroon.shtml
+
+Liens externes
+
+	|	Football au Cameroun	|
+	|	Championnat du Cameroun ? Coupe du Cameroun	|
+	|	Fédération ? ةquipe du Cameroun ? ةquipe du Cameroun féminine	|
+
+Portail du football
+Portail du Cameroun
+
+
+<#10850>
+Pantagruel (journal)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant La Résistance française.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Dès octobre 1940 paraît le premier numéro de Pantagruel, feuille clandestine d'information rédigée par un imprimeur et éditeur de musique parisien, Raymond Deiss. Il y aura 16 numéro avant l'arrestation de Deiss en octobre 1941.
+
+Portail de la Résistance française
+
+
+<#10851>
+Pandémonium (plan)
+
+Pour les articles homonymes, voir Pandémonium. 
+Dans la cosmologie standard du jeu de rôlefantasyDonjons et dragons, le Pandémonium (ou les Profondeurs battues par les vents du Pandémonium) est un plan extérieur où les créatures d'alignements chaotique mauvais et chaotique neutre sont envoyées après leur mort.
+
+Ce plan consiste en une immense caverne à la complexité et à l'étendue infinies. En outre, un vent strident hurle continuellement aux oreilles des habitants du Pandémonium, rendant nombre d'entre eux complètement fous. Peu de créatures sont originaires de ce plan ; la plupart des individus qui y vivent n'ont pas eu le choix. C'est l'un des nombreux Plans Extérieurs basés sur l'alignement faisant partie de la cosmologie standard de Donjons et dragons. Cette cosmologie est utilisée dans les décors de campagne de Planescape, Greyhawk et certaines éditions des Royaumes oubliés.
+
+Dans le décor de campagne de Planescape, le Pandémonium abrite le quartier général de la Morne Cabale, l'une des factions du jeu.
+
+Strates
+Chacune des quatre strates du Pandémonium s'enfonce un peu plus loin dans les profondeurs des cavernes.
+
+Gorellik, le dieu gnoll, erre à travers le Pandémonium.
+
+Pandesmos
+Pandesmos est la strate la plus étendue, et la moins inhospitalière de toutes. Les sources du Styx sont situées quelque part sur cette strate.
+
+Un certain nombre de royaumes divins sont localisés sur Pandesmos, parmi lesquels celui de Loki et Aurile, celui de Talos et celui de Ho Masubi.
+
+Cocyte
+Cocyte est également connu sous le nom de strate de la lamentation, car c'est ici que les rafales de vent sont les plus puissantes.
+
+Les royaumes des dieux Erythnul, Hruggek et Cyric sont implantés sur cette strate.
+
+Phlégéthon
+Phlégéthon abrite les royaumes des dieux Zeboim et Diirinka.
+
+Agathion
+Agathion contient principalement des trous, qui se révèlent également être des portails vers d'autres plans.
+
+Inspiration historique
+Le nom Pandémonium vient de Pandémonium, la capitale de l'Enfer dans le Paradis perdu de John Milton. Il signifie "tous les démons" en grec.
+
+Cocyte et Phlégéthon sont les noms de deux fleuves des Enfers dans la mythologie grecque. Ce sont les deux affluents de l'Achéron. Cocyte est également le nom du niveau le plus profond de l'Enfer dans la Divine Comédie de Dante.
+
+Sources
+
+(en) Cet article est partiellement ou en totalité issu d'une traduction de l'article de Wikipédia en anglais intitulé « Pandemonium (Dungeons & Dragons) ».
+
+	|	Plans Extérieurs	|
+	|	Mont Céleste	|	Bytopie	|	ةlysées	|	Terres des bêtes	|	Arborée	|
+	|	Arcadie	|	?Bon?	|	Ysgard	|
+	|	Méchanus	|	?Loyal	|	Outreterre	|	Chaotique?	|	Limbes	|
+	|	Achéron	|	?Mauvais?	|	Pandémonium	|
+	|	Baator	|	Géhenne	|	Gaste Grise	|	Carcères	|	Abysses	|
+
+Portail de la fantasy
+
+
+<#10852>
+Panne (interdune)
+
+Une panne, ou panne dunaire, est une zone humide en milieu dunaire. Il s'agit de dépressions creusées par le vent dans les dunes jusqu'au niveau de la nappe phréatique. Les pannes présentent des physionomies et des tailles variables, selon les conditions hydrologiques et la salinité. Elles comprennent des mares, des pelouses humides, des roselières, des cariçaies et des jonchaies.
+
+Ce sont des milieux instables, puisqu'ils sont fortement dépendants de l'hydrologie et des variations climatiques, notamment des précipitations et des fluctuations du plancher de la nappe phréatique. Ainsi, en hiver, les pannes forment souvent des mares alors qu'en été, elles sont généralement asséchées.
+
+Ces zones abritent une faune (surtout batraciens) et une flore spécialisées, parfois rares, bénéficiant souvent d'un statut de protection réglementaire au niveau national ou régional. Elles constituent aussi des zones d'alimentation pour l'avifaune et, durant la période hivernale, le milieu est riche en oiseaux migrateurs.
+
+	|	La Terre : structure interne · hydrosphère · relief · atmosphère	|
+	|	Colline · Dune · Montagne · Plage · Plaine · Plateau	|
+
+
+<#10853>
+Panzer Dragoon
+
+	|	Panzer Dragoon	|
+	|		|
+	|		|
+	|	ةditeur	|	Sega	|
+	|	Développeur	|	Team Andromeda	|
+	|	Distributeur	|	{{{distributeur}}}	|
+	|	Concepteur	|		|
+	|		|
+	|	Début du projet	|	{{{début du projet}}}	|
+	|	Date de sortie	|	JPN3 mars1995
+AN11 mai1995
+EUR30 août1995	|
+	|	Licence	|	{{{licence}}}	|
+	|	Version	|	{{{version}}}	|
+	|	Genre	|	Rail Shooter	|
+	|	Mode de jeu	|	Un joueur	|
+	|	Plate-forme	|	Saturn, PC	|
+	|	Média	|	CD-ROM	|
+	|	Langue	|	{{{langue}}}	|
+	|	Contrôle	|	Manette de jeu	|
+	|		|
+	|	ةvaluation	|	JPNCERO : All ages (A)
+ANESRB : Everyone (E)
+EURELSPA : 3+	|
+	|	Moteur	|	{{{moteur de jeu}}}	|
+
+Panzer Dragoon est un shoot them up en 3D développé par la Team Andromeda pour Sega, sorti sur Saturn le 3 mars 1995 au Japon, puis le 11 mai et le 30 août de la même année, respectivement aux ةtats Unis et en Europe. C'est le premier épisode de la série Panzer Dragoon.
+
+Il s'agit de l'un des premiers jeux de la Saturn, il a fait partie des titres qui ont construit la renommée de la console à sa sortie. En effet, pour l'époque, les graphismes étaient révolutionnaires et donnaient une dimension nouvelle aux shoot them up des 16-bits.
+
+Histoire
+Réalisé entièrement en 3D, le jeu met le joueur dans la peau de Kyle, un Chevaucheur de Dragon. Sur le dos de la bête, il doit abattre, à l'aide d'un viseur, une multitude d'ennemis qui surgissent sur l'écran, pendant que le Dragon suit un chemin précalculé dans les décors 3D (qui a inspiré le nom de Rail Shooting, jeu de shoot sur rails).
+
+Le jeu commence par une scène cinématique de plusieurs minutes, qui sert à présenter le monde de Panzer Dragoon (qui n'est pas qu'un simple shoot, mais un univers à part entière).
+
+Dans un monde ravagé par une guerre totale il y a des milliers d'années, les peuples se reconstruisent peu à peu. L'Empire se démarque rapidement en tant que nouvelle force militaire dominante et annexe peu à peu les peuplades voisines, grâce aux technologies des Anciens, perdues lors la Guerre, mais retrouvées par l'Empire lors de fouilles des ruines de l'Ancien آge, disséminées à travers le monde. L'Empire fit la découverte d'une Tour mystérieuse, relique de l'Ancien آge, qui leur a fourni de nombreux armements et vaisseaux, mais cette Tour renferme probablement un autre pouvoir inimaginable, mais personne à l'Académie de l'Empire n'a encore pu en percer le secret, la Tour est restée inanimée. Parallèlement, des rumeurs courent à l'Empire sur les Dragons, créatures divines liées à la Tour, armes ultimes dans Anciens.
+
+récemment, la Tour a regagné une activité, en même temps qu'un Dragon ait été aperçu...
+
+Dans ce monde post-apocalyptique (la scène se situe dans un canyon, recouvert de sable jaune évoquant un désert aride), le héros, Kyle, et 2 de ses compagnons, chevauchent leurs montures (qui ressemblent à un croisement de cheval et de chameaux). Soudain, un aéronef (une sorte de bateau pourvu d'énormes rames qui lui permettent de voler) appartenant à l'Empire survole le groupe, et semble se diriger vers une grotte plus loin. C'est alors que le groupe est attaqué par des créatures souterraines. Kyle est contraint de se réfugier dans la fameuse grotte.
+
+ہ l'intérieur, Kyle découvre une sorte de laboratoire abandonné depuis des millénaires, servant à créer divers monstres. Il se retrouve nez à nez avec une bête féroce, mais qui est écrasée par un rocher, tombé suite à une explosion à l'extérieur. Un Dragon noir chevauché descend de l'ouverture créée par la déflagration, et s'enfonce dans la grotte, talonné de près par un autre Dragon et son cavalier, un Dragon bleu. L'affrontement des deux cause une explosion qui détruit la grotte, mais Kyle réussi à en réchapper.
+
+Il se retrouve en haut d'un plateau rocheux, et contemple, dans une plaine en contre-bas, le combat des deux Dragons. C'est alors que, profitant d'un moment d'inattention, le Chevaucheur du Dragon bleu est abattu. Le Dragon, portant son maître agonisant, atterrit à coté de Kyle. Le Chevaucheur tend la main vers ce dernier et une connexion mentale entre les 3 êtres se crée : des images mentales envahissent Kyle, il voit une Tour, au milieu d'un océan. Kyle, guidé par le Dragon bleu, doit à tout prix empêcher le Dragon noir d'atteindre la Tour. Le Chevaucheur s'effondre. Kyle décide de le venger, prend le pistolet du défunt, monte sur le dos du Dragon, et s'envole, vers les lointaines contrées hostiles, vers la Tour.
+
+Il sera confronté plusieurs fois au Dragon noir, mais aussi aux forces de l'Empire qui tenteront d'intercepter le Dragon et de prendre possession de la Tour...
+
+Le déroulement du jeu
+
+Gameplay : Sur l'écran, le joueur peut déplacer son viseur, et ainsi verrouiller les cibles qui passent. Une pression sur le bouton A fait tirer à Kyle un coup de son pistolet, mais une pression continue puis relacée sur le bouton fait partir des rayons laser surpuissants de la bouche du Dragon. Les flèches directionnelles, en même temps que le viseur, font se déplacer le Dragon en haut, en bas, à droite et à gauche de l'écran, afin d'éviter les tirs ennemis.
+
+Le but est de rester vivant jusqu'à la fin du niveau, tout en abattant un maximum d'ennemis.
+
+Les niveaux
+Le joueur doit donc traverser 6 niveaux, chacun pourvu d'un boss, et finalement un dernier niveau consacré au boss final, le Dragon noir.
+
+Le 1er niveau se déroule au dessus d'un grand lac, duquel émergent d'anciennes arches et colonnes.Le boss de fin est un aéronef Impérial, tel qu'on l'a vu dans cinématique d'introduction.
+Le 2e niveau se passe d'abord dans un désert. Le héros est attaqué par des Vers géants, puis il s'engouffre dans une longue caverne. ہ la sortie, le Dragon noir l'attend pour un premier affrontement.
+Le 3e niveau est un site d'excavation appartenant à l'Empire, le boss étant un vaisseau Impérial d'assaut.
+Le 4e niveau se déroule dans les conduits mystérieux des ruines que l'Empire exploitait dans le précédent niveau. Le boss est un Gardien, bio-méchanique, probablement un des reste de l'Ancien آge.
+Le 5e niveau se passe au dessus d'une forêt et vous devez anéantir toute une flotte Impériale. Le boss qui vous attend est une station volante Impériale.
+Le 6e et dernier niveau régulier, se passe au c?ur même de la Capitale Impériale, vous pourchassez le Dragon Noir, tout en étant assailli par des créatures bio-méchaniques de l'Ancien آge, lancés par la Tour pour vous arrêter.
+Dernier niveau : le Dragon noir à atteint la Tour, qui l'a transformé en une arme quasi-imbattable...Sauf peut être pour un Dragon bleu, ennemi de la Tour et de l'Ancien آge.
+La fin: le Dragon noir est abattu. Le Dragon bleu s'apprète à remplir sa dernière mission. Il s'engouffre dans la Tour. Kyle est enveloppé dans une sphère d'énergie et éloigné du Dragon. Le Dragon fait finalement exploser la Tour, en utilisant ses dernières forces. Mais est-ce pour autant la fin du Dragon...?
+
+ةquipe de développement
+
+Character Design : Manabu Kusunoki
+Programmeur système : Hidetoshi Takeshita
+Programmeur principal : Junichi Suto
+Tool Producer : Kengo Naka
+Map Structures/Enemy Setting : Akira Terasawa, Katsuhiko Yamada
+Programmeurs : Hitoshi Nakanishi, Kengo Naka, Hiroshi Yamazaki, Asaya Yamazaki
+Model Design Dragon : Manabu Kusunoki
+Character Model Production/Effects : Kentaro Yoshida, Masaya Kishimoto, Takashi Iwade
+Background Model Production : Misaka Kitamura
+Graphismes décors : Yumiko Kayashima
+Design écran titre : Takashi Iwade
+Sega Logo Man Design : Kentaro Yoshida
+Opening CG Production : Manabu Kusunoki, Misaka Kitamura, Takashi Iwade
+Illustrations fin de jeu : Ryoshiro Kutsuzawa
+Musique : Yoshitaka Azuma
+Orchestration : Tomoyuki Hayashi
+Effets sonores, réalisateur son : Tomonori Sawada
+
+Quelques astuces
+
+تtre invincible : à l'écran titre, pressez start, puis les touches L, L, R, R, haut, bas, gauche, droite.
+Choix du niveau : à l'écran titre, pressez start, puis les touches haut, haut, bas, bas, gauche, droite, gauche, droite, X, Y, Z.
+
+L'univers vidéo-ludique
+Suite au succès fulgurant de ce jeu, deux suites tout aussi réussies et populaires sur Saturn ont vu le jour : sortis respectivement en mars 1996 et janvier 1998 au Japon, Panzer Dragoon II Zwei et Panzer Dragoon Saga (nommé au Japon Azel Panzer Dragoon RPG) ont contribué, surtout "Azel...", à faire de Panzer Dragoon une saga culte du jeu vidéo.
+
+Panzer Dragoon II Zwei est un rail Shooting très semblable au premier Panzer Dragoon, mais Panzer Dragoon Saga, comme l'indique son titre japonais, est un grand RPG, une fresque épique, qui dans son système rend en quelques sortes hommage aux précédents Shootings...
+
+Un quatrième jeu à vu le jour en décembre 2002 sur Xbox, nommé Panzer Dragoon Orta.
+
+ہ noter
+
+Il est disponible intégralement dans Panzer Dragoon Orta, après avoir été débloqué.
+Le système du jeu a directement inspiré un autre jeu sur Dreamcast, édité par Sega et développé par UGA en 2001, nommé Rez, un jeu hybride, mi-shoot them up, mi-?uvre psychédélique et musicale.
+
+La série Panzer Dragoon
+Panzer Dragoon (SAT) ? Zwei (SAT) ? Mini (GG) ? Saga (SAT) ? Orta (XBOX)
+
+Portail du jeu vidéo
+
+
+<#10854>
+Panorama (album)
+
+Pour les articles homonymes, voir Panorama (homonymie). 
+	|	Panorama	|
+	|	Album par Eddy Mitchell	|
+	|	Sortie	|	1964	|
+	|	Label	|	Barclay	|
+	|	Albums de Eddy Mitchell	|
+	|	
+	|	
+
+Eddy in London	|	Eddy in London	|
+
+	|	
+	|	Toute la ville en parle... Eddy est formidable	|	
+
+Toute la ville en parle... Eddy est formidable	|
+
+	|
+
+Panorama est un album studio d'Eddy Mitchell sorti en 1964.
+
+Titres
+J'irais bien
+Pas de chance
+J'irais au paradis
+Memphis Tennessee
+Oh mon c?ur
+Doucement mais sûrement
+Repose Beethoven
+Détective privé
+Tu vas rentrer chez toi
+Maybellene
+L'école des c?urs brisés
+Donne-moi une idée
+
+Portail de la musique
+
+
+<#10855>
+Pangration
+
+Le pancrace (en grec : ??????????pankrلtion) est un sport de combat grec, permettant au temps des jeux olympiques antiques quasiment tous les coups, même les plus mortels. Seules, étaient interdites les techniques d'arrachage des yeux et de morsure. De grands champions olympiques de cette époque ont marqué l'histoire comme Polydamas de Skotoussa qui fut champion olympique en -408 ou encore Milon de Crotone. Aujourd'hui, ce sport est une discipline dont le règlement a été revu et corrigé par le gouvernement grec afin de le voir revenir prochainement dans les jeux olympiques actuels.
+
+Le pancrace aux jeux olympiques antiques
+Le pancrace fait partie des épreuves qualifiées de « gymniques » (???????? ?????? [gumnikoى ag?nes]) c'est-à-dire, au sens propre, « nues », parce que les athlètes y concourent complètement nus, telles que le pentathlon et les courses. Il fait partie plus précisement des épreuves dites « lourdes » (????? ???? [baréa مthla], pour lesquelles est nécessaire une aire spéciale (?????? [skلmma]), dont la terre a été ameublie, telles que la lutte (???? [pلlê]) et le pugilat (??? [pْx] ou ???????? [pugmakhيa]). La dernière épreuve est le pancrace (?????????? [pankrلtion]), un sport très brutal qui recherche également la mise hors de combat de l'adversaire, sans autre interdiction que de mettre les doigts dans les yeux de l'adversaire[1].
+
+Le salut au pancrace
+Différemment des arts martiaux asiatiques, cet art martial conserve certaines traditions dans la pratique. En effet, dans la mentalité grecque, les « Grecs ne se prosternent pas mais saluent seulement » (?? ??????? ??? ?????????? ????? ????????? en grec). Au pancrace, cette caractéristique persiste. Lors du salut, le pangratiaste reste debout et tend le bras droit vers le côté droit de la tempe à l'adresse du professeur, le Proponitis en déclarant : Erroso ô Proponita "salut à toi, entraîneur" . Le salut se fait envers une personne et vers les autres en parlant en grec ancien. L'enseignant salue ses élèves : ةrosthe (??????? en grec ancien). Cette réciprocité dans les rapports sociaux entre entraîneur et élève marque une différence fondammentale avec les autres sports de combat et arts martiaux où le lien de subordination est la règle de la relation dans le club.
+
+Pancrace contemporain
+Ce style de combat est très complet puisqu'il permet des échanges aussi bien debout (boxe) qu'au sol (lutte). Un combat peut donc se dérouler entièrement debout ou se transformer en lutte au sol dès les premières secondes selon la technique des combattants. L'arbitrage de la discipline permet sur le plan tactique de ne privélégier aucun style en particulier, seul l'athlète dominant l'ensemble des techniques (frappes pieds-poings, prises douloureuses, projections, combat au sol, techniques de soumission, maîtrise de l'espace et de la zone de combat) pouvant l'emporter à compétences physiques égales entre deux pangratiastes.
+
+ةquipement requis
+Gants libres bleus ou blancs à doigts ouverts de type free fight, protège-dents (facultatif), coquille (facultatif), protège-tibias+pieds ainsi que l'endyma (tenue officielle du WPAC composé du Chitonion (veste) et du Periskelis (pantalon). Les arbitres (Hellanodikes) sont habillés en endyma rouge, les entraîneurs (Proponites) sont vêtus d'un endyma bleu.
+
+Aire de combat
+Un tapis de lutte recouvert d'un bâche bleue comportant un cercle extérieur blanc, d'un diamètre de 10 mètres dit "la zone" ainsi que d'un rond central de 1 mètre de diamètre forme la Palestre moderne du pancrace. En pratique, une salle équipée de tapis et d'une bâche de Lutte suffit à pratiquer le Pancrace dans de bonnes conditions.
+
+Techniques
+Concernant le combat en lui-même, toutes les techniques de pieds, poings, genoux et coudes contrôlées sont autorisées. La frappe au visage est formellement interdite. Toutes les techniques de projections sont autorisées mais sans écraser volontairement l'adversaire dans le but de lui faire mal. Le combat arbitré par l'hellanodikis central et trois hellanodikes périphériques permet en outre de s'assurer, dans le respect des règles, de l'intégrité des combattants. Au sol, les frappes sont autorisées, mais elles ne sont que simulées. Toutes les techniques de soumission sont autorisées (clés de bras (épaule, coude, poignet), jambes (genou, cheville), hanches mais toujours dans l'axe des articulations. Les clés par compression musculaires sont également autorisées. Les étranglements en revanche sont interdits.
+
+La durée d'un combat de pancrace sportif (pangration athlima) est de 3 minutes pour les adultes, et de 2 minutes pour les enfants.
+
+Les épreuves de pancrace
+Le terme pancrace englobe aussi bien les disciplines sportives que martiales. Dans le sport pancrace sportif (Pangration Athlima), il existe l'épreuve de Pangration, qui est le combat un contre un sans arme. C'est ce style qui est le plus largement pratiqué en compétition. Il existe également les Palesmata qui sont des combats chorégraphiés opposant deux partenaires à mains nues dans un style self défense, laissant parfois place à des démonstrations martiales de haut niveau technique et visuel. Enfin, l'épreuve du Polydamas (en hommage au combat et à la victoire de Polydamas de Skotoussa contre les trois immortels perses) oppose un combattant à mains nues contre trois attaquants armés respectivement d'une lance, d'une épée, et d'une dague. Ce combat est également chorégraphié et permet de démontrer la supériorité technique d'un pangratiaste face à trois attaquants armés.
+
+Enfin, il existe aussi une version plus martiale du Pancrace qui à l'origine était extrêmement violent, qui adaptée au contexte actuel est une base complète pour la self défense.
+
+Structure officielle
+La FILA (Fédération Internationale des Luttes Associées) a officiellement reconnu le WPAC (World Pangration Athlima Committee) et ses fédérations nationales associées (FPAF Fédération Pangration Athlima Française pour la France) pour la pratique du Pancrace dans le monde. Les seuls titres mondiaux, nationaux, régionaux, départementaux, interclubs officiels et grades officiels sont donc ceux obtenus auprès des fédérations et clubs affiliés. A ce jour, le PUC (Paris Université Club) section Pangration Athlima, l'AFC (Alpha Fight Club), le PCO (Pancrace Club Othenin), l'ISCP (Institut des Sports de Combat Polyvalents), le PWS (Pancrace Wrestling Submission), le PCA (Pancrace Club Alençon) représentent quelques uns des clubs affiliés habilités à enseigner et promouvoir le Pancrace en France.
+
+Les autres Unions et commissions techniques de Pancrace pratiquent un style différent sous l'égide de Fédérations sportives en qualité de discipline associée. Il s'agit d'une forme de Pancrace plus proche des MMA, du Free Fight, ou les règles sportives sont différentes (étranglements autorisés, frappes au sol interdites...)
+
+Les clubs de Pancrace en Grèce
+"Leonidas", Fiotide - Lamia
+"Philippos", Attique - Métamorphosi Athènes
+"Pelasgos", Fiotide - Pelasgia
+"Piléas", Fiotide - St Georges
+"Thronion", Fiotide - Kainourio
+"Lokros Rixivios",Fiotide - Tithoréa
+"Achilleas", Fiotide - Makrakomi
+"Pégasos", Béotie - Pavlo
+"Pyros", Thessalonique
+"Thessalos", Trikala - Farkadona
+"Frixos", Béotie - Orchoménos
+"Sperchaios", Fiotide - Sperxeiada
+"Lamias", Fiotide - Lamia
+"Biotiko Arma", Béotie - Arma
+"Athilis", Fiotide - Anthili
+"Molou", Fiotide - Molos
+"Fiotikos", Fiotide - Lamia
+"Syllas", Karditsa - Prosastio
+"Polynikis", Attique - Pagrati
+"Aias o Lokros", Fiotide - Kyrtoni
+"Pyrgetou", Larissa
+"Karaïskakis", Karditsa
+"Karadanas", Larissa
+"Abelokipi",Larissa
+"Achilleas", Karditsa - Pedino
+
+Notes
+
+? Le caractère autorisé ou non de la morsure est controversé : Marrou penche pour l'affirmative (p. 186), Miller (2001) pour la négative (p. 98).
+
+Liens
+
+Fédération Pangration Athlima Française
+FILA Pangration Athlima
+
+Bibliographie
+
+Portail des sports de combat
+Portail des arts martiaux
+
+
+<#10856>
+Pandion fils de Cécrops
+
+Pour les articles homonymes, voir Pandion. 
+Dans la mythologie grecque, Pandion (en grec ancien??????? / Pandيôn), fils de Cécrops (le fils d'ةrechthée) et de Métiaduse, régna sur Athènes avant d'être chassé par son oncle Métion. Il s'exila alors à Mégare, où il devint roi avec l'appui de Pylas. Il eut plusieurs enfants de sa femme Pylia, notamment ةgée, Pallas, Nisos et Lycos.
+
+Il ne doit pas être confondu avec son bisaïeul Pandion, père d'ةrechthée et de Philomèle et Procné.
+
+Sources
+
+Apollodore, Bibliothèque[détail des éditions][lire en ligne] (III, 15, 5).
+Pausanias, Description de la Grèce[détail des éditions][lire en ligne] (I, 39, 6).
+Strabon, Géographie[détail des éditions][lire en ligne] (IX, 1, 6).
+
+	|	Rois d'Athènes	|
+	|	Prédécesseur :
+Cécrops	|	Pandion	|	Successeur :
+ةgée	|
+
+Portail de la mythologie grecque
+
+
+<#10857>
+Panormos
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Panormos (en grec ????????) est un toponyme correspondant à plusieurs villages et lieux-dits de l'aire hellénique :
+
+Panormos est le nom antique de la ville de Palerme, en Sicile ;
+Panormos, Tinos, village de l'île de Tinos, dans les Cyclades ;
+Panormos, Kalymnos, village de l'île de Kalymnos, dans le Dodécanèse ;
+Panormos, Rethymno, village de la préfecture de Rethymno, sur l'île de Crète ;
+Panormos, Phocide, un village de Phocide.
+
+
+<#10858>
+Panicum virgatum
+
+Pour les articles homonymes, voir Panic. 
+	|	
+Panic dressé	|
+	|		|
+	|	Panicum virgatum
+ans son habitat naturel (ةtats-Unis)	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Magnoliophyta	|
+	|	Classe	|	Liliopsida	|
+	|	Sous-classe	|	Commelinidae	|
+	|	Ordre	|	Cyperales	|
+	|	Famille	|	Poaceae	|
+	|	Genre	|	Panicum	|
+	|	Nom binominal	|
+	|	Panicum virgatum
+L., 1753	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Poales	|
+	|	Famille	|	Poaceae	|
+	|	
+Aire de répartition aux ةtats-Unis
+	|
+	|	
+Graines de Panicum virgatum
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le panic érigé (Panicum virgatum) est une espèce de céréale sauvage autrefois très répandue aux ةtats-Unis, présente sur tout le territoire (sauf sur la frange littorale du Pacifique).
+
+C'est l'une des nombreuses panics ; genre de plantesherbacées, annuelles ou vivaces, de la famille des Poaceae présentes dans l'hémisphère nord.
+
+C'est l'une des herbacées qui dominaient la grande prairie à hautes herbes du Midwest où elle accompagnait - sur de vastes étendues - l'« Indiangrass » (Sorghastrum nutans), l'« Est Gamagrass » (Tripsacum dactyloides) la grande et petite , Bluestem (respectivement Andropogon gerardii et Schizachyrium scoparium) et d'autres graminées prairiales. Ces herbacées étaient notamment consommées par d'immenses troupeaux itinérants de bisons nord-américains. Cette prairie presque partout été mise en cultures, notamment de maïs ou blé.
+On la trouve encore en touffes spontanées dans les reliques de la prairies sauvage, le long des chemins ruraux et dans les pâturagess, ou comme mauvaise herbe, dans les champs de maïs notamment.
+
+Le Gouvernement des ةtats-Unis la considère[1] depuis 2006 comme une source potentielle d'agrocarburant, plus respectueuse de l'environnement que d'autres, et qui pourraient réduire la dépendance des ةtats-Unis à l'égard du pétrole.
+
+Les anglophones lui ont donné de nombreuses dénominations vernaculaires « Tall panic grass », « Wobsqua grass, « Lowland switchgrass », « Blackbent », « Tall prairiegrass », « Wild redtop » , « Thatchgrass » ou tout simplement « Switchgrass ».
+
+Description
+
+Panicum virgatum est une plante vivacerhizomateuse, très rustique, est adaptée à de nombreux sols et climats (ubiquiste).
+Sa saison de végétation est caractérisée par une croissance plutôt tardive en saison (à partir de la fin du printemps). Elle entre en dormance en hiver et s'épanouit à la saison chaude. Sa saison productive varie fortement, de 3 mois au nord à un maximum de huit mois au sud des ةtats-Unis autour du Golfe du Mexique[2].
+Dans les meilleures conditions, ses touffes atteignent 1.8 à 2.2 m de haut, mais restent généralement plus courte que ses cons?urs « Big Bluestem » ou «  Indiangrass » de la grande prairie.
+Les feuilles mesurent de 30 à 90 cm de long, avec une nervure principale qui leur confère une certaine rigidité.
+Les fleurs sont organisées en panicules bien développés mesurant jusqu'à 60 cm de long et produisant généralement une bonne récolte de graines.
+Le fruit est élaborées à partir d'une seule fleur (épillet). Il mesure de 3 à 6 mm de long et jusqu'à 1,5 mm de large. Les deux glumes sont présentes et bien développées. Une fois mûre, il prend parfois une teinte rose ou violette terne, alors que la plante prend une teinte jaune-doré à l'automne.
+
+Il est possible de confondre Panicum virgatum avec d'autres espèces de panicum ainsi qu'avec des espèces appartenant aux genres voisins Echinochloa et Setaria de la famille des Poaceae, également vernaculairement appelée « panic », notamment :
+
+Echinochloa crus-galli (L.) P.Beauv., le panic pied-de-coq
+Echinochloa muricata (P.Beauv.) Fernald, le panic épineux
+Echinochloa phyllopogon (Stapf) Koso-Pol., le panic phyllopogon
+Setaria italica (L.) P.Beauv., le panic d'Italie
+Setaria verticillata (L.) P.Beauv., le panic verticillé
+Setaria viridis (L.) P.Beauv., le panic vert
+
+Culture
+Elle est plantée au printemps, en même temps que le maïs, puis sa culture est facilitée par un très bon auto-ensemencement dans les champs où elle est cultivée. A la différence du maïs, elle peut prospérer sur des terres marginales, relativement arides et chaudes sans ou avec peu d'engrais[3].
+Du point de vue de la fixation du carbone, c'est une plante dite « en C4 » (comme le maïs ou la canne à sucre) qui a donc un fort potentiel de production de biomasse, même en condition sèche et en zone chaude[4].
+La récolte se fait au moyen d'une moissonneuse et un ensilage en ballots cylindriques ou rectangulaire se fait facilement[5].
+
+Intérêt agronomique et écologique
+La switchgrass, autrefois considérée comme une mauvaise herbe inintéressante et à éradiquer des champs est aussi aujourd'hui considérée comme utile pour la restauration ou conservation de sols vulnérables ou dégradés. Son système racinaire très développé, sa hauteur et sa croissance tardive lui permettent de bien protéger les sols contre l'érosion par le vent et l'eau[6] tout en conservant un bon ensoleillement pour d'autres espèces plus printannières.
+
+Elle a été incluse dans des mélanges de semences destinés à protéger des talus ferroviaires ou autoroutiers, par exemple dans le Kansas (par le Kansas Department of Transportation), ou sur des terrils de sites miniers[7] des digues, des barrages, berges de cours d'eau ou d'étangs où elle offre aussi un habitat pour la faune.
+
+Son système racinaire profond (avec celui d'autres dicotylédones et des graminées indigènes) contribue à décolmater les sols, qu'il protège en hiver, et qu'il enrichit en matière organique (Cette plante en stocke dans le sol une quantité presque équivalente à celle produite dans la partie aérienne (= > puits de carbone).
+C'est notamment grâce à cette plante que l'actuelle Corn Belt a pu s'installer sur des sols si profonds et riches en humus de qualité (mollisols) de la grande plaine du Midwest, qui comptent encore parmi les plus productifs du monde grâce à cette matière organique enfouie par les graminées entretenues par les bisons.
+Les racines de ces plantes ont aussi augmenté la perméabilité et réserve en eau de ses sols, et donc leur fertilité.
+
+Cette plante fournit un fourrage de qualité à de nombreux herbivores sauvages, et un habitat stable riche en bonnes cachettes et des supports pour chrysalides de papillons, toiles d'araignées et pour la vie de nombreux insectes et autres invertébrés, ainsi qu'un très grand nombre de graines pour des centaines d'espèces granivores, dont micromammifères, et de nombreux oiseaux chanteurs et quelques « espèces-gibier » appréciées des chasseurs (faisans, caille..). C'est un habitat particulièrement apprécié du Dindon sauvage américain.
+
+Intérêt cynégétique
+La plante offre gîte et couvert à plusieurs espèces de bonne valeur cynégétique[8]
+
+Inconvénient liée aux cultures intensives
+La plante sauvage offre un habitat très intéressant pour de nombreuses espèces. Mais lorsqu'elle est massivement cultivée, ces espèces se trouvent au moment de la récolte brutalement démunies (même si les jeunes sont plus facilement épargnées par les moissonneuses grâce à des récoltes plus tardives que pour d'autres céréales). Une alternative écologique et parfois cynégétique testée aux ةtats-Unis consiste à ne pas récolter certaines bandes de panic dans les cultures, pour les conserver comme refuge pour les animaux l'hiver. L'année suivante, une autre bande (idéalement jouxtant celle-ci peut être conservée et s'y superposant pour partie pourra être conservée, et ainsi de suite, année après année.. de manière à toujours conserver une zone refuge qui peut également abriter de nombreuses autres espèces, y compris dans le sol.[9]
+
+Inconvénients paysagers
+En l'absence de grand herbivore (bison par exemple) ou lorsque ce panic est massivement cultivée pour produire des agrocarburants, c'est une plante qui peut devenir haute et gêner la vision du paysage qu'elle rend parfois monotone. Adulte, elle peut rendre difficile les déplacements humains et de certains agriculteurs qui[10] ont détourné cet inconvénient en louant leurs terres plantées de Panicum virgatum à la chasse (sans plomb).
+
+Utilisations
+Le panic érigé (Panicum virgatum) est une adventice parfois utilisée comme plantes fourragères de moyenne qualité. Il est également parfois cultivée pour couvrir des sols vulnérables à l'érosion hydrique et/ou éolienne. Bien que considérée comme "mauvaise herbe" par de nombreux agriculteurs, elle est parfois utilisée comme une plante ornementale de jardins. Les grandes tiges de la plante ont aussi été utilisées comme fouet pour les châtiments corporels. Plus récemment elle a fait l'objet de cultures industrielles à des fins énergétiques.
+
+Usage potentiel comme agrocarburant
+Parce que très efficace pour produire de grandes quantité de cellulose, cette poacée pourrait constituer une source alternative de pâte à papier ou selon plusieurs études récentes[11] publiée en 2008 une source intéressante d'agrocarburants; grâce à un bilan écologique et énergétique[12] bien meilleur que celui du maïs selon Hen Vogel et ses associés (il produit 540% d'énergie par rapport à l'énergie fournie pour le produire), en tant que source de éthanol cellulosique[13].Il est au coeur de la stratégie d'alternative au pétrole annoncée par le Gouverneur du TennesseePhil Bredesen en Janvier 2007[14].
+
+Des recherches sont faites sur une possible gazéification par pyrolyse[15]
+
+
+<#10859>
+Panurgus
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les insectes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Panurgus	|
+	|		|
+	|	Mâle de panurgus calcaratus © Entomart.ins	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Arthropoda	|
+	|	Classe	|	Insecta	|
+	|	Superordre	|	Endopterygota	|
+	|	Ordre	|	Hymenoptera	|
+	|	Sous-ordre	|	Apocrita	|
+	|	Super-famille	|	Apoidea	|
+	|	Famille	|	Andrenidae	|
+	|	Sous-famille	|	Panurginae	|
+	|	Genre	|
+	|	Panurgus
+Panzer, 1806	|
+	|	Taxons de rang inférieur	|
+	|	
+
+Voir texte
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Quelques unes des espèces présentes en Europe
+
+Panurginus annulipes (Lucas 1846)
+Panurgus arctos (Erichson 1806)
+Panurgus banksianus (Kirby 1802)
+Panurgus buteus Warncke 1972
+Panurgus calcaratus (Scopoli 1763)
+Panurgus canarius Warncke 1972
+Panurgus canescens Latreille 1811
+Panurgus canohirtus Friese 1922
+Panurgus catulus Warncke 1972
+Panurgus cavannae Gribodo 1880
+Panurgus cephalotes Latreille 1811
+Panurgus corsicus Warncke 1972
+Panurgus dargius Warncke 1972
+Panurgus dentatus Friese 1901
+Panurgus dentipes Latreille 1811
+Flavipanurgus flavus Friese 1897
+Camptopoeum friesei Mocsary 1894
+Camptopoeum frontale Fabricius 1804
+Flavipanurgus fuzetus Patiny 1999
+Flavipanurgus granadensis Warncke 1987
+Flavipanurgus ibericus Warncke 1972
+Flavipanurgus merceti Vachal 1910
+Camptopoeum nasutus Spinola 1838
+Panurgus perezi Saunders 1882
+Simpanurgus phyllopodus Warncke 1972
+Clavipanurgus sculpturatus Morawitz 1872
+Panurgus siculus Morawitz 1872
+Panurgus soikai Pittioni 1950
+Camptopoeum variegatus Morawitz 1876
+Flavipanurgus venustus Erichson 1835
+
+Liens externes
+
+website dedicated to the study of Hymenoptera
+Le genre Panurgus sur Fauna Europaea
+
+
+<#10860>
+Panel
+
+Pour les articles homonymes, voir Panel (immuno-hématologie). 
+En sociologie, un panel est un groupe de personnes interrogées régulièrement sur leurs opinions ou leurs attitudes. Les personnes peuvent participer aux enquêtes par courrier, téléphone ou, de plus en plus souvent, via un site web conçu à cet effet. L'économétrie a développé des modèles spécifiques pour traiter les données de panel en prenant en compte la dimension temporelle.
+
+La constitution d'un panel dans le but d'un sondage précis nécessite de connaître suffisamment la population, afin de choisir les personnes les plus susceptibles d'être représentatives de la population visée.
+
+Les statistiques et les sondages font appel à des panels très divers. La population sondée varie en fonction de la population visée par l'étude.
+
+
+<#10861>
+Panhellénisme
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la Grèce antique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le panhéllénisme est la volonté de réunir tous les grecs au sein d'une même union. Ce courant de pensée tire principalement son origine des guerres médiques, pour lutter contre l'empire perse.
+
+Portail de la Grèce antique
+
+
+<#10862>
+Panneau de signalisation routière de direction en France
+
+La signalisation routière de direction vise à donner aux usagers de la route les informations suffisantes pour d'une part se rendre d'un point à un autre, tant dans le cadre d'un trajet sur une longue distance que pour un trajet entre lieux proches. D'autre part, à un carrefour donné, elle permet de se situer par rapport aux localités les plus proches.
+
+Les schémas directeurs de signalisation
+Tout panneau de signalisation de direction doit être conforme au schéma directeur de signalisation de la zone dans lequel il est implanté : le schéma directeur départemental de signalisation en rase campagne s'il est en milieu interurbain ou le schéma communal ou intercommunal s'il est en milieu urbain. Ces schémas doivent eux-mêmes être cohérents avec le schéma directeur national de signalisation.
+
+Un lieu générateur de trafic est dénommé « pôle ». Une agglomération, une zone d'activités ou industrielle sont des pôles.
+
+Les grandes agglomérations et autres pôles générateurs d'importants trafics sont classés pôles verts. Sur la base de cette liste peuvent être classés " liaisons vertes " les itinéraires définis pour relier entre eux les pôles verts. Il existe, au sein de l'hexagone, environ 380 pôles verts, reliés par environ 40 000 km de routes, tous types confondus. Le schéma directeur national, constitué par la liste des pôles verts et les cartes des liaisons vertes, est approuvé par le ministre chargé des transports.
+
+Ce schéma directeur national de signalisation directionnelle sert de référence à l'établissement de tous les autres schémas directeurs départementaux, intercommunaux ou communaux.
+
+Les règles techniques concernant l'établissement des schémas directeurs de signalisation de direction et des projets de définition des signaux sont fixées dans une instruction interministérielle prise par le ministre chargé des transports et par le ministre de l'intérieur.
+
+Types de panneaux
+
+Il existe dix types de panneaux de signalisation de direction.
+
+Panneaux de position de type D20 : Ils indiquent la direction à suivre et sont placés dans le carrefour de telle manière que la man?uvre éventuelle soit effectuée devant le panneau.
+
+Panneaux de signalisation avancée de type D30 : Ils signalent l'endroit où l'usager doit commencer sa man?uvre pour s'orienter vers la direction indiquée par la flèche portée sur le panneau. Ces panneaux comportent une flèche de sortie oblique dirigée vers le haut ou vers le bas.
+
+Panneaux de signalisation avancée d'affectation de voie de type Da30 : Ils indiquent à l'usager passant sous le panneau qu'il se trouve sur la voie correspondant à la direction suivie.
+
+Panneaux de présignalisation de type D40 : Ils annoncent les directions desservies à la prochaine bifurcation, au prochain échangeur ou au prochain carrefour.
+
+Panneaux de présignalisation d'affectation de voies de type Da40 : Ils matérialisent l'endroit où l'usager doit effectuer son choix pour emprunter la ou les voies qui le concerne.
+
+Panneaux d'avertissement de type D50 : Ils sont destinés à alerter l'usager de la proximité d'un échangeur ou d'une bifurcation autoroutière.
+
+Panneaux d'avertissement avec affectation de voies de type Da50 : Ils sont destinés à alerter l'usager de l'affectation des voies à proximité d'une bifurcation ou d'un échangeur.
+
+Panneaux de confirmation de type D60 : Ils confirment les mentions desservies par la route sur laquelle ils sont implantés.
+
+Panneaux de signalisation complémentaire de type D70 :
+
+Signalisation du caractère payant de certaines autoroutes ou certains ouvrages : Lorsque le mot " péage " est utilisé en complément des mentions signalées, il est inscrit dans un encart.
+
+Couleurs des panneaux
+Les couleurs de fond utilisées en signalisation de direction sont définies en fonction soit de l'importance des mentions desservies, soit du caractère temporaire des indications de direction.
+
+Le bleu
+Le bleu est utilisé :
+
+sur le domaine autoroutier, pour toutes les mentions desservies par l'autoroute;
+sur le domaine routier, à partir du carrefour de point de choix entre la route et l'autoroute à péage, pour toutes les mentions desservies par l'autoroute ;
+sur le domaine routier, pour les panneaux de rabattement vers l'autoroute.
+
+Le vert
+Le vert est utilisé pour la signalisation des pôles verts (agglomérations et autres pôles générateurs de trafic qui figurent sur la liste arrêtée à cet effet par le ministre chargé des transports) sur les itinéraires qui ont été définis pour les relier entre eux.
+
+Le blanc est utilisé dans les autres cas.
+
+Le jaune
+Le jaune est utilisé pour des indications de direction à caractère temporaire ou d'exploitation. Ces panneaux à fond jaune sont toujours placés sous le dernier panneau ou registre sauf s'il existe des flèches d'affectation ou des dessins d'embranchement. Dans ce cas, la mention est inscrite dans un encart placé sous la dernière mention du panneau.
+
+Les panneaux à fond bleu ou vert comportent des inscriptions et des listels blancs.
+
+Les panneaux à fond blanc ou jaune comportent des inscriptions et des listels noirs.
+
+Inscriptions
+Lorsque les indications correspondent à des mentions portées sur les panneaux de type EB (entrée ou sortie d'agglomération), les inscriptions sont en caractères droits majuscules (L1 ou L2). Dans les autres cas les inscriptions sont en caractères italiques (L4).
+
+Les caractères droits majuscules (L2) ou italiques blancs (L4) sont utilisés sur les panneaux ou les cartouches à fonds foncés (bleu, vert ou rouge).
+
+Les caractères droits majuscules (L1) ou italiques noirs (L4) sont utilisés sur les panneaux ou les cartouches à fond clair (blanc ou jaune).
+
+Sources
+
+Arrêté du 24 novembre 1967 modifié relatif à la signalisation des routes et des autoroutes.
+Instruction interministérielle du 22 mars 1982 relative à la signalisation de direction.
+
+
+<#10863>
+Panoptique
+
+
+« La morale réformée, la santé préservée, l'industrie revigorée, l'instruction diffusée, les charges publiques allégées, l'économie fortifiée - le N?ud Gordien des lois sur les pauvres non pas tranché, mais dénoué - tout cela par une simple idée architecturale. »Jeremy Bentham, Le panoptique, 1780. (L'ouvrage, de 56 pages, est traduit de l'anglais et imprimé par ordre de l'Assemblée législative en 1791.[1])
+Le panoptique est un type d'architecturecarcérale imaginée par le philosopheutilitaristeJeremy Bentham à la fin du XVIIIe siècle. L'objectif de la structure panoptique est de permettre à un individu, logé dans une tour centrale, d'observer tous les prisonniers, enfermés dans des cellules individuelles autour de la tour, sans que ceux-ci ne puissent savoir s'ils sont observés. Ce dispositif devait ainsi créer un « sentiment d'omniscience invisible » chez les détenus. Le philosophe et historien Michel Foucault a particulièrement attiré l'attention dessus dans Surveiller et punir (1975) en en faisant le modèle abstrait d'une société disciplinaire, inaugurant une longue série d'études sur le dispositif panoptique.
+
+Le panoptique selon Bentham
+
+La réflexion de Bentham prend place dans le cadre d'un renouvellement des cadres de pensée concernant le droit pénal et le sens de l'enfermement, avec les oeuvres de Jonas Hanway, Solitude in Imprisonment (1776), qui argue en faveur de l'isolement carcéral des individus, de John Howard, The State of the Prisons in England and Wales (1777) qui prône la réforme des prisons afin d'en faire des moyens d'amender le prisonnier, et de Cesare Beccaria, Des délits et des peines (1764) [2]. Ce mouvement réformateur aboutit, au Royaume-Uni, au Penitentiary Act de 1779, rédigé par William Eden, William Blackstone et John Howard, mais les prisons envisagées par la loi ne furent jamais construites [3].
+
+L'idée de Bentham dérive de plans d'usine mis au point pour une surveillance et une coordination efficace des ouvriers. Ces plans furent mis au point par son frère Samuel, dans l'objectif de simplifier la prise en charge d'un grand nombre d'hommes. Bentham compléta ce projet en y mêlant l'idée de hiérarchie contractuelle : par exemple, une administration ainsi régie (par contrat, s'opposant à la gestion de confiance) dont le directeur aurait un intérêt financier à faire baisser le taux d'accidents du travail. Le panoptique fut aussi créé pour être moins cher que les autres modèles carcéraux de l'époque en nécessitant moins d'employés. « Laissez-moi construire une prison sur ce modèle », demanda Bentham au Comité pour la réforme pénale, « j'y serai gardien. Vous verrez [...] que les gardiens ne justifieront pas de salaire, et ne coûteront rien à l'ةtat ». Les surveillants ne pouvant être vus, ils n'ont pas besoin d'être à leur poste à tout moment, ce qui permet finalement d'abandonner la surveillance aux surveillés.
+
+Bentham lui-même souhaitait une mise en abîme de la surveillance, les surveillants eux-mêmes devant être surveillés par des surveillants venus de l'extérieur, afin de limiter la maltraitance des détenus et les abus de pouvoir:
+
+« Il y aura, d'ailleurs, des curieux, des voyageurs, des amis ou des parents des prisonniers, des connaissances de l'inspecteur et d'autres officiers de la prison qui, tous animés de motifs différents, viendront ajouter à la force du principe salutaire de l'inspection, et surveilleront les chefs comme les chefs surveillent tous leurs subalternes. Ce grand comité du public perfectionnera tous les établissements qui seront soumis à sa vigilance et à sa pénétration [4] »
+
+Selon Bentham, la tour centrale devait se transformer en chapelle le dimanche, afin de moraliser les criminels [2].
+
+Histoire du panoptique
+Bentham dévoua une large partie de son temps et presque son entière fortune personnelle à la promotion de constructions de prisons panoptiques. Après de nombreuses années de refus, de difficultés politiques et financières, il parvint à obtenir l'accord du parlement britannique. Le projet avorta cependant en 1811, lorsque le Roi s'opposa à l'acquisition du terrain.
+
+Le modèle le plus proche du panoptique, du temps de Bentham, fut le pénitencier de Pittsburgh (Etats-Unis), ouvert en 1826 selon les plans de l'architecte William Strickland (1788-1854), mais le projet fut abandonné sept ans plus tard [2] Selon Muriel Schmid:
+
+« Dans sa réalisation concrète, le modèle panoptique ne fut pas convaincant : des coûts trop élevés et une mauvaise viabilité furent les principales raisons de son abandon. L'échec de Pittsburgh a signifié la fin du Panoptique en tant que construction architecturale. En conséquence, le débat qui entoure aujourd'hui le projet pénitentiaire de Bentham porte davantage sur des enjeux d'ordre philosophique - le regard, l'observation, le contrôle, la surveillance, etc. - que sur des questions d'ordre purement pratique. Le Panoptique s'inscrit toutefois indiscutablement dans le contexte des réflexions de l'époque traitant des formes de châtiment et d'enfermement dans le processus de réhabilitation des criminels.[2] »
+
+Si le panoptique ne vit pas le jour du vivant de Bentham, plusieurs prisons ont néanmoins adoptées ce modèle, de la Kilmainham Gaol en Irlande à la Twin Towers Correctional Facility de Los Angeles en passant par la prison de la petite Roquette à Paris. La prison de Millbank, à Londres, conçue en 1812 par William Williams et construite par l'architecte Thomas Hardwick, concrétisa partiellement le projet benthamien [3].
+
+Selon Neil Davie,
+
+« l'échec du Panoptique, du moins au début, faisait partie d'un échec plus large du mouvement de réforme pénal dans son ensemble. Ce dernier échouera à maintes reprises dans sa tentative de convaincre les milieux gouvernementaux que la construction de prisons pour forçats était préférable à la transportation de ces derniers aux colonies pénales d'outre-mer, ou à leur incarcération dans d'anciens navires de guerre reconvertis en pénitenciers flottants (hulks), amarrés au bord de la Tamise ou près des chantiers navals.[3] »
+
+Le panoptisme depuis Foucault
+Michel Foucault s'y intéressa en 1975, inaugurant un regain d'intérêt pour celui-ci. Il y vit une technique moderne d'observation transcendant l'école, l'usine, l'hôpital et la caserne, ou encore un « diagramme » de la « société disciplinaire ». Foucault définit le diagramme en tant que « fonctionnement abstrait de tout obstacle ou frottement... et qu'on doit détacher de tout usage spécifique » [5], ce qui lui permet de parler d'un Panoptisme.
+
+Des variations autour du panoptisme peuvent être vues de nos jours, participant de façon moins bruyante que leur équivalent pénal, à la « société de surveillance ». Selon Gilles Deleuze:
+
+« Quand Foucault définit le Panoptisme, tantôt il le détermine concrètement comme un agencement optique ou lumineux qui caractérise la prison, tantôt il le détermine abstraitement comme une machine qui non seulement s'applique à une matière visible en général (atelier, caserne, école, hôpital autant que prison), mais aussi traverse en général toutes les fonctions énonçables. La formule abstraite du Panoptisme n'est plus « voir sans être vu », mais imposer une conduite quelconque à une multiplicité humaine quelconque.[6] »
+
+Prisons panoptiques
+
+Prison de la petite Roquette à Paris, dessinée par Louis-Hippolyte Lebas
+Prison de Niort, encore en service en 2001
+Prison de Carabanchel - Madrid, Espagne
+Prison de Caseros - Buenos Aires, Argentine
+Chi Hoa - Ho Chi Minh City, Vietnam
+Huron Historic Gaol - Goderich, Ontario, Canada
+Kilmainham Gaol - Dublin, Irlande
+Koepelgevangenis (Arnhem) - Arnhem, Pays-Bas. L'architecte Rem Koolhaas a attiré l'attention sur le fait que, dans cette prison panoptique, la tour centrale est désormais utilisée comme cantine par les gardes, et que les détenus passent plus de temps à l'extérieur de leurs cellules qu'à l'intérieur [7].
+Koepelgevangenis (Breda) - Breda, Pays-Bas
+Koepelgevangenis (Haarlem) - Haarlem, Pays-Bas
+Millbank Prison - London, Royaume-Uni
+Prison de Modelo - Barcelona, Espagne
+Mount Eden Prisons - Auckland, Nouvelle-Zélande
+Old Provost - Grahamstown, Afrique du Sud
+Panَptico - Bogotل Prison (devenue aujourd'hui le musée national de Colombie)
+Pelican Bay State Prison - Comté de Del Norte, Californie, ةtats-Unis.
+Port Arthur, Tasmania Prison Colony - Port Arthur, Tasmania, Australie
+Presidio Modelo - Isla de la Juventud?, Cuba
+Round House - Fremantle, Australie
+Stateville Correctional Center - Crest Hill, Illinois, ةtats-Unis.
+Twin Towers Correctional Facility - Los Angeles, Californie, ةtats-Unis
+Insein Prison - Insein, Birmanie
+
+Divers
+
+1984 de George Orwell est un roman qui s'inspire largement du principe de panoptique
+Xavier Mauméjean reprend cette idée architecturale dans le Panopticon de son roman, La Vénus anatomique
+Michel Agier est un illustre diffuseur de l'idée de panoptique, notamment dans son classique Faire ville, aujourd'hui, demain, réflexions sur le désert, le monde et les espaces précaires.
+
+Références
+
+?Panoptique : mémoire sur un nouveau principe pour construire des maisons d'inspection, et nommément des maisons de force, éd. ةtienne Dumont, Paris, 1791. Cet ?uvre est reproduite intégralement dans une édition de Mille et Une Nuits, Paris, 2002.
+? a? b? c? d? Muriel Schmid, La mascarade des coupables : le jeu des masques dans Le Panoptique de Bentham, Laval théologique et philosophique, Volume 60, numéro 3, 2004, p. 543-556
+? a? b? c? Davie, Neil (2005) « Des "corps dociles" ? Le Panoptique de Jeremy Bentham en théorie et en pratique ». In: L'Un sans l'autre : racisme et eugénisme dans l'aire anglophone. Collection "Racisme et eugénisme" . L'Harmattan, Paris, France, pp. 207-230. ISBN 274758741X
+?Le panoptique pp.10-11, cité par Muriel Schmid, ibid.
+?Michel Foucault, Surveiller et punir, p.207
+?Gilles Deleuze, Foucault, Editions de Minuit, 1986/2004, p.41
+?Koolhaas, R. (2002) « Project for the renovation of a panoptic prison ». In T.Y. Levin, U. Frohne and P. Weibel (eds.) CTRL[SPACE]: Rhetorics of Surveillance from Bentham to Big Brother. ZKM Centre for Art and Media: Karlsruhe, 120-127. Cité par Hille Koskela, « ?Cam Era' - the contemporary urban Panopticon. » in Surveillance and Society, volume 1, n°3, « Foucault and Panopticism Revisited. »
+
+Bibliographie
+
+Jeremy Bentham, Panoptique (traduit par Christian Laval, Mille et une nuits, 2002)
+Michel Foucault, Surveiller et punir, Gallimard, 1975
+Sean McConville, A History of English Prison Administration I: 1750-1877, Londres, Routledge & Kegan Paul, 1981
+Robin Evans, The Fabrication of Virtue : English Prison Architecture 1750-1840, Cambridge, Cambridge University Press, 1982
+Janet Semple, Bentham's Prison. A Study of the Panopticon Penitentiary, Oxford, Clarendon Press, 1993
+
+Liens externes
+
+(en)Texte de Bentham sur le panoptique
+
+Portail de la sociologie
+
+
+<#10864>
+Pandora (console)
+
+Pour les articles homonymes, voir Pandora. 
+
+	|	
+	|	
+Cet article ou cette section contient des informations sur des événements prévus ou attendus.
+Il se peut que ces informations soient de nature spéculative et que leur teneur change considérablement alors que les événements approchent.	|
+
+	|	Pandora	|
+	|		|
+	|		|
+	|	Fabricant	|		|
+	|	Type	|	Console portable	|
+	|	Génération	|	Huitième	|
+	|		|
+	|	Date de sortie	|	Printemps2008	|
+	|	Fin de production	|	{{{fin}}}	|
+	|	Processeur	|	{{{CPU}}}	|
+	|	Média	|	SD Card	|
+	|	Contrôleurs	|	{{{contrôleurs}}}	|
+	|	Service en ligne	|	Wi-Fi	|
+	|	Unités vendues	|		|
+	|	Jeu le plus vendu	|		|
+
+Pandora est un projet de console de jeux vidéo portable. Son firmware serait une distribution GNU/Linux, ce qui la rapproche de la GP2X. Cependant, la Pandora est conçue de façon à être la plus performante possible, ce qui mène à la considérer plus comme un UMPC orienté jeux vidéo. Sa sortie est prévue pour le printemps2008.
+
+Liens externes
+
+(en)Site
+(en)Wiki du projet
+
+Portail du jeu vidéo
+
+
+<#10865>
+Pang De
+
+Officier et général (?, 219 ou 220 ap. J.C.) ayant servi à la fois Ma Chao et Cao Cao.
+
+Pang De assista Ma Chao à la passe de Tong contre Cao Cao. Après la défection de Han Sui, Ma Chao perdit la bataille et échoua à venger son père. Pang De rejoignit alors les Wei.
+
+Lorsqu'il se battait contre les Shu, les Wei se posèrent des questions quant à la loyauté de Pang De. Pang De fit un cercueil et le prit avec lui au château de Fan (il reviendra dans le cercueil, se disant que s'il échouait cette mission). Pang De se battit très vaillamment au château, mais fut capturé et exécuté par Guan Yu.
+
+
+<#10866>
+Panneau de signalisation de pont mobile (France)
+
+
+Le panneau de signalisation A6 indique la proximité d'un pont mobile situé à une distance d'environ 150 mètres en rase campagne et 50 mètres en agglomération.
+
+Usage[1]
+La signalisation avancée des ponts mobiles se fait à l'aide du panneau A6.
+
+La signalisation de position est réalisée à l'aide de barrières, de préférence oscillantes, établies de part et d'autre du pont, même si celui-ci est à sens unique. Chaque barrière porte des bandes de couleur alternativement blanche et rouge et un panneau B0.
+
+Ces bandes et ce panneau sont également rétroréfléchissants. L'ensemble peut être rendu plus visible, la nuit, par éclairage.
+
+Lorsque les circonstances locales et en particulier la nature et l'importance de la circulation le justifient, on implante des signaux d'arrêt de type R24.
+
+Lorsqu'il s'agit de ponts mobiles dont les barrières sont man?uvrées mécaniquement par du personnel à demeure, celles-ci et, le cas échéant, les signaux d'arrêt sont autant que possible enclenchés avec l'organe de verrouillage de l'ouvrage, de manière que celui-ci ne puisse être ouvert qu'après fermeture complète des barrières et, s'il y a lieu, après mise au rouge des signaux d'arrêt.
+
+Dans le cas où cet enclenchement ne peut être réalisé, ou lorsqu'il s'agit de ponts légers man?uvrés par des auxiliaires ou par les mariniers eux-mêmes, une consigne impose la fermeture des barrières avant toute man?uvre du pont.
+
+Histoire
+Sur le plan international le panneau de signalisation de pont mobile est normé dans le protocole de Genève signé en 1949. Il a sensiblement la forme définitive qui sera reprise en 1968, la représentation de l'eau étant différente. Il est codifié 1.14.
+
+Côté français, le panneau correspondant est déjà apparu avec l'instruction générale de 1946, avec un fond crème et un listel bleu, l'ouverture du pont étant orientée vers la gauche. le panneau est ensuite modifié avec la circulaire du 19 janvier 1952 [2]
+
+Il est alors codifié A65(au lieu de A6) présente un pictogramme relativement proche de celui du protocole de 1949, mais sur un fond crème et avec un listel rouge très étroit. Il sera codifié A dans l'instruction générale sur la signalisation routière de 1952, puis A6 dans celle de 1955.
+
+La forme définitive du panneau est arrêtée sur le plan international par la convention sur la signalisation routière conclue à Vienne le 8 novembre 1968, que la France a ratifiée le 9 décembre 1971, sous le code A5.
+
+La France transpose les dispositions de la convention de Vienne dans sa réglementation avec l'arrêté du 6 juin 1977 qui adopte le fond blanc, le large listel rouge et un pictogramme qui lui est propre : il y a deux crêtes de vagues au lieu de trois sur le poanneau européen ! Ce panneau prend le code A6.
+
+Galerie de l'évolution des normes
+	|	
+
+A6 - Arrêté des 6 et 7 juin 1977(France) - Modèle en vigueur
+	|
+
+Galerie de portraits
+Cette rubrique a pour vocation à recueillir des photos de terrain de panneaux A6 encore en place ou bien stockés par des collectionneurs. Avant 1952, les graphismes dépendaient du fabricant, il peut être intéressant de découvrir des variantes. Pour cela il convient également de relever l'année de fabrication et le nom du fabricant, ces deux informations sont au dos du panneau. Cette rubrique peut aussi remplir le rôle de bêtisier.
+
+Habilitation à la mise en place de panneaux de danger
+Les panneaux de signalisation de danger sont placés par les services de voirie de l'administration compétente, sans l'intervention d'un arrêté de réglementation [3].
+
+Dimensions [4]
+Comme pour tous les panneaux de signalisation de danger, il existe cinq gammes de dimensions de panneaux A6.
+
+	|	Gamme	|	Largeur du côté
+
+du triangle
+	|
+	|	Très grande	|	1500 mm	|
+	|	Grande	|	1250 mm	|
+	|	Normale	|	1000 mm	|
+	|	Petite	|	700 mm	|
+	|	Miniature	|	500 mm	|
+
+Dans le cas le plus général, c'est la gamme normale qui est utilisée.
+
+Les panneaux de la grande gamme sont normalement employés sur les routes à plus de deux voies et sur certaines routes nationales à deux voies désignées à cet effet par décision du ministre de l'ةquipement.
+
+Les panneaux de la petite gamme sont utilisés quand il y a des difficultés pour l'implantation de panneaux de la gamme normale (rangée d'arbres près de la chaussée, route de montagne, accotements réduits, en tunnels, trottoirs étroits, etc.).
+
+Implantation
+
+Distance du danger [5]
+Les panneaux de danger A6, comme tous les panneaux de danger hormis le panneau A18, sont toujours implantés à une distance du danger de :
+
+Hors agglomération, entre 100 et 200 m, aussi proche que possible de 150 m, sauf difficultés spéciales sérieuses ou avantages marqués à la modifier, notamment pour améliorer la visibilité du signal ou pour tenir compte de la vitesse des véhicules
+
+En agglomération, entre 0 et 50 m, aussi proche que possible de 50 m.
+
+Ils ne sont complétés par un panonceau de distance M1 que si la distance d'implantation est différente de celle définie ci-dessus. On peut utiliser cette possibilité pour augmenter la distance d'implantation qui ne doit pas excéder 400 m hors agglomération et 150 m en agglomération. Le panneau est alors répété à mi-distance environ. Les deux panneaux portent dans ce cas des panonceaux de distance M1.
+
+Côté de la chaussée [6]
+Les signaux de danger sont normalement implantés du côté droit de la chaussée dans le sens de la circulation.
+
+Ils peuvent être répétés de l'autre côté de la chaussée lorsque les conditions sont telles qu'il risquent de ne pas être aperçus à temps par les conducteurs auxquels ils s'adressent, comme pour les routes à plus de deux voies. Ils peuvent aussi être répétés au-dessus de la chaussée. Il doivent alors être soit éclairés soit rétroréfléchissants [7].
+
+Distance latérale [8]
+
+Sauf contrainte de site, la distance entre l'aplomb de l'extrémité du panneau situé du côté de la chaussée et la rive voisine de cette extrémité ne doit pas être inférieure à 0,70 m.
+
+En rase campagne, les panneaux sont placés en dehors de la zone située en bord de chaussée et traitée de telle façon que les usagers puissent y engager une man?uvre de redirection ou de freinage dite « zone de récupération », ou leur support au minimum à 2 m du bord voisin de la chaussée, à moins que des circonstances particulières s'y opposent (accotements étroits, présence d'une plantation, d'une piste cyclable, d'une voie ferrée, etc.).
+
+En agglomération les panneaux sont implantés de façon que le support gêne le moins possible la circulation des piétons.
+
+Le support d'un signal peut aussi être implanté sur une propriété riveraine ou ancré à une façade après accord du propriétaire ou par application si cela est possible du décret-loi du 30 octobre 1935 et du décret 57180 du 16 février 1957.
+
+Hauteur au-dessus du sol [9]
+
+En rase campagne
+La hauteur réglementaire est fixée en principe à 1 m (si plusieurs panneaux sont placés sur le même support, cette hauteur est celle du panneau inférieur), hauteur assurant généralement la meilleure visibilité des panneaux frappés par les feux des véhicules.
+
+Elle peut être modifiée compte tenu des circonstances locales :
+
+soit pour assurer une meilleure visibilité des panneaux,
+soit pour éviter qu'ils masquent la circulation.
+
+En agglomération
+Dans les agglomérations bénéficiant d'un éclairage public, les panneaux peuvent être placés à une hauteur allant jusqu'à 2,30 m pour tenir compte notamment des véhicules qui peuvent les masquer, ainsi que de la nécessité de ne gêner qu'au minimum la circulation des piétons.
+
+Au-dessus de la chaussée
+Lorsque les panneaux sont sur portique, potence ou haut-mât au-dessus de la chaussée, ils sont fixés à une hauteur minimale correspondant au gabarit de la route auquel s'ajoute une revanche de 0,1 m pour l'entretien de la chaussée et une revanche de 0,50 m pour la protection de la signalisation.
+
+Article détaillé : Implantation d'un panneau de signalisation verticale en France.
+
+Position de la face
+Le plan de face avant d'un panneau implanté sur accotement ou trottoir doit être légèrement incliné de 3 à 5° vers l'extérieur de la route afin d'éviter le phénomène de réflexion spéculaire qui peut, de nuit, rendre le panneau illisible pendant quelques secondes. [10]
+
+Envers du panneau. [11]
+L'envers du panneau ne doit pas appeler l'attention. Les couleurs de l'envers, du bord tombé et du contre listel de fabrication doivent être neutres et ne pas reprendre celles utilisées en signalisation routière.
+
+L'envers ne peut comporter qu'un marquage de certification réglementaire (voir ci-après), à l'exclusion de tout autre inscription ou toute publicité.
+
+Sur l'envers du panneau figurent les systèmes de fixation sur le support. Ce sont en général des rails collés : 2 rails pour les panneaux 500, 700, 1000 et 1250 mm (avec 2 brides de fixation), 3 rails pour le panneau 1500 mm (avec 3 brides de fixation).
+
+Visibilité de nuit [12]
+Les panneaux et panonceaux de signalisation doivent être visibles et garder le même aspect de nuit comme de jour. Les signaux de danger sont tous rétroréfléchissants ou éventuellement dans certaines conditions définies ci-dessous, éclairés.
+
+Les revêtements rétroréfléchissants doivent avoir fait l'objet, soit d'une homologation, soit d'une autorisation d'emploi à titre expérimental. La rétroréflectorisation porte sur toute la surface des panneaux et panonceaux à l'exception des parties noires ou grises.
+
+La classe 2
+La classe 2 est obligatoire pour tous les panneaux et panonceaux :
+
+implantés à plus de deux mètres de hauteur,
+implantés sur autoroutes et sur routes à grande circulation, quelle que soit leur hauteur.
+En agglomération, implantés dans les sections où la vitesse est relevée à 70 km/h.
+
+Cette technologie a un coefficient de rétroréflexion trois fois supérieur à la classe 1, ce qui permet une détection beaucoup plus efficace et augmente la distance de lisibilité de 15 à 20 % à l'état neuf. La comparaison au bout de cinq ou dix ans montre un avantage encore plus important pour la classe 2.
+
+La classe 1
+La classe 1 est obligatoire pour tous les panneaux implantés dans des zones où la classe 2 ne l'est pas.
+
+Homologation et certification
+
+Depuis 1978, l'homologation ministérielle des équipements de la route est obligatoire sur l'ensemble des voies routières françaises. La certification NF remplace progressivement l'homologation. Ainsi, depuis 1995, la certification vaut homologation pour les équipements de signalisation routière.
+
+Pour l'ensemble des panneaux de signalisation permanente et donc en particulier pour les panneaux de signalisation de danger, la certification NF - Equipements de la Route est obligatoire. Le marquage CE (norme européenne) est prévu pour le courant de l'année 2007.
+
+Au dos du panneau doivent donc figurer obligatoirement les marques de certification à savoir :
+
+Le numéro d'admission du produit : catégorie du produit (SP dans le cas présent, pour signalisation de police), et numéro d'ordre.
+L'identification du site de fabrication du produit (en clair),
+L'identification du titulaire (facultatif)
+L'année de fabrication (deux derniers chiffres)
+
+Notes
+
+? [cf. Instruction interministérielle sur la signalisation routière -2ème partie - article 32]
+? [cf. La signalisation routière en France de 1946 à nos jours - Marina Duhamel-Hertz - Jacques Nouvier - AMC Editions - 1998]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 15]
+? [cf. Instruction interministérielle sur la signalisation routière -1èrepartie - article 5-3]
+? [cf. Instruction interministérielle sur la signalisation routière -2ème partie - article 25]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8b-c-d-e]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 13]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8g]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 9]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8a]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 10]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 13]
+
+
+<#10867>
+Panga
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Panga, une ville du Burkina Faso ;
+Panga, le nom commun de divers poissons du genre Pangasius dont Pangasius hypophthalmus mais aussi d'autres siluriformes dont le Silurus glanis parfois nommé « Merval » ;
+Panga désigne Megalaspis cordyla en Indonésie et Espagne ;
+Panga désigne Trichiurus lepturus au Kenya.
+Panga désigne aussi en Afrique du SudPterogymnus laniarius.
+
+
+<#10868>
+Panneau de signalisation temporaire directionnelle en France
+
+On désigne par panneau de Signalisation Temporaire Directionnelle tout panneau utilisé en signalisation directionnelle temporaire de types KC et KD, montés sur support fixe ou mobile. [1].
+
+Un tel panneau est dit appartenir à la catégorie TD.
+
+On distingue également les catégories :
+
+SP (police permanente),
+SD (directionnelle permanente),
+TP (police temporaire).
+
+Types de panneaux de la catégorie
+Les types de panneaux relevant de cette catégorie sont donc les suivants :
+
+Type KC et KD - Panneaux de signalisation temporaire
+
+Notes
+
+? cf Norme XP P 98-501 « Signalisation routière verticale - Généralités » - Mars 2002
+
+
+<#10869>
+Panneau de configuration
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'informatique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pour le cas particulier de Microsoft, voir panneau de configuration (windows).
+
+Dans le monde informatique, le panneau de configuration est une interface permettant de visualiser et modifier des paramètres d'utilisation de logiciels ou de fonctionnement matériels.
+
+Ainsi, par exemple, dans les systèmes d'exploitation tels que MicrosoftWindows, Mac OS le panneau de configuration permet :
+
+d'ajouter des composants matériels, d'en modifier les Pilote (informatique), d'en modifier les paramètres de fonctionnement,
+d'ajouter ou de supprimer des programmes,
+de changer les paramètres de visualisation (résolution en pixels, fond d'écran, tailles des polices d'affichage...),
+...
+
+Pour le cas particulier de Microsoft, voir panneau de configuration (windows).
+
+Certaines applications ont leur propre panneau de configuration qui permet par exemple de mémoriser pour les utilisations ultérieures les paramètres utilisateur. Ou encore (comme par exemple les navigateurs web) des paramètres de sécurité et de confidentialité.
+
+On trouvera généralement ce panneau de configuration dans les menus « Options » ou « Préférences » de l'application
+
+Plus généralement , dans le monde industriel, par exemple, un panneau de configuration est un tableau vertical où sont disposées des commandes permettant de régler le fonctionnement d'un système (potentiomètres, interrupteurs, ...) et / ou des systèmes de visualisation du fonctionnement du système (DEL, afficheurs lcd, ...).
+
+Panneaux de configuration des principaux systemes d'exploitation
+	|	sysnteme d'exploitation	|	panneau de configuration	|
+	|	Microsoft Windows	|	panneau de configuration Windows	|
+	|	Apple MacOS	|		|
+	|	IBM AIX	|	Smitty	|
+	|	Mandriva Linux	|	Drakconf	|
+	|	SuSE Linux	|	Yast	|
+	|	Ubuntu	|		|
+	|	Kubuntu	|		|
+
+Liens externes
+
+(fr)Description du panneau de configuration
+
+Portail de l'informatique
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur Panneau de configuration.
+	|
+
+
+<#10870>
+Panchَn
+
+Francisco Gonzلlez Dيaz dit « Panchَn », né à Cordoue (Espagne) le 4 octobre1784, mort à Cordoue le 8 mars1843, était un matador espagnol.
+
+Présentation
+« Panchَn » est sans doute le premier cordouan à acquérir une certaine réputation dans l'arène. Il commence sa carrière comme banderillero dans la cuadrilla de José Romero, puis comme matador, prenant l'alternative à Cordoue le 22 mai1815. Il se présente comme matador à Madrid le 29 mai1820 en compagnie de « El Sombrerero ».
+
+En raison d'une blessure survenue à Cadix en 1829, il est obligé de suspendre sa carrière et devient employé de l'ةtat. En 1836, il redescend dans l'arène alors qu'il compte déjà 52 ans et qu'il est malade et obèse.
+
+Le 28 août1842, à Hinojosa del Duque (Espagne, province de Cordoue), il est gravement blessé par le taureau « Bragas » de la ganaderيa du Marquis de Guadalest. Il meurt à Cordoue le 8 mars 1843 des suites de ses blessures.
+
+
+<#10871>
+Pankido
+
+
+	|	
+	|	
+Cet article ou cette section ne cite pas suffisamment ses sources.
+(date inconnue)
+Son contenu est donc sujet à caution. Wikipédia doit être fondée sur des sources fiables et indépendantes. Améliorez cet article en liant les informations à des sources, au moyen de notes de bas de page (voir les recommandations).	|
+
+Le pankido est un art martial créé en 1997 par Patrick Lombardo. Il s'agit d'un système fondé sur la mise en harmonie pratique des techniques de frappes et des techniques de Grappling, debout et au sol. Le Pankido comporte trois grandes articulations : - La compétition sportive : fondée sur le principe du Combat Libre traditionnel (en kimono). - La Self-défense : mains nues, bâtons courts, couteaux. - Système énergétique (PanGymnastica). Le Pankido est un Art Martial original qui ne s'apparente à aucun autre. Il n'est pas un style de Karaté, de Kenpô, de Jû-jutsu, de Pancrase ou autres, mais un système homogène possédant sa propre logique interne. Les principales compétitions sont la Coupe de France et les Golden Belts Championships.
+
+
+<#10872>
+Panneau d'information de sécurité routière en France
+
+Les signaux d'information de sécurité routière de type SR sont placés sur les voies pour rappeler aux usagers des règles simples de sécurité routière.
+
+Histoire
+Utilisés depuis de nombreuses années, ces panneaux n'ont été régularisés que par arrêté du 11 février 2008.
+
+Liste des signaux
+Il existe 4 signaux d'information de sécurité routière.
+
+Signal SR2 : ensemble de trois signaux utilisés successivement, rappelant l'espacement que les usagers doivent laisser entre leurs véhicules sur autoroute et sur route à deux fois deux voies et carrefours dénivelés ;
+Signal SR3 : annonçe une zone où la vitesse est contrôlée par un ou des radars automatiques ;
+Signal SR4 : annonçe que la zone rencontrée est sous vidéosurveillance par le gestionnaire de la route, pour assurer une meilleure sécurité des usagers et la régulation du trafic, conformément à l'article 10 de la loi no 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;
+Signal SR50 : rappelle un message de sécurité routière de portée générale.
+
+Caractéristiques
+Les signaux de type SR sont de forme rectangulaire, à fond gris, listel jaune et inscriptions blanches.
+Les signaux SR2 comportent des pictogrammes de couleur blanche avec un élément de couleur verte.
+Les signaux SR3 comportent des pictogrammes noirs sur un fond blanc.
+Les signaux SR50 ne comportent que des inscriptions commençant par les mots suivants : "Pour votre sécurité".
+
+Sources
+
+Arrêté du 11 février 2008 modifiant l'arrêté du 24 novembre 1967 relatif à la signalisation des routes et des autoroutes
+
+
+<#10873>
+Panlong
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le monde chinois et la mythologie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pour les articles homonymes, voir Panlong (homonymie). 
+Dans la mythologie chinoise, les Panlong (??) sont les dragons qui habitent les eaux des lacs de l'Orient.
+
+
+<#10874>
+Panouille
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un cours d'eau de France.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Panouille	|
+	|	
+
+	|
+	|	Longueur	|	13 km	|
+	|	Régime	|	pluvio-nival	|
+	|	Se jette dans	|	Tialle	|
+	|	Bassin collecteur	|	Dordogne	|
+	|	Pays	|	France	|
+	|	Cours d'eau - Hydrologie	|
+
+La Panouille est un ruisseau français de la région Auvergne, affluent de la Tialle et sous-affluent de la Dordogne.
+
+Elle prend sa source dans le département du Puy-de-Dôme à plus de 800 m d'altitude sur la commune de Bagnols puis arrose Trémouille-Saint-Loup.
+
+Elle sert ensuite de limite sur trois kilomètres entre le Puy-de-Dôme et le Cantal et poursuit son cours sur un kilomètre dans ce dernier département.
+
+Elle rejoint enfin la Tialle en rive droite, deux kilomètres au nord de Lanobre.
+
+Liens externes
+
+la Panouille sur le site du Sandre
+
+Portail de l'eau
+
+
+<#10875>
+Panic (plante)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pour les articles homonymes, voir Panic. 
+	|	
+Panic	|
+	|		|
+	|	Panicum miliaceum	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Magnoliophyta	|
+	|	Classe	|	Liliopsida	|
+	|	Ordre	|	Cyperales	|
+	|	Famille	|	Poaceae	|
+	|	Genre	|
+	|	Panicum
+L., 1753	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Poales	|
+	|	Famille	|	Poaceae	|
+	|	Taxons de rang inférieur	|
+	|	
+Voir texte
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Les panics sont un genre de plantesherbacées, annuelles ou vivaces, de la famille des Poacées. Certaines espèces sont cultivées comme céréales ou comme plantes fourragères. D'autres sont considérées comme des « mauvaises herbes » des cultures, notamment de maïs.
+
+Le panic érigé (Panicum virgatum), adventice courante aux états-unis, parfois utilisée comme fourrage ou en couverture de sols fragiles à protéger contre l'érosion, pourrait constituer selon une étude[1] publiée en 2008 une source intéressante d'agrocarburants; grâce à un bilan écologique et énergétique[2] bien meilleur que celui du maïs selon Hen Vogel et ses associés (il produit 540% d'énergie par rapport à l'énergie fournie pour le produire).
+
+Principales espèces
+
+Panicum amarum Elliott
+Panicum ambiguum Trin.
+Panicum anabaptistum Steud.
+Panicum anceps Michx.
+Panicum antidotale Retz.
+Panicum aquaticum Poir.
+Panicum arechavaletae Hicken
+Panicum bartowense Scribn. & Merr.
+Panicum bergii Arechav.
+Panicum bisulcatum Thunb.
+Panicum brachyanthum Steud.
+Panicum brevifolium L.
+Panicum bulbosum Kunth
+Panicum campestre Nees ex Trin.
+Panicum capillare L., le panic capillaire
+Panicum capillarioides Vasey
+Panicum coloratum L.
+Panicum curviflorum Hornem.
+Panicum decolorans Kunth
+Panicum decompositum R. Br.
+Panicum deustum Thunb.
+Panicum dichotomiflorum Michx., le panic dichotome
+Panicum dregeanum Nees
+Panicum effusum R. Br.
+Panicum flavescens Sw.
+Panicum fluviicola Steud.
+Panicum fulgidum (R. Br.) Hughes
+Panicum gattingeri Nash
+Panicum ghiesbreghtii E. Fourn.
+Panicum glabripes Dِll
+Panicum gracilicaule Rendle
+Panicum grumosum Nees
+Panicum gymnocarpon Elliott
+Panicum hallii Vasey
+Panicum havardii Vasey
+Panicum hemitomon Schult.
+Panicum hillmanii Chase, le panic de Hillman
+Panicum hirstii Swallen
+Panicum hirsutum Sw.
+Panicum hirticaule J. Presl
+Panicum hochstetteri Steud.
+Panicum kalaharense Mez
+Panicum lanipes Mez
+Panicum larcomianum Hughes
+Panicum laxum Sw.
+Panicum massaiense Mez
+Panicum miliaceum L., le panic faux millet
+Panicum milioides Nees ex Trin.
+Panicum millegrana Poir.
+Panicum mindanaense Merr.
+Panicum missionum Ekman
+Panicum monticola
+Panicum natalense Hochst.
+Panicum nephelophilum Gaudich.
+Panicum niihauense H. St. John
+Panicum notatum Retz.
+Panicum numidianum Lam.
+Panicum obtusum Kunth
+Panicum olyroides Kunth
+Panicum paludosum Roxb.
+Panicum pernambucense (Spreng.) Mez ex Pilg.
+Panicum philadelphicum Bernh. ex Trin.
+Panicum phragmitoides Stapf
+Panicum pilosum Sw.
+Panicum plenum Hitchc. & Chase
+Panicum plicatum Lam.
+Panicum poaeoides Stapf
+Panicum polygonatum Schrad.
+Panicum prionitis Nees
+Panicum psilopodium Trin.
+Panicum quadriglume (Dِll) Hitchc.
+Panicum queenslandicum Domin
+Panicum racemosum (P. Beauv.) Spreng.
+Panicum radicans Retz.
+Panicum repandum Nees
+Panicum repens L., le panic rampant
+Panicum reverchonii Vasey
+Panicum rigidulum Bosc ex Nees
+Panicum schinzii Hack.
+Panicum scopuliferum Trin.
+Panicum sellowii Nees
+Panicum seminudum Domin
+Panicum serratum R. Br.
+Panicum stapfianum Fourc.
+Panicum stipitatum Nash
+Panicum stramineum Hitchc. & Chase
+Panicum subalbidum Kunth
+Panicum sumatrense Roth
+Panicum trachyrachis Benth.
+Panicum trichanthum Nees
+Panicum trichocladum Hack. ex K. Schum.
+Panicum trichoides Sw.
+Panicum turgidum Forssk.
+Panicum urvilleanum Kunth
+Panicum validum Mez
+Panicum verrucosum Muhl.
+Panicum versicolor Dِll
+Panicum virescens Weigel
+Panicum virgatum L., le panic dressé ou panic érigé
+Panicum whitei J. M. Black
+
+Autres graminées portant le nom de « panic »
+Plusieurs espèces appartenant aux genres voisins Echinochloa et Setaria de la famille des Poacées portent le nom vernaculaire de « panic », notamment :
+
+Echinochloa crus-galli (L.) P.Beauv., le panic pied-de-coq
+Echinochloa muricata (P.Beauv.) Fernald, le panic épineux
+Echinochloa phyllopogon (Stapf) Koso-Pol., le panic phyllopogon
+
+Setaria italica (L.) P.Beauv., le panic d'Italie
+Setaria verticillata (L.) P.Beauv., le panic verticillé
+Setaria viridis (L.) P.Beauv., le panic vert
+
+Références
+
+? Schmer MR et al. (2008), PNAS 105, 464-9, cité par Biofutur n° 286 de mars 2008, p 18
+? Farguibe H et ak? (2998)n diu;19,1126 Science. 1152747
+
+
+<#10876>
+Panzergrenadier
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le domaine militaire.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le terme Panzergrenadier, désigne à partir de 1942, l'infanterie spéciale de la Heer et de la Waffen-SS, chargée d'accompagner les chars de combat. De nos jours, le terme est toujours employé au sein de la Bundeswehr, pour désigner l'infanterie mécanisée.
+
+Création
+Auparavant, les régiments chargés de ce rôle au sein des panzerdivisions, étaient désignés, Schützen Regiments. La décision d'Adolf Hitler de renommer tous les régiments d'infanterie, en régiment de grenadiers, pour rendre hommage au roi prussienFrédéric II, entraîna le renommage des régiments de schützen et des régiments d'infanterie motorisés en régiments de panzergrenadiers. Suite à cette évolution, les anciennes division d'infanterie motorisée (Infanterie Division (mot)) devinrent elles, des divisions de panzergrenadier (PanzerGrenadierDivision ou PzGrD en abrégé), gagnant au passage un soutien blindé sous la forme d'un bataillon de chars.
+
+ةquipement et armement
+Pour remplir leur mission, ils bénéficiaient de moyens de transport organiques. Une partie d'entre eux combattaient à bord de semi-chenillés comme le SdKfz 251, leurs unités prenant le qualificatif de "gepanzert" (littéralement cuirassés), et d'autres faute de moyens devaient se contenter de camions, et étaient qualifiés de "motorisiert" (motorisés). Sur les 226 bataillons de Panzergrenations affectés à la Heer, Waffen-SS ou luftwaffe en 1943, seuls 26, soit un peu plus de 10%, étaient équipés de véhicules semi-chenillés.
+Ils étaient souvent armés de façon nettement plus puissante que l'infanterie conventionnelle, équipé de nombreuses mitrailleusesMG34 ou MG 42, et d'une dotation supérieure en pistolet mitrailleurs de type MP40.
+Vers la fin de la guerre, ils furent parmi les premières unités à recevoir des fusils d'assautSturmgewehr 44. Au niveau de leur uniforme, ils se distinguaient, par le passepoil de leurs pattes d'épaule de couleur vert pré (à ne pas confondre avec le vert clair des chasseurs de montagne), qu'ils avaient repris aux troupes motocyclistes.
+
+Les Panzergrenadier divisionDans la Heer 
+
+les 3e, 10e, 14e, 15e, 16e, 18e, 20e, 25e 29e 60e et 90e divisions de panzergrenadier, furent formées par la transformation des divisions motorisées correspondantes
+la division Gross Deutschland fut elle formée par l'accroissement d'effectif du régiment de même nom.
+
+
+<#10877>
+Panier (basket-ball)
+
+Pour les articles homonymes, voir Panier. 
+	|	Lexique du basket-ball	|
+	|	
+Joueurs
+
+Meneur (1)
+Arrière (2)
+Ailier (3)
+Ailier fort (4)
+Pivot (5)
+Cinq majeur
+
+Matériel
+
+Panier
+Raquette
+Terrain
+
+Actions de jeu
+
+Contre
+Double-pas
+Faute personnelle
+Interception
+Lancer franc
+Panier à trois points
+Passe décisive
+Rebond
+Slam dunk
+Turnover
+	|
+	|	
+Tous les articles
+	|
+
+Au basket-ball, le panier est le cerceau métallique à travers lequel les joueurs doivent faire passer le ballon pour marquer des points. Il y a deux paniers sur un terrain de basket-ball, et chaque équipe doit tenter de marquer dans l'un tout en empêchant l'équipe adverse de marquer dans l'autre.
+
+Un filet ouvert vers le bas, de 45 cm de diamètre, est attaché en-dessous du panier. L'ensemble est fixé, à la hauteur règlementaire de 3,05 m, à un panneau rectangulaire vertical.
+
+Par extension, un joueur marque un panier lorsqu'il fait passer la balle dans l'arceau du panier de l'équipe adverse. Un panier a lieu en cours de jeu et rapporte deux (ou trois) points à l'équipe, alors qu'on parle de lancer franc lorsque le joueur marque une pénalité suite à une faute d'un joueur adverse, ce qui rapporte un seul point.
+
+Les différentes manières de marquer un panier
+
+Il existe différents façons de marquer un panier :
+
+Le tir en suspension (en anglais : jump shot), où le joueur s'arrête, saute, et lache la balle en plein saut.
+Le double-pas (en anglais : lay up), qui se fait dans la course, en s'approchant très près du panier puis en déposant littéralement le ballon dans l'arceau, éventuellement en le faisant rebondir contre le panneau.
+Le slam dunk, ou plus couramment dunk, où le joueur s'accroche à l'arceau à une main ou à deux mains, au moment de lacher le ballon dans le panier. Le dunk est de loin considéré comme étant la manière la plus spectaculaire de marquer un panier, avec sa variante, le alley-oop.
+Le bras roulé (en anglais : sky hook), un geste qui a quasiment disparu dans le basket-ball moderne. Inventé par Kareem Abdul-Jabbar, le geste consiste à tirer au panier en amenant la balle d'une main au-dessus de la tête, bras tendu. L'autre bras sert à se protéger du défenseur. Ce tir est quasiment incontrable mais dur à maitriser.
+Le panier à trois points, qui est en fait un tir réalisé derrière la ligne de trois points (située à 6,25 m du panier selon la règle FIBA, à 7,23 m en NBA). Comme son nom l'indique, ce type de panier rapporte un point de plus qu'un panier « normal ».
+
+Un tir direct (swish shot ou swisher) est réalisé lorsque le ballon rentre dans le panier sans toucher ni l'arceau ni le panneau.
+
+Portail du basket-ball
+
+
+<#10878>
+Panulirus japonicus
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les crustacés.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Panulirus japonicus	|
+	|		|
+	|	Panulirus japonicus	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Arthropoda	|
+	|	Sous-embr.	|	Crustacea	|
+	|	Classe	|	Malacostraca	|
+	|	Sous-classe	|	Eumalacostraca	|
+	|	Superordre	|	Eucarida	|
+	|	Ordre	|	Decapoda	|
+	|	Sous-ordre	|	Pleocyemata	|
+	|	Infra-ordre	|	Palinura	|
+	|	Super-famille	|	Palinuroidea	|
+	|	Famille	|	Palinuridae	|
+	|	Genre	|	Panulirus	|
+	|	Nom binominal	|
+	|	Panulirus japonicus
+(Von Siebold, 1824)	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Liens externes
+
+Référence ITIS : Panulirus japonicus (Von Siebold, 1824)(fr) (+version(en))
+Référence Animal Diversity Web : Panulirus japonicus(en)
+Référence NCBITaxonomy : Panulirus japonicus(en)
+
+
+<#10879>
+Pandinus imperator
+
+	|	
+Pandinus imperator	|
+	|		|
+	|		|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Arthropoda	|
+	|	Sous-embr.	|	Chelicerata	|
+	|	Classe	|	Arachnida	|
+	|	Ordre	|	Scorpiones	|
+	|	Famille	|	Scorpionidae	|
+	|	Genre	|	Pandinus	|
+	|	Nom binominal	|
+	|	Pandinus imperator
+(Koch, 1841)	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Distribution géographique
+Espèce protégée par la Convention de Washington et la décision n°338/97 du conseil de l'Europe.
+
+Tout l'achat ou don doit être assorti d'une facture ou d'un certificat de cession, l'importation nécessite un numéro CITES.
+
+Origine
+Espèce originaire de Togo, Nigeria, Côte d'Ivoire, Guinée, Bénin. Cette espèce habite les régions forestières très humides, elle est terricole.
+
+Description
+Le Pandinus imperator fait partie des plus grands scorpions connus à ce jour. Sa taille adulte est d'environ 20 cm queue comprise. Cela dit, du fait de la raréfaction de l'espèce, on trouve de moins en moins de grands spécimens. Il est de couleur noire avec des reflets verdâtres.
+
+Ses pinces sont larges mais surtout puissantes, elles sont de teinte brunâtre et granuleuses. En introduisant le scorpion dans une boîte transparente, on pourra remarquer par le dessous au niveau de sternite, les peignes.
+
+Ceux du mâle sont nettement plus longs et leurs dents également. Cependant le nombre de dents des peignes ne peut être un critère rigoureux de sexage.
+
+Terrarium
+50 x 30 x 35 cm sont des dimensions correctes pour loger un sujet adulte. La maintenance de plusieurs sujets est possible, à condition d'augmenter la taille du terrarium. Précision importante : après la parturition d'une femelle, il est impératif de l'isoler avec sa progéniture car elle devient très agressive envers ses congénères.
+
+Comportement c'est le plus calme et le plus docile des scorpions, mais il garde un caractère indépendant, celui que l'on manipule le plus facilement bien que ce soit déconseillé. De fréquents cas de piqûre, bien que sans gravité, doivent mettre en garde contre toute manipulation de cette espèce.
+
+Il s'agit d'un des rares scorpions ayant un comportement social développé : on peut mettre plusieurs spécimens ensemble à condition que le terrarium soit assez grand, que le nombre de cachettes et l'apport en nourriture sont suffisants. L'agressivité entre mâle et femelle peut être réelle lors des accouplements.
+
+Substrat la tourbe sera encore une fois idéale pour les raisons que l'on sait. Une couche de 10 cm avec l'enchevêtrement d'écorces permettra à l'animal de se confectionner un abri. Les abris sont à prévoir en fonction du nombre de pensionnaires à raison d'un par individu. Un grand bac à eau peu profond est nécessaire.
+
+Nourritureinsectivore (grillons, blattes, criquets), ce scorpion peut a priori manger tout ce qui bouge, mais les insectes sont suffisants.
+
+Température de 24 à 28 °C le jour et de 20 à 22 °C la nuit avec une hygrométrie élevée, soit 80%.
+
+ةclairage S'il doit y en avoir un, il sera de faible intensité, le cycle jour/nuit local étant idéal. Cette espèce est crépusculaire avec un pic d'activité vers 19 heures.
+
+Reproduction
+Aucune difficulté majeure n'a été constatée, peu d'agressivité pendant l'acte copulatoire. Cependant, après l'acte, il faut séparer les deux protagonistes. La durée de gestation est importante, soit 7 à 14 mois en fonction bien sûr des conditions de maintenance.
+
+Le nombre de pullus (bébés scorpions) varie de 10 à 40. Sitôt mis au monde, les petits pullus montent sur le dos de leur mère. Ils n'en redescendront qu'après avoir effectué leur première mue. Pendant tout ce temps, leur mère les aura nourris par simple échange cutilaire.
+
+Il faut savoir que le stress peut provoquer un début de cannibalisme.
+
+C'est pour cela qu'il est conseillé d'isoler la femelle avec ses jeunes ensemble. Leur croissance est relativement longue, et leur longévité est d'environ de 8 à 10 ans.
+
+Observations
+Espèce pas spécialement agressive, il faut toutefois rester vigilant. La piqûre de Pandinus imperator peut s'avérer très douloureuse. Aucun décès signalé à ce jour.
+
+Liens externes
+
+Référence Animal Diversity Web : Pandinus imperator(en)
+Référence NCBITaxonomy : Pandinus imperator(en)
+Référence CITES : espèce Pandinus imperator (Koch, 1842)(fr+en) (sur le site de l'UNEP-WCMC)
+répartition : Pandinus imperator (Koch, 1842)(fr+en)
+
+Fonds documentaire ARKive (photographies, extraits sonores et vidéos)  : Pandinus imperator(en)
+
+http://www.jungleshop.fr/article.php3?id_article=77
+http://foliereptilienne.free.fr/pandinus.htm
+http://membres.lycos.fr/scorpionida/scorpions3.html
+
+
+<#10880>
+Pansy Parkinson
+
+	|	Pansy Parkinson	|
+	|	Personnage de Harry Potter	|
+	|		|
+	|	Genre	|	Féminin	|
+	|	Cheveux	|	Blonds	|
+	|	Yeux	|	Verts	|
+	|	Activité(s)	|	élève de Serpentard	|
+	|	Affiliation	|	Brigade Inquisitoriale
+Poudlard	|
+	|		|
+	|	Créé par	|	J. K. Rowling	|
+	|	Première apparition	|	Harry Potter à l'école des sorciers	|
+	|	Interprété par	|	Katherin Nicholson
+Geneviève Gaunt	|
+
+	|	
+
+	|
+	|	
+La saga Harry Potter par J. K. Rowling
+	|
+	|	1.à l'école des sorciers	|	livre - film	|
+	|	2.et la Chambre des secrets	|	livre - film	|
+	|	3.et le Prisonnier d'Azkaban	|	livre - film	|
+	|	4.et la Coupe de feu	|	livre - film	|
+	|	5.et l'Ordre du phénix	|	livre - film	|
+	|	6.et le Prince de sang-mêlé	|	livre - film	|
+	|	7.et les Reliques de la Mort	|	livre - film	|
+	|	L'univers de Harry Potter	|
+	|	
+Les personnages de la saga
+Les lieux de l'histoire
+Le Quidditch
+Les objets magiques
+Les moyens de transport
+Les créatures fantastiques
+Les principaux concepts et institutions
+Les sortilèges et potions
+Les plantes magiques
+
+La littérature Jeunesse
+	|
+
+Pansy Parkinson est une élève de Serpentard qui a fait son entrée à l'école de sorcellerie la même année qu'Harry.
+
+Pansy est présentée comme une fille très moqueuse et narquoise dans le mauvais sens du terme. Elle est d'ailleurs très proche de Drago Malefoy, l'ennemi juré d'Harry. Elle ne rate jamais une occasion de se moquer de lui et de rajouter une remarque sarcastique lorsque Drago commence à l'insulter ou à le provoque. Elle méprise ouvertement Hermione Granger, vraisemblablement à cause de ses origines moldues et ne manque jamais de lui glisser une remarque désagréable. Elle s'acharne également dès le premier tome, sur Neville Londubat, se moquant de lui et le traitant de "gros pleurnichard" lorsqu'il tomba de son balai durant le premier cours de vol auquel ils assistèrent. Et bien sûr, comme la plupart des Serpentard, elle déteste les Gryffondor par principe.
+
+Physiquement, Pansy est présentée comme une fille au visage "dur", parfois assimilé à celui d'un pékinois.
+
+Différence majeure entre les livres et les films : Dans les livres, Pansy est présentée comme étant blonde ; alors que dans les films, elle est brune avec la coupe au carré.
+
+Dans les films, Pansy Parkinson est interprétée par Katharine Nicholson puis par Geneviève Gaunt.
+
+
+<#10881>
+Pandolfo Petrucci
+
+
+	|	
+	|	
+Cet article est une ébauche concernant l'histoire et une personnalité italienne.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pandolfo Petrucci (Sienne, 1452 - San Quirico d'Orcia, 1512) était un homme politique italien du XVIe siècle.
+
+Biographie
+Pandolfo Petrucci fut un Moderatore, homme politique, de Sienne dont il géra le gouvernement, en suscitant chez ses contemporains des sentiments opposés : pour les amis et alliés Sol oriens et Defensor libertatis de la république de Sienne, pour ses adversaires, tyrannique, prêt à renverser les amitiés et les alliances à suivant les opportunités de l'instant.
+
+Sa figure politique fut controversée mais toujours caractérisée par un pragmatisme lucide et en accord avec les moments historiques qu'a connu Sienne au XIVe siècle rivalisant difficilement avec des voisins aussi puissants sur le plan militaire qu'économique.
+
+Notes et références
+
+Nicolas Machiavel : Le Princechapitre 20
+Jacques Heers : Sienne la silencieuse[1]
+
+
+<#10882>
+Panthers de Louisville
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le hockey sur glace.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|	Panthers de Louisville	|
+
+	|
+	|	
+
+	|
+	|	Fondé en	|	1999	|
+	|	Disparu en	|	2001	|
+	|	Siège	|	Louisville (Kentucky) (ةtats-Unis)	|
+	|	Patinoire	|	Freedom Hall	|
+	|	Couleurs	|	Bleu marine, rouge et or	|
+	|	Ligue	|	Ligue américaine de hockey	|
+	|	Entraîneur-chef	|	Joe Paterson	|
+	|	ةquipe(s) affiliée(s)	|	Panthers de la Floride	|
+
+Les Panthers de Louisville sont une ancienne franchise professionnelle de hockey sur glace de la Ligue américaine de hockey.
+
+Histoire
+Les Panthers ont été créés en 1999 en tant que club-école des Panthers de la Floride de la Ligue nationale de hockey. Domiciliés à Louisville aux ةtats-Unis, ils évoluèrent deux saisons en LAH, entraînés par Joe Paterson. En 2001, la franchise fut mise en sommeil jusqu'en 2005 où elle devint les Stars de l'Iowa.
+
+Statistiques de saisons
+	|	Saison	|	PJ	|	V	|	D	|	N	|	DP	|	Pts	|	BP	|	BC	|	Classement Final	|	Séries éliminatoires	|
+	|	1999-00	|	80	|	42	|	30	|	7	|	1	|	92	|	278	|	254	|	4e division Mid-Atlantic	|	ةliminés en 1re ronde	|
+	|	2000-01	|	80	|	21	|	51	|	5	|	3	|	50	|	200	|	285	|	4e division South	|	Non qualifiés	|
+
+
+<#10883>
+Panure
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	
+	|	
+Voir « panure » sur le Wiktionnaire.
+	|
+
+Paner (ex : poisson pané)
+Panure à moustaches
+
+
+<#10884>
+Panneau de signalisation de chaussée glissante (France)
+
+
+Le panneau de signalisation A4 indique la proximité d'une section de chaussée particulièrement glissante située à une distance d'environ 150 mètres en rase campagne et 50 mètres en agglomération.
+
+Usage[1]
+La signalisation avancée des sections de chaussées particulièrement glissantes se fait à l'aide du panneau A4 complété éventuellement par un panonceau d'indications diverses M9.
+
+Un panonceau d'étendue M2 peut compléter le panneau A4 si la section a plus de 500 m.
+
+Le cas du verglas[2]
+Lorsqu'il est possible de signaler le verglas, notamment sur de courtes sections de routes, connues par expérience, où il peut se produire en l'absence d'une formation généralisée et où son apparition échappe à toute prévision, la signalisation s'effectue à l'aide d'un panneau A4 complété par un panonceau M9z d'indications diverses portant l'inscription : « VERGLAS FRةQUENT».
+
+Cette signalisation est maintenue pendant toute la mauvaise saison et retirée le reste du temps. Lorsque le verglas fait l'objet d'une prévision météorologique ou lorsqu'il est réellement constaté, la signalisation temporaire s'effectue conformément aux dispositions de l'article 130.
+
+Histoire
+Sur le plan international le panneau de signalisation de chaussée glissante est normé dans le protocole de Genève signé en 1949. Il a la forme définitive qui sera reprise en 1968. Il est codifié 1.16.
+
+Côté français, le panneau correspondant est déjà apparu avec l'instruction générale de 1946, avec un fond crème et un listel bleu.
+
+Le panneau est ensuite modifié avec la circulaire du 19 janvier 1952 [3] Il est alors codifié A11 (au lieu de A4) présente le même pictogramme relativement proche de celui en vigueur actuellement, mais sur un fond crème et avec un listel rouge très étroit. Il sera codifié A4 dans l'instruction générale sur la signalisation routière de 1955.
+
+La forme définitive du panneau est arrêtée sur le plan international par la convention sur la signalisation routière conclue à Vienne le 8 novembre 1968, que la France a ratifiée le 9 décembre 1971, sous le code A8.
+
+La France transpose les dispositions de la convention de Vienne dans sa réglementation avec l'arrêté du 6 juin 1977 qui adopte le fond blanc, le large listel rouge, mais conserve son pictogramme ou les traces de glissades ne se croisent pas. Ce nouveau panneau prend le code A4.
+
+En 1986 , il prend la signification de chaussée particulièrement glissante.
+
+Galerie de l'évolution des normes
+	|	
+
+A4 - Arrêté des 6 et 7 juin 1977(France) - Modèle en vigueur.
+	|
+
+Galerie de portraits
+Cette rubrique a pour vocation à recueillir des photos de terrain de panneaux A4 encore en place ou bien stockés par des collectionneurs. Avant 1952, les graphismes dépendaient du fabricant, il peut être intéressant de découvrir des variantes. Pour cela il convient également de relever l'année de fabrication et le nom du fabricant, ces deux informations sont au dos du panneau. Cette rubrique peut aussi remplir le rôle de bêtisier.
+
+Habilitation à la mise en place de panneaux de danger
+Les panneaux de signalisation de danger sont placés par les services de voirie de l'administration compétente, sans l'intervention d'un arrêté de réglementation [4].
+
+Dimensions [5]
+Comme pour tous les panneaux de signalisation de danger, il existe cinq gammes de dimensions de panneaux A4.
+
+	|	Gamme	|	Largeur du côté
+
+du triangle
+	|
+	|	Très grande	|	1500 mm	|
+	|	Grande	|	1250 mm	|
+	|	Normale	|	1000 mm	|
+	|	Petite	|	700 mm	|
+	|	Miniature	|	500 mm	|
+
+Dans le cas le plus général, c'est la gamme normale qui est utilisée.
+
+Les panneaux de la grande gamme sont normalement employés sur les routes à plus de deux voies et sur certaines routes nationales à deux voies désignées à cet effet par décision du ministre de l'ةquipement.
+
+Les panneaux de la petite gamme sont utilisés quand il y a des difficultés pour l'implantation de panneaux de la gamme normale (rangée d'arbres près de la chaussée, route de montagne, accotements réduits, en tunnels, trottoirs étroits, etc.).
+
+Implantation
+
+Distance du danger [6]
+Les panneaux de danger A4, comme tous les panneaux de danger hormis le panneau A18, sont toujours implantés à une distance du danger de :
+
+Hors agglomération, entre 100 et 200 m, aussi proche que possible de 150 m, sauf difficultés spéciales sérieuses ou avantages marqués à la modifier, notamment pour améliorer la visibilité du signal ou pour tenir compte de la vitesse des véhicules
+
+En agglomération, entre 0 et 50 m, aussi proche que possible de 50 m.
+
+Ils ne sont complétés par un panonceau de distance M1 que si la distance d'implantation est différente de celle définie ci-dessus. On peut utiliser cette possibilité pour augmenter la distance d'implantation qui ne doit pas excéder 400 m hors agglomération et 150 m en agglomération. Le panneau est alors répété à mi-distance environ. Les deux panneaux portent dans ce cas des panonceaux de distance M1.
+
+Côté de la chaussée [7]
+Les signaux de danger sont normalement implantés du côté droit de la chaussée dans le sens de la circulation.
+
+Ils peuvent être répétés de l'autre côté de la chaussée lorsque les conditions sont telles qu'il risquent de ne pas être aperçus à temps par les conducteurs auxquels ils s'adressent, comme pour les routes à plus de deux voies. Ils peuvent aussi être répétés au-dessus de la chaussée. Il doivent alors être soit éclairés soit rétroréfléchissants [8].
+
+Distance latérale [9]
+
+Sauf contrainte de site, la distance entre l'aplomb de l'extrémité du panneau situé du côté de la chaussée et la rive voisine de cette extrémité ne doit pas être inférieure à 0,70 m.
+
+En rase campagne, les panneaux sont placés en dehors de la zone située en bord de chaussée et traitée de telle façon que les usagers puissent y engager une manoeuvre de redirection ou de freinage dite « zone de récupération », ou leur support au minimum à 2 m du bord voisin de la chaussée, à moins que des circonstances particulières s'y opposent (accotements étroits, présence d'une plantation, d'une piste cyclable, d'une voie ferrée, etc.).
+
+En agglomération les panneaux sont implantés de façon que le support gêne le moins possible la circulation des piétons.
+
+Le support d'un signal peut aussi être implanté sur une propriété riveraine ou ancré à une façade après accord du propriétaire ou par application si cela est possible du décret-loi du 30 octobre 1935 et du décret 57180 du 16 février 1957.
+
+Hauteur au-dessus du sol [10]
+
+En rase campagne
+La hauteur réglementaire est fixée en principe à 1 m (si plusieurs panneaux sont placés sur le même support, cette hauteur est celle du panneau inférieur), hauteur assurant généralement la meilleure visibilité des panneaux frappés par les feux des véhicules.
+
+Elle peut être modifiée compte tenu des circonstances locales :
+
+soit pour assurer une meilleure visibilité des panneaux,
+soit pour éviter qu'ils masquent la circulation.
+
+En agglomération
+Dans les agglomérations bénéficiant d'un éclairage public, les panneaux peuvent être placés à une hauteur allant jusqu'à 2,30 m pour tenir compte notamment des véhicules qui peuvent les masquer, ainsi que de la nécessité de ne gêner qu'au minimum la circulation des piétons.
+
+Au-dessus de la chaussée
+Lorsque les panneaux sont sur portique, potence ou haut-mât au-dessus de la chaussée, ils sont fixés à une hauteur minimale correspondant au gabarit de la route auquel s'ajoute une revanche de 0,1 m pour l'entretien de la chaussée et une revanche de 0,50 m pour la protection de la signalisation.
+
+Article détaillé : Implantation d'un panneau de signalisation verticale en France.
+
+Position de la face
+Le plan de face avant d'un panneau implanté sur accotement ou trottoir doit être légèrement incliné de 3 à 5° vers l'extérieur de la route afin d'éviter le phénomène de réflexion spéculaire qui peut, de nuit, rendre le panneau illisible pendant quelques secondes. [11]
+
+Envers du panneau. [12]
+L'envers du panneau ne doit pas appeler l'attention. Les couleurs de l'envers, du bord tombé et du contre listel de fabrication doivent être neutres et ne pas reprendre celles utilisées en signalisation routière.
+
+L'envers ne peut comporter qu'un marquage de certification réglementaire (voir ci-après), à l'exclusion de tout autre inscription ou toute publicité.
+
+Sur l'envers du panneau figurent les systèmes de fixation sur le support. Ce sont en général des rails collés : 2 rails pour les panneaux 500, 700, 1000 et 1250 mm (avec 2 brides de fixation), 3 rails pour le panneau 1500 mm (avec 3 brides de fixation).
+
+Visibilité de nuit [13]
+Les panneaux et panonceaux de signalisation doivent être visibles et garder le même aspect de nuit comme de jour. Les signaux de danger sont tous rétroréfléchissants ou éventuellement dans certaines conditions définies ci-dessous, éclairés.
+
+Les revêtements rétroréfléchissants doivent avoir fait l'objet, soit d'une homologation, soit d'une autorisation d'emploi à titre expérimental. La rétroréflectorisation porte sur toute la surface des panneaux et panonceaux à l'exception des parties noires ou grises.
+
+La classe 2
+La classe 2 est obligatoire pour tous les panneaux et panonceaux :
+
+implantés à plus de deux mètres de hauteur,
+implantés sur autoroutes et sur routes à grande circulation, quelle que soit leur hauteur.
+En agglomération, implantés dans les sections où la vitesse est relevée à 70 km/h.
+
+Cette technologie a un coefficient de rétroréflexion trois fois supérieur à la classe 1, ce qui permet une détection beaucoup plus efficace et augmente la distance de lisibilité de 15 à 20 % à l'état neuf. La comparaison au bout de cinq ou dix ans montre un avantage encore plus important pour la classe 2.
+
+La classe 1
+La classe 1 est obligatoire pour tous les panneaux implantés dans des zones où la classe 2 ne l'est pas.
+
+Homologation et certification
+
+Depuis 1978, l'homologation ministérielle des équipements de la route est obligatoire sur l'ensemble des voies routières françaises. La certification NF remplace progressivement l'homologation. Ainsi, depuis 1995, la certification vaut homologation pour les équipements de signalisation routière.
+
+Pour l'ensemble des panneaux de signalisation permanente et donc en particulier pour les panneaux de signalisation de danger, la certification NF - Equipements de la Route est obligatoire. Le marquage CE (norme européenne) est prévu pour le courant de l'année 2007.
+
+Au dos du panneau doivent donc figurer obligatoirement les marques de certification à savoir :
+
+Le numéro d'admission du produit : catégorie du produit (SP dans le cas présent, pour signalisation de police), et numéro d'ordre.
+L'identification du site de fabrication du produit (en clair),
+L'identification du titulaire (facultatif)
+L'année de fabrication (deux derniers chiffres)
+
+Notes
+
+? [cf. Instruction interministérielle sur la signalisation routière -2ème partie - article 30]
+? [cf. Instruction interministérielle sur la signalisation routière -2ème partie - article 31]
+? [cf. La signalisation routière en France de 1946 à nos jours - Marina Duhamel-Hertz - Jacques Nouvier - AMC Editions - 1998]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 15]
+? [cf. Instruction interministérielle sur la signalisation routière -1èrepartie - article 5-3]
+? [cf. Instruction interministérielle sur la signalisation routière -2ème partie - article 25]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8b-c-d-e]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 13]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8g]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 9]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 8a]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 10]
+? [cf. Instruction interministérielle sur la signalisation routière -1ère partie - article 13]
+
+
+<#10885>
+Panthéon des Auteurs et Compositeurs canadiens
+
+Le mandat du Panthéon est d'honorer et de célébrer les réalisations exceptionnelles des auteurs-compositeurs de la scène musicale populaire canadienne et de ceux qui ont apporté une importante contribution à leur héritage.
+
+Lauréates et lauréats
+
+Les Pionniers (avant 1921)
+
+Auteur-compositeur
+
+William Eckstein
+
+Chansons
+
+Farewell to Nova Scotia - Traditionnelle
+Lest You Forget - William Eckstein (co-écrite avec Sam Howard)
+S'Nice - William Eckstein (co-écrite avec Sam Howard)
+
+ةpoque Radiophonique (1921 à 1955 anglophones - 1921 à 1960 francophones)
+
+Auteur-compositeur
+
+Lionel Daunais
+Carmen Lombardo
+
+Chansons
+
+A Guy is a Guy - Oscar Brand
+ہ Québec au clair de lune - Marius Delisle
+Boo Hoo - Carmen Lombardo (co-écrite avec John Jacob Loeb et Edward Heyman)
+La Parenté - Jean-Paul Filion
+Le réveil de la nature - Alfred Desrochers et Oscar O'Brien
+Les nuits de Montréal - Jean Rafa (co-écrite avec ةmile Prud'homme)
+Moi, mes souliers - Félix Leclerc
+Powder Your Face with Sunshine - Carmen Lombardo (co-écrite avec Stanley Rochinski)
+Sweethearts on Parade - Carmen Lombardo (co-écrite avec Charles Newman)
+
+ةpoque Moderne (1956 à 25 ans avant l'année en cours)
+
+Auteur-compositeur
+
+Leonard Cohen
+Gilles Vigneault
+
+Chansons
+
+Ain't No Cure For Love - Leonard Cohen
+Bird on the Wire - Leonard Cohen
+Everybody Knows - Leonard Cohen (co-écrite avec Sharon Robinson)
+Gens du pays - Gilles Vigneault (co-écrite avec Gaston Rochon)
+Hallelujah - Leonard Cohen
+La Manic - Georges Dor
+Le tour de l'خle - Félix Leclerc
+Mon pays - Gilles Vigneault
+Pendant que - Gilles Vigneault
+Put Your Hand in the Hand - Gene MacLellan
+Si les bateaux - Gilles Vigneault
+Sugar Sugar - Andy Kim (co-écrite avec Jeff Barry)
+Suzanne - Leonard Cohen
+Sweet City Woman - Rich Dodson
+
+Les Lauréats Du Prix Du Patrimoine Du PACC En 2006
+
+Herbert Samuel Berliner
+Lucille Dumont
+Anne Murray
+
+Portail du Canada
+
+
+<#10886>
+Pandur (véhicule)
+
+Le Pandur est un véhicule militaire récemment acquis par l'armée belge, utilisé comme engin de transport, de reconnaissance et même de soin.
+
+Caractéristiques techniques
+
+Dimensions: 5810x 2500 x 2640 mm
+Moteur: diesel Type Steyr 260 cv
+Autonomie: 600 km
+Moyens d'observation :
+
+Une caméra thermique
+Trois optiques différentes ! Détection à 8 km, reconnaissance à 4 km, identification à 2 km
+Une caméra de jour avec écran couleur et zoom en continu
+Un laser de mesure jusqu'à 8 km
+Un système de navigation avec compas magnétique pour déterminer la position du véhicule
+Un GPS
+Un pylône télescopique d'une hauteur maximale de 5 m à partir du sol
+
+
+<#10887>
+Pangolin à petites écailles
+
+	|	
+Manis tricuspis	|
+	|		|
+	|	Pangolin à petites écailles	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Chordata	|
+	|	Sous-embr.	|	Vertebrata	|
+	|	Classe	|	Mammalia	|
+	|	Sous-classe	|	Theria	|
+	|	Infraclasse	|	Eutheria	|
+	|	Ordre	|	Pholidota	|
+	|	Famille	|	Manidae	|
+	|	Genre	|	Manis	|
+	|	Nom binominal	|
+	|	Manis tricuspis
+Rafinesque, 1821	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	Statut CITES :	|	Annexe III ,
+Révision du 26/02/76	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Références externes
+
+Manis tricuspisdansMammal Species of the World (MSW)(en)
+Référence ITIS : Manis tricuspis Rafinesque, 1821(fr) (+version(en))
+Référence Animal Diversity Web : Manis tricuspis(en)
+Référence IUCN : Manis tricuspis Rafinesque, 1821(en)
+Référence CITES : espèce Manis tricuspis Rafinesque, 1821(fr+en) (sur le site de l'UNEP-WCMC)
+répartition : Manis tricuspis Rafinesque, 1821(fr+en)
+
+
+<#10888>
+Panionios Athènes
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un club de football et la Grèce.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|		|	Paniَnios Athènes	|		|
+
+	|
+	|		|
+	|	Club fondé en	|	1890	|
+	|	Couleurs	|	rouge et bleu	|
+	|	Stade	|	Nea Smirnis
+(11 700 places)	|
+	|	Siège	|	Chrisostomou Str. 1
+17121 Néa Sm‎rni	|
+
+Le Paniَnios GSS Athènes (en grec????????? ??????????? ???????? ???????) est un club omnisports grec basé à Néa Sm‎rni dans la banlieue d'Athènes et dont la section de football évolue en première division du championnat national.
+
+Historique
+
+1890 : fondation du club sous le nom de Orféas Smyrne
+1895 : le club est renommé Paniَnios Smyrne
+1922 : le club est renommé Paniَnios Athènes
+1969 : 1re participation à une Coupe d'Europe (C3) (saison 1969/70)
+
+Palmarès
+
+Coupe de Grèce de football
+
+Vainqueur : 1979, 1998
+Finaliste : 1952, 1961, 1967, 1989
+
+Liens externes
+
+(el)(en)Site officiel de club
+(el)Blog Panionios 1890
+
+	|	Championnat de Grèce de football2007-2008	|
+	|	AEK Athènes ? Apollon Kalamarias ? Aris FC ? Atromitos FC ? PAE Asteras Tripolis	|
+	|	PAE Ergotelis Héraklion ? APO Levadiakos ? Iraklis Salonique ? PAE Véroia ? AEL Larissa ? OFI Crète	|
+	|	Olympiakos ? Panathinaïkos ? Panionios ? PAOK Salonique ? AO Xanthi	|
+
+	|	
+
+v · d · mFootball en Grèce 	|
+	|	Championnat ? Championnat féminin ? Coupe de Grèce ? Supercoupe ? Coupe de Grèce de football fémininFédération ? ةquipe de Grèce ? ةquipe de Grèce espoirs ? ةquipe de Grèce féminine	|
+
+Portail du football
+
+
+<#10889>
+Pancréatite
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Une pancréatite est une inflammation du pancréas. Il y a deux formes qui diffèrent en cause et en symptômes, et nécessitent un traitement différent :
+
+La pancréatite aiguë
+La pancréatite chronique
+
+	|	
+
+v · d · mGastro-entérologie	|
+	|	Anatomie du
+système digestif	|	
+Cavité buccale ? 1 : ?sophage ? 2 : Estomac ? 3 : Pancréas ? 4 : Intestin grêle ? 5 : Cوcum ? 6 : Appendice ? 7 : Côlon ? 8 : Rectum ? 9 : Anus
+	|
+	|	Maladies de
+l'?sophage - estomac	|	
+Achalasie ?Cancers : de l'estomac, de l'?sophage ?Douleur abdominale ?Dyspepsie fonctionnelle ?Halitose ?Nausée ?Reflux gastro-?sophagien ?Ulcère gastro-duodénal ?Varice de l'?sophage ?Vomissements
+	|
+	|	Maladies du
+foie - pancréas - vésicule biliaire - voies biliaires	|	
+Calcul biliaire ? Cancers : du foie, du pancréas ?Carcinome hépatocellulaire ?Cholangiocarcinome ?Cholangite sclérosante primitive ?Cholécystite ?Cirrhose
+? biliaire primitive ?Hépatite ?Insuffisance hépato-cellulaire ?Pancréatite : aiguë, chronique ?Syndrome de Budd-Chiari
+	|
+	|	Maladies de
+l'intestin grêle	|	
+Anomalies : malformations, déformations ?C?liaquie ?Inflammations ?Intussusception ?Lymphome ?Malabsorption : du lactose, du fructose ?Maladie de Whipple ?Tumeur ?Ulcère ?
+	|
+	|	Maladies du
+côlon	|	
+Appendicite ?Cancer ?Colite pseudo-membraneuse ?Côlon irritable ?Constipation ?Diarrhée ?Diverticulite ?Diverticulose ?Inflammations ? Maladie ? de Crohn, de Hirschsprung ?Malformations ?Rectocolite hémorragique ?Tumeur ?
+	|
+	|	Maladies de
+la paroi abdominale	|	
+Hernies : crurale - diaphragmatique - hiatale - inguinale - ombilicale ?ةventration
+	|
+	|	Voir aussi : Hépato-gastro-entérologie ?Soins de santé ?Médecine	|
+
+Portail de la médecine
+
+
+<#10890>
+Panorama (BBC)
+
+Pour les articles homonymes, voir panorama (homonymie). 
+Panorama est une émission de télévision d'actualité, sur la BBC, lancée le 11 novembre1953. Son concept, d'investigation journalistique, a inspiré l'émission documentaire australienneFour Corners sur ABC. Richard Dimbleby était le présentateur original, durant les années 1950 et les années 1960. Son fils, David Dimbleby, a continué à présenter l'émission les années suivantes. Panorama est actuellement diffusée sur BBC One, à 22h15 chaque dimanche.
+
+L'émission de Panorama la plus célebre fut probablement l'interview de Diana, princesse de Galles par Martin Bashir, qui s'est déroulée après son divorce et après le fait qu'elle ait admise plusieurs rumeurs concernant sa vie privée.
+
+
+<#10891>
+Panse (typographie)
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la typographie.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+En typographie, la panse est la partie d'une lettre renfermant une contreforme. Cette partie de certains caractères est arrondie, par exemple : a, b, d, p?
+
+Les panses inférieures sont nommées jambages et les supérieures hampes.
+
+
+<#10892>
+Pansoul
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la musique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pansoul	|
+	|	Album par Motorbass	|
+	|	Sortie	|	1996	|
+	|	Durée	|	60:29	|
+	|	Genre(s)	|	Musique électronique
+House	|
+	|	Producteur(s)	|	Motorbass	|
+	|	Label	|	Motorbass/PIAS	|
+
+Pansoul est un album House du groupe Motorbass sorti en 1996. C'est le seul album du groupe, il est consideré comme l'un des disques majeur de la french touch. Le groupe a dans un premier temps assuré la distribution lui-même, avant de le faire distribuer par PIAS. Le disque fut disque du mois dans le magazine anglais Muzik.
+
+Liste des morceaux
+Fabulous - 6:10
+Ezio - 8:39
+Flying Fingers - 4:49
+Les Ondes - 7:48
+Neptune - 6:03
+Wan Dence - 7:51
+Genius - 5:50
+Pariscyde - 7:06
+Bad Vibes (D.Mix) - 5:18
+Off - 0:55
+
+La réédition de 2003 comprenait un deuxième disque avec les morceaux des E.P.Visine (les cinq premiers morceaux) et Trans-Phunk E.P (les six derniers morceaux).
+
+Visine - 9:48
+Deux Trente Trois - 2:36
+Stereogramm Gelato - 3:55
+Tournerie Vibrator - 6:35
+D. T. T. (2 Ray Mix) - 2:36
+Open Sesame - 6:18
+La Doctoresse - 5:04
+Flying Fingers - 4:57
+Home - 7:13
+Soixante Six - 5:20
+Suce Mon Son - 1:25
+
+Portail de la musique
+Portail de la musique électronique
+
+
+<#10893>
+Panorpidae
+
+	|	
+Panorpidae	|
+	|		|
+	|	Panorpa cognata	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Arthropoda	|
+	|	Sous-embr.	|	Hexapoda	|
+	|	Classe	|	Insecta	|
+	|	Sous-classe	|	Pterygota	|
+	|	Infraclasse	|	Neoptera	|
+	|	Superordre	|	Endopterygota	|
+	|	Ordre	|	Mecoptera	|
+	|	Famille	|
+	|	Panorpidae
+Linnaeus, 1758	|
+	|	Taxons de rang inférieur	|
+	|	
+
+Voir texte
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Genres rencontrés en Europe
+
+Aulops Enderlein, 1910
+Panorpa Linnaeus, 1758 - Panorpe
+
+Liens externes
+
+Référence Fauna Europaea : Panorpidae(en)
+Référence ITIS : Panorpidae(fr) (+version(en))
+Référence Animal Diversity Web : Panorpidae(en)
+Référence NCBITaxonomy : Panorpidae(en)
+
+
+<#10894>
+Panne
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	
+	|	
+Voir « panne » sur le Wiktionnaire.
+	|
+
+Une panne est une erreur, un dysfonctionnement dans un dispositif mécanique, électrique, informatique.
+
+La panne, comme sous-entendu de la panne sexuelle, se caractérise par l'impossibilité chez l'homme de conserver une rigidité pénienne suffisante pour la pénétration, se différencie de l'impuissance par sa nature ponctuelle.
+Le coup de la panne, dans la culture populaire, est une technique de séduction par laquelle le conducteur d'une automobile provoque ou simule une panne de son véhicule pour pouvoir se retrouver seul plus longtemps avec un passager qu'il entend séduire.
+
+La panne est une pièce de charpente.
+La panne est une étoffe comparable au velours.
+La panne est la partie amincie du marteau, opposée à la tête, amovible éventuellement comme dans le fer à souder.
+La panne est une graisse qui se trouve autour des rognons chez le porc.
+Une panne est une zone humide en milieu dunaire.
+La Panne (en néerlandaisDe Panne) est une localité belge de Flandre-Occidentale, le long du littoral, non loin de la frontière française.
+La Panne est un roman de Friedrich Durrenmatt.
+
+
+<#10895>
+Panajot Pano
+
+
+	|	
+	|	
+Cet article est une ébauche concernant un footballeuralbanais.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Panajot Pano (né le 7 mars1939 à Durrës) est un joueur de footballalbanais. Il débute en tant que gardien avec l'équipe de SK Tirana, mais par après il change de position et devient un attaquant et il est transféré avec le KF Partizan Tirana.
+
+Il a gagné quatre championnat d'Albanie de football avec le KF Partizan, cinq coupe d'Albanie de football et en 1970 la coupe des Balkans. Sur le plan international, il a joué 25 fois pour l'équipe d'Albanie de football.Il a notamment été 3 fois meilleurs buteurs du Championnat d'Albanie de football en 1960,1961 et 1970
+
+En 2004, il est sélectionné pour le UEFA Jubilee Awards de l'Albanie par la Fédération d'Albanie de football comme le meilleur joueur des 50 dernières années.
+
+Portail du football
+
+
+<#10896>
+Pantène d'Alexandrie
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les Chrétiens d'Orient.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Saint Pantène, en latinPantaenus, (mort vers 216) fut un théologienchrétien et le fondateur de l'ةcole théologique d'Alexandrie.
+
+
+<#10897>
+Panach'
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la bière.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Panach' (panaché) est une boisson crée en 1979 par Heineken. La version classique est un mélange de bière et de limonade alors que de la grenadine est ajouté dans la version monaco.
+
+
+<#10898>
+Panama (chapeau)
+
+
+Le panama est un chapeau d'origine non pas panaméenne mais équatorienne malgré son nom. C'est un large chapeau à la mode vers 1900.
+
+Il est une des composantes traditionnelles et séculaires des tenues vestimentaires d'un certain nombre de tribus du Sud de l'ةquateur. C'est un chapeau exclusivement fabriqué par des femmes qui en détiennent le savoir-faire. Certains panamas de qualité supérieure peuvent exiger plus de six mois de fabrication, un "Colonial Montecristi" en nécessite trois.
+
+Le terme Panama ne s'applique pas à une forme mais à la matière : la fibre de jeunes pousses de palmiers d'Equateur. Originellement, il se fabriquait exclusivement en feuilles de bombanaxa, un arbre exotique.
+
+Certains modèles de Panama très fin et très haut de gamme peuvent se rouler, tandis que d'autre d'aussi bonne facture ne le peuvent pas. Ce produit fait à la main se trouve à tous les prix, certains modèles comme le Panama Montecristi extra fino peuvent dépasser les 1000 euros.
+
+Son nom viendrait du fait que lors du creusement du canal de Panama, les cadres occidentaux finirent par comprendre que les Indiens qui creusaient sous leurs pieds, supportaient beaucoup mieux les ardeurs du soleil grâce à leurs chapeaux tressés.
+
+
+<#10899>
+Pan Guang
+
+Pan Guang (* le 7 juin1947 à Shanghai, Chine) est professeur et le directeur du ?Shanghai Center for International Studies and Institute of European & Asian Studies" (un centre de recherche de la ?Shanghai Academy of Social Sciences") ainsi que directeur du Shanghai Cooperation Organization Studies Center (SCO) à Shanghai, président du ?Center of Jewish Studies Shanghai(CJSS) et vice- président de la ?Chinese Society of Middle East Studies.
+
+Pan Guang naquit à Shanghai et grandit en Hainan, dans le sud de la République populaire de Chine. Il fit ses études à la Renmin University of China à Pékin et à la East China Normal University à Shanghai. Ensuite il fit son Bachelor et son Master en Sciences Politiques ainsi que le doctorat en Histoire. De plus il est membre du ?International Council of Asia Society" aux ةtats-Unis, conseiller du ?Forum Chine- Eurasie" aux ةtats-Unis, membre du ?Asia Europe Journal" à Singapore et conseiller du maire de Shanghai en ce qui concerne les affaires anti- terroristes.
+
+Il fut le lauréat du James Friend Annual Memorial Award for Sino-Jewish Studies en 1993, du Special Award for Research on Canadian Jews from China en 1996, et en 2004 le président russe Vladimir Poutine lui décerna le Saint Petersburg-300 Medal for Contribution to China-Russia Relations. En 2005 il fut nominé comme membre du High-Level Group for the Alliance of Civilizations par le secrétaire général de l'ONUKofi Annan.
+
+Le 17 octobre 2006 le prix Autrichien pour la Mémoire de l'Holocauste fut décerné à Pan Guang dans le consulat général autrichien de Shanhghai.
+
+Publications
+
+The Jews in China
+Open Door Policy in Asia, Africa and Latin America
+Selected Works on Arab African History
+US War on Iraq (2003)
+From Silk Road to ASEM: 2000 years of Asia-Europa Relations
+China--Central Asia--Russia Relations
+SCO and China's Role in the War on Terrorism
+Contemporary International Crises
+China's Success in the Middle East
+China's Anti-terror Strategy and China's Role in the War on Terror
+Islam and Confucianism: the Development of Chinese Islam
+Ethnic and Religious Conflicts in Pacific Rim Area
+China and Post-Soviet Central Asia
+
+Liens externes
+
+Center for Jewish Studies Shanghai
+Center of Shanghai Cooperation Organization SCO Studies
+
+
+<#10900>
+Pankovo
+
+
+	|	
+	|	
+Cette page contient des caractères cyrilliques
+Voyez l'aide sur Unicode ou testez votre navigateur si l'affichage est incohérent (carrés, points d'interrogation ou autres caractères incorrects).	|
+
+Pankovo, en serbecyrillique???????, est un village de Serbie situé dans la municipalité de Petrovac na Mlavi, district de Brani?evo. En 2002, il comptait 416 habitants[1], dont 411 Serbes (98,79%)[2].
+
+Démographie
+ةvolution démographique	|	1948	|	1953	|	1961	|	1971	|	1981	|	1991	|	2002	|
+	|	664	|	706	|	674	|	651	|	620	|	568	|	416[3]	|
+
+Notes et références de l'article
+
+?(sr)[pdf]??????-????? 2002, 21 mars 2002, Bureau des statistiques de la République de Serbie. Consulté le 17 janvier 2008
+?(sr) ????? 1, ????????????, ?????????? ??? ??????? ??????????, ?????? ?? ????????, ?????????? ????? ?? ??????????, ???????, ??????? 2003, ISBN 86-84433-00-9
+?(sr) ????? 9, ????????????, ???????? ??????? ????? ?????????? 1948, 1953, 1961, 1971, 1981, 1991, 2002, ?????? ?? ????????, ?????????? ????? ?? ??????????, ???????, ??? 2004, ISBN 86-84433-14-9
+
+
+<#10901>
+Panaeolus
+
+	|	
+Panaeolus	|
+	|		|
+	|	Panaeolina foenisecii	|
+	|	Classification classique	|
+	|	Règne	|	Fungi	|
+	|	Division	|	Basidiomycota	|
+	|	Classe	|	Homobasidiomycetes	|
+	|	Ordre	|	Agaricales	|
+	|	Famille	|	Bolbitiaceae	|
+	|	Genre	|
+	|	Panaeolus
+(Fr.) Quél.	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Panaeolus est un genre de champignon (Fungi) basidiomycète de la famille des Bolbitiaceae.
+
+Liens externes
+
+Panaeolusdansindexfungorum.org(en)
+Référence NCBITaxonomy : Panaeolus(en)
+
+
+<#10902>
+Panache
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+	|	
+	|	
+Voir « panache » sur le Wiktionnaire.
+	|
+
+Panache (plume), faisceau de plumes ;
+Panache (architecture), Surface triangulaire du pendentif d'une voûte ;
+Panache (figuré), Eclat, brio, bravoure. ;
+Panache (sport), Sport de combat français ;
+Panache (géologie), remontée d'un matériau mantellique profond ;
+Panach' boisson à base de bière et de limonade ;
+
+
+<#10903>
+Panchen-lama
+
+	|		|
+	|	Cet article fait partie de la série	|
+	|	Spiritualités indiennes	|
+	|	Religions	|
+	|	Religion harappienne	|
+	|	Védisme	|
+	|	Brahmanisme	|
+	|	Hindouisme	|
+	|	Ajîvika	|
+	|	Jaïnisme	|
+	|	Bouddhisme	|
+	|	Tantrisme	|
+	|	Sikhisme	|
+	|	Ayyavazhi	|
+	|	Voir aussi	|
+	|	Déités du monde indien	|
+	|	Articles connexes	|
+	|	Religions de l'Inde	|
+	|	Philosophie de l'Inde	|
+	|	Villes saintes de l'Inde	|
+	|	Juifs en Inde ~ Islam	|
+	|	Parsisme ~ Bahaïsme	|
+	|	Méta	|
+	|	Portail Monde indien	|
+	|	Portail Jaïnisme	|
+	|	Portail Hindouisme	|
+	|	Portail Bouddhisme	|
+	|	Index alphabétique	|
+	|	Index thématique	|
+	|	Page projet	|
+
+La lignée des panchen-lamas est une lignée de réincarnation importante dans l'histoire du Tibet. Le panchen-lama est en effet le deuxième plus haut chef spirituel du bouddhisme tibétainGuélougpa (école dite des bonnets jaunes). Il se situe juste après le dalaï-lama dans ce système hiérarchique. L'origine du mot panchen est la combinaison de deux mots : pandita, qui signifie « érudit » en sanscrit et chen-po, qui signifie « grand » en tibétain. Panchen se traduit donc par « grand érudit ». Lama signifie « maître spirituel ». Le panchen-lama est considéré comme une émanation du BouddhaAmitabha (« de lumière infinie »).
+
+Vers la fin du XIIIe siècle et le début du XIVe siècle, Tsongkhapa Losang Drakpa a fondé une tradition bouddhiste appelée Guélougpa. Vers 1445, un étudiant et neveu de Tsongkhapa, Gendun Drup (1391-1475) a construit un grand monastère, le Tashilhunpo, à l'ouest de Lhassa, à Shigatsé. Gendun Drup fut rétroactivement appelé le premier dalaï-lama quand la 3e incarnation dans sa lignée, Sonam Gyatso (1543-1588), a reçu le titre de dalaï de son chef et disciple mongol Altan Khan en 1578. Gendun Drup a également reçu le titre de panchen d'un contemporain tibétain érudit, Bodong Choklay Namgyel, après qu'il eut répondu avec succès à toutes les questions du sage. Les abbés successifs du monastère de Tashilhunpo furent tous appelés « panchen ». Puis, au XVIIe siècle, le cinquième dalaï-lama (1617-1682), a donné le monastère de Tashilhunpo à son professeur, Lobsang Chِkyi Gyalsten, 15e abbé du monastère. En tant qu'abbé du monastère, il était appelé panchen, mais il reçut le titre distinctif de « panchen-lama » quand le cinquième dalaï-lama annonça à la mort de son professeur que celui-ci renaîtrait et que l'enfant lui succèderait. Le titre de « panchen-lama » a également été appliqué rétroactivement aux 2 incarnations précédentes de son professeur bien qu'ils n'aient pas appartenu au monastère de Tashilhunpo, et la nouvelle incarnation est devenue ainsi le quatrième panchen-lama. Depuis lors, il est devenu conventionnel que le dalaï-lama et le panchen-lama participent chacun à l'identification du successeur de l'autre...
+
+Le panchen-lama actuel
+
+Article détaillé : Gendhun Choekyi Nyima
+
+Le 28 janvier1989, dans son monastère de Tashilhunpo, à Shigatse au Tibet, le 10e panchen-lama, Choekyi Gyaltsen, meurt d'une crise cardiaque, à l'âge de 50 ans. Les Tibétains disent qu'il a été empoisonné quelques jours après son discours historique critiquant la politique chinoise et affirmant sa loyauté envers le dalaï-lama.[1],[2]Hu Jintao, responsable de la répression politique sévère en 1989 au Tibet, pourrait, selon la BBC, être impliqué dans la mort du 10e Panchen Lama.[3] Le panchen-lama avait notamment déclaré que le progrès apporté au Tibet par la Chine ne saurait compenser la somme de destructions et de souffrance infligée au peuple tibétain.[4] Après sa disparition, le Parti communiste chinois chargea Chadrel Rinpoché, le responsable du monastère du Tashilhunpo, croyant qu'il leur était favorable, de trouver la réincarnation du panchen-lama. Le dalaï-lama propose à Pékin de dépêcher une délégation de hauts dignitaires religieux pour "assister" Chadrel Rinpoché. Mais l'offre est rejetée par la Chine, qui la qualifie de «superflue». Le dalaï-lama et les autorités tibétaines commencent à organiser les recherches pour trouver sa réincarnation suivant les traditions tibétaines. Au Tibet, Chadrel Rinpoché retient trois enfants aux qualités remarquables. Parmi eux, le petit Gendhun Choekyi Nyima, âgé de six ans, fils de nomades tibétains. Chadrel Rinpoché informe une équipe envoyée clandestinement au Tibet par le dalaï-lama. Gendhun aurait reconnu sans hésiter les biens du défunt Lama. Il aurait d'ailleurs déclaré à ses parents « Je suis le panchen-lama. Mon monastère est le Tashilhunpo. » Le 14 mai1995, après avoir étudié les différents candidats, le petit Gendhun Choekyi Nyima fut officiellement reconnu par le dalaï-lama comme étant le onzième panchen-lama. Fils de Kunchok Phuntsok et Dechen Choedon, il est né le 25 avril1989 dans la ville de Nagchu.
+
+Trois jours plus tard, le 17 mai1995, Gendhun Choekyi Nyima et ses proches furent portés disparus et certaines rumeurs laissèrent croire qu'ils auraient été kidnappés et emmenés à Pékin. Chadrel Rinpoché, lui, est immédiatement arrêté et emprisonné pour avoir informé le dalaï-lama. Un an plus tard, Pékin avouait détenir le panchen-lama, ce qui en fait le plus jeune prisonnier politique au monde. En 1996, son cas a été examiné par le Comité des Droits de l'Enfant de l'ONU et les autorités chinoises avaient admis pour la première fois avoir "pris l'enfant pour sa sécurité" quand la question du panchen-lama fut abordée. Le Comité a demandé à rendre visite à Gendhun, mais les autorités chinoises ne l'ont pas invité. Le dossier n'a pas avancé depuis lors. Aujourd'hui, il serait toujours détenu par les autorités chinoises. Pourtant, pour les Tibétains et les Bouddhistes de l'école Tibétaine, il est le onzième panchen-lama, l'un des plus hauts dignitaires du bouddhisme tibétain. Une alerte AMBER mondiale a d'ailleurs été lancée par le monastère Tashilhunpo (siège en exil en Inde du panchen-lama) et une récompense est offerte à toute personne fournissant une information permettant d'entrer en contact avec le panchen-lama[5].
+
+Selon le gouvernement de la République populaire de Chine, le panchen-lama doit être désigné par un tirage au sort effectué dans une urne d'or avant d'être reconnu par le gouvernement central.[6] Cependant, le 10e panchen-lama lui-même avait fait une déclaration qui fut citée dans une publication officielle chinoise « Selon l'histoire tibétaine, la confirmation du dalaï-lama ou du panchen-lama doit être mutuellement reconnue ».[7]
+
+Sources
+
+?Panchen Lama Poisoned arrow, BBC, 2001-10-14. Consultée le 2007-04-29.
+?Peking's poison fails to touch Tibetan hearts
+?BBC NEWS | Asia-Pacific | Profile: Hu Jintao
+?Tibet's Stolen Child, the 11th Panchen Lama
+?(en)L'alerte ambre sur le site du monastère Tashi Lhunpo et (fr)Traduction française
+?Gyancain Norbu
+? Panchen-lama. 1988. "On Tibetan Independence." China Reconstructs (actuellement appelé China Today) (January): Vol. 37, No. 1. pp 8-15.
+
+Gouvernement tibétain en exil, Origin of the Titles (Panchen Lama et Dalaï Lama)
+
+Liste des panchen-lamas
+Khedrup Je, 1385-1438
+Sِnam Choklang, 1438-1505
+Ensapa Lobsang Dِndrup, 1505-1568
+Lobsang Chِkyi Gyalsten, 1570-1662
+Lobsang Yeshe, 1663-1737
+Lobsang Palden Yeshe, 1738-1780
+Palden Tenpai Nyima, 1782-1853
+Tenpai Wangchuk, 1855-1882
+Thubten Chِkyi Nyima, 1883-1937
+Lobsang Trinley Lhündrub Chِkyi Gyaltsen, 1938-1989
+Gendhun Choekyi Nyima, 1989-
+
+
+<#10904>
+Panorpa
+
+	|	
+Panorpa	|
+	|		|
+	|	Panorpa cognata	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Arthropoda	|
+	|	Sous-embr.	|	Hexapoda	|
+	|	Classe	|	Insecta	|
+	|	Sous-classe	|	Pterygota	|
+	|	Infraclasse	|	Neoptera	|
+	|	Superordre	|	Endopterygota	|
+	|	Ordre	|	Mecoptera	|
+	|	Famille	|	Panorpidae	|
+	|	Genre	|
+	|	Panorpa
+Linnaeus, 1758	|
+	|	Taxons de rang inférieur	|
+	|	
+
+Voir texte
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Cet article est une ébauche concernant les insectes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Liste des espèces
+
+Panorpa acuminata Byers, 1993 (USA: Géorgie)
+Panorpa acuta Carpenter, 1931 (USA: Connecticut, Géorgie, Kentucky, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Caroline du Nord, Pennsylvanie, Caroline du Sud, Tennessee, Virginie, West Virginia)
+Panorpa akasakai Issiki, 1929 (Taiwan)
+Panorpa alpina Rambur, 1842 (Europe) est un synonyme de Aulops alpina, nom valide.
+Panorpa amamiensis Miyamoto & Makihara, 1984 (Japan)
+Panorpa americana Swederus, 1787 (USA: Alabama, Delaware, Floride, Géorgie, Louisiane, Mississippi, New Jersey, Caroline du Nord, Caroline du Sud, Virginie)
+Panorpa amurensis MacLachlan, 1872 (Corée, Russie: Provinces extrème-orientales)
+Panorpa angustistriata Issiki, 1929 (Taiwan)
+Panorpa annexa MacLachlan, 1869 (France, Allemagne, Sicile, Italie)
+
+Panorpa annexa latina Navلs, 1928 (Italie)
+Panorpa annexa subalpina Navلs, 1928 (Italie)
+Panorpa annexa etrusca Willmann, 1976 (Italie)
+
+Panorpa anomala Carpenter, 1931 (USA: Arkansas, Iowa, Illinois, Indiana, Kansas, Louisiane, Michigan, Missouri, Mississippi, Wisconsin)
+Panorpa anrenensis Chou & Wang, 1987 (Chine)
+Panorpa antiporum Nagler, 1968 (Roumanie)
+Panorpa appalachia Byers, 2002
+Panorpa apiconebulosa Issiki, 1929 (Taiwan)
+Panorpa approximata Esben-Petersen, 1915 (Corée)
+Panorpa arakavae Miyake, 1913 (Japon)
+Panorpa arcuata (Navلs), 1912 (ancienne URSS)
+Panorpa aspoecki Willmann, 1973 (Turquie)
+Panorpa attenuata Byers, 1996 (Mexique: San Luis Potosi)
+Panorpa aurea Cheng, 1957 (Chine: Fukien)
+Panorpa azteca Byers, 1958 (Mexique: D.F., Mexico)
+Panorpa banksi Hine, 1901 (USA: Géorgie, Iowa, Illinois, Indiana, Kentucky, Massachusetts, Maine, Michigan, Mississippi, Caroline du Nord, New York, Caroline du Sud)
+Panorpa babai Miyamoto, 1979 (Japon)
+Panorpa banksi Hine, 1901
+Panorpa banksiana Penny & Byers, 1979 (USA: Caroline du Nord, New Jersey)
+Panorpa baohwashana Cheng, 1957 (Chine: Kiangsu)
+Panorpa bichai Byers, 1993 (USA: Indiana, Tennessee)
+Panorpa bicornifera Chou & Wang, 1981 (Chine)
+Panorpa bicornuta MacLachlan, 1887 (Japon)
+Panorpa bifasciata Chou & Wang, 1981 (Chine)
+Panorpa bifida Carpenter, 1935 (USA: Ohio, Pennsylvania, Tennessee, Virginie, West Virginia)
+Panorpa bimacula Byers, 1996 (Mexique: Oaxaca)
+Panorpa bistriata Issiki, 1929 (Taiwan)
+Panorpa bonis Cheng, 1949 (Chine: Kansu)
+Panorpa braueri Carpenter, 1931 (USA: Arkansas, Missouri)
+Panorpa brevititilana Issiki, 1929 (Taiwan)
+Panorpa bunun Issiki, 1929 (Taiwan)
+Panorpa capillata Byers, 1996 (USA: Alabama, Arkansas, Kentucky, Mississippi, Tennessee)
+Panorpa carolinensis Banks, 1905 (USA: Caroline du Nord, Tennessee)
+Panorpa carpenteri Cheng, 1957 (Chine: Szechwan)
+Panorpa caucasica MacLachlan, 1869 (Iran, Iraq)
+Panorpa centralis Tjeder, 1936 (Chine: Szechwan)
+Panorpa chengi Chou, 1981 (Chine)
+Panorpa cheni Cheng, 1957 (Chine: Chekiang)
+Panorpa chiensis Cheng, 1953 (Corée)
+Panorpa choctaw Byers, 1993 (USA: Alabama, Arkansas, Géorgie, Kentucky, Missouri, Mississippi, Oklahoma, Tennessee)
+Panorpa cladocerca Navلs, 1935 (Chine: Kiangsi)
+Panorpa claripennis Hine, 1901 (USA (Connecticut, Floride, Massachusetts, Michigan, New Hampshire, New York, Ohio, Vermont, Wisconsin, West Virginia), Canada: Québec)
+Panorpa clavigera Klapلlek, 1902 (Herzégovine)
+Panorpa cognata Rambur, 1842 (Angleterre, Belgique, Danemark, Allemagne, Pays-Bas, Russie, Suède)
+
+Panorpa cognata osellai Willmann, 1976 (Italie)
+
+Panorpa communis Linnaeus, 1758 -- la panorpe (Andorre, Belgique, France, Allaemagne, Italie, Suisse, Russie, Angleterre, Espagne)
+
+Panorpa communis raehlei Lauterbach, 1970 (Europe)
+
+Panorpa concolor Esben-Petersen, 1915 (Taiwan)
+Panorpa confinis Byers, 1993 (USA: Alabama, Mississippi)
+Panorpa connexa MacLachlan, 1869 (Montagnes du Caucasue, Turquie)
+Panorpa consuetudinis Snodgrass, 1927 (USA: Alabama, Connecticut, Washington, Delaware, Indiana, Maryland, Mississippi, Caroline du Nord, New Jersey, New York, Ohio, Pennsylvanie, Caroline du Sud, Virginie)
+Panorpa contorta Byers, 1996 (Mexique: Hidalgo, San Luis Potosi, Tamaulipas)
+Panorpa coomani Cheng, 1957 (Chine: Kiangsi)
+Panorpa coreana Okamoto, 1925 (Corée)
+Panorpa cornigera MacLachlan, 1887 (Russie: Vladivostok)
+Panorpa curva Carpenter, 1938 (Chine: Szechwan)
+Panorpa davidi Navلs, 1908 (Chine: Szechwan)
+Panorpa debilis Westwood, 1846 (USA (Washington, Illinois, Indiana, Michigan, Caroline du Nord, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Tennessee, Virginia, Wisconsin, West Virginia), Canada: Ontario, Québec)
+Panorpa deceptor Esben-Petersen, 1913 (Taiwan)
+Panorpa decolorata Chou & Wang, 1981 (Chine)
+Panorpa diceras MacLachlan, 1894 (Chine: Szechwan)
+Panorpa dichotoma
+
+Panorpa dichotoma dichotoma Miyamoto, 1977 (Japon)
+Panorpa dichotoma intermedia Miyamoto, 1977 (Japon)
+
+Panorpa difficilis Carpenter, 1938 (China: Szechwan)
+Panorpa dissimilis Carpenter, 1931 (USA: New Jersey, New York, Virginie)
+Panorpa dubia Chou & Wang, 1981 (Chine)
+Panorpa dubitans Carpenter, 1931 (USA: Illinois, Indiana, Wisconsin)
+Panorpa emarginata Cheng, 1949 (Chine: Shensi)
+Panorpa ensigera Bicha, 1983 (USA: Caroline du Nord, Caroline du Sud)
+Panorpa esakii Issiki, 1929 (Taiwan)
+Panorpa falsa Issiki & Cheng, 1947 (Taiwan)
+Panorpa ferruginea Byers, 1993 (USA: Alabama, Géorgie, Mississippi)
+Panorpa filina Chou & Wang, 1987 (Chine)
+Panorpa flavicorporis Cheng, 1957 (Chine: Fukien)
+Panorpa flavipennis Carpenter, 1938 (Chine: Szechwan)
+Panorpa flexa Carpenter, 1935 (USA: Géorgie, Caroline du Nord, Caroline du Sud, Tennessee)
+Panorpa floridana Byers, 1993 (USA: Floride)
+Panorpa fluvicaudaria Miyake, 1910 (Japon, Corée)
+Panorpa fructa Cheng, 1949 (Chine: Sikang)
+Panorpa fukiensis Tjeder, 1951 (Chine: Fukien)
+Panorpa fulvastra Chou, 1981 (Chine)
+Panorpa galerita Byers, 1962 (USA (New Hampshire, New Jersey, New York, Ohio, Pennsylvanie, Wisconsin), Canada: Québec)
+Panorpa galloisi Miyake, 1911 (Japon)
+Panorpa germanica Linnaeus, 1758 (Belgique, France, Allemagne, Grèce, Italie, ةcosse, Norvège)
+
+Panorpa germanica riegeri Lauterbach, 1971 (Allemagne)
+Panorpa germanica euboica Lauterbach, 1972 (Balkans)
+Panorpa germanica graeca Lauterbach, 1972 (Grèce)
+Panorpa germanica rumelica Lauterbach, 1972 (Turquie)
+
+Panorpa globulifera Miyamoto, 1994 (Japon)
+Panorpa gokaensis Miyake, 1910 (Japon)
+
+Panorpa gokaensis togephora Miyamoto, 1984 (Japon)
+
+Panorpa gracilis Carpenter, 1931 (USA: Caroline du Nord, Virginie)
+Panorpa grahamana Cheng, 1957 (Chine: Szechwan)
+Panorpa gressitti Byers, 1970 (Chine: Kwangtung)
+Panorpa guidongensis Chou & Li, 1987 (Chine)
+Panorpa guttata Navلs, 1908 (Chine: Szechwan)
+Panorpa hageniana Willmann, 1975 (Turquie)
+Panorpa hakusanensis Miyake, 1913 (Japon)
+Panorpa hamata Issiki & Cheng, 1947 (Taiwan)
+Panorpa helena Byers, 1962 (USA (Arkansas, Connecticut, Géorgie, Iowa, Illinois, Indiana, Kansas, Kentucky, Massachusetts, Maryland, Maine, Michigan, Minnésota, Missouri, Caroline du Nord, New Jersey, New York, Ohio, Pennsylvanie, Caroline du Sud, Tennessee, Utah, Virginie, Wisconsin, West Virginia), Canada: Manitoba)
+Panorpa hispida Byers, 1993 (USA: Géorgie, Caroline du Sud)
+Panorpa hiurai Miyamoto, 1985 (Japon)
+Panorpa horiensis Issiki, 1929 (Taiwan)
+Panorpa horni Navلs, 1928 (Russie)
+Panorpa hungerfordi Byers, 1973 (USA: Indiana, Kentucky, Michigan, Ohio, Wisconsin)
+Panorpa hybrida MacLachlan, 1882 (Roumanie, Finlande, Allemagne, Russie, Bulgarie)
+Panorpa immaculata Esben-Petersen, 1915 (Mexique: Guerrero, Mexico)
+Panorpa implicata Cheng, 1957 (Chine: Fukien)
+Panorpa indivisa Martynova, 1957 (Russie orientale)
+Panorpa insolens Carpenter, 1935 (USA: Kentucky, Ohio)
+Panorpa involuta Byers, 1996 (Mexique: Veracruz)
+Panorpa ishiharai Miyamoto, 1994 (Japon)
+Panorpa isolata Carpenter, 1931 (USA: Alabama, Washington, Géorgie, Kentucky, Mississippi, Caroline du Nord, Pennsylvanie, Caroline du Sud, Tennessee)
+Panorpa issikiana Byers, 1970 (Chine: Yunnan)
+Panorpa issikii Penny & Byers, 1979 (Taiwan)
+Panorpa japonica Thunberg, 1784 (Japon)
+Panorpa kagamontana Miyamoto, 1979 (Japon)
+Panorpa kellogi Cheng, 1957 (Chine)
+Panorpa kimminsi Carpenter, 1948 (Chine: Szechwan)
+Panorpa kiusiuensis Issiki, 1929 (Japon)
+Panorpa klapperichi Tjeder, 1951 (Chine: Fukien)
+Panorpa kongosana Okamoto, 1925 (Corée)
+Panorpa lacedaemonia Lauterbach, 1972 (Grèce)
+Panorpa lachlani Navلs, 1930 (Taiwan)
+Panorpa latipennis Hine, 1901 (USA: Connecticut, Massachusetts, Michigan, Caroline du Nord, New Jersey, New York, Ohio, Tennessee, Virginie, Vermont, Wisconsin)
+Panorpa leai Cheng, 1949 (Chine: Shensi)
+Panorpa leucoptera Uhler, 1858 (Japon)
+Panorpa lewisi MacLachlan, 1887 (Japon)
+Panorpa lintienshana Cheng, 1952 (Taiwan)
+Panorpa longicornis Carpenter, 1931 (USA: Kentucky, Caroline du Nord, Tennessee, Virginie)
+Panorpa longiramina Issiki & Cheng, 1947 (Taiwan)
+Panorpa longititilana Issiki, 1929 (Taiwan)
+Panorpa lugubris Swederus, 1787 (USA: Alabama, Floride, Géorgie, Louisiane, Mississippi, Caroline du Nord, South Caroline du Sud, Virginie)
+Panorpa lutea Carpenter, 1945 (Chine: Anhwei)
+Panorpa maculosa Hagen, 1861 (USA: Connecticut, Géorgie, Massachusetts, Michigan, Caroline du Nord, New Jersey, New York, Ohio, Pennsylvanie, Caroline du Sud, Tennessee, Utah, Virginie)
+Panorpa magna Chou, 1981 (Chine)
+Panorpa mangshanensis Chou & Wang, 1987 (Chine)
+Panorpa meridionalis Rambur, 1842 (Andorre, Espagne, France, Italie, Portugal, Roumanie)
+Panorpa mexicana Banks, 1913 (Mexique: Veracruz)
+Panorpa mirabilis Carpenter, 1931 (USA: Michigan, New Jersey, New York, Pennsylvanie)
+Panorpa miyakeiella Miyamoto, 1985 (Japon)
+Panorpa mokansana Cheng, 1957 (Chine)
+Panorpa mucronata Byers, 1996 (Mexique: Hidalgo)
+Panorpa multifasciaria Miyake, 1910 (Japon)
+Panorpa nanwutaina Chou, 1981 (Chine)
+Panorpa nebulosa Westwood, 1846 (USA (Connecticut, Géorgie, Illinois, Kentucky, Massachusetts, Maine, Michigan, Missouri, Caroline du Nord New Hampshire, New Jersey, New York, Ohio, Pennsylvanie, Caroline du Sud, Tennessee, Virginie, Vermont, Wisconsin), Canada: Ontario, Québec)
+Panorpa neglecta Carpenter, 1931 (USA: Alabama, Géorgie, Kentucky, Tennessee)
+Panorpa neospinosa Chou & Wang, 1981 (Chine)
+Panorpa nigrirostris MacLachlan, 1882 (Iran, ancien URSS)
+Panorpa nipponensis Navلs, 1908 (Japon)
+Panorpa nokoensis Issiki, 1929 (Taiwan)
+Panorpa nuptialis Gerstaecker, 1863 (USA (Alabama, Arkansas, Kansas, Louisiane, Mississippi, Missouri, Oklahoma, Texas), Mexique)
+Panorpa obliqua Carpenter, 1945 (Chine: Kiangsi)
+Panorpa obliquifascia Chou & Wang, 1987 (Chine)
+Panorpa obtusa Cheng, 1949 (Chine: Shensi)
+Panorpa ochraceocauda Issiki, 1927 (Taiwan)
+Panorpa ochraceopennis Miyake, 1910 (Japon)
+Panorpa oconee Byers, 1993 (USA: Géorgie)
+Panorpa okamotona Issiki, 1927 (Corée)
+Panorpa ophthalmica (Navلs), 1911 (Taiwan)
+Panorpa orientalis MacLachlan, 1887 (Corée, Russie)
+Panorpa pachymera Byers, 1993 (USA: Géorgie, Caroline du Sud)
+Panorpa pallidimaculata Issiki, 1929 (Taiwan)
+Panorpa palustris Byers, 1958 (USA: Caroline du Nord, Virginie)
+Panorpa pectinata Issiki, 1929 (Taiwan)
+Panorpa penicillata Byers, 1962 (Mexique: Durango)
+Panorpa peterseana Issiki, 1927 (Taiwan)
+Panorpa picta Hagen, 1863 (Turquie)
+Panorpa pieli Cheng, 1957 (Chine: Kiangsi)
+Panorpa pieperi Willmann, 1975 (Turquie)
+Panorpa pingjiangensis Chou & Wang, 1987 (Chine)
+Panorpa planicola Byers, 1993 (USA: Caroline du Sud)
+Panorpa plitvicensis Lauterbach, 1972 (Yougoslavie)
+Panorpa pryeri McLachlan, 1875 (Japon)
+Panorpa pseudoalpina Nagler, 1970 (Roumanie)
+Panorpa punctata Klug, 1838 (Mexique)
+Panorpa pura Klapلlek, 1906 (Europe, Asie)
+Panorpa pusilla Cheng, 1949 (Chine: Shensi)
+Panorpa qinlingensis Chou & Ran, 1981 (Chine)
+Panorpa quadrifasciata Chou & Wang, 1987 (Chine)
+Panorpa ramosa Byers, 1996 (Mexique: Hidalgo)
+Panorpa rantaisanensis Issiki, 1929 (Taiwan)
+Panorpa reclusa Byers, 1996 (Mexique: Hidalgo)
+Panorpa reni Chou, 1981 (Chine)
+Panorpa robusta Carpenter, 1931 (USA: Géorgie, Caroline du Sud)
+Panorpa rufa Gray, 1832 (USA: Alabama, Floride, Géorgie, Mississippi, Caroline du Nord, Caroline du Sud)
+Panorpa rufescens Rambur, 1842 (USA: Connecticut, Washington, Massachusetts, Maryland, Michigan, New Hampshire, New Jersey, New York, Pennsylvanie, Rhode Island)
+Panorpa rufostigma Westwood, 1846 (Albanie)
+Panorpa rupeculana Byers, 1993 (USA: Arkansas, Louisiane, Mississippi)
+Panorpa schweigeri Willmann, 1975 (Turquie)
+Panorpa scopulifera Byers, 1993 (USA: Géorgie, Caroline du Sud)
+Panorpa semifasciata Cheng, 1949 (Chine: Sikang)
+Panorpa serta Byers, 1996 (Mexique: Michoacan)
+Panorpa setifera Webb, 1974 (USA: Wisconsin)
+Panorpa sexspinosa
+
+Panorpa sexspinosa sexspinosa Cheng, 1949 (Chine: Shensi)
+Panorpa sexspinosa zhongnanensis Chou & Wang, 1981 (Chine)
+
+Panorpa shanyangensis Chou & Wang, 1981 (China)
+Panorpa shibatai Issiki, 1929 (Taiwan)
+Panorpa sibirica Esben-Petersen, 1915 (Russie)
+Panorpa sigmoides Carpenter, 1931 (USA: Iowa, Illinois, Indiana, Minnésota, Ohio, Wisconsin)
+Panorpa similis Esben-Petersen, 1915 (ancien URSS)
+Panorpa sonani Issiki, 1929 (Taiwan)
+Panorpa speciosa Carpenter, 1931 (USA: Iowa, Illinois, Indiana, Kentucky, Minnésota, Missouri, Wisconsin)
+Panorpa statura Cheng, 1949 (Chine: Shensi)
+Panorpa stigmalis Navلs, 1908 (Chine: Szechwan)
+Panorpa stotzneri Esben-Petersen, 1934 (Chine: Szechwan)
+Panorpa striata Miyake, 1908 (Japon)
+Panorpa subambra Chou & Tong, 1987 (Chine)
+Panorpa subaurea Chou & Li, 1987 (Chine)
+Panorpa subfurcata Westwood, 1842 (USA (Massachusetts, Maine, Michigan, Minnésota, New Jersey, New York, Pennsylvanie, Virginie, Wisconsin, West Virginia), Canada: Nouvelle ةcosse, Ontario, Québec)
+Panorpa submaculosa Carpenter, 1931 (USA: Géorgie, Indiana, Kentucky, Maryland, Michigan, New York, Ohio, Pennsylvanie, Caroline du Sud, Tennessee, Utah, Wisconsin)
+Panorpa subulifera Byers, 1962 (USA: Virginie)
+Panorpa susteri Nagler, 1970 (Roumanie)
+Panorpa taiheisanensis Issiki, 1929 (Taiwan)
+Panorpa taiwanensis Issiki, 1929 (Taiwan)
+Panorpa takenouchii Miyake, 1908 (Japon)
+Panorpa tatvana
+
+Panorpa tatvana tatvana Willmann, 1974 (Turquie)
+Panorpa tatvana ressli Willmann, 1975 (Turquie)
+
+Panorpa terminata Klug, 1838 (Mexique: Morelos)
+Panorpa tetrazonia Navلs, 1935 (Chine: Anhwei, Kiangsi)
+Panorpa thompsoni Cheng, 1957 (Chine, Japon: Tsushima)
+Panorpa thrakica Willmann, 1976 (Turquie européenne)
+Panorpa tincta Navلs, 1931 (Chine: Kansu)
+Panorpa titschacki Esben-Petersen, 1934 (Grèce)
+Panorpa tjederi Carpenter, 1938 (Chine: Yunnan)
+Panorpa trifasciata Cheng, 1957 (Chine: Fukien)
+Panorpa tritaenia Chou & Li, 1987 (Chine)
+Panorpa trizonata Miyake, 1908 (Japon)
+Panorpa tsunekatanis Issiki, 1929 (Japon)
+Panorpa tsushimaensis Miyamoto, 1979 (Japon)
+Panorpa turcica Willmann, 1975 (Turquie)
+
+Panorpa turcica anatolica Willmann, 1975 (Turquie)
+Panorpa turcica pontica Willmann, 1975 (Turquie)
+
+Panorpa typicoides Cheng, 1949 (Chine: Sikang)
+Panorpa venosa Westwood, 1846 (USA: Géorgie)
+Panorpa vernalis Byers, 1973 (USA: Arkansas, Louisiane, Mississippi)
+Panorpa virginica Banks, 1906 (USA: Connecticut, Géorgie, Caroline du Nord, New Jersey, Caroline du Sud, Tennessee, Virginie)
+Panorpa vulgaris Imhoff & Labram, 1845 (Europe, Asie)
+Panorpa waongkehzengi Navلs, 1935 (Chine: Kiangsi)
+Panorpa wormaldi MacLachlan, 1875 (Japon)
+Panorpa wrightae Cheng, 1957 (Chine)
+Panorpa yangi Chou, 1981 (Chine)
+Panorpa yiei Issiki & Cheng, 1947 (Taiwan)
+Panorpa youngi Byers, 1994 (Taiwan)
+
+Liens externes
+
+Référence Fauna Europaea : Panorpa(en)
+Référence ITIS : Panorpa Linnaeus, 1758(fr) (+version(en))
+Référence Animal Diversity Web : Panorpa(en)
+Référence NCBITaxonomy : Panorpa(en)
+
+
+<#10905>
+Panzerkampfwagen 35(t)
+
+	|	Panzerkampfwagen 35 (t)	|
+	|	
+Panzer 35(t), musée militaire de Belgrade, Serbie	|
+	|	Caractéristiques générales	|
+	|	ةquipage	|	4	|
+	|	Longueur	|	4,9 m	|
+	|	Largeur	|	2,159 m	|
+	|	Hauteur	|	2,209 m	|
+	|	Masse au combat	|	10,5 tonnes	|
+	|	Blindage et armement	|
+	|	Blindage	|	12 à 25 mm	|
+	|	Armement principal	|	Canon Skoda vz 34 de 37,2 mm (72 coups)	|
+	|	Armement secondaire	|	2 mitrailleuses ZB 35 ou 37 (1 800 coups)	|
+	|	Mobilité	|
+	|	Moteur	|	Moteur à essence Skoda EPA à six cylindres à refroidissement par eau
+120 ch (89 kW)	|
+	|	Suspension	|	Ressort à lames	|
+	|	Vitesse sur route	|	40 km/h sur route	|
+	|	Puissance massique	|	11,43 ch/tonne	|
+	|	Autonomie	|	193 km	|
+
+Panzerkampfwagen 35(t) est le nom donné par les Allemands au char d'assauttchèqueLT vz 35.
+
+Description
+Le LT vz 35 est de conception classique pour la fin des années 30, avec un blindage riveté, une tourelle pour deux hommes, et le moteur à l'arrière. Il est armé d'un canon ?koda vz 34 de 37,2 mm manié par le chef de char, et de deux mitrailleuses de 7,92 mm, une coaxiale et une en casemate.
+
+Un moteur ?koda à six cylindres déploie 120 chevaux. Il se situe à l'arrière du char, avec la transmission à six vitesses ; les roues motrices sont les roues arrières. Le tank est porté par huit roues sur quatre essieux, avec une roue libre à l'avant. Détail original, la transmission et la direction sont assistés avec de l'air comprimé, ce qui permet au conducteur de moins se fatiguer. Cependant, ce mécanisme a posé des problèmes quand les Panzer 38(t) ont été déployés dans le froid extrême du front russe.
+
+Histoire de développement
+L'armée tchèque a commandé un char moyen en 1934. Les deux premiers prototypes du nouveau char, provisoirement nommé S-11-a, sont terminés en 1935. Sa conception rapide mène à de nombreux dysfonctionnements, corrigés après de nombreuses modifications. Le LT vz 35 est produit en masse dans l'usine tchèque ?koda à partir de 1936. En tout 434 chars sont construits, dont 298 pour l'armée tchécoslovaque, 126 pour la Roumanie (sous l'appellation ?koda R-2). L'Afghanistan en commande dix en 1938, mais ceux-ci sont finalement envoyés en Bulgarie par l'occupant allemand, et prennent le nom de T-11.
+
+Histoire opérationnelle
+Les chars LT vz 35 sont employés par l'armée tchécoslovaque de 1937 à 1939. Mais en tout 219 chars LT vz 35 sont capturés par l'Allemagne en mars 1939 et employés par la Wehrmacht pendant la Deuxième Guerre mondiale. Ils sont d'abord employés, à partir du 5 juin 1939, par la cavalerie sous le nom de LTM 35. Mais après le 16 janvier 1940, ils tombent sous le contrôle de la Panzertruppe, les unités blindées allemandes, sous le nom de Panzer 35(t), la lettre t indiquant leur provenance tchécoslovaque. La 6e Panzerdivision (qui, à l'époque, s'appelait encore 1e division légère de cavalerie) en était équipée au début de la guerre, et les chars ont servi en Pologne en 1939 et en France en 1940. Mais à partir de 1940, il n'y a plus de pièces détachées et les chars doivent être entièrement reconstruits pour rester opérationnels ; il est donc décidé que la campagne de l'été 1941 sera leur dernière. De plus, les Panzer 35(t) se révèlent totalement inadéquats face aux froids extrêmes rencontrés en URSS. Fin novembre 1941, plus un seul n'est opérationnel. Ces faiblesses, en plus de la minceur de leur blindage et du faible calibre de leur canon face aux chars soviétiques, fait que la plupart sont retirés du front et que les 26 fonctionnant encore en 1942 sont vendus à la Roumanie. Le char continue à servir encore un an en Slovaquie et en Roumanie. Certains sont ensuite transformés par l'Allemagne en transporteurs ou tracteurs de munitions.
+
+L'armée slovaque, de son côté, emploie 79 de ces chars contre l'Union Soviétique. La Bulgarie, en plus des 10 chars originellement destinés à l'Afghanistan et équipés d'un meilleur canon A-7 qu'ils ont reçus en 1939, reçoivent 26 de ces chars en 1940. La Roumanie emploie 126 chars contre l'Union Soviétique en 1941 et 1942. Vingt de ces chars sont transformés en chasseurs de chars TACAM R-2 avec un canon de 76,2 mm.
+
+
+<#10906>
+Pandrignes
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune de la Corrèze.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pandrignes	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	Limousin	|
+	|	Département	|	Corrèze	|
+	|	Arrondissement	|	Arrondissement de Tulle	|
+	|	Canton	|	Canton de Tulle-Campagne-Sud	|
+	|	Code Insee	|	19158	|
+	|	Code postal	|	19150	|
+	|	Maire
+Mandat en cours	|	Jacques Dubois
+2001-2008	|
+	|	Intercommunalité	|	Communauté de communes du Pays de Tulle	|
+	|	Latitude
+Longitude	|	45° 13' 46" Nord
+
+1° 51' 19" Est/45.2294444444, 1.85527777778	|

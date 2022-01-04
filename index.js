@@ -1,5 +1,4 @@
-
-const fs = require('fs')
+require('./constants')
 const makeIndex = require('./custom_algorithms/make_index')
 
 
@@ -27,20 +26,4 @@ makeIndex()
 // Cet article est une ébauche concernant une ville, commune ou localité de Suède.
 // `
 
-function cleanFile(){
-    let test = fs.readFileSync('./test.txt','utf-8')
-    test = test.replace(/(\d) (\d+)/g,'$1$2')
-    test = test.replace('/o/','')
-    test = test.replace(/<#\d>/g,'')
-    let clean_regex = new RegExp('[\t+\|\t*\n|\n|\r|:|,|(|)|?|.|{|}|-|/]','gi')
-    let clean_text = test.replace(clean_regex," ").toLowerCase().trim()
-    clean_text = clean_text.replace(/  +/g, ' ')
-
-    // console.log(clean_text)
-    // console.log(clean_text.indexOf('\n'))
-    let result = fs.writeFileSync('./test_clean.txt',clean_text,'utf-8')
-    
-    // console.log(`test result is ::: {${clean_text}}`)
-    
-}
 

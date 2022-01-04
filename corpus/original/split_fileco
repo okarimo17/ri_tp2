@@ -1,0 +1,3000 @@
+﻿	|	Bemidbar	|	Bemidbar ?Nasso ?Behaalotekha ?Shlakh ?Kora'h ?'Houkat ?Balak ?Pin'has ?Matot ?Massei	|
+	|	Devarim	|	Devarim ?Va'et'hanan ?Eikev ?Re'eh ?Shoftim ?Ki Tetze ?Ki Tavo ?Nitzavim ?Vayelekh ?Haazinou ?Vèzot HaBerakha	|
+
+
+<#4176>
+Ping
+
+Pour l'article homonyme?, voir Ping (rivière). 
+Ping est le nom d'une commande informatique (développée par Mike Muuss) permettant d'envoyer une requête ICMP 'Echo' d'une machine à une autre machine. Si la machine ne répond pas il se peut que l'on ne puisse pas communiquer avec elle.
+
+L'analogie avec le ping-pong est que cette commande envoie une trame (le Ping) et attend son retour (le Pong). Selon la reponse on connait l'état de la machine distante.
+
+Cette commande réseau de base permet d'obtenir des informations et en particulier le temps de réponse de la machine à travers le réseau et aussi quel est l'état de la connexion avec cette machine (renvoi code d'erreur correspondant).
+
+Histoire
+Mike Muuss a écrit ce programme en décembre 1983 pour débugger un comportement anormal sur réseau IP. Le nom est tiré de l'onomatopée décrivant le son émit par un sonar puisque leur action est similaire (émission d'un signal qui vient rebondir sur une cible pour revenir à l'envoyeur). Par la suite, David L. Mills a fourni un rétro-acronyme : "Packet InterNet Grouper (Groper)".
+
+Exemples
+Exemple de ping sous Windows, vers l'adresse IP du serveur DNS de Wikipédia :
+
+Il est également possible d'effectuer un ping sur un nom au lieu d'une adresse IP.
+
+Pour enregistrer le résultat de la commande ping dans un fichier texte tapez dans une Invite de commandes : ping 66.230.200.16 > c:\ping.txt
+
+Exemple de ping sous Linux, vers fr.wikipedia.org :
+
+Le TTL (Time-To-Live), signifie le nombre maximal de routeurs que le message pourra emprunter avant d'être détruit.
+
+Exemple de (f)ping(6) sous Linux, vers une adresse IPv6 :
+
+Autre exemple de (f)ping(6) sous Linux, vers une adresse IPv6 :
+
+Généralisation
+Le principe du ping peut facilement être étendu au-delà du ping d'adresse IP ou de nom.
+
+Le ping visible sur les réseaux internes (LAN) est un néologisme pour RTT (round trip time), qui estime le temps d'aller-retour d'un paquet entre deux machines. Plus il est petit plus les communications seront réactives et ainsi le transfert de données sera fluide, en cas de valeur élevée et sensible on parle alors de lag ou latence. Cette approche n'est pas pertinente puisque les éléments actifs du réseau ne traitent pas les requêtes ICMP en priorité (voir QoS).
+
+Sur la plupart des clients IRC, vous pouvez taper la commande /ping pour connaître le temps de réponse d'un utilisateur ou d'un salon de discussion.
+
+Voir aussi Ping of Death (ping de la mort)
+
+
+<#4177>
+Pinna (genre)
+
+Pour les articles homonymes, voir Pinna. 
+
+	|	
+	|	
+Cet article est une ébauche concernant les mollusques.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Pinna	|
+	|		|
+	|	Pinna nobilis	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Mollusca	|
+	|	Classe	|	Bivalvia	|
+	|	Sous-classe	|	Pteriomorphia	|
+	|	Ordre	|	Pterioida	|
+	|	Famille	|	Pinnidae	|
+	|	Genre	|
+	|	Pinna
+Linnaeus, 1758	|
+	|	Taxons de rang inférieur	|
+	|	
+
+Voir texte
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Liste des espèces
+Selon ITIS:
+
+Pinna bicolor Gmelin, 1791
+Pinna carnea Gmelin, 1791
+Pinna muricata Linnaeus, 1758
+Pinna rudis Linnaeus, 1758
+
+Selon ADW:
+
+Pinna carnea
+Pinna nobilis L. (1758) -- Grande nacre
+Pinna rudis
+
+Liens externes
+
+Référence ITIS : Pinna Linnaeus, 1758(fr) (+version(en))
+Référence Animal Diversity Web : Pinna(en)
+Référence NCBITaxonomy : Pinna(en)
+
+
+<#4178>
+Pin blanc de Corée
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Pin de Corée	|
+	|		|
+	|	Pinus koraiensis	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Sous-famille	|	Pinoideae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus koraiensis
+Siebold & Zucc., 1842	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le pin de Corée (en latin Pinus koraiensis) est une espèce de pin propre à la Corée, au Japon, à la Sibérie et à la Mandchourie.
+
+Il donne des pignes couvertes d'une peau blanche. La peau est plus fine que celle des autres espèces, et les pignons sont également plus gros.
+
+Les pins blancs de Corée, découverts en 1994 dans le village de Raengjong-gol (arrondissement de Rinsan, province du Hwanghae du Nord), en Corée du Nord, peuvent donner des graines ou pignes, riches en huile, six ou sept ans après la plantation, contre quinze ans pour les autres pins de Corée.
+
+Liens internes
+
+Voir la section « Environnement » dans l'article détaillé sur la Géographie de la Corée du Nord.
+
+Liens externes
+
+Article de l'agence officielle nord-coréenne KCNA et la revue "Plants for a future", septembre 2004
+
+	|	
+
+Image originelle du Flora Japonica
+Philipp Franz von Siebold et Joseph Gerhard Zuccarini
+	|
+
+
+<#4179>
+Pino sulla Sponda del Lago Maggiore
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les communes italiennes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pino sulla Sponda del Lago Maggiore	|
+	|	Pays	|	
+Italie	|
+	|	
+Région
+	|	Lombardie
+	|
+	|	
+Province
+	|	Varèse
+	|
+	|	code ISTAT	|	012112	|
+	|	code postal	|	21010	|
+	|	Préfixe tel	|	0332	|
+	|	Coordonnées	|	46° 6' Nord
+
+8° 0' Est/46.1, 8	|
+	|	Altitude	|	289 m	|
+	|	Superficie	|	7 km²	|
+	|	Population	|	247 hab. - ((Istat 2001))	|
+	|	Densité	|	35 hab./km²	|
+	|	Code cadastral	|	G677	|
+	|	Gentilé	|	pinesi	|
+	|	Localisation	|
+	|	
+
+	|
+	|	pas de site web
+	|
+
+Pino sulla Sponda del Lago Maggiore est une commune italienne de la province de Varèse dans la région Lombardie en Italie.
+
+Administration
+	|	Liste des maires (sindaci) successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	-	|	-	|	-	|	-	|
+	|	Toutes les données ne nous sont pas encore connues.	|
+
+Hameaux
+Zenna, Monti di Pino, Alpe Cortiggia, Piano Volpera, Bersona, Mulinaccio, Alpe Tabia, Piano della Rogna, Alpe di Piero
+
+Communes limitrophes
+Brissago-Valtravaglia, Maccagno, Tronzano Lago Maggiore, Veddasca
+
+Lombardie · Communes de la Province de Varèse
+
+	|	Agra ? Albizzate ? Angera ? Arcisate ? Arsago Seprio ? Azzate ? Azzio ? Barasso ? Bardello ? Bedero Valcuvia ? Besano ? Besnate ? Besozzo ? Biandronno ? Bisuschio ? Bodio Lomnago ? Brebbia ? Bregano ? Brenta ? Brezzo di Bedero ? Brinzio ? Brissago-Valtravaglia ? Brunello ? Brusimpiano ? Buguggiate ? Busto Arsizio ? Cadegliano-Viconago ? Cadrezzate ? Cairate ? Cantello ? Caravate ? Cardano al Campo ? Carnago ? Caronno Pertusella ? Caronno Varesino ? Casale Litta ? Casalzuigno ? Casciago ? Casorate Sempione ? Cassano Magnago ? Cassano Valcuvia ? Castellanza ? Castello Cabiaglio ? Castelseprio ? Castelveccana ? Castiglione Olona ? Castronno ? Cavaria con Premezzo ? Cazzago Brabbia ? Cislago ? Cittiglio ? Clivio ? Cocquio-Trevisago ? Comabbio ? Comerio ? Cremenaga ? Crosio della Valle ? Cuasso al Monte ? Cugliate-Fabiasco ? Cunardo ? Curiglia con Monteviasco ? Cuveglio ? Cuvio ? Daverio ? Dumenza ? Duno ? Fagnano Olona ? Ferno ? Ferrera di Varese ? Gallarate ? Galliate Lombardo ? Gavirate ? Gazzada Schianno ? Gemonio ? Gerenzano ? Germignaga ? Golasecca ? Gorla Maggiore ? Gorla Minore ? Gornate-Olona ? Grantola ? Inarzo ? Induno Olona ? Ispra ? Jerago con Orago ? Lavena Ponte Tresa ? Laveno-Mombello ? Leggiuno ? Lonate Ceppino ? Lonate Pozzolo ? Lozza ? Luino ? Luvinate ? Maccagno ? Malgesso ? Malnate ? Marchirolo ? Marnate ? Marzio ? Masciago Primo ? Mercallo ? Mesenzana ? Montegrino Valtravaglia ? Monvalle ? Morazzone ? Mornago ? Oggiona con Santo Stefano ? Olgiate Olona ? Origgio ? Orino ? Osmate ? Pino sulla Sponda del Lago Maggiore ? Porto Ceresio ? Porto Valtravaglia ? Rancio Valcuvia ? Ranco ? Saltrio ? Samarate ? Sangiano ? Saronno ? Sesto Calende ? Solbiate Arno ? Solbiate Olona ? Somma Lombardo ? Sumirago ? Taino ? Ternate ? Tradate ? Travedona-Monate ? Tronzano Lago Maggiore ? Uboldo ? Valganna ? Varano Borghi ? Varèse ? Vedano Olona ? Veddasca ? Venegono Inferiore ? Venegono Superiore ? Vergiate ? Viggiù ? Vizzola Ticino	|
+
+Portail de l'Italie
+
+
+<#4180>
+Pinewood
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le cinéma.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) selon les conventions filmographiques.	|
+
+Studios cinématographiques situés près de Londres (51°32'55"N0°32'06"W/51.54861, -0.535), dont le premier film sort en 1936.
+
+EON Productions (société de production des films de James Bond) y a son siège social.
+
+Tournages de films
+
+Ont été produits à Pinewood Studios entre autres les films de Batman, Lara Croft, Superman ou James Bond (avec un studio dédié : le 007 stage).
+
+Quelques Films tournés à Pinewood
+
+Les Chaussons rouges (1948)
+Pink Floyd The Wall (1982)
+Aliens le retour (1986)
+Full Metal Jacket (1987)
+Entretien avec un vampire (1994)
+Mission: Impossible (1996)
+Le Saint (1997)
+Le Cinquième ةlément (1997)
+Eyes Wide Shut (1999)
+Le Fantôme de l'Opéra (2004)
+Charlie et la chocolaterie, (2005)
+
+Portail du cinéma
+Portail du renseignement
+
+
+<#4181>
+Pin tordu
+
+	|	
+Pinus contorta	|
+	|		|
+	|	Pinus contorta	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Coniferophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus contorta
+Douglas ex Loudon, 1838	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Pin tordu ( Pinus contorta ) est un arbre appartenant au genre Pinus et à la famille des Pinacées. On le trouve dans l'ouest de l'Amérique du Nord, de l'Alaska au Mexique.
+
+Ses feuilles sont par paires, 5 cm de long, vert à vert foncé, et tordues.
+
+Liens externes
+
+Pinus contortadansFlora of North America(en)
+Référence Tela Botanica (France métro) : Pinus contorta Douglas ex J.W.Loudon, 1838(fr)
+Référence ITIS : Pinus contorta Dougl. ex Loud.(fr) (+version(en))
+Référence NCBITaxonomy : Pinus contorta(en)
+Référence IUCN : Pinus contorta Douglas ex Loudon(en)
+Référence GRIN : espècePinus contorta Douglas ex Loudon(en)
+
+
+<#4182>
+Pinter
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Harold Pinter, (né en 1930), écrivain et dramaturge anglais.
+Friedrich Pinter (né en 1978), biathlète autrichien.
+
+
+<#4183>
+Pine Ridge
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Pine Ridge est une ville américaine de l'ةtat de l'Alabama.
+Pine Ridge est une ville américaine de l'ةtat de Caroline du Nord.
+Pine Ridge est une ville américaine de l'ةtat de Caroline du Sud.
+Pine Ridge est une ville américaine de l'ةtat du Dakota du Sud.
+Pine Ridge est une ville américaine de l'ةtat du Mississippi.
+Pine Ridge est une ville américaine de l'ةtat de l'Oklahoma.
+
+
+<#4184>
+Pingxiang
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Pingxiang (??) est une ville de la région autonome du Guangxi en Chine ;
+Pingxiang (??) est une ville de la province du Jiangxi en Chine ;
+Le xian de Pingxiang (??) est une subdivision administrative de la province du Hebei en Chine.
+
+
+<#4185>
+Pineau
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Pour les articles homophones, voir Pinault. 
+
+	|	
+	|	
+Voir « pineau » sur le Wiktionnaire.
+	|
+
+Vins
+
+Pineau des Charentes
+Pineau d'Aunis, un cépage
+
+Patronyme
+
+Christian Pineau (1904-1995), homme politique français.
+Franck Pineau (1963- ), coureur cycliste professionnel.
+Gisèle Pineau, écrivain français.
+Jérôme Pineau (1980 - ), coureur cycliste professionnel.
+Patrice Pineau, conseiller général (PS) des Deux-Sèvres.
+
+
+<#4186>
+Pin de Monterey
+
+	|	
+Pin de Monterey	|
+	|		|
+	|	Pinus radiata	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Sous-famille	|	Pinoideae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus radiata
+D. Don, 1837	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|		|
+	|	Aspect général	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le Pin de Monterey (Pinus radiata D. Don = Pinus insignis) est un conifère de la famille des Pinacées.
+
+Description
+
+Exigences écologiques
+
+Sol : il préfère les sols sablonneux, acides et profonds.
+Climat : le pin de Monterey est une espèce très sensible au froid et aux gelées de printemps. Il affectionne les zones littorales. Résiste jusqu'à -15°C.
+
+Aire de répartition
+Californie, baie de Monterey et îles. Introduit en 1833.
+
+Le pin de Monterey est originaire de la côte sud-ouest des ةtats-Unis. Du fait de sa grande sensibilité au froid et de sa forte exigence en humidité atmosphérique, en France, les reboisements ont été limités à la côte Atlantique, au Pays basque et à la région méditerranéenne.
+
+Utilisation
+
+Production de cellulose
+
+Intérêt ornemental
+
+Forme générale. hauteur jusqu'à 50 mètres, largeur jusqu'à 15 mètres.
+Feuillage.
+Fleur, fruit.
+
+Contraintes et propriétés d'utilisation
+Utilisation dans les régions à hiver doux, ce bel arbre d'ornement au feuillage très clair est à planter en isolé. De croissance rapide et à tronc droit, il est très utilisé en reboisement en Australie, Afrique du Sud, Nouvelle-Zélande et dans le Pays basque espagnol. Ses aiguilles vont par trois
+
+Propriétés. taille, diamètre croissance
+Contraintes. développement, envahissement..../ système racinaire, fragilité des bois/ Toxicités...
+
+Particularités entretien / plantation.
+
+taille entretien
+Sensibilité à des maladies, ravageurs...
+Mise en ?uvre spécifique
+
+
+<#4187>
+Pin de Norfolk
+
+
+	|	
+	|	
+Cet article est une ébauche concernant la botanique.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Pin de Norfolk	|
+	|		|
+	|	Araucaria heterophylla	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Araucariaceae	|
+	|	Genre	|	Araucaria	|
+	|	Nom binominal	|
+	|	Araucaria heterophylla
+(Salisb.) Franco, 1952	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Araucariaceae	|
+	|	Statut de conservationIUCN :
+
+VU B1+2c : Vulnérable
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le pin de Norfolk - qui n'est pas un pin- (Araucaria heterophylla) (synonyme Araucaria excelsa) est un conifère facilement reconnaissable, membre de l'ancienne famille des Araucariacées. Comme son nom l'indique cet araucaria est une espèce endémique de l'île de Norfolk. Les arbres grandissent pour atteindre 50 à 65 m, avec un tronc vertical et des branches symétriques, même face aux vents violents qui tordent les autres espèces. Les feuilles, à la base des arbustes jeunes, sont en forme d'alène de 1 à 1,5 cm de long, épaisses d'environ 1 mm ,alors qu'elles sont courbes,de 5 à 10 cm de long et d'une épaisseur variable de 2 à 4 mm sur des arbres mûrs. Les plus épaisses des feuilles forment des sortes d'écailles sur les branches de la couronne supérieure.
+
+Les cônes globuleux mesurent 10 à 12 cm de long et ont un diamètre de 12 à 14 cm. Ils prennent environ 18 mois pour mûrir. Ils se désintègrent alors pour relâcher la noix, une graine comestible.
+
+L'arbre pousse bien dans le sable profond, à condition d'avoir un accès fiable à l'eau. Cela, lié à sa tolérance pour le sel et le vent, en fait un arbre adapté aux côtes où il ne gèle pas.
+ہ la Réunion, il s'adapte bien sur le littoral, mais aussi en altitude, jusqu'à 800 mètres. Vendu en pot il peut être gardé deux ou trois ans. Planté dans un jardin, la tête peut être coupée chaque année et faire un joli sapin de Noël.
+
+Liens externes
+
+Araucaria heterophylladansFlora of China(en)
+Référence Tela Botanica (Antilles) : Araucaria heterophylla (Salisb.) Franco(fr)
+Référence ITIS : Araucaria heterophylla (Salisb.) Franco(fr) (+version(en))
+Référence NCBITaxonomy : Araucaria heterophylla(en)
+Référence IUCN : Araucaria heterophylla (Salisb.) Franco(en)
+Référence GRIN : espèceAraucaria heterophylla (Salisb.) Franco(en)
+
+Portail de l'Australie
+
+
+<#4188>
+Pin de Bosnie
+
+	|	
+Pin de Bosnie	|
+	|		|
+	|	Pinus heldreichii	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus heldreichii
+H.Christ, 1863	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Vous venez de demander une traduction de Pin de Bosnie
+Veuillez créer (exemple détaillé) la sous-page qui assurera le suivi du processus de traduction en cliquant sur Projet:Traduction/Pin de Bosnie.	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le pin de Bosnie (Pinus heldreichii, synonyme Pinus leucodermis ; famille des Pinaceae) est une espècedepin que l'on rencontre dans les montagnes de l'Europe du sud-est, en Bulgarie du sud-ouest, en Bosnie-Herzégovine, en Albanie, en Macédoine, en Serbie, au nord de la Grèce (au sud du Mont Olympe), et sporadiquement en Italie méridionale, poussant entre 900 et 2 500 m d'altitude. Cet arbre à feuilles persistantes atteint 25 à 35 mètres de hauteur et 2 mètre de diamètre.
+
+Un spécimen remarquable dans les montagnes de Pirin en Bulgarie, connu sous le nom de "Baikusheva mura" (????????? ????, mesure 24 m de haut, 2.2 m de diamètre et est estimé avoir 1 300 ans.
+
+Nomenclature
+
+Culture et utilisations
+
+Références
+
+Liens externes
+
+Référence NCBITaxonomy : Pinus heldreichii(en)
+Référence IUCN : Pinus heldreichii H.Christ(en)
+Référence GRIN : espècePinus heldreichii H. Christ(en)
+
+
+<#4189>
+Pingdingshan
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville de la République populaire de Chine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|	
+Cette page contient des caractères chinois.
+Si certains caractères de cet article s'affichent mal (carrés vides, points d'interrogation, etc.), consultez la page d'aide Unicode ou testez votre navigateur. Notez que la transcription utilisée est le pinyin.	|
+
+	|	???
+Pيngd?ngsh?n	|
+	|	
+	|	
+
+	|
+
+	|
+	|	Pays	|	Chine	|
+	|	Statut administratif	|	Ville-préfecture	|
+	|	Province	|	Henan	|
+	|	Préfixe téléphonique	|	375	|
+	|	Latitude, longitude	|	33°44'N113°18'E/33.733, 113.3	|
+	|	Superficie	|	7 882 km²	|
+	|	Population	|	Préfecture : 4,8 millions d'hab. (2000)	|
+	|	PIB par habitant	|	5 656 yuans (2000)	|
+
+Pingdingshan (??? ; pinyin : Pيngd?ngsh?n) est une ville du centre de la province du Henan en Chine.
+
+Subdivisions administratives
+La ville-préfecture de Pingdingshan exerce sa juridiction sur dix subdivisions - quatre districts, deux villes-districts et quatre xian?:
+
+le district de Xinhua - ??? X?nhuل Q??;
+le district de Weidong - ??? Wèid?ng Q??;
+le district de Zhanhe - ??? Zhànhé Q??;
+le district de Shilong - ??? Shيlَng Q??;
+la ville de Wugang - ??? W?g?ng Shى?;
+la ville de Ruzhou - ??? R?zh?u Shى?;
+le xian de Baofeng - ??? B?of?ng Xiàn?;
+le xian de Ye - ?? Yè Xiàn?;
+le xian de Lushan - ??? L?sh?n Xiàn?;
+le xian de Jia - ?? Jiل Xiàn.
+
+Liens externes
+
+(zh)Site gouvernemental - (en)
+Traduction Google
+(!)
+(zh)Plan de la ville de Pingdingshan
+(fr)Photos de Pingdingshan dans Panoramio
+
+v · d · mSubdivisions administratives en rapport avec la préfecture de Pingdingshan
+
+	|	
+
+v · d · mSubdivisions de niveau district de la préfecture de Pingdingshan	|
+	|	Districts :	|	Shilong ·Weidong ·Xinhua ·Zhanhe	|	
+
+	|
+	|	Villes-districts :	|	Ruzhou ·Wugang	|
+	|	Xian :	|	Baofeng ·Jia ·Lushan ·Ye	|
+	|	Subdivisions de niveau district de la province : Liste des subdivisions administratives du Henan	|
+
+	|	
+
+v · d · mSubdivisions de niveau préfecture du Henan	|
+	|	Villes-préfectures :	|	Anyang ·Hebi ·Jiaozuo ·Kaifeng ·Luohe ·Luoyang ·Nanyang ·Pingdingshan ·Puyang ·Sanmenxia ·Shangqiu ·Xinxiang ·Xinyang ·Xuchang ·Zhengzhou ·Zhoukou ·Zhumadian	|	
+
+	|
+	|	Ville vice-préfecture :	|	Jiyuan	|
+	|	Subdivisions de niveau district : Liste des subdivisions administratives du Henan	|
+
+Portail du monde chinois
+
+
+<#4190>
+Pinar del Rيo
+
+	|	Pinar del Rيo	|
+	|	Pays	|	
+Cuba	|
+	|	Province	|	Pinar del Rيo	|
+	|	Coordonnées	|	22°25' S
+83°42' O	|
+	|	Superficie	|	70,7 km²(agglomération urbaine)
+691,12 km²(commune) km²	|
+	|	Population	|	189.221
+152.200 (ville)
+30.417 (zone rurale de la commune) hab. ()	|
+	|	Densité	|	270,4 hab/km² hab./km²	|
+	|	Altitude (moyenne)	|	60 m	|
+	|	Gentilé	|	Pinareٌo	|
+
+Pinar del Rيo est une ville de Cuba et la capitale de la province éponyme.
+
+Pinar del Rيo accueille la principale manufacture de cigares de Cuba avec 80 % de la production nationale, au milieu de la plus grande zone de culture de tabac du pays.
+
+Géographie
+La commune regroupe, en plus de la ville de Pinar del Rيo, les hameaux de La Conchita, La Coloma, Briones Montoto et Las Ovas.
+
+La commune est traversé par le Rيo Guamل.
+
+Curiosités
+
+Le Palacio Guasch
+Le théatre José Jacinto Milanes
+La fabrique de tabac
+Le jardin botanique
+L'Université Hermanos Saيz qui accueille près de 12.000 étudiants.
+
+Jumelage
+
+Martinique : Sainte-Anne.
+
+Liens externes
+
+page officielle de Pinar del Rيo (Espagnol)
+
+
+<#4191>
+Ping'an
+
+Pour les articles homonymes, voir Pingan. 
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville de la République populaire de Chine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Ping'an (en caractères simples : ?? ; en caractères traditionnels : ?? ; en pinyin : Pيng'?n ; littéralement « la paix ») est un village situé dans la région de Longsheng, à environ 80 km au nord-ouest de Guilin, dans la région autonome du Guangxi en République populaire de Chine. Il compte environ 800 habitants de la minorité ethnique Zhuang. Il est cependant également fréquenté par l'ethnie proche Yao.
+
+Le village a été développé depuis quelques années en tant que pôle touristique, accueillant plusieurs hôtels, et est désormais fréquenté par de nombreux touristes occidentaux.
+
+
+<#4192>
+Pinceau à aquarelle
+
+Le pinceau à aquarelle est un pinceau utilisé dans la technique de l'aquarelle, généralement constitué de poils de petit-gris (un écureuil) ou de poney.
+
+Les pinceaux les plus recherchés, mais aussi les plus chers sont en poils de martre.
+
+Il est très proche du pinceau à lavis, pinceau utilisé en Extrême-Orient, mais les poils ne proviennent pas des mêmes animaux, et les propriétés sont légèrement différentes.
+
+Les poils de petit-gris retiennent mieux l'eau que les poils de poney.
+
+Le manche est généralement en bois, et les poils sont attachés au pinceau à l'aide de petite plaques de bois serrées par du fil de fer noué par torsion. Il est fréquent de trouver les plaques de bois remplacées par du plastique transparent dans les pinceaux d'étude.
+
+Portail de la peinture
+
+
+<#4193>
+Pin de Macédoine
+
+	|	
+Pin de Macédoine	|
+	|		|
+	|	Pinus peuce	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus peuce
+Griseb., 1845	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Statut de conservationIUCN :
+
+NT  : Quasi menacé
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Liens externes
+
+Référence NCBITaxonomy : Pinus peuce(en)
+Référence IUCN : Pinus peuce Griseb.(en)
+Référence GRIN : espècePinus peuce Griseb.(en)
+
+	|	
+
+	|	
+
+	|
+
+
+<#4194>
+Pingnan
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Le xian de Pingnan (??) est une subdivision administrative de la province du Fujian en Chine ;
+Le xian de Pingnan (??) est une subdivision administrative de la région autonome du Guangxi en Chine.
+
+
+<#4195>
+Pinophyta
+
+	|	
+Pinophyta	|
+	|		|
+	|	Araucaria heterophylla (Araucariaceae)	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|
+	|	Pinophyta
+Cronquist, Takht. & W.Zimm. ex Reveal, 1996	|
+	|	Synonymes	|
+	|	Coniferophyta	|
+	|	Références	|
+	|	ITIS : tsn 18024(en)	|
+	|	Classes de rang inférieur	|
+	|	
+
+Pinopsida
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+La division ou embranchement des pinophytes (ou conifères), anciennement connue sous le nom de coniférophytes (ou Coniferophyta), ne comprend qu'une classe : celle des Pinopsida. Ce sont des plantes vasculaires à graines en cônes apparues sur Terre il y a 150 millions d'années, bien avant les feuillus. Tous les conifères existants sont des plantes ligneuses dont la grande majorité sont des arbres, les autres étant des arbustes. Les conifères les plus répandus sont les cèdres, cyprès, douglas, sapin, genévrier, agathis, mélèze, pin, séquoia, épicéa et l'if.
+
+Les espèces de conifères peuvent pousser naturellement presque partout dans le monde, et sont fréquemment les plantes dominantes dans leur habitat. Cet embranchement est cependant sur le déclin et seules 650 espèces environ de conifères subsistent à l'heure actuelle.
+
+Les conifères ont un important poids économique, principalement pour le bois d'?uvre et la production de papier.
+
+Arbre phylogénétique des pinophytes
+
+Liste des Familles
+Selon ITIS (classification classique):
+
+division Pinophyta
+
+classe Coniferopsida
+
+ordre Coniferales
+
+famille Abietaceae (inclus par la classification phylogénétique dans Pinaceae)
+
+classe Cordaitopsida
+
+ordre Cordaitales
+
+classe Pinopsida
+
+ordre Pinales
+
+famille Araucariaceae
+famille Cephalotaxaceae
+famille Cupressaceae
+famille Pinaceae
+famille Podocarpaceae
+famille Taxodiaceae (inclus par la classification phylogénétique dans Cupressaceae)
+
+ordre Taxales
+
+famille Taxaceae
+
+classe Taxopsida
+
+Selon NCBI (classification phylogénétique):
+
+division Coniferophyta
+
+classe Coniferopsida
+
+ordre Coniferales
+
+famille Araucariaceae
+famille Cephalotaxaceae
+famille Cupressaceae
+famille Pinaceae
+famille Podocarpaceae
+famille Sciadopityaceae (1 seule espèce vivante pas connue de la classification classique)
+famille Taxaceae
+
+Morphologie
+Tous les conifères sont des plantes ligneuses et ont une croissance monopodiale (un tronc unique et droit avec des branches latérales) avec une forte dominance apicale[1]. La taille des conifères mûrs varie de moins d'un mètre à plus de 100 mètres. Les arbres les plus grands, les plus larges, les plus vieux sont tous des conifères. Le plus grand est un Coast Redwood (Sequoia sempervirens), avec une hauteur de 115,2 mètres. Le plus volumineux est un séquoia géant (Sequoiadendron giganteum), avec un volume de 1486,9 m³. L'arbre avec le tronc le plus large est un cyprès de marais mexicain (Taxodium mucronatum), 11,42 mètres de diamètre. Le plus vieux est le Great Basin Bristlecone Pine (Pinus longaeva), 4 700 ans.
+
+Le bois des conifères est un bois tendre.
+
+Feuillage
+Les feuilles de beaucoup de conifères sont longues, fines et aciculaires [2], les autres, la plupart des Cupressaceae et quelques Podocarpaceae, ont des feuilles plates, en formes d'écailles. Quelques uns, notamment les Agathis (Araucariaceae) et Nageia (Podocarpaceae) ont des feuilles larges, en forme de bandes. Chez la majorité des conifères, les feuilles sont arrangées en spirales, à l'exception de la plupart des Cupressaceae et un genre chez la famille des Podocarpaceae, où elles sont croisées en X vis-à-vis des paires ou en spirales de trois. Chez beaucoup d'espèces à feuilles en spirales, la base des feuilles est tordue pour présenter les feuilles dans un plan plat afin de capturer un maximum de lumière. La taille des feuilles varie de 2 mm, chez beaucoup d'espèces à feuilles en écailles, jusqu'à 400 mm de long pour les aiguilles de quelques pins (e.g. Pinus engelmannii). Les stomates sont en lignes ou répartis sur la feuille et peuvent se refermer quand il fait très sec ou froid. Les feuilles sont souvent vert foncé, ce qui peut aider à absorber un maximum d'énergie du faible ensoleillement aux latitudes élevées ou sous l'ombre de la canopée. Les conifères des zones chaudes très ensoleillées (e.g. Pin de CalabrePinus brutia) ont souvent les feuilles jaune-vert, tandis que d'autres (e.g. ةpicéa bleuPicea pungens) ont une couche de cire très efficace pour refléter la lumière ultraviolette. Dans la grande majorité des genres, les feuilles sont sempervirentes, restant habituellement plusieurs années (de deux à quarante) avant de tomber, mais cinq genres (Larix, Pseudolarix, Glyptostrobus, Metasequoia et Taxodium) sont à feuilles caduques, perdant les feuilles en automne et restant sans feuilles tout l'hiver. Les jeunes plants de beaucoup de conifères, incluant les Cupressaceae, et le Pinus de la famille Pinaceae, ont une période juvénile avec un feuillage, souvent nettement différent de celui de l'adulte.
+
+Reproduction
+
+La plupart des conifères sont monoïques, c'est-à-dire que les cônes mâles et femelles sont produits sur le même arbre, mais quelques uns sont dioïques ou trioïques ; tous sont pollinisés par le vent. Les graines de conifères se développent à l'intérieur d'un cône protecteur appelé strobilus (ou, incorrectement "pomme de pin", qui techniquement s'applique uniquement aux pins, pas aux autres conifères). Les cônes mettent de trois mois à trois ans pour atteindre la maturité, et varient en taille de 2 mm à 600 mm de long. Chez les Pinaceae, Araucariaceae, Sciadopityaceae et la plupart des Cupressaceae, les cônes sont ligneux, et une fois mûrs, les écailles s'ouvrent, permettant aux graines de tomber et d'être dispersées par le vent. Chez certains (e.g. sapins et cèdres), le cône se désagrège pour relâcher les graines, et chez d'autres (e.g. les pins qui produisent des pignons de pin), les graines, ressemblant à des noix, sont dispersées par les oiseaux (principalement les casse-noix et les geais) qui cassent les cônes, plus mous particulièrement adaptés. Les cônes mûrs restent sur l'arbre pendant un temps très variable avant de tomber sur le sol ; chez quelques pins adaptés au feu, les graines peuvent être stockées dans les cônes jusqu'à 60-80 ans, et sont relâchées seulement quand un feu détruit l'arbre.
+
+Dans les familles Podocarpaceae, Cephalotaxaceae, Taxaceae, et un genre de Cupressaceae (Genévrier), l'enveloppe est douce, charnue, de couleurs brillantes et est mangée par des oiseaux, les graines passent alors dans leurs déjections. Ces enveloppes charnues (sauf le Genévrier) sont appelées arilles. Chez certains de ces conifères (e.g. la plupart des Podocarpaceae), le cône consiste en des écailles imbriquées les unes dans les autres, tandis que chez d'autres (e.g. Taxaceae), le cône est réduit à seulement une enveloppe charnue entourant entièrement la graine.
+
+Les cônes mâles ont des structures appelées microsporanges qui produisent un pollen jaunâtre. Le pollen est libéré et transporté par le vent jusqu'aux cônes femelles. Les grains de pollen des espèces de pynophytes produisent des tubes polliniques, tout comme ceux des angiospermes. Quand un grain de pollen atterrit près un gamétophyte femelle, il subit la méiose et fertilise la gamétophyte femelle. Le zygote résultant se développe en embryon, puis devient une graine. Par la suite, la graine peut tomber au sol et, si les conditions le permettent, se développer en un nouvel arbre.
+
+En sylviculture, la terminologie des angiospermes a généralement, bien qu'inexactement, été appliquée aux arbres à graines en cônes. Les cônes mâles et les cônes femelles non fertilisés sont appelés respectivement "fleurs mâles" et "fleurs femelles". Après fertilisation, le cône femelle est appelé fruit, qui subit la maturation.
+
+Cycle de vie
+Pour fertiliser l'ovule, le cône mâle libère le pollen qui est transporté par le vent jusqu'aux cônes femelles.
+Un gamète femelle fertilisé (appelé zygote) se développe en embryon.
+Avec des cellules de téguments entourant l'embryon, une graine contenant l'embryon se développe.
+Les graines mûres tombent sur le sol.
+Les graines germent et se développent en arbres.
+Une fois mûr, l'arbre adulte produit des cônes.
+
+Notes et références
+
+? La dominance apicale est le processus physiologique qui, chez une plante en croissance, empêche ou limite le développement des bourgeons latéraux au profit du bourgeon terminal (apical) de la tige.
+? Se dit d'une feuille linéaire, rigide et pointue
+
+Liens externes
+
+Référence ITIS : Coniferophyta(fr) (+version(en))
+Référence NCBITaxonomy : Coniferophyta(en)
+
+(en) Cet article est partiellement ou en totalité issu d'une traduction de l'article de Wikipédia en anglais intitulé « Pinophyta ».
+
+Portail de la botanique
+
+
+<#4196>
+PinkPhenix
+
+PinkPhenix Mag est un magazine du Sud Est de la France destiné aux personnes LesbiennesGaysBi et Trans. Il a pour but de s'occuper de la communication et du développement des établissements de ce type au travers de soirées, événements ...
+
+La volonté de son concepteur, Cyril Volle, était de soutenir les associations et les sorties de qualités, magazine gratuit donc financé par la publicité faites par les établissements qui en ont la possibilité, l'équipe est assez jeune et toujours à l'écoute des autres, bien que fortement partiale concernant les établissement non "electro", ce qui a valu à Cyril Volle d'avoir une assez mauvaise réputation auprès des gérants d'établissements gay et lesbiens dits " généralistes" ou à "l'ancienne".
+
+La société PinkPhénix située à Aix-en-Provence (France) etait donc spécialisée dans la promotion de ces établissements au travers du magazine principalement puis du site internet, seul survivant de l'aventure du Groupe Pinkphenix, et aussi de la communication des établissements par flyers, s'occupait aussi du graphisme et des partenariats avec des clubs respectueux de cette population.
+
+Le magazine est composé d'actualité nationale hélas, trop souvent peu objective, ensuite par zone avec des citations d'auteurs LGBT, une actualité par zone locale avec photos, aussi sudoku et horoscopes ... avec un fort taux de développement et une motivation autour du développement à venir qui devait dépasser le Sud Est (pour l'instant : Aix MarseilleLyonAvignon Montpellier NîmesCannesNiceToulon ...) !
+
+Cyril Volle, (alias Le Dj Sir Lexonarkz) fait partie du magazine s'occupant de la partie Electro et diffusant des infos à ce propos sur le blog du site avec des sets plutôt électro inspiré par des clubs tel que le Métal Café (Marseille), le Spartacus (Plan de Campagne), Bar Live (Montpellier) ... il ne fait en fait que sélectionner les sets interessants du moment pour s'en faire une propre compil. il n'a donc pas de création personelle. Il ne joue pas dans les clubs dit "Friendly" hors les grands évènements, une spécificité "hétérophobe" de sa personalité, il essaye au travers de son travail de donner un nouvel impact au milieu Lesbien Gay Bi Trans ... (& Friendly).
+
+Bien plus occupé à se trémousser sur les dancefloor electro, M Volle a complètement occulté la partie commerciale et a compromis sérieusement l'équilibre financier de son magazine qui a donc cessé de paraître en juin 2007.
+
+Liens externes
+
+Site officiel
+Dj SirLeXonarKZ
+
+Portail LGBT
+
+
+<#4197>
+Pinzَn
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+Pinzَn est un patronyme d'origine espagnole.
+
+Le nom de Pinzَn est porté par plusieurs personnalités :
+
+Francisco Pinzَn (?-?), navigateur espagnol, un des frères Pinzَn qui accompagnèrent Christophe Colomb dans son premier voyage,
+Vicente Yلٌez Pinzَn (ca 1460-1513), navigateur, explorateur et conquistador espagnol, un des frères Pinzَn qui accompagnèrent Christophe Colomb dans son premier voyage,
+Martيn Alonso Pinzَn (ca 1441-1493), navigateur et explorateur espagnol, un des frères Pinzَn qui accompagnèrent Christophe Colomb dans son premier voyage,
+Prَspero Pinzَn, (1856-1901), militaire et homme politique colombien.
+
+	|	
+
+Martيn Alonso Pinzَn.
+	|	
+
+Vicente Yلٌez Pinzَn.
+	|
+
+
+<#4198>
+Pincevent
+
+
+Le site préhistorique de Pincevent se trouve sur la commune de La Grande-Paroisse, dans la vallée de la Seine en aval de Montereau-Fault-Yonne. Il a livré les vestiges d'un campement de chasseurs de rennes magdaléniens datant d'environ 12 300 ans. Sa découverte en 1964 puis sa fouille sous la direction d'André Leroi-Gourhan ont permis des progrès importants dans la connaissance du Magdalénien mais aussi en ce qui concerne les méthodes de l'archéologiepréhistorique.
+
+Historique des découvertes
+Le site de Pincevent se trouve dans une sablière exploitée depuis 1926. ہ partir de 1956, des découvertes fortuites y furent réalisées, puis des fouilles de sauvetage concernèrent un cimetière du Ve siècle. Des édifices gallo-romains, un cimetière gaulois, 10 à 11 foyers probablement néolithiques et les premiers foyers magdaléniens furent détruits par l'exploitation de la carrière entre 1956 et 1964, malgré la surveillance de chercheurs bénévoles dépourvus de moyens d'intervention.
+
+L'un de ces chercheurs, Isabelle Roux-Rath, était spécialiste de paléoclimatologie et résidait à la Grande Paroisse. Elle alerta l'équipe d'A. Leroi-Gourhan, le Centre de recherches préhistoriques et préhistoriques de l'Université de Paris I, qui intervint dans un premier temps dans le cadre de fouilles de sauvetage. Compte tenu de l'intérêt et de l'étendue du site, des mesures de protection furent prises puis le terrain fut acquis par l'ةtat. Les fouilles purent donc continuer dans de meilleures condition, jusqu'en 1985 sous la direction d'A. Leroi-Gourhan, puis par la suite par son équipe.
+
+Importance du site
+
+Le site de Pincevent a été occupé il y a environ 12 300 ans, à plusieurs reprises, du début de l'été au début de l'hiver. Le principal gibier chassé par ses habitants était le renne, mais ils consommaient aussi des poissons et des ?ufs.
+
+L'organisation spatiale des vestiges lithiques et osseux ainsi que les foyers ont été conservés de manière exceptionnelle par de fins limons d'inondation de la Seine. Leur étude a permis de mettre en évidence des aires d'activités circulaires correspondant probablement à l'emplacement d'habitations. Il a donc été proposé à titre d'hypothèse que les habitants vivaient dans des tentes pliables recouvertes de peaux, proches des tipis des Nord-Amérindiens. La réalisation systématique de remontages des blocs de silex, une reconstitution du bloc d'origine comme s'il s'agissait d'un puzzle à trois dimensions, a permis de mettre en évidence des niveaux de compétences différents pour la taille du silex : certains tailleurs étaient expérimentés, d'autres étaient encore en phase d'apprentissage [1]. L'étude des ossements de renne montre que les animaux entiers étaient ramenés au campement avant d'être partagés entre les différentes habitations.
+
+Pincevent a également joué un rôle important dans le développement et l'amélioration des méthodes de fouilles préhistoriques. ہ la suite des travaux de G. Laplace et L. Méroc dans les Pyrénées [2], A. Leroi-Gourhan y a développé et formalisé des techniques minutieuses de fouille par décapages mais surtout des enregistrements systématiques de tous les objets, traces, macro et microstructures découvertes avec pour objectif de les positionner précisément dans un espace en 3 dimensions.
+
+Avec cette méthode et à partir de l'analyse de dizaine de milliers d'éclats de pierre, de fragments de bois ou d'os éparpillés sur différents horizons, A. Leroi-Gourhan et son équipe ont pu reconstituer l'habitat et la vie quotidienne des magdaléniens qui chassaient le renne et pêchaient sur les rives de la Seine, 9 à 10000 ans avant notre ère. Cette technique, perfectionnée à Pincevent, allait faire école et s'applique depuis dans de nombreux chantiers de fouilles préhistoriques.
+
+Compléments
+
+Bibliographie
+
+Leroi-Gourhan, A. et Brézillon, M., (1966), L'habitation magdalénienne n° 1 de Pincevent près Montereau (Seine-et-Marne), Gallia-Préhistoire, IX, fasc. 2, pp. 263-385.
+Leroi-Gourhan, A. et Brézillon, M., Eds. (1972) Fouilles de Pincevent - Essai d'analyse ethnographique d'un habitat magdalénien (la section 36), Paris, VII° supplément à "Gallia Préhistoire", CNRS.
+
+Note
+
+?Pincevent : les niveaux de compétences
+? Laplace, G. et Méroc, L. (1954) « Application des coordonnées cartésiennes à la fouille d'un gisement », Bulletin de la Société Préhistorique Française, t. LI, n° 1-2, pp. 58-66.
+
+
+<#4199>
+Pingliang
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville de la République populaire de Chine.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+	|	
+Cette page contient des caractères chinois.
+Si certains caractères de cet article s'affichent mal (carrés vides, points d'interrogation, etc.), consultez la page d'aide Unicode ou testez votre navigateur. Notez que la transcription utilisée est le pinyin.	|
+
+	|	??
+Pيngliàng	|
+	|	
+	|	
+
+	|
+
+	|
+	|	
+Localisation de la ville de Pingliang et de sa préfecture (en jaune)	|
+	|	Pays	|	Chine	|
+	|	Statut administratif	|	Ville-préfecture	|
+	|	Province	|	Gansu	|
+	|	Latitude, longitude	|	35°32'N106°41'E/35.533, 106.683	|
+	|	Altitude	|	env. 1 500 m	|
+	|	Population	|	Préfecture : 2 200 000 hab. (2004)
+
+Ville de Pingliang : 110 483 hab. (2007)
+	|
+
+Pingliang (?? ; pinyin : Pيngliàng) est une ville de la province du Gansu en Chine.
+
+Démographie
+La population de la préfecture était estimée à 2 200 000 habitants en 2004[1], et celle de la ville de Pingliang à 110 483 habitants en 2007[2].
+
+Subdivisions administratives
+La ville-préfecture de Pingliang exerce sa juridiction sur sept subdivisions - un district et six xian?:
+
+le district de Kongtong - ??? K?ngtَng Q??;
+le xian de Jingchuan - ??? J?ngchu?n Xiàn?;
+le xian de Lingtai - ??? Lيngtلi Xiàn?;
+le xian de Chongxin - ??? Chَngxىn Xiàn?;
+le xian de Huating - ??? Huلtيng Xiàn?;
+le xian de Zhuanglang - ??? Zhu?nglàng Xiàn?;
+le xian de Jingning - ??? Jىngnيng Xiàn.
+
+Notes et références
+
+?(en)Gansu population - Source: China Admin Divisions, 2004
+?(en)Fiche de World Gazetteer sur Pingliang
+
+Liens externes
+
+(zh)Site gouvernemental - (en)
+Traduction Google
+(!)
+(fr)Photos de Pingliang dans Panoramio
+
+v · d · mSubdivisions administratives en rapport avec la préfecture de Pingliang
+
+	|	
+
+v · d · mSubdivisions de niveau district de la préfecture de Pingliang	|
+	|	District :	|	Kongtong	|	
+
+	|
+	|	Xian :	|	Chongxin ·Huating ·Jingchuan ·Jingning ·Lingtai ·Zhuanglang	|
+	|	Subdivisions de niveau district de la province : Liste des subdivisions administratives du Gansu	|
+
+	|	
+
+v · d · mSubdivisions de niveau préfecture du Gansu	|
+	|	Villes-préfectures :	|	Baiyin ·Dingxi ·Jiayuguan ·Jinchang ·Jiuquan ·Lanzhou ·Longnan ·Pingliang ·Qingyang ·Tianshui ·Wuwei ·Zhangye	|	
+
+	|
+	|	Préfectures autonomes :	|	Gannan ·Linxia	|
+	|	Subdivisions de niveau district : Liste des subdivisions administratives du Gansu	|
+
+Portail du monde chinois
+
+
+<#4200>
+Pinkpop
+
+Le Pinkpop Festival est l'un des plus importants festivals de musiquerock des Pays-Bas, de par les artistes qui le fréquentent chaque année. Il se déroule entre mi-mai et début juin à Landgraaf.
+Le festival est un des pionniers des festivals européens, il est aujourd'hui reconnu par le Livre Guinness des records comme le plus vieux festival annuel du monde. Depuis sa première édition en 1969, le festival a beaucoup grossi et peut aujourd'hui se vanter de figurer parmi les plus gros festivals européens du point de vue de sa fréquentation. 10.000 (1970) à 70.000 (1994) festivaliers se rendent chaque année à Landgraaf avec la même détermination.
+
+Line-Up 2005
+
+Samedi 14 mai:
+
+3FM-stage:
+
+The Coral
+Rowwen Hèze
+Epica
+
+Mainstage:
+
+Mindfold
+Intwine
+Millencolin
+Chemical Brothers
+
+Dimanche 15 mai:
+
+3FM-stage:
+
+Moneybrother
+Madrugada
+The Frames
+De Heideroosjes
+
+Mainstage:
+
+Molotov
+Sick Of It All
+Beef
+Within Temptation
+The Prodigy
+
+Lundi 16 mai:
+
+John Peel-stage:
+
+Triggerfinger
+Thirteen Senses
+Kaiser Chiefs
+Bloc Party
+Gabriel Rios
+
+3FM-stage:
+
+Wir sind Helden
+Di-rect
+Cake
+Apocalyptica
+Saybia
+
+Mainstage:
+
+Presidents of the United States of America
+Beth Hart
+Novastar
+Golden Earring
+Kane
+Faithless
+
+Line-Up 2006
+
+Samedi 3 juin:
+
+BUMA / John Peel Stage:
+
+ALIZE
+Mo'Jones
+Kraak & Smaak
+
+3FM-stage:
+
+Kubb
+Admiral Freebee
+Paul Weller
+
+Mainstage:
+
+The Dresden Dolls
+Nelly Furtado
+Kaiser Chiefs
+Placebo
+
+Dimanche 4 juin:
+
+BUMA / John Peel Stage:
+
+The Rakes
+The Zutons
+The Infadels
+Hooverphonic
+
+3FM-stage:
+
+VanKatoen
+Dredg
+Danko Jones
+Skin
+Alter Bridge
+
+Mainstage:
+
+Kashmir
+The Bloodhound Gang
+Racoon
+dEUS
+Tool
+
+Lundi 5 juin:
+
+BUMA / John Peel Stage:
+
+Living Things
+Jamie Lidell
+Editors
+The Flaming Lips
+Opgezwolle
+
+3FM-stage:
+
+Soulfly
+David Gray
+Deftones
+Nickelback
+Morrissey
+
+Mainstage:
+
+Pete Murray
+Blّf
+Keane
+Franz Ferdinand
+Red Hot Chili Peppers
+
+Line-Up 2007
+
+Samedi 26 mai:
+
+BUMA / John Peel Stage:
+
+Viberiders
+Stevie Ann
+C-Mon & Kypski
+
+3FM-stage:
+
+The Noisettes
+Wir sind Helden
+Good Charlotte
+
+Mainstage:
+
+Goose
+Juliette & The Licks
+Within Temptation
+Marilyn Manson
+
+Dimanche 27 mai:
+
+BUMA / John Peel Stage:
+
+The Nightwatchman
+Paolo Nutini
+Maxïmo Park
+Amy Winehouse
+
+3FM-stage:
+
+Ozark Henry
+Gogol Bordello
+Ilse Delange
+Lostprophets
+
+Mainstage:
+
+Gabriel Rios
+Razorlight
+Iggy & The Stooges
+Snow Patrol
+Muse
+
+Lundi 28 mai:
+
+BUMA / John Peel Stage:
+
+Five o'clock Heroes
+The Magic Numbers
+Maria Mena
+Macy Gray
+The Kooks
+
+3FM-stage:
+
+30 Seconds To Mars
+Stone Sour
+Dave Matthews Band
+Korn
+Evanescence
+
+Mainstage:
+
+The Fratellis
+Wolfmother
+Scissor Sisters
+Arctic Monkeys
+Linkin Park
+The Smashing Pumpkins
+
+Infos & Line-Up 2008
+
+On attend toujours les heures de programmation de cette affiche 2008 qui, comme prévu, est bien à la hauteur de la réputation du festival! Pour cette 39ième édition les organisateurs ont décidé de limiter les tickets au nombre de 60.000. Ils sont en vente depuis le 16 février dans une centaine d'endroits aux Pays-Bas(où c'est déjà presque sold-out), à Hasselt et dans toutes les Fnac en Belgique(depuis ce 07/03 il n'y reste déjà plus que 350 places), et via le service bonnticket.de en Allemagne. Les places sont à 69? la journée et 129? le prix d'ensemble si vous achetez vos places aux Pays-Bas et à 73? et 153? si vous décidez de les acheter à la Fnac.
+
+Vendredi 30 mai: 16h00-23h00
+
+Mainstage
+
+Metallica
+Incubus
+Flogging Molly
+
+3FM-Stage:
+
+Chris Cornell
+Alter Bridge
+Sat2D
+
+BUMA / John Peel Stage
+
+Jonathan Davis
+Porcupine Tree
+
+Samedi 31 mai: 13h00-23h00
+
+Mainstage
+
+Foo Fighters
+Kaiser Chiefs
+Editors
+KT Tunstall
+Moke
+
+3FM-Stage
+
+The Verve
+Novastar
+Bad Religion
+Stereophonics
+
+BUMA / John Peel Stage
+
+Groove Armada
+Justice
+Mêlée
+
+Dimanche 1er juin: 12h00-23h00
+
+Mainstage
+
+Rage Against The Machine
+Queens Of The Stone Age
+Racoon
+Gavin Degraw
+Fiction Plane
+Alanis Morissette
+
+3FM-Stage
+
+Counting Crows
+Serj Tankian(ex-S.O.A.D.)
+The Hives
+Cavalera Conspiracy
+The Wombats
+
+BUMA / John Peel Stage
+
+Roisin Murphy
+Saybia
+Pete Murray
+Kate Nash
+Patrick Watson
+
+Liens
+Internes
+
+liste des groupes ayant joué au Pinkpop
+
+Externes
+
+Verboo info(fr) Historique du Pinkpop festival par Verboo
+
+Pinkpop Festival(nl)
+
+Page MySpace du festival(nl)
+
+Adresse
+
+Sources
+
+Site officiel du festival(nl)
+Page Wiki néerlandophone du festival
+Page Wiki anglophone du festival
+Festivals-rock.com(fr)
+Site officiel de Rage Against The Machine(en)
+Site officiel de Metallica(en)
+Historique officiel du festival(nl)
+
+Portail de la musique
+
+
+<#4201>
+Pinback
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le rock.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pinback est un groupe américain de rock indépendant, composé de Rob Crow et Armistead Burwell Smith IV, deux musiciens originaires de San Diego.
+
+Leur son est reconnaissable aux entrelacs de guitares et de claviers qui tissent leurs morceaux ainsi qu'aux voix de ses deux membres, qui se croisent généralement le long d'une même chanson.
+
+DiscographieAlbums
+
+1998 : This Is a Pinback CD ;
+2001 : Blue Screen Life ;
+2004 : Summer in Abaddon ;
+2007 : Autumn of the Seraphs.
+
+
+<#4202>
+Pino d'Asti
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les communes italiennes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pino d'Asti	|
+	|	Nom italien	|	Pino d'Asti	|
+	|	Pays	|	
+Italie	|
+	|	
+Région
+	|	Piémont
+	|
+	|	
+Province
+	|	Asti
+	|
+	|	code ISTAT	|	005085	|
+	|	code postal	|	14020	|
+	|	Préfixe tel	|	011	|
+	|	Coordonnées	|	45° 3' Nord
+
+7° 59' Est/45.05, 7.983	|
+	|	Superficie	|	4 km²	|
+	|	Population	|	224 hab. - ()	|
+	|	Densité	|	56 hab./km²	|
+	|	Localisation	|
+	|	
+
+	|
+	|	pas de site web
+	|
+
+Pino d'Asti est une commune italienne de la province d'Asti dans la région Piémont en Italie.
+
+Administration
+	|	Liste des maires (sindaci) successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	-	|	-	|	-	|	-	|
+	|	Toutes les données ne nous sont pas encore connues.	|
+
+Hameaux
+
+Communes limitrophes
+Albugnano, Castelnuovo Don Bosco, Passerano Marmorito
+
+Piémont · Communes de la province d'Asti
+
+	|	Agliano Terme · Albugnano · Antignano · Aramengo · Asti · Azzano d'Asti · Baldichieri d'Asti · Belveglio · Berzano di San Pietro · Bruno · Bubbio · Buttigliera d'Asti · Calamandrana · Calliano · Calosso · Camerano Casasco · Canelli · Cantarana · Capriglio · Casorzo · Cassinasco · Castagnole Monferrato · Castagnole delle Lanze · Castel Boglione · Castel Rocchero · Castell'Alfero · Castellero · Castelletto Molina · Castello di Annone · Castelnuovo Belbo · Castelnuovo Calcea · Castelnuovo Don Bosco · Cellarengo · Celle Enomondo · Cerreto d'Asti · Cerro Tanaro · Cessole · Chiusano d'Asti · Cinaglio · Cisterna d'Asti · Coazzolo · Cocconato · Corsione · Cortandone · Cortanze · Cortazzone · Cortiglione · Cossombrato · Costigliole d'Asti · Cunico · Dusino San Michele · Ferrere · Fontanile · Frinco · Grana · Grazzano Badoglio · Incisa Scapaccino · Isola d'Asti · Loazzolo · Maranzana · Maretto · Moasca · Mombaldone · Mombaruzzo · Mombercelli · Monale · Monastero Bormida · Moncalvo · Moncucco Torinese · Mongardino · Montabone · Montafia · Montaldo Scarampi · Montechiaro d'Asti · Montegrosso d'Asti · Montemagno · Montiglio Monferrato · Moransengo · Nizza Monferrato · Olmo Gentile · Passerano Marmorito · Penango · Piea · Pino d'Asti · Piovà Massaia · Portacomaro · Quaranti · Refrancore · Revigliasco d'Asti · Roatto · Robella · Rocca d'Arazzo · Roccaverano · Rocchetta Palafea · Rocchetta Tanaro · San Damiano d'Asti · San Giorgio Scarampi · San Martino Alfieri · San Marzano Oliveto · San Paolo Solbrito · Scurzolengo · Serole · Sessame · Settime · Soglio · Tigliole · Tonco · Tonengo · Vaglio Serra · Valfenera · Vesime · Viale · Viarigi · Vigliano d'Asti · Villa San Secondo · Villafranca d'Asti · Villanova d'Asti · Vinchio	|
+
+Portail de l'Italie
+
+
+<#4203>
+Pintxo
+
+
+Les pintxos (prononcer pintchos) sont une forme de tapas que l'on retrouve dans les bars du Pays basque et de Navarre.
+
+Les fêtes et rassemblements populaires du Pays basque sont prétextes à des concours de cuisine, entre quartiers, villages, villes, sociétés gastronomiques ou entre amis. C'est ainsi que les tapas et pintxos (véritables plats traditionnels en miniatures) se sont développés. Dans les bars de Donostia (Saint-Sébastien) comme dans tout le Pays basque on rivalise d'ingéniosité pour créer les meilleures tapas et gagner les différents concours.
+
+Les différents pintxos
+
+Les pintxos sur pain, tartelettes, bouchées :
+
+Se composent d'un grand éventail de produits cuits ou crus à base de viandes, de poissons ou de légumes servis chauds ou froids sur des tranches de pain frais, grillées, tartelettes ou bouchées. Exemples : ?ufs durs - mayonnaise - crevettes - anchois - crème de poivrons - miettes de crabe - mayonnaise persillée - filets de rougets sur fondue de poireaux - morue pil-pil - tartelette d'escargots en persillade
+
+Les fritures :
+
+Les fritures sont généralement à base de poissons ou de légumes. Exemples : rabas (calamars panés), anchois, moules, lotte, piments?
+
+Les banderilles :
+
+Les banderilles sont des compositions de produits cuits ou crus à base de viandes, de poissons ou de légumes servis chaudes ou froides, embrochées sur des petites piques en bois appelées palillos. Exemples : c?urs d'artichauts au jambon de Bayonne, roulés de ventrèche aux gambas, txistorra poêlée?
+
+Les brochettes :
+
+Les brochettes sont des compositions de produits cuits ou crus à base de viandes, de poissons ou de légumes servis chaudes ou froides. Exemples : lotte - crème de gambas - gambas au piment d'Espelette - canard à l'orange - palombe - sauce civet?
+
+Les cassolettes :
+
+On trouve une multitude de plats traditionnels servis dans les cassolettes (plats en terre cuite utilisé également pour la cuisson). Exemples : langoustines - crème de crustacés - ttoro - marmitako - morue navarraise - axoa d'Espelette - agneau crème de moutarde?
+
+« J'ai toujours pensé que les pintxos sont ce que nous avons de plus important, tout comme notre cuisine, car ils offrent une qualité et une variété insoupçonnées sur de petite portions travaillées sur le moment et il n'existe nulle part au monde quelque chose de comparable. C'est un mouvement important qui va à l'encontre du mauvais fast-food qui nous fait tant de mal, et grâce aux pintxos, je pense que les jeunes et moins jeunes peuvent se restaurer d'une façon rapide et économique. » Juan Mari Arzak (3 étoiles au Guide Michelin).
+
+
+<#4204>
+Pinscher allemand
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les chiens.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Je ne vois pas l'image
+Vous voyez une adresse d'image du type « nomimage.jpg », cela est dû à un changement de modèle.
+Comment rectifier cela ? Il suffit simplement dans le champ |image = d'ajouter avant l'adresse de l'image [[ et après |45px]].Rajouté également |charte=, après le signe = rajouté l'espèce animal, exemple pour un chien rajouté |charte=chien
+
+	|	
+	|		|	Pinscher allemand	|		|
+
+	|
+	|	Deutscher Pinscher.JPG	|
+	|	
+Pinscher allemand	|
+	|		|
+	|	Caractéristiques	|
+	|	Silhouette	|	13 à 18 kg.	|
+	|	Taille	|	45 à 52 cm.	|
+	|	Poil	|	noir et brun	|
+	|	Autre	|
+
+Le pinscher allemand est un chien originaire d'Allemagne.Servie pour la chasse.Il est peu présent en france.Souvent décrit comme un mini-doberman il en est en fait l'ancêtre.Niveau caractère, il est très calin, souvent "pot de colle". Il sait parfaitement défendre son maitre. Il aime les enfants mais il ne faut pas les gâter sous peine qu'il devienne "bébéte".C'est aussi une espèce vive, courageuse et enjouée.
+
+Liens externes
+
+[pdf]Le standard de la race sur le site de la SCC
+
+Portail sur les chiens
+
+
+<#4205>
+Pinasse du bassin d'Arcachon
+
+Pour les articles homonymes, voir Pinasse. 
+
+La pinasse est une embarcation typique du bassin d'Arcachon et du littoral gascon : longue, étroite, à l'avant très relevé, elle est traditionnellement en bois de pin des Landes et à fond plat. Avec l'évolution des techniques et des usages, ses flancs se sont élargis pour accueillir un moteur, et les matériaux composites remplacent parfois le pin. Marchant à la voile ou au moteur, elle a retrouvé aujourd'hui une grande popularité. Les pinasses ne sont plus utilisées aujourd'hui pour la pêche ou l'ostréiculture, mais pour la promenade, la plaisance et les régates.
+
+ةtymologie
+Elle est assez controversée :
+
+Ce mot roman gasconpinaça, espagnolpinaza, italienpinaccia, anglaispinnace est généralement analysé par un dérivé latin *pinacea pouvant signifier « en planche de pin ». On ne le confondra pas avec le catalanpinassa 'grand pin' applicable au pin noir pinus negra.
+
+On le comparera également aux mots pinche ou pinque (bateau à fond plat), du hollandaispinck.
+
+Thillole ou tillole, apparenté à tilla (bateau galicien), tille (breton) viendrait du scandinave tilja (planche).
+
+Historique
+
+Origines
+Bien que l'usage des pinasses sur le Bassin d'Arcachon soit très ancien, il n'existe pas de document écrit mentionnant formellement ces embarcations avant une allusion dans des documents de 1553 et 1556. Il s'agit des minutiers d'un notaire de La Teste de Buch, Arnaud de Laville, faisant allusion à des transactions de pinasses.
+
+En 1604, il est écrit dans le texte des transactions entre le Captal de Buch Jean-Louis d'Epernon et les usagers de la Forêt Usagère: "...il a été arrêté qu'étant sur la mer, leurs avirons, mâts, venant à se rompre, ils pourront prendre sans avoir permission du bois pour faire avirons, mâts, ganchots et tostets de pinasses et bateaux (...) Bien pourront les dits affêvats vendre leurs pinasses (...) sans en abuser (...) ni autrement couper ni dégrader le dit bois".
+
+En 1708, Claude Masse évoque dans le mémoire qui accompagne sa carte du Bassin d'Arcachon des petits bateau "que les habitants appellent pinasses, qui ont 15 à 16 pieds de long sur 4 à 5 de large"
+
+Il fallu attendre 1727 pour voir arriver en Pays de Buch François Le Masson du Parc, venant de l'amirauté de Bayonne, commissaire ordinaire de la Marine, Inspecteur Général des Pêches du poisson de mer. Il s'intéresse aux différentes pêches qui se pratiquent sur le littoral et il observe, note et décrit les techniques de l'époque. Il rencontre des pinasses sur le littoral des Landes de Gascogne à Saint-Girons, Mimizan et sur le Bassin d'Arcachon. Il commence sont paragraphe de description des pinasses de la sorte: "les pinasses qui servent à faire la pesche dans la baye d'Arcasson sont faite de la forme d'une navette avec les bouts un peu relevés, une pinasse a vingt à vingt deux pieds de longueur de l'estrave à l'étambot" Il précise que certaines pinasses possèdent un mât et une voile. Le Masson du Parc recense et décrit les différents usages de la pinasse qui sont au nombre de 13:
+
+pêche au filet dans les chenaux (5 types)
+pêche à la sardine
+pêche à la drague des huîtres dans les chenaux
+pêche à la seine dans le Bassin et sur la côte
+pêche au palet et au palicot
+pêche à la foëne
+pêche des oiseaux marins
+pêche des crevettes
+ramassage des huîtres et autres coquillages
+
+Deux types de pinasses sont décrites: une petite de 6,50m montée par deux hommes et une grande de plus de 7m montée par 6 hommes, à l'aviron et sous voile, comportant deux bordés de plus. Il dénombre au total 204 pinasses. Bien que l'administration interdise aux pinasses de sortir du Bassin d'Arcachon, les grandes pinasses font concurrences aux chaloupes de pêche et sortent en pleine mer pour pêcher.
+
+Le recensement exact des embarcations sera possible à partir du début du XIXe siècle, grâce à la mise en place des Arrondissements et des quartiers maritimes, et l'enregistrement systématique des pinasses sur le Registre des Matricules des Bâtiments du Quartier. Ainsi le Quartier de l'Inscription Maritime de La Teste de Buch couvre un territoire allant de Lacanau à Mimizan.
+
+De la voile au moteur
+Il fallut attendre la seconde moitié du XIXe siècle pour avoir de véritables descriptions de pinasses et des plans détaillés, avec Baudens en 1866 puis Georges Sahuqué en 1881 qui consacrera un article dans la revue "le Yacht". Les pinasses de cet époque possèdent désormais un gouvernail, ainsi qu'un mât mobile et inclinable longitudinalement et latéralement. Les bordages sont toujours assemblés à clin. C'est précisément à cette époque que les pinasses traditionnelles vont évoluer. Jusque là elles n'étaient que les outils des premiers pêcheurs du bassin, mais à présent les usages vont se multiplier. En 1841 le chemin de fer arrive à La Teste, et avec lui les premiers touristes qui s'offriront des promenades payantes en pinasse...c'est l'arrivée du tourisme sur le Bassin d'Arcachon. Dans les années 1860, les premiers ostréiculteurs modernes utilisent eux aussi la pinasse. M.Boubès, ancien administrateur du Quartier Maritime d'Arcachon établit en 1909 une classification des pinasses en fonction de leur longueur. Ces appellations sont encore d'usage localement:
+
+Classification des pinasses par Boubès en 1909	|	Nom	|	Longueur	|
+	|	Pinassotte	|	L<7,5m	|
+	|	Pinasse ordinaire	|	7,5m<L<8m	|
+	|	Bâtarde	|	8m<L<9m	|
+	|	Pinasse de côte	|	L>9m	|
+
+Mais c'est surtout la motorisation intervenant au début du XXe siècle qui constitue le plus grand bouleversement dans la structure des pinasses. On est passé en quelques décennies d'une embarcation rustique sans clous, ni gouvernail, ni quille, construite à clin, chevillée de bois et propulsée par le vent ou à rames, à une embarcation motorisée avec quille, quilles d'angles, safran articulé ou non, élargie, ayant un bordage à feuillure et des râblure à l'étrave et l'étambot.
+
+La motorisation intervient massivement après les années 1905 et 1906, d'abord pour les résidents les plus fortunés puis jusqu'en 1913 pour la presque totalité des pinasses de pêche d'Arcachon. Ce sont Albert Couach et Auguste Bert qui ont mis au point en 1902 la première pinasse à moteur: Libellule, mise à l'eau en 1903. Fonctionnant alors au pétrole lampant, on emploiera le nom de "pétroleuses" pour ces pinasses dont la taille et la robustesse tendent à grandir de plus en plus pour accueillir les quelques 250kg des premiers moteurs à combustion interne. Elles atteindront une douzaine de mètres pour certaines, embarqueront de huit à douze hommes ainsi que trois à cinq doris pour la pêche à la sardine et seront partiellement pontées. Le succès des pinasses à moteur en particulier pour la pêche à la sardine ne se fait pas attendre. En effet on compte 76 pinasses à moteur construites dans la seule année 1908. Les chantiers navals d'Arcachon, La Teste de Buch et Gujan-Mestras tournent à plein régime. La revue "L'avenir d'Arcachon" cite les principaux chantiers en 1908: Barrière, Bert, Bossuet, Boyé, Daney, Daycard, Dubourdieu, Fourton, Labouyrie, Mendozat, Monguillet, Mouliets, Pradère, les ateliers des Pêcheries de l'Océan, des Pêcheries de Gascogne,... La "pétroleuse" à hélice relevable devient pour des décennies l'outil de prédilection des ostréiculteurs du Pays de Buch. L'administration, et notamment la Marine Nationale, les Douanes et les Ponts et Chaussées s'intéressent également aux pinasses et en commandent régulièrement à divers chantiers navals.
+
+La pinasse, un outil de travail
+Jusqu'à la fin du XXe siècle, la pinasse a conservé sont utilité pour les professionnels de la mer.
+
+Les ostréiculteurs ont utilisé principalement les pinasses à moteur jusque dans les années 1960 où elles ont été supplantées par les bacs en bois ou en aluminium.
+
+Les pinasses sardinières parcouraient la côte du Pays Basque aux Pertuis jusque dans les années 1930, où elles ont été remplacées par des gros canots à moteur pratiquant également la pêche au thon au large et le chalutage côtier...la sardine à elle seule n'étant plus rentable
+
+La pêche à la senne ("traïna") déjà décrite par Le Masson du Parc en 1727 subsiste jusqu'à la fin des années 1970. Cette technique se pratique en bord de mer. Il s'agit de prendre un banc de poisson au piège en joignant les deux extrémités d'un filet sur la plage. Les pinasses côtières disposaient une senne pouvant faire jusqu'à 280m de longueur, qui une fois disposée en arc de cercle à proximité de la côte était tirée depuis la terre prenant au piège les poissons.
+
+La pêche au palet, pratiquée par les "Paliqueys", subsiste à peine de nos jours, où elle n'est plus pratiquée que par une seule famille. Cette pratique est une des plus ancienne du bassin, qui consiste à arrêter les poissons qui ont suivi le cours de la marée montante, lorsqu'ils suivent la marée descendante pour regagner l'océan. On utilise des filets tendus sur des piquets de pin (les "paous") plantés dans le sédiment. Les filets forment une enceinte où plusieurs pièges (les "biscardes") retiennent le poisson. Le filet est posé à marée basse sur le sol, et levé une fois la marée haute.
+
+Les pétroleuses tiraient des dragues à coquille et des petits chaluts...avant que cette pratique ne soit interdite à la fin du XXe siècle
+
+La pêche à la jagude (au filet fixe ou dérivant) est toujours pratiquée de nos jours, mais les plates à moteur ont remplacées les pinassottes.
+
+La pêche au flambeau (pêche au feu) était pratiquée lors des nuits obscures des périodes de nouvelle lune ou par temps couvert, mais surtout sans vent. Le "halhas" (sorte de gril) est fixé sur la poupe de la pinasse. Les pêcheurs allument le feu grâce à des pignes et des galips avant de l'alimenter avec du bois de pin résiné (riche en résine et très dense). L'homme aux avirons progresse doucement, tandis que le pêcheur guette à proximité de l'embarcation. Il transperce le poisson grâce à une foëne. Le brasier sera remplacé par des brûleurs après la première guerre mondiale, puis par des lampes branchées sur batteries. La pêche au flambeau est aujourd'hui interdite.
+
+Pinasses de promenades et de plaisance
+Avec l'arrivée du chemin de fer en 1841, les premiers touristes se sont déversés sur les côtes du Pays de Buch. La promenade payante en pinasse devient une véritable activité pour les marins. Les touristes sont promenés de La Teste de Buch vers Arcachon, puis le long des plages et vers les parcs à huîtres. La concurrence des "bateliers" s'est fait sentir à partir des années 50 et les bateaux de promenades sont souvent des embarcations modernes. De nos jours certaines pinasses sont disponibles en location à la journée ou la demi-journée.
+
+Les petites pinasses vont devenir des embarcations de plaisance au cours du XXe siècle. Ces pinasses sont équipés de tout le confort moderne et représentent la plupart des pinasses que nous rencontrons de nos jours sur les ports du Bassin d'Arcachon. Bien souvent en matériaux composites, les pinasses modernes sont de moins en moins construites en bois de pin, mais elles conservent néanmoins leur silhouette caractéristique.
+
+Arbre généalogique de la pinasse
+
+Régates de pinasses à voile
+Comme sur toutes les côtes françaises, les marins-pêcheurs se livrent à des régates le plus souvent le jour de la fête locale. Les régates de pinasses à voile entre ostréiculteurs et marins-pêcheurs durèrent jusqu'en 1962 car le nombre de participants n'était plus suffisant. Seul 5 ou 6 pinasses participaient.
+
+A partir de 1982, des locaux remettent en état des pinasses abandonnées (La Belle, Goudurix, l'Afrique, la Clé des c?urs). Puis en 1985, une pinasse neuve est construite par le chantier RABA. Cette même année, l'amicale des pinasseyre est née et se propose de rassembler toutes les pinasses existantes et d'en construire de nouvelles. En 1986, Arcachon commande quatre nouvelles pinasses qui auront le nom des quatre paroisses de la localité. La flotte est aujurd'hui constitué de 32 bateaux dont 22 participent aux compétitions.
+
+Chaque année, les régates d'été de pinasses à voile sont organisées dans les différents villages du bassin d'Arcachon.
+
+La navigation des pinasses est une navigation sportive. En effet, toutes les maneouvres se font à la main sans poulie ni palan et à chaque virement de bord, la voile est affalée, passée sur l'autre armure et renvoyée, le mât levé et incliné au vent.
+
+Le mât n'est pas haubané et ne tient qu'en deux points : par la drisse de la voile et par son emplanture.
+
+Galerie
+	|		|	Cliquez sur une vignette pour l'agrandir.	|
+
+	|	
+	|	
+	|	
+	|	
+	|
+
+Sources
+
+La Pinasse, Mémoire du Bassin - des bateaux et des hommes, Association de préfiguration pour un écomusée Littoral et Maritime du Pays de Buch, 2005
+François et Françoise Cottin, Le bassin d'Arcachon, au temps des pinasses, de l'huître et de la résine, L'Horizon chimérique, Bordeaux, 2000
+
+Liens externes
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur les pinasses.
+	|
+
+site d'un passionné
+association « les pinasseyres » pour la promotion de la pinasse à voile
+informations et liens sur le site de la ville d'Arcachon
+Dictionnaire des bateaux de rivière dans le Projet Babel : la pinasse d'Arcachon
+
+	|	
+	|		|	Série des Landes de Gascogne
+
+Médoc ? Landes de Bordeaux ? Pays de Buch ? Pays de Born ? Haute-Lande-Girondine ? Landes du Bazadais ? Grande-Lande ? Marensin ? Maremne ? Landes de Dax ? Petites Landes ? Landes du Lot et Garonne
+	|		|
+
+? Articles et cartes ?
+
+Sites :Bassin d'Arcachon ? Domaine de Certes ? Dune du Pyla ? ةcomusée de la Grande Lande ? Marquèze ? Parc naturel régional des Landes de Gascogne ? Parc ornithologique du Teich
+
+Cartes :des Landes de Gascogne ? des « pays » landais ? de la Côte d'Argent
+
+Personnages :Félix Arnaudin ? Sylvain Dornon ? Maurice Martin ? François Mauriac
+
+ةlevage et culture :Système agro-pastoral ? Berger landais ? ةchassiers landais ? Loi du 19 juin 1857 ? Arristoun
+
+Animaux :Brebis landaise ? Dromadaire landais ? Vache marine
+
+Bâti :Cabane de résinier ? Cabane tchanquée ? Estantat ? Maison landaise ? Urbanisme ? Architecture
+
+Forêt :Forêt des Landes ? Garbaye ? Pigne ? Pin maritime ? Pinhadar
+
+Résine :Gemmage ? Résinier ? Pot de résine ? Hapchot ? Pique ? Care ? Pitey ? Galip ? Amasse ? Colophane ? Essence de térébenthine
+
+Littoral : Baïne ? Côte d'Argent ? Fixation des dunes
+
+Lacs et cours d'eau :Grands lacs landais ? Courant landais ? Ciron ? Leyre ? Canal des Landes
+
+Embarcations :Galupe ? Pinasse
+
+Aquaculture : Ostréiculture arcachonnaise
+
+Vignoble :Médoc ? Graves  ? Vins de sable
+
+Spécialités culinaires :Assiette landaise ? Bidaou ? Cruchade ? Pastis landais
+
+Musique :Boha ? Carémère
+
+Topologie :Airial ? Craste ? Lette ? Tuc
+
+Géologie :Alios ? Pierre coquillère
+
+Réserves naturelles :ةtang de Cousseau ? Marais de Bruges ? Réserve géologique de Saucats ? Banc d'Arguin ? ةtang Noir ? Courant d'Huchet
+
+Chemins de Saint-Jacques :Cathédrale de Dax ? Clocher de Mimizan ? ةglise de Mont-de-Marsan ? Voie de Soulac
+Langue vernaculaire :Gascon ? Parlar negre
+
+Sites militaires : BA 118 ? BA 120 ? Camp de Souge ? CELM
+
+	|
+
+	|	
+
+v · d · mBassin d'Arcachon	|
+	|	Communes	|	Andernos-les-Bains ?Arcachon ?Arès ?Audenge ?Biganos ?Gujan-Mestras ?La Teste-de-Buch ?Lanton ?Lège-Cap-Ferret ?Le Teich	|
+	|	Sites	|	Banc d'Arguin ?Le Cap-Ferret ?Côte d'Argent ?Domaine de Certes ?Dune du Pyla ?خle aux Oiseaux ?Lac de Cazaux ?Le Moulleau ?Leyre ?Parc naturel régional des Landes de Gascogne ?Parc ornithologique du Teich ?Les Passes ?Phare du Cap-Ferret ?Le Pyla	|
+	|	Histoire et traditions	|	Cabanes tchanquées ?Canal des Landes ?Captal de Buch ?Villa d'Arcachon ?Casino Mauresque ?Fixation des dunes ?Gascon ?Landes de Gascogne ?Ostréiculture ?Pays de Buch ?Pinasse ?Source Sainte-Anne des Abatilles	|
+	|	Carte du Bassin d'Arcachon	|
+
+Portail du monde maritime
+Portail de l'Aquitaine
+
+
+<#4206>
+Pince-notes
+
+
+Un pince-notes est un petit objet métallique généralement utilisé pour maintenir solidaire une liasse de feuilles de papier.
+
+Description et usage
+
+Un pince-notes est un ruban d'acier inoxydable plié de façon à former un triangle isocèle ouvert à l'un de ses sommets. La tension induite par le pliage force les extrémités des deux côtés adjacents à se tenir au plus près. Pour prévenir les risques de déchirure, ces extrémités sont moulées de façon à former des boucles. Celles-ci servent en même temps à retenir de petites tiges métalliques qui servent de poignées utilisées pour écarter les extrémités. Des ouvertures sont pratiquées dans les boucles de façon à permettre aux tiges métalliques de se replier, ce qui permet d'empiler les paquets de feuilles retenues par des pince-notes.
+
+Les pince-notes viennent en différentes grandeurs, lesquelles peuvent retenir des piles de papier de différentes épaisseur. Ces grandeurs vont de 9 millimètres (0.35 po) à 50 mm (1.97 po). Le ruban d'acier est habituellement peinturé en noir, alors que les poignées sont chromées, mais il existe une variété de couleurs. Le ruban est habituellement fait d'acier recouvert de nickel, d'argent ou d'or[1].
+
+Comparé au trombone, le pince-notes ne rouille pas[1].
+
+Usages
+Le pince-notes est habituellement utilisé dans les bureaux modernes. Il est surtout utilisé pour retenir d'épaisses liasses de feuilles de papier, ce que ne peut faire de façon efficace le trombone. Il est également utilisé pour retenir d'autres objets plats et pour balancer des équipements mécaniques[1].
+
+Historique
+Le pince-notes a été inventé par Louis E. Baltzley en 1911. ہ cette époque, les feuilles de papier était retenues ensemble en les perçant et en les cousant ensemble, ce qui ne facilitait pas le remplacement d'une feuille. Baltzley a inventé le pince-notes pour aider son père, un écrivain et un inventeur, pour tenir ses documents.
+
+Sa conception originale a été modifiée à cinq reprises, mais le mécanisme de base est demeuré le même[2].
+
+Sources
+
+? a? b? c?O. Wallace, « What are Binder Clips? »,  2007, wiseGeek. Consulté le 2007-06-23
+? Linda, Hales, A Big Clip Job? Think Washington, Washington Post, 2006-05-20. Consultée le 2007-06-23.
+
+
+<#4207>
+Pineuilh
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune de la Gironde.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pineuilh	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	Aquitaine	|
+	|	Département	|	Gironde	|
+	|	Arrondissement	|	Arrondissement de Libourne	|
+	|	Canton	|	Canton de Sainte-Foy-la-Grande	|
+	|	Code Insee	|	33324	|
+	|	Code postal	|	33220	|
+	|	Maire
+Mandat en cours	|	Jean-Pierre Chalard
+2008-2014	|
+	|	Intercommunalité	|	Communauté de communes du Pays Foyen	|
+	|	Latitude
+Longitude	|	44° 49' 55" Nord
+
+0° 13' 42" Est/44.8319444444, 0.228333333333	|
+	|	Altitude	|	7 m (mini) - 125 m (maxi)	|
+	|	Superficie	|	17,36 km²	|
+	|	Population sans
+doubles comptes	|	4 003 hab.
+(2006)	|
+	|	Densité	|	230 hab./km²	|
+
+Pineuilh est une communefrançaise, située dans le département de la Gironde et la régionAquitaine. Ses habitants sont les Pineuilhais.
+
+GEOGRAPHIE
+PINEUILH est la plus peuplée des communes du Canton de Sainte-Foy-la-Grande (4248 habitants en 2007). Commune de la Gironde, sur les bords de la rivière Dordogne, Pineuilh se situe aux portes du Périgord et à quelques kilomètres du Pays de Duras (Lot-et-Garonne). L'INSEE rattache Pineuilh à l'agglomération de Bergerac.
+
+La commune enserre la bastide de Sainte-Foy-la-Grande, dans la plaine de la Dordogne et s'étend jusque sur les coteaux, constituant une transition entre la plaine alluviale et le plateau viticole de l'Entre-Deux-Mers.
+
+Géologie
+
+La basse plaine de la Dordogne, dans laquelle se situe la plus grande partie de Pineuilh est constituée d'alluvions modernes. Ces alluvions sont formées de limons argilo-sableux et de graviers où l'élément quartzeux prédomine.
+
+Au pied des coteaux, on trouve des alluvions anciennes qui se présentent à l'état de bandes étroites. Elles sont formées de dépôts en partie décalcifiés et rubéfiés (argiles sableuses et graviers siliceux, quartz, silex, granites, quelques galets de balsate).
+
+Les parties moyennes et inférieures des coteaux sont constituées de molasses de l'éocène supérieur. Elles forment avec la Molasse du Fronsadais la pente des coteaux. Cette denière est composée de sables plus ou moins grossiers, parfois accompagnés de grès, ou d'une argile généralement chargée de sables quartzeux et micacés.
+
+HISTOIRE
+Quelques éléments d'étymologie
+
+Il était traditionnellement admis que le nom PINEUILH avait une origine celtique signifiant "Pointe du roc"[réf. nécessaire].
+
+Le dictionnaire "Le Robert" propose quant à lui une autre explication. En effet, on trouve dans les textes les plus anciens le nom "PINOLIO" (Cf. infra) qui viendrait du gaulois "ialo" (la clairière) et du latin "pinus" (le pin). Le nom PINOLIO signifierait donc "la clairière des pins".
+
+Jusqu'au XVIIe siècle, on écrivait PINEIL, parfois PINEILH. Au XVIIIe siècle on trouve PINEUIL. L'orthographe actuelle PINEUILH est donc relativement récente.
+
+La préhistoire
+
+Les récentes recherches archéologiques attestent que la plaine de PINEUILH a été occupée dès le Néolithique final. On peut supposer qu'un hameau a été implanté à cette période.
+
+De même, des indices d'occupation remontent au Bronze final. Toutefois ces indices ne s'accordent pas avec un habitat permanent et semblent plutôt relever d'activités saisonnières ponctuelles.
+
+Sources: Bilans scientifiques 2001, 2002 et 2003 édités par le Service Régional de l'Archéologie de la DRAC d'Aquitaine.
+
+L'époque gallo-romaine
+
+En 1851, les découvertes de l'abbé AUDIERNE attestent d'une occupation du site à l'époque gallo-romaine : "Nous y avons retiré plusieurs médailles romaines du haut-empire... [et] quelques fragments de statues" (Abbé AUDIERNE "Le Périgord illustré", Périgueux, 1851). De manière générale, des vestiges d'habitat ont été trouvés disséminés le long de la Dordogne.
+
+En dehors de ces informations archéologiques, nous ne disposons d'aucun élément précis sur cette période.
+
+La période féodale et l'Ancien Régime
+
+L'histoire de la baronnie de Pineuilh a fait l'objet d'une étude détaillée réalisée par M.et Mme PATRY et publiée dans les cahiers n°3 et 4 "Les Amis de Sainte-Foy et sa région" en octobre 1981.
+
+Un château-fort aurait été édifié sur le promontoire naturel qui se dresse au-dessus du bourg et de l'église et du haut duquel on domine la boucle de la Dordogne et toute la plaine entre Sainte-Foy-la-Grande et Gardonne.
+
+La donation à l'abbaye de Conques. Les plus anciens documents concernant PINEUILH se trouvent dans le Cartulaire de Conques. Il y est fait état d'un don consenti entre 1074 et 1076 par Falco de Barta (ou Falcon de la Barde) qui abandonnait en alleu à l'abbaye de Conques (Cf. l'article sur l'Abbatiale Sainte-Foy de Conques) , abbaye bénédictine du Rouergue, l'église "Sanctus Martinus de Braxis de Pinolio" (Saint Martin de Braigs de Pineuilh) avec tout le fief presbytéral en dépendant. Falcon de la Barde accordera en 1076 un second don à l'abbaye de Conques, son manse du Veneyrol, à charge d'y bâtir une église.
+
+La fondation de la bastide de Sainte-Foy. Ce manse fera l'objet d'une seconde donation au XIIIe siècle. Alphonse de Poitiers, frère du roi de France Saint-Louis, avait épousé la fille de Raymond VII, Comte de Toulouse. A la mort de ce dernier, il devint le maître de l'Agenais dont dépendait Pineuilh et les paroisses voisines. Il saisit tout de suite l'intérêt de ce territoire qui s'enfonçait tel un coin dans les possessions aquitaines du roi d'Angleterre. En 1255, Alphonse de Poitiers obtint donc du "Prieur de Sainte-Foy près de Pineuilh " la cession du terrain nécessaire à la construction d'une bastide. Ce terrain devait correspondre à peu près à l'ancien manse du Veneyrol de Falcon de la Barde.
+
+Il convint dès lors de régler des relations entre la bastide de Sainte-Foy, placée sous la protection directe du Comte de Poitiers, et les alentours de la nouvelle bastide, dépendants de seigneurs locaux. D'autant plus que les habitants de la bastide disposaient de privilèges ce qui pouvait inciter les populations avoisinantes à s'installer dans l'enceinte de la bastide. Aussi, le Prieur de Sainte-Foy avait prévu que ses hommes demeurant hors les enceintes et leurs descendants ne seraient pas reçus dans la bastide. De leur côté, Ysarn et Arnaud de Boville, seigneurs de Pineuilh, conservaient leur droit de justice à l'intérieur de leur château et sur leurs hommes. Ils continuaient à percevoir les droits de péage, cens...
+
+ADMINISTRATION
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	2008	|	2014	|	Jean-Pierre CHALARD	|	UMP	|	Maire	|
+	|	2001	|	2008	|	Jean-Pierre CHALARD	|	UMP	|	Maire et Conseiller général	|
+	|	1995	|	2001	|	Jean-Pierre CHALARD	|	UMP	|	Maire et Conseiller général	|
+	|	1969	|	1995	|	Georges GERTHOFER	|	RPR	|		|
+	|	1938	|	1969	|	Pierre MARBOUTY	|		|		|
+	|	1929	|	1938	|	Daniel MARTINEAU	|		|		|
+	|	1919	|	1929	|	Elie GENESTE	|		|		|
+	|	1913	|	1919	|	Emile BONNEAU	|	Radical	|		|
+	|	1884	|	1913	|	Alfred SIVADON	|	Radical	|	Conseiller général	|
+	|	1881	|	1884	|	François MEGE	|	Républicain	|		|
+	|	1878	|	1881	|	Pierre BONNEAU	|	Républicain	|		|
+	|	1877	|	1878	|	Pierre BLANCHARD	|		|		|
+	|	1876	|	1877	|	Philippe PELLIS	|	Républicain	|		|
+	|	1874	|	1876	|	Jean LALLIER	|		|		|
+	|	1870	|	1874	|	Germain FESTAL	|	Républicain	|		|
+	|	1868	|	1870	|	François MEGE	|	Républicain	|		|
+	|	1861	|	1868	|	Auguste MERLET	|		|		|
+	|	1855	|	1861	|	François GERBEAU	|	Bonapartiste	|		|
+	|	1852	|	1855	|	François GERBEAU	|	Bonapartiste	|	Maire par interim	|
+	|	1815	|	1852	|	Mathieu-Eléonor JOUHANEAU-LAREGNERE	|	Royaliste	|	Conseiller général en 1834	|
+	|	1800	|	1815	|	Jean MEYMAC	|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+NB: Pour les périodes anciennes, le terme "parti" ne saurait être compris au sens actuel du mot mais plutôt en tant que "famille politique" à replacer dans son contexte historique.
+
+DEMOGRAPHIE
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|	2007	|
+	|	2514	|	3057	|	3493	|	3542	|	3512	|	3645	|	4248	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes	|
+
+Lieux et monuments
+- L'église Saint Martin de Pineuilh qui fut amplement restaurée et agrandie à la fin du XIXe siècle;
+
+- Le moulin du lieu-dit "Les Bournets";
+
+- Les lavoirs ruraux des lieux-dits "Les Mangons" et "Les Bournets";
+
+- Les Communes de Sainte-Foy-la-Grande et Pineuilh ont la particularité d'avoir un monument aux morts commun, situé sur le territoire de la bastide foyenne.
+
+Personnalités liées à la commune
+Roger LANREZAC (dit Roger LANZAC), homme de télévision et de spectacle, fondateur du cirque éponyme.
+
+Marguerite PLAISIR, enseignante, auteur d'un ouvrage autobiographique "Gens de Pineuilh" publié aux éditions "La fontaine secrète".
+
+Pierre Roger VILLEMIANE, coureur cycliste.
+
+
+<#4208>
+Pinson bleu
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les oiseaux.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	
+Pinson bleu	|
+	|		|
+	|	Fringilla teydea	|
+	|	Classification classique	|
+	|	Règne	|	Animalia	|
+	|	Embranchement	|	Chordata	|
+	|	Sous-embr.	|	Vertebrata	|
+	|	Classe	|	Aves	|
+	|	Ordre	|	Passeriformes	|
+	|	Famille	|	Fringillidae	|
+	|	Sous-famille	|	Fringillinae	|
+	|	Genre	|	Fringilla	|
+	|	Nom binominal	|
+	|	Fringilla teydea
+Webb, Berthelot & Moquin-Tandon, 1841	|
+	|	Statut de conservationIUCN :
+
+NT  : Quasi menacé
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le Pinson bleu (Fringilla teydea) est une espèce de pinsonendémique des îles Canaries. La sous-espèce teydea vit à Ténérife et la sous-espèce polatzeki à Gran Canaria.
+
+Liste des sous-espèces
+
+Fringilla teydea polatzeki E. Hartert, 1905
+Fringilla teydea teydea Webb, Berthelot & Moquin-Tandon, 1841 (1835, selon Avibase)
+
+
+<#4209>
+Pin (plante)
+
+Pour les articles homonymes, voir Pin. 
+	|	
+Pin	|
+	|		|
+	|	Pinus pinea, pin parasol	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Coniferophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|
+	|	Pinus
+L., 1753	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Taxons de rang inférieur	|
+	|	
+
+Voir texte
+	|
+	|	
+ Retrouvez ce taxon sur Wikispecies
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+Le pin est la désignation générique des arbres appartenant au genrePinus, de la famille des Pinacées, dont au moins 111 espèces[1] ont été décrites.
+Ce sont des résineux à feuilles en aiguilles groupées en faisceaux par 2, 3 ou 5 et dont les fructifications sont des cônes constitués d'écailles à l'aisselle desquelles on trouve les graines. Ce genre, de loin le plus important des conifères, comprend de nombreuses espèces dont beaucoup sont des essences forestières importantes.
+Plusieurs espèces, introduites hors de leur habitat naturel sont localement devenues envahissantes.
+
+Description
+Ce sont généralement des arbres, de taille variable, quelquefois des arbustes (formes naines). Les feuilles sont des aiguilles persistantes, groupées en faisceaux par 2, par 3 ou par 5 à l'extrémité de rameaux courts. Les fruits sont des cônes qui apparaissent à l'automne sur les arbres adultes. Les écailles s'écartent à maturité, libérant les graines. Celles-ci sont munies d'une aile plus ou moins allongée.
+
+Biologie
+Les pins sont des essences sociales de pleine lumière, qui supportent bien la sècheresse, et les sols pauvres. Ils forment des peuplements importants, mais craignent la concurrence des autres essences.
+
+Répartition
+La répartition géographique de ce genre est très vaste. On les trouve dans des régions assez variées, mais surtout dans les zones à climat tempéré-froid de l'hémishère boréal, où ils occupent tous les étages de végétation, du niveau de la mer jusqu'à la limite supérieure des forêts, même en terrain en permanence gelé.
+
+Intérêt économique
+Le bois est recherché tant pour les usages industriels (pâte à papier) que comme bois d'?uvre, pour l'ameublement, les parquets et lambris, bois de mine et poteaux télégraphiques, etc.
+
+La gemme (résine) de certaines espèces est exploitée pour la production d'essence de térébenthine et de colophane. Cette gemme a aussi des usages médicinaux.
+
+Les bourgeons de pin, très résineux, ont aussi une utilisation médicinale, comme balsamiques et diurétiques, transformés notamment en sirops et pastilles. Du bois on extrait aussi par distillation le goudron de Norvège, à propriétés balsamiques et antiseptiques. C'est une essence de reboisement, utilisée aussi pour l'ornement.
+
+Les pignons de pins sont comestibles et utilisés en pâtisserie et confiserie ou peuvent être mangés cru en cassant leur coque...
+
+Principales espèces de pins
+
+Pins européens
+
+Pin d'Alep, pin de Jérusalem, (Pinus halepensis)
+Pin de Bosnie (Pinus heldreichii, syn. Pinus leucodermis)
+Pin de Calabre ou pin de Turquie ou pin Persan (Pinus brutia)
+Pin des Canaries (Pinus canariensis)
+Pin cembro, arolle, alvier, (Pinus cembra)
+Pin de Macédoine ou pin des Balkans (Pinus peuce)
+Pin maritime ou pin des Landes (Pinus pinaster)
+Pin des montagnes ou pin mugo, pin couché (Pinus mugo)
+
+Pin couché, sous-espèce du pin des montagnes (Pinus mugo subsp. mugo)
+Pin à crochets, sous-espèce du pin des montagnes (Pinus mugo subsp. uncinata, syn. Pinus mugo var. rostrata, Pinus uncinata)
+
+Pin noir (Pinus nigra), espèce collective regroupant notamment le pin noir d'Autriche, le pin laricio de Corse et le pin de Salzmann
+
+Pin noir d'Autriche, sous-espèce du pin noir (Pinus nigra subsp. nigra)
+
+Pin noir de Turquie, variété du pin noir (Pinus nigra subsp. nigra var. caramanica)
+Pin noir de Crimée, variété du pin noir (Pinus nigra subsp. nigra var. pallasiana)
+
+Pin de Salzmann, sous-espèce de pin noir (Pinus nigra subsp. salzmannii)
+
+Pin laricio, variété du pin de Salzmann (Pinus nigra subsp. salzmannii var. corsicana)
+
+Pin parasol ou pin pignon, pin pinier (Pinus pinea)
+Pin sylvestre (Pinus sylvestris)
+
+Article détaillé : Clé de détermination des pins de France.
+
+Pins américains
+
+Pin argenté (Pinus monticola)
+Pin aristé (Pinus aristata)
+Pin de Bristlecone (Pinus longaeva) sont parmi les plus vieux arbres de la planète. Le pin Prometheus situé à 3276 mètres dans la Sierra Nevada (ةtats-Unis) avait dans les années 1960 environ 4900 ans. Dans la même région, le pin Mathusalem est toujours en vie et a environ 4 839 ans.
+Pin blanc, pin Weymouth (Pinus strobus)
+Pin à écorce lisse du Mexique (Pinus pseudotrobus)
+Pin à blanche écorce (Pinus albicaulis)
+Pinus muricata
+Pin ponderosa, pin à bois lourd (Pinus ponderosa) (Ponderosa pine aux Canada et ةtats-Unis)
+Pin durango (Pinus durangensis au Mexique)
+Pin gris, pin de Banks (Pinus banksiana)
+Pin flexible (Pinus flexilis)
+Pin de Monterey (Pinus radiata)
+Pin rigide (Pinus rigida)
+Pin rouge (Pinus resinosa)
+Pin des marais (Pinus palustris)
+Pin à aiguilles longues (Pinus elliottii)
+Pin tordu (Pinus contorta)
+
+Pin tordu, pin vrillé, pin tortillé (Pinus contorta subsp. contorta)
+Pin tordu latifolié (Pinus contorta subsp. latifolia)
+Pin de Murray (Pinus contorta subsp. murrayana)
+
+Pin à une feuille, Pinus monophylla
+
+Pins asiatiques
+
+Pin d'Armand (Pinus armandii)
+Pin blanc du Japon (Pinus parviflora)
+Pin de Corée (Pinus koraiensis)
+Pin de l'Himalaya (Pinus wallichiana)
+Pin Napoléon (Pinus bungeana)
+Pin noir du Japon (Pinus thunbergii)
+Pin rouge du Japon (Pinus densiflora)
+
+Liste par nom scientifique
+Selon ITIS:
+
+Pinus mugo f. mughoides (Willk.) K.I. Christensen
+Pinus cembroides var. cembroides Zucc.
+Pinus edulis var. edulis Engelm.
+Pinus remorata var. remorata (Mason) Silba
+Pinus torreyana ssp. torreyana Parry ex Carr.
+Pinus albicaulis Engelm.
+Pinus aristata Engelm.
+Pinus arizonica Engelm.
+Pinus attenuata Lemmon
+Pinus ×attenuradiata Stockwell et Righter
+Pinus balfouriana Grev. et Balf.
+Pinus banksiana Lamb.
+Pinus brutia Tenore
+Pinus californiarum D.K. Bailey
+Pinus canariensis C. Smith
+Pinus cembra L.
+Pinus cembroides Zucc.
+Pinus clausa (Chapman ex Engelm.) Vasey ex Sarg.
+Pinus contorta Dougl. ex Loud.
+Pinus coulteri D. Don
+Pinus discolor D.K. Bailey et Hawksworth
+Pinus echinata P. Mill.
+Pinus edulis Engelm.
+Pinus elliottii Engelm.
+Pinus engelmannii Carr.
+Pinus flexilis James
+Pinus glabra Walt.
+Pinus halepensis P. Mill.
+Pinus jeffreyi Grev. et Balf.
+Pinus lambertiana Dougl.
+Pinus leiophylla Schiede et Deppe
+Pinus longaeva D.K. Bailey
+Pinus merkusii Junghuhn et Vriese ex Vriese
+Pinus monophylla Torr. et Frém.
+Pinus monticola Dougl. ex D. Don
+Pinus mugo Turra
+Pinus muricata D. Don
+Pinus ×murraybanksiana Righter et Stockwell
+Pinus nigra Arnold
+Pinus palustris P. Mill.
+Pinus patula Schiede ex Schltdl. et Cham.
+Pinus pinaster Soland., non Ait.
+Pinus pinea L.
+Pinus ponderosa P.et C. Lawson
+Pinus pseudostrobus L.
+Pinus pungens Lamb.
+Pinus quadrifolia Parl. ex Sudworth
+Pinus radiata D. Don
+Pinus remota (Little) D.K. Bailey et Hawksworth
+Pinus resinosa Soland.
+Pinus rigida P. Mill.
+Pinus ×rigitaeda Kartesz et Gandhi
+Pinus sabiniana Dougl. ex Dougl.
+Pinus serotina Michx.
+Pinus ×sondereggeri H.H. Chapman
+Pinus strobiformis Engelm.
+Pinus strobus L.
+Pinus sylvestris L.
+Pinus taeda L.
+Pinus thunbergiana Franco
+Pinus torreyana Parry ex Carr.
+Pinus virginiana P. Mill.
+Pinus washoensis Mason et Stockwell
+
+Notes
+
+? Richardson, 1998
+
+
+<#4210>
+Pin de Calabre
+
+	|	
+Pinus brutia	|
+	|		|
+	|	Pinus brutia	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Coniferophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus brutia
+Ten., 1811	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Pin de Calabre (Pinus brutia Ten.) est un arbre appartenant au genre Pinus et à la famille des Pinaceae.
+
+Récemment, il a été proposé de le renommer en Pinus halepensis subsp. brutia (Ten.) E.Murray (1983). Mais ce changement de rang taxonomique n'est pas reconnu par tous les botanistes. D'autres études sont en cours.
+
+Lien interne
+
+Voir le Pinus halepensis
+
+Liens externes
+
+Référence Tela Botanica (France métro) : Pinus brutia(fr)
+Référence ITIS : Pinus brutia Tenore(fr) (+version(en))
+Référence NCBITaxonomy : Pinus brutia(en)
+Référence IUCN : Pinus brutia Ten.(en)
+Référence GRIN : espècePinus brutia Ten.(en)
+(en)Photos de Pin en Turquie
+(en)Gymnosperm Database
+
+
+<#4211>
+Pin-Balma
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune de la Haute-Garonne.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pin-Balma	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	
+Midi-Pyrénées	|
+	|	Département	|	
+Haute-Garonne	|
+	|	Arrondissement	|	Arrondissement de Toulouse	|
+	|	Canton	|	Canton de Toulouse-8	|
+	|	Code Insee	|	31418	|
+	|	Code postal	|	31130	|
+	|	Maire
+Mandat en cours	|	Jacques Diffis
+2008-2014	|
+	|	Intercommunalité	|	Communauté d'agglomération du Grand Toulouse	|
+	|	Latitude
+Longitude	|	43° 37' 41" Nord
+
+1° 32' 01" Est/43.6280555556, 1.53361111111	|
+	|	Altitude	|	144 m (mini) - 231 m (maxi)	|
+	|	Superficie	|	6,63 km²	|
+	|	Population sans
+doubles comptes	|	655 hab.
+(1999)	|
+	|	Densité	|	98 hab./km²	|
+
+Pin-Balma est une communefrançaise, située dans le département de la Haute-Garonne et la régionMidi-Pyrénées.
+
+Ses habitants sont appelés les Pino-Balméens.
+
+Géographie
+Commune située dans la banlieue Est de Toulouse, près de Balma. Accès par le Périphérique de Toulouse, sorties 
+ 15 , 
+ 16  (en traversant Balma) ou 
+ 17 .
+
+Histoire
+
+Administration
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	mars 2001	|	2014	|	Jacques Diffis	|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+Commune faisant partie de la deuxième circonscription de la Haute-Garonne
+
+Démographie
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|	2005	|
+	|	266	|	284	|	383	|	636	|	678	|	655	|	914	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes
+2005 : Population provisoire (enquête annuelle).	|
+
+Lieux et monuments
+
+ةglise Saint-Pierre
+
+Personnalités liées à la commune
+
+Adolphe Niel, Maréchal de France
+
+ةvénements
+
+Fête locale (fin juin)
+Vide-greniers (fin septembre)
+
+
+<#4212>
+Pink Flamingos
+
+Pour les articles homonymes, voir Flamingos. 
+
+	|	
+	|	
+La forme ou le fond de cet article est à vérifier.
+Améliorez-le, ou discutez des points à vérifier. Si vous venez d'apposer le bandeau, merci d'indiquer ici les points à vérifier.	|
+
+Pink Flamingos est un film américain de John Waters, sorti en 1972.
+
+C'est un film culte volontairement trash à conseiller uniquement à un public averti. Reconnu comme une allégorie de la décadence mais dont les scènes assez hallucinantes divisent aussi bien la critique que les spectateurs, où Divine lutte pour être la personne la plus immonde qui soit. Le film est célébre entre autre pour sa scène finale où elle prend une merde de caniche en bouche comme s'il s'agissait d'une gourmandise!.
+
+Ce film est un monument du cinema underground il fut diffusé aux séances de minuits aux Etats-Unis. Seul quelques films underground ont marqué les esprits dans les années 1970 dont Pink Flamingos (1972), The Rocky Horror Picture Show (1975) de Jim Sharman et l'?uvre d'Andy WarholChelsea Girl (1966).
+
+Synopsis
+L'histoire se déroule dans les années 1970 à Baltimore, Maryland (Etats-Unis).
+
+Divine - qui pour se cacher de la police préfère se faire appeler "Babs Johnson" - habite une caravane avec sa mère, qui ne vit que par amour des ?ufs, son fils (aux habitudes sexuelles étranges) et sa petite amie. Ensemble ils mènent la vie tranquille, jusqu'au jour où Divine est nommée par un magazine "l'être de plus dégoûtant de la planète". C'est alors qu'une famille rivale, les Marbles, empreints de jalousie, cherchent par tous les moyens de détrôner Divine.
+
+Les Marbles, pour concurrencer Divine, mettent en place un trafic d'enfants : Ils kidnappent et font féconder les mères (qu'ils gardent prisonnières dans une cave) par leurs major d'homme pour ensuite revendre les bébés à des couples lesbiens. Bien entendu, l'argent gagné sert à financer un réseau de dealers vendant de l'héroïne dans les écoles?
+
+Divine, qui trouve cette attitude hérétique, finit par les condamner à mort pour avoir voulu lui voler son titre et les exécute elle-même devant des journalistes qu'elle a prévenu.
+
+Fiche technique
+
+Titre: Pink Flamingos
+Réalisation: John Waters
+Scénario: John Waters
+Producteur: John Waters
+Monteur: John Waters
+Photo: John Waters
+Pays d'origine: 
+ةtats-Unis
+Durée: 90 min
+
+Distribution
+
+Divine : Divine / Babs Johnson
+David Lochary : Raymond Marble
+
+Liens externes
+
+La fiche IMDB [1]
+La fiche Allociné [2]
+Festival film Kitsch [3]
+
+Portail du cinéma
+
+
+<#4213>
+Pinhalzinho
+
+Cette page d'homonymie répertorie les différents sujets et articles partageant un même nom. 
+
+Brésil
+
+Pinhalzinho est une municipalité (municيpio) de l'ةtat de Santa Catarina
+
+Pinhalzinho est une municipalité de l'ةtat de Sمo Paulo
+
+
+<#4214>
+Pintac
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une commune des Hautes-Pyrénées.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?) ; pour plus d'indications, visitez le projet Communes de France.	|
+
+	|	Pintac	|
+	|	
+
+	|
+	|	Pays	|	
+France	|
+	|	Région	|	Midi-Pyrénées	|
+	|	Département	|	Hautes-Pyrénées	|
+	|	Arrondissement	|	Arrondissement de Tarbes	|
+	|	Canton	|	Canton de Bordères-sur-l'ةchez	|
+	|	Code Insee	|	65364	|
+	|	Code postal	|	65320	|
+	|	Maire
+Mandat en cours	|	
+	|
+	|	Intercommunalité	|	aucune	|
+	|	Latitude
+Longitude	|	43° 17' 09" Nord
+
+0° 00' 28" Ouest/43.2858333333, -0.00777777777778	|
+	|	Altitude	|	290 m (mini) - 377 m (maxi)	|
+	|	Superficie	|	1,49 km²	|
+	|	Population sans
+doubles comptes	|	27 hab.
+(1999)	|
+	|	Densité	|	18 hab./km²	|
+
+Pintac est une communefrançaise, située dans le département des Hautes-Pyrénées et la régionMidi-Pyrénées.
+
+Géographie
+
+Histoire
+
+Administration
+	|	Liste des maires successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	mars 2001	|		|		|		|		|
+	|	Toutes les données ne sont pas encore connues.	|
+
+Démographie
+ةvolution démographique
+(Source : INSEE[1])	|	1962	|	1968	|	1975	|	1982	|	1990	|	1999	|
+	|	35	|	47	|	34	|	33	|	24	|	27	|
+	|	Nombre retenu à partir de 1962 : population sans doubles comptes	|
+
+Lieux et monuments
+
+Personnalités liées à la commune
+
+
+<#4215>
+Pindamonhangaba
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville du Brésil.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Pindamonhangaba est une ville brésilienne de l'ةtat de Sمo Paulo. Sa population était estimée à 143 737 habitants en 2006. La municipalité s'étend sur 730 km².
+
+	|	ةtat de Sمo Paulo, Sud-Est
+Portail - Géographie, Histoire, Sport	|	Sمo Paulo, Brasil	|
+
+	|	Capitale	|	Sمo Paulo	|
+	|	Mésorégions	|	Araçatuba | Araraquara | Assis | Bauru | Campinas | Itapetininga | Littoral sud de l'ةtat de Sمo Paulo | Macro métropolitaine de l'ةtat de Sمo Paulo | Marيlia | Métropolitaine de Sمo Paulo | Piracicaba | Presidente Prudente | Ribeirمo Preto | Sمo José do Rio Preto | Vallée du Paraيba Paulista	|
+	|	Microrégions	|	Adamantina | Amparo | Andradina | Araçatuba | Araraquara | Assis | Auriflama | Avaré | Bananal | Barretos | Batatais | Bauru | Birigüi | Botucatu | Bragança Paulista | Campinas | Capمo Bonito | Campos do Jordمo | Caraguatatuba | Catanduva | Dracena | Fernandَpolis | Franca | Franco da Rocha | Guaratinguetل | Guarulhos | Itanhaém | Itapecerica da Serra | Itapetininga | Itapeva | Ituverava | Jaboticabal | Jales | Jaْ | Jundiaي | Limeira | Lins | Marيlia | Mogi das Cruzes | Moji-Mirim | Nhandeara | Novo Horizonte | Osasco | Ourinhos | Paraibuna/Paraitinga | Piedade | Piracicaba | Pirassununga | Presidente Prudente | Registro | Ribeirمo Preto | Rio Claro | Santos | Sمo Carlos | Sمo Joمo da Boa Vista | Sمo Joaquim da Barra | Sمo José dos Campos | Sمo José do Rio Preto | Sمo Paulo | Sorocaba | Tatuي | Tupم | Votuporanga	|
+	|	Régions métropolitaines	|	Baixada Santista | Campinas | Sمo Paulo	|
+	|	Plus de 200 000 habitants	|	Americana | Barueri | Bauru | Campinas | Carapicuيba | Diadema | Embu | Franca | Guarujل | Guarulhos | Itaquaquecetuba | Jacareي | Jundiaي | Limeira | Marيlia | Mauل | Mogi das Cruzes | Osasco | Piracicaba | Praia Grande | Presidente Prudente | Ribeirمo Preto | Santo André | Santos | Sمo Bernardo do Campo | Sمo Carlos | Sمo José do Rio Preto| Sمo José dos Campos | Sمo Paulo | Sمo Vicente | Sorocaba | Sumaré | Suzano | Taboمo da Serra | Taubaté	|
+	|	Plus de 100 000 habitants	|	Araçatuba | Araraquara | Araras | Atibaia | Barretos | Birigüi | Botucatu | Bragança Paulista | Catanduva | Cotia | Cubatمo | Ferraz de Vasconcelos | Francisco Morato | Franco da Rocha | Guaratinguetل | Hortolândia | Indaiatuba | Itapecerica da Serra | Itapetininga | Itapevi | Itu | Jandira | Jaْ | Mogi Guaçu | Ourinhos | Pindamonhangaba | Poل | Ribeirمo Pires | Rio Claro | Salto | Santa Bلrbara d'Oeste | Sمo Caetano do Sul | Sertمozinho | Tatuي | Vلrzea Paulista | Votorantim	|
+
+Portail du Brésil
+
+
+<#4216>
+Pincara
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les communes italiennes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pincara	|
+	|	Nom italien	|	Pincara	|
+	|	Pays	|	
+Italie	|
+	|	
+Région
+	|	Vénétie
+	|
+	|	
+Province
+	|	Rovigo
+	|
+	|	code ISTAT	|	029036	|
+	|	code postal	|	45020	|
+	|	Préfixe tel	|	0425	|
+	|	Coordonnées	|	45° 0' Nord
+
+11° 37' Est/45, 11.617	|
+	|	Superficie	|	17 km²	|
+	|	Population	|	1 277 hab. - ()	|
+	|	Densité	|	75 hab./km²	|
+	|	Localisation	|
+	|	
+
+	|
+	|	pas de site web
+	|
+
+Pincara est une commune italienne de la province de Rovigo dans la région Vénétie en Italie.
+
+Administration
+	|	Liste des maires (sindaci) successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	-	|	-	|	-	|	-	|
+	|	Toutes les données ne nous sont pas encore connues.	|
+
+Hameaux
+Bernarda, Gambaro, Paolino, Romanato, Roncala
+
+Communes limitrophes
+Castelguglielmo, Fiesso Umbertiano, Frassinelle Polesine, Fratta Polesine, San Bellino, Villamarzana
+
+Vénétie · Communes de la province de Rovigo
+
+	|	Adria · Ariano nel Polesine · Arquà Polesine · Badia Polesine · Bagnolo di Po · Bergantino · Bosaro · Calto · Canaro · Canda · Castelguglielmo · Castelmassa · Castelnovo Bariano · Ceneselli · Ceregnano · Corbola · Costa di Rovigo · Crespino · Ficarolo · Fiesso Umbertiano · Frassinelle Polesine · Fratta Polesine · Gaiba · Gavello · Giacciano con Baruchella · Guarda Veneta · Lendinara · Loreo · Lusia · Melara · Occhiobello · Papozze · Pettorazza Grimani · Pincara · Polesella · Pontecchio Polesine · Porto Tolle · Porto Viro · Rosolina · Rovigo · Salara · San Bellino · San Martino di Venezze · Stienta · Taglio di Po · Trecenta · Villadose · Villamarzana · Villanova Marchesana · Villanova del Ghebbo	|
+
+Portail de l'Italie
+
+
+<#4217>
+Pinhel
+
+
+	|	
+	|	
+Cet article est une ébauche concernant une ville du Portugal.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pinhel	|
+	|	
+	|		|	
+
+	|
+
+	|
+	|	Pays	|	
+Portugal	|
+	|	Région	|	Centre	|
+	|	Sous-région	|	Beira intérieure Nord	|
+	|	Ancienne province	|	Beira Alta	|
+	|	District	|	Guarda	|
+	|	Code postal	|	6400	|
+	|	Toponyme officiel	|	Pinhel	|
+	|	Latitude
+Longitude	|	40° 46' 31" Nord
+
+7° 03' 46" Ouest/40.775293, -7.062707	|
+	|	Superficie	|	486,15 km2	|
+	|	Population	|	10 436 hab.
+(2004)	|
+	|	Densité	|	21,47 hab./km2	|
+	|	Listes : municipalités / cités / villes
+du Portugal	|
+
+Pinhel est une cité (en portugais : cidade) et une municipalité (en portugais : concelho ou municيpio) du Portugal, située dans le district de Guarda. Elle est rattachée à la sous-région statistique de la Beira intérieure Nord.
+
+Géographie
+Pinhel est limitrophe :
+
+au nord, de Vila Nova de Foz Côa,
+au nord-est, de Figueira de Castelo Rodrigo,
+à l'est d'Almeida,
+au sud, de Guarda,
+à l'ouest, de Celorico da Beira, Trancoso et Meda.
+
+Démographie
+
+ةvolution démographique	|	1801	|	1849	|	1900	|	1930	|	1960	|	1981	|	1991	|	2001	|	2004	|
+	|	10 255	|	8 650	|	18 774	|	18 420	|	20 293	|	14 328	|	12 693	|	10 954	|	10 436	|
+
+Histoire
+La municipalité de Pinhel a reçu sa charte du roi Sanche Ier en 1209. Elle a reçu le statut de ville et est devenue siège d'un diocèse en 1770, par séparation du diocèse de Lamego.
+
+Toutefois, en 1881 le diocèse de Pinhel a été dissous et incorporé dans le diocèse de Guarda.
+
+Subdivisions
+
+La municipalité de Pinhel groupe 27 paroisses (freguesia, en portugais) :
+
+Alverca da Beira
+Atalaia
+Azevo
+Bogalhal
+Bouça Cova
+Cerejo
+Cidadelhe
+Ervas Tenras
+Ervedosa
+Freixedas
+Gouveia
+Lamegal
+Lameiras
+Manigoto
+Pala
+Pereiro
+Pinhel
+Pيnzio
+Pomares
+Pَvoa de El-Rei
+Safurdمo
+Santa Eufémia
+Sorval
+Souro Pires
+Valbom
+Vale de Madeira
+Vascoveiro
+
+Ainsi que de nombreux petits villages périphériques :
+
+Quintم dos Bernardos
+Quinta-Nova
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur Pinhel.
+	|
+
+Les 14 municipalités du district de Guarda
+
+Aguiar da Beira · Almeida · Celorico da Beira · Figueira de Castelo Rodrigo · Fornos de Algodres
+Gouveia · Guarda · Manteigas · Mêda · Pinhel · Sabugal · Seia · Trancoso · Vila Nova de Foz Côa
+
+[ modifier cette liste ]
+
+Portail du Portugal
+
+
+<#4218>
+Pino Palladino
+
+
+Pino Palladino, né le 17 octobre1957 à Cardiff (Pays de Galles, Royaume-Uni), est un bassisterock et rhythm and blues. Adepte dans un premier temps de la basse sans frettes, il revient par la suite à sa forme classique (frettée).
+
+Sa carrière débute réellement dans les années 80.
+
+Il joue alors des concerts avec entre autres Paul Young, David Gilmour, Tears for Fears. Dans les années années 90, il joue notamment avec Elton John, Eric Clapton, et Jeff Beck.
+
+En 2003 et 2004, il fait partie du groupe accompagnant la tournée de Simon & Garfunkel.
+
+ہ la mort de John Entwistle des Who, Palladino enchaîne de nombreux concerts avec le groupe. Il en devient même membre officiel, enregistrant quelques parties de basse sur Endless Wire en 2006.
+
+	|	The Who	|
+	|	The Detours - The High Numbers	|
+	|	Membres du groupe	|
+	|	Roger Daltrey | Pete Townshend | John Entwistle | Keith Moon
+Kenney Jones | Pino Palladino | Zak Starkey | John "Rabbit" Bundrick | Simon Townshend | Jon Carin | Simon Phillips | Doug Sandom | Colin Dawson
+Détail des membres du groupe	|
+	|	Albums	|
+	|	Albums studios : My Generation | A Quick One | The Who Sell Out | Tommy | Who's Next |Quadrophenia | The Who By Numbers | Who Are You | Face Dances | It's Hard | Endless Wire
+Bandes sonores : Tommy | Quadrophenia | The Kids Are Alright
+En concert : Live at the Royal Albert Hall | Live at Leeds | Live From Toronto | Live at the Isle of Wight Festival 1970 | Join Together | Who's Last
+Compilations : Magic Bus: The Who on Tour | Rarities 1966-1972 | Odds & Sods | Who's Better, Who's Best | The Who: The Ultimate Collection | My Generation: The Very Best of The Who | Then and Now: 1966-2004 | Meaty Beaty Big and Bouncy | The BBC Sessions | Thirty Years of Maximum R&B
+
+Lifehouse (abandonné)
+Discographie détaillée | Liste des chansons
+	|
+	|	Films	|
+	|	The Kids Are Alright | Tommy | Quadrophenia | See Me Feel Me: Keith Moon Naked for Your Pleasure	|
+	|	Articles liés au groupe	|
+	|	Peter Meaden | Kit Lambert | Chris Stamp | Bill Curbishley | Festival de Woodstock | Festival de l'île de Wight | Meher Baba	|
+	|	
+Cette boîte: v · d · m	|
+
+Portail de la musique
+Portail du rock
+
+
+<#4219>
+Pinasca
+
+
+	|	
+	|	
+Cet article est une ébauche concernant les communes italiennes.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+	|	Pinasca	|
+	|	
+	|
+	|	Nom piémontais	|	Pinasca	|
+	|	Pays	|	
+Italie	|
+	|	
+Région
+	|	Piémont
+	|
+	|	
+Province
+	|	Turin
+	|
+	|	code ISTAT	|	001190	|
+	|	code postal	|	10060	|
+	|	Préfixe tel	|	0121	|
+	|	Coordonnées	|	44° 57' Nord
+
+7° 14' Est/44.95, 7.233	|
+	|	Altitude	|	560 m	|
+	|	Superficie	|	34 km²	|
+	|	Population	|	2 951 hab. - ()	|
+	|	Densité	|	87 hab./km²	|
+	|	Gentilé	|	pinaschesi	|
+	|	Saint patron	|	Santa Maria Assunta	|
+	|	Fête patronale	|	15 août	|
+	|	Localisation	|
+	|	
+
+	|
+	|	Site officiel
+	|
+
+Pinasca est une commune de la province de Turin dans le Piémont en Italie.
+
+Administration
+	|	Liste des maires (sindaci) successifs	|
+	|	Période	|	Identité	|	Parti	|	Qualité	|
+	|	-	|	-	|	-	|	-	|
+	|	Toutes les données ne nous sont pas encore connues.	|
+
+Hameaux
+Dubbione
+
+Communes limitrophes
+Giaveno, Perosa Argentina, Cumiana, Pignerol, Frossasco, San Pietro Val Lemina, Inverso Pinasca, Villar Perosa
+
+Piémont · Communes de la province de Turin
+
+Agliè · Airasca · Ala di Stura · Albiano d'Ivrea · Alice Superiore · Almese · Alpette · Alpignano · Andezeno · Andrate · Angrogna · Arignano · Avigliana · Azeglio · Bairo · Balangero · Baldissero Canavese · Baldissero Torinese · Balme · Banchette · Barbania · Bardonèche · Barone Canavese · Beinasco · Bibiana · Bobbio Pellice · Bollengo · Borgaro Torinese · Borgiallo · Borgofranco d'Ivrea · Borgomasino · Borgone Susa · Bosconero · Brandizzo · Bricherasio · Brosso · Brozolo · Bruino · Brusasco · Bruzolo · Buriasco · Burolo · Busano · Bussoleno · Buttigliera Alta · Cafasse · Caluso · Cambiano · Campiglione-Fenile · Candia Canavese · Candiolo · Canischio · Cantalupa · Cantoira · Caprie · Caravino · Carema · Carignano · Carmagnola · Casalborgone · Cascinette d'Ivrea · Caselette · Caselle Torinese · Castagneto Po · Castagnole Piemonte · Castellamonte · Castelnuovo Nigra · Castiglione Torinese · Cavagnolo · Cavour · Cercenasco · Ceres · Ceresole Reale · Cesana Torinese · Chialamberto · Chianocco · Chiaverano · Chieri · Chiesanuova · Chaumont · Chiusa di San Michele · Chivasso · Ciconio · Cintano · Cinzano · Cirié · Claviere · Coassolo Torinese · Coazze · Collegno · Colleretto Castelnuovo · Colleretto Giacosa · Condove · Corio · Cossano Canavese · Cuceglio · Cumiana · Cuorgnè · Druento · Exilles · Favria · Feletto · Fenestrelle · Fiano · Fiorano Canavese · Foglizzo · Forno Canavese · Frassinetto · Front · Frossasco · Garzigliana · Gassino Torinese · Germagnano · Giaglione · Giaveno · Givoletto · Gravere · Groscavallo · Grosso · Grugliasco · Ingria · Inverso Pinasca · Isolabella · Issiglio · Ivrea · La Cassa · La Loggia · Lanzo Torinese · Lauriano · Leinى · Lemie · Lessolo · Levone · Locana · Lombardore · Lombriasco · Loranzè · Lugnacco · Luserna San Giovanni · Lusernetta · Lusigliè · Macello · Maglione · Marentino · Massello · Mathi · Mattie · Mazzè · Meana di Susa · Mercenasco · Meugliano · Mezzenile · Mombello di Torino · Mompantero · Monastero di Lanzo · Moncalieri · Moncenisio · Montaldo Torinese · Montalenghe · Montalto Dora · Montanaro · Monteu da Po · Moriondo Torinese · Nichelino · Noasca · Nole · Nomaglio · None · Novalesa · Oglianico · Orbassano · Orio Canavese · Osasco · Osasio · Oulx · Ozegna · Palazzo Canavese · Pancalieri · Parella · Pavarolo · Pavone Canavese · Pecco · Pecetto Torinese · Perosa Argentina · Perosa Canavese · Perrero · Pertusio · Pessinetto · Pianezza · Pinasca · Pinerolo · Pino Torinese · Piobesi Torinese · Piossasco · Piscina · Piverone · Poirino · Pomaretto · Pont-Canavese · Porte · Pragela · Prali · Pralormo · Pramollo · Prarostino · Prascorsano · Pratiglione · Quagliuzzo · Quassolo · Quincinetto · Reano · Ribordone · Riva presso Chieri · Rivalba · Rivalta di Torino · Rivara · Rivarolo Canavese · Rivarossa · Rivoli · Robassomero · Rocca Canavese · Roletto · Romano Canavese · Ronco Canavese · Rondissone · Rorà · Rosta · Roure · Rubiana · Rueglio · Salassa · Salbertrand · Salerano Canavese · Salza di Pinerolo · Samone · San Benigno Canavese · San Carlo Canavese · San Colombano Belmonte · San Didero · San Francesco al Campo · San Germano Chisone · San Gillio · San Giorgio Canavese · San Giorio di Susa · San Giusto Canavese · San Martino Canavese · San Maurizio Canavese · San Mauro Torinese · San Pietro Val Lemina · San Ponso · San Raffaele Cimena · San Sebastiano da Po · San Secondo di Pinerolo · Sangano · Sant'Ambrogio di Torino · Sant'Antonino di Susa · Santena · Sauze d'Oulx · Sauze di Cesana · Scalenghe · Scarmagno · Sciolze · Sestrières · Settimo Rottaro · Settimo Torinese · Settimo Vittone · Sparone · Strambinello · Strambino · Suse · Tavagnasco · Turin · Torrazza Piemonte · Torre Canavese · Torre Pellice · Trana · Trausella · Traversella · Traves · Trofarello · Usseaux · Usseglio · Vaie · Val della Torre · Valgioie · Vallo Torinese · Valperga · Valprato Soana · Varisella · Vauda Canavese · Venaria Reale · Venaus · Verolengo · Verrua Savoia · Vestignè · Vialfrè · Vico Canavese · Vidracco · Vigone · Villafranca Piemonte · Villanova Canavese · Villar Dora · Villar Focchiardo · Villar Pellice · Villar Perosa · Villarbasse · Villareggia · Villastellone · Vinovo · Virle Piemonte · Vische · Vistrorio · Viù · Volpiano · Volvera
+
+Portail de l'Italie
+
+
+<#4220>
+Pinakothek der Moderne
+
+
+La Pinakothek der Moderne ( Pinacothèque d'Art Moderne ) est un musée situé à Munich, en Allemagne. Quatre collections - peinture, architecture, graphisme et design - sont réunies sous son toit. Les galeries sont essentiellement dédiées à l'art du XXe et XXIe siècle. La Pinakothek der Moderne forme avec la Alte Pinakothek (XIIIe au XVIIIe siècle) et la Neue Pinakothek (XVIIIe-XIXe siècle) un gigantesque complexe muséographique.
+
+La collection
+On y trouve par exemple le célèbre "Nature morte au géranium" de Henri Matisse et ?uvres de Pablo Picasso, Fernand Léger, Juan Gris, Umberto Boccioni, Robert Delaunay, Joan Mirَ, René Magritte, Max Beckmann, Lyonel Feininger, Oskar Kokoschka, Lلszlَ Moholy-Nagy, Otto Dix, Max Ernst, Giorgio de Chirico, Salvador Dali et Francis Bacon.
+
+On y trouve aussi ?uvres de Die Brücke (le pont), un groupe d'artistes allemands expressionnistes formés à Dresde avec Ernst Ludwig Kirchner, Erich Heckel, Karl Schmidt-Rottluff et Emil Nolde et ?uvres de Der Blaue Reiter (le cavalier bleu), un groupe d'artistes formé à partir de 1911 à Munich et dont les acteurs principaux sont Wassily Kandinsky, August Macke, Franz Marc et Paul Klee.
+
+Collection de l'Art Contemporain:
+
+Par exemple avec des tableaux de Lucio Fontana, Alberto Burri, Jannis Kounellis, Andy Warhol, Jasper Johns, Robert Rauschenberg, Robert Motherwell, Franz Kline, Antoni Tàpies, Cy Twombly, Willem de Kooning, George Segal, Richard Serra, Dan Flavin, Joseph Beuys, Blinky Palermo, Henry Moore, Marino Marini, Per Kirkeby, Georg Baselitz, Gerhard Richter, Sigmar Polke et Bruce Nauman
+
+Le bâtiment de 2002 est l'?uvre de l'architecte Stefan Braunfels.
+
+Liens externes
+
+	|	
+	|	
+Wikimedia Commons propose des documents multimédia libres sur la Pinakotek der Moderne.
+	|
+
+(de)(en)Site officiel du musée
+
+	|		|	Kunstareal à Munich ~ Musées et collections	|		|
+	|	Alte Pinakothek | Neue Pinakothek | Pinakothek der Moderne | Kِnigsplatz | Glyptothèque de Munich | Museum Brandhorst | Staatliche Antikensammlungen | Staadtische Galerie im Lenbachhaus | Stنdtische Graphische Sammlung | Staatliche Museum ؤgyptischer Kunst	|
+
+Portail de la culture
+Portail de la peinture
+Portail de l'art contemporain
+Portail de l'Allemagne
+
+
+<#4221>
+Pinerolese Barbera
+
+	|	Pinerolese Barbera	|
+	|	
+DOC
+	|	Pinerolese	|
+	|	Décret d'appellation	|	12/09/1996 
+	|
+	|	Date de parution au Journal officiel italien	|	27/09/1996,
+n 227	|
+	|	Rendement (raisin/hectare)	|	80 q	|
+	|	Rendement moût	|	70,0%	|
+	|	Taux d'alcool naturel du raisin	|	10,0%	|
+	|	Taux d'alcool minimum du vin	|	10,5%	|
+	|	Résidu sec minimum	|	20,0?	|
+	|	Cépages autorisés	|
+	|	
+
+Barbera: 85.0% - 100.0%
+	|
+	|	Source: Ministère agricole italien	|
+
+Le Pinerolese Barbera est un vin italien de la région Piémont doté d'une appellation DOC depuis le 12 septembre 1996. Seuls ont droit à la DOC les vins rouges récoltés à l'intérieur de l'aire de production définie par le décret. Les vignobles autorisés se situent au sudouest de Turin en province de Turin dans les communes de Angrogna, Bibiana, Bobbio Pellice, Bricherasio, Buriasco, Campiglione-Fenile, Cantalupa, Cavour, Cumiana, Frossasco, Garzigliana, Inverso Pinasca, Luserna San Giovanni, Lusernetta, Macello, Osasco, Pinasca, Pinerolo, Perosa Argentina, Pomaretto, Porte Perrero, Pramollo, Prarostino, Roletto, Rorà, San Germano Chisone, San Pietro Val Lemina, San Secondo di Pinerolo, Torre Pellice, Villar Pellice et Villar Perosa ainsi que les communes Bagnolo Piemonte et Barge en province de Cuneo.
+
+Caractéristiques organoleptiques
+
+couleur: rouge rubis clair
+odeur: vineux, intense
+saveur: sèche, frais, harmonique
+
+Le Pinerolese Barbera se déguste à une température de 15 - 16° C et il se gardera 2 - 4 ans.
+
+Détails historiques
+
+Association de plats conseillée
+
+Production
+Province, saison, volume en hectolitres :
+
+Torino (1996/97) 342,17
+
+Portail de la vigne et du vin
+Portail de l'Italie
+
+
+<#4222>
+Pin argenté
+
+	|	
+Pinus monticola	|
+	|		|
+	|	Pinus monticola	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Sous-règne	|	Tracheobionta	|
+	|	Division	|	Coniferophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus monticola
+Douglas ex D.Don, 1832	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|	
+	|
+
+	|
+
+	|	
+	|	
+Cet article est une ébauche concernant la flore.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Pin argenté (Pinus monticola) est un arbre appartenant au genre Pinus et à la famille des Pinacées. Il pousse dans les montagnes de l'ouest de l'Amérique du Nord, en particulier dans les Montagnes Rocheuses, la chaîne des Cascades, la Sierra Nevada et les chaînes côtières du Pacifique.
+
+Comme l'ensemble des espèces appartenant au genre des Pins blancs nord-américain, il est extrêmement sensible à la rouille vésiculeuse du pin blanc. Certains individus à l'état naturel sont exempts de cette maladie tout en étant dans des populations attaqués par la rouille. Il y a espoir de développer des individus génétiquement résistant à la maladie avec des croisements entre plusieurs populations résistantes.
+
+Liens externes
+
+Pinus monticoladansFlora of North America(en)
+Référence ITIS : Pinus monticola Dougl. ex D.Don(fr) (+version(en))
+Référence NCBITaxonomy : Pinus monticola(en)
+Référence IUCN : Pinus monticola Douglas ex D.Don(en)
+Référence GRIN : espècePinus monticola Douglas ex D.Don(en)
+
+
+<#4223>
+Pinhal intérieur Sud
+
+
+	|	
+	|	
+Cet article est une ébauche concernant le Portugal.
+Vous pouvez partager vos connaissances en l'améliorant. (Comment ?).	|
+
+Le Pinhal intérieur Sud - en portugais : Pinhal Interior Sul - est une des 30 sous-régions statistiques du Portugal.
+
+Avec 11 autres sous-régions, il forme la région Centre.
+
+Géographie
+Le Pinhal intérieur Sud est limitrophe :
+
+au nord, du Pinhal intérieur Nord et de la Cova da Beira,
+à l'est, de la Beira intérieure Sud,
+au sud, du Haut Alentejo,
+à l'ouest, du Moyen Tage.
+
+Données diverses
+
+Superficie : 1 906 km²
+Population (2001) : 44 804 hab.
+Densité de population : 23,51 hab./km²
+
+Subdivisions
+Le Pinhal intérieur Sud groupe 5 municipalités (conselhos ou municيpios, en portugais) :
+
+Maçمo
+Oleiros
+Proença-a-Nova
+Sertم
+Vila de Rei
+
+	|	
+
+v · d · mRégions et sous-régions statistiques du Portugal	|
+	|	Région	|	
+Sous-Régions	|		|
+	|	Nord	|	
+
+Ave ?Cلvado ?Douro ?Entre Douro et Vouga ?Grand Porto ?Haut Trلs-os-Montes ?Minho-Lima ?Tâmega
+	|
+	|	Centre	|	
+
+Bas Mondego ?Basse Vouga ?Beira intérieure Nord ?Beira intérieure Sud ?Cova da Beira ?Dمo-Lafُes ?Moyen Tage ?Ouest ?Pinhal intérieur Nord ?Pinhal intérieur Sud ?Pinhal littoral ?Serra da Estrela
+	|
+	|	Lisbonne	|	
+
+Grand Lisbonne ?Péninsule de Setْbal
+	|
+	|	Alentejo	|	
+
+Alentejo central ?Alentejo littoral ?Bas Alentejo ?Haut Alentejo ?Lisière du Tage
+	|
+	|	Algarve	|	région statistique « continentale », confondue avec la sous-région homonyme	|
+	|	Açores	|	région autonome d'outre-mer, non subdivisée en sous-régions	|
+	|	Madère	|	région autonome d'outre-mer, non subdivisée en sous-régions	|
+	|	
+Portail du Portugal	|
+
+
+<#4224>
+Pinus monophylla
+
+	|	
+Pinus monophylla	|
+	|		|
+	|	Pinus monophylla	|
+	|	Classification classique	|
+	|	Règne	|	Plantae	|
+	|	Division	|	Pinophyta	|
+	|	Classe	|	Pinopsida	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	Genre	|	Pinus	|
+	|	Nom binominal	|
+	|	Pinus monophylla
+Torr. & Frém., 1845	|
+	|	Statut de conservationIUCN :
+
+LC  : Préoccupation mineure
+	|
+	|	Classification phylogénétique	|
+	|	Ordre	|	Pinales	|
+	|	Famille	|	Pinaceae	|
+	|	
+	|		|	D'autres documents multimédia
+sont disponibles sur Commons	|
+
+	|
+	|	Parcourez la biologie sur Wikipédia :
+	|	
+	|	
+	|	
+	|	
