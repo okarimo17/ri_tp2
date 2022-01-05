@@ -1,0 +1,21 @@
+html
+    head
+        link(href="/css/bootstrap.min.css" rel="stylesheet" )
+        title Koogle
+        style.
+            .list-group li {
+                max-width: 40%;
+                margin: 0 auto;
+                min-width: 450px;
+            }
+    body
+        div.header
+            nav.navbar.navbar-dark.bg-primary
+                .container
+                    a.navbar-brand(href="/")
+                        h3.mb-0 Koogle
+        div.container.mt-5
+            block content
+
+
+        script(src="/js/bootstrap.bundle.min.js")
