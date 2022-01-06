@@ -1,0 +1,10 @@
+extends ./layout.pug
+
+block content
+    div.py-4
+        .text-primary there is a total of #{index.length} entries on our index and they are
+        .text-success click on each one to see info about it
+        ul.list-group
+            for index_item in index
+                li.list-group-item
+                    a.btn.btn-lg.btn-primary.w-100(href=`/index/${index_item}`) #{index_item}  

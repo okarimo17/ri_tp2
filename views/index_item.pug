@@ -1,0 +1,9 @@
+extends ./layout.pug
+
+block content
+    div.py-4
+        .text-primary The Word `#{index_item}` Appeared on Documents :::
+        ul.list-group
+            for document in Object.keys(index)
+                li.list-group-item
+                    p.text-primary.w-100 #{document} as word :: #{index[document]}  

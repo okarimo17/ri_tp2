@@ -9,16 +9,29 @@ html
                 margin: 0 auto;
                 min-width: 450px;
             }
+            .footer{
+                position: fixed;
+                bottom: 0;
+                right: 0;
+                left: 0;
+                text-align: center;
+            }
+        block customstyle
     body
         div.header
             nav.navbar.navbar-dark.bg-primary
                 .container
                     a.navbar-brand(href="/")
                         h3.mb-0 Koogle
-        div.container.mt-5
+        div.container.my-5
             block content
 
+
+        nav.navbar.navbar-dark.bg-primary.footer
+            .container.text-center
+                p.mb-0.text-white Created by Miloud Belaabed & Oucif abd elkarim
 
         script(src="/js/bootstrap.bundle.min.js")
         script(src="/js/sweetalert2.min.js")
         script(src="/custom/script.js")
+        block custom_script

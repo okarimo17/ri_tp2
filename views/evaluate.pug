@@ -1,0 +1,25 @@
+extends ./layout.pug
+
+block customstyle 
+    style.
+        .list-group {
+            display:grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+        .list-group li {
+        }
+
+block content
+    div.py-4
+        .text-primary Select Files to evaluate :: 
+        li.list-group-item
+            btn.btn.btn-lg.btn-primary.w-100(id="evaluate") Evaluate Now
+
+        ul.list-group.mt-4
+            for file in files
+                li.list-group-item(--data-name=file)
+                    p.text-primary.w-100 #{file} 
+
+block custom_script
+    script.
+        handleClickListEvaluates()

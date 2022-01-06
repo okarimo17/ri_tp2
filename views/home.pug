@@ -5,9 +5,26 @@ block content
         ul.list-group
             li.list-group-item
                 a.btn.btn-lg.btn-primary.w-100(href="/clean") Corpus Files Cleaning Pretraitment
-            li.list-group-item
-                a.btn.btn-lg.btn-primary.w-100(href="/create_index") Create index from cleaned files
-            li.list-group-item
-                a.btn.btn-lg.btn-primary.w-100(href="/evaualte") Evaualte Files 
-            li.list-group-item
-                a.btn.btn-lg.btn-primary.w-100(href="/koogle") Use Our Simple Search Engine  
+                if original_count == clean_count
+                    .text-sm.text-success Done all files cleaned
+                else 
+                    .text-sm.text-danger Some files not cleaned yet (clean these files so you can create index)
+            if original_count != clean_count
+                li.list-group-item
+                    a.btn.btn-lg.btn-secondary.w-100(href="#" ) Create index from cleaned files
+                    .text-sm.text-danger Some files not cleaned yet (clean these files so you can create index)
+
+            else 
+                li.list-group-item
+                    a.btn.btn-lg.btn-primary.w-100(href="/create_index") Create index from cleaned files
+                    if indexExists
+                        .text-sm.text-success An index already exists 
+                    else 
+                        .text-sm.text-danger no old index you have to craete it again
+
+
+            if indexExists    
+                li.list-group-item
+                    a.btn.btn-lg.btn-primary.w-100(href="/index") Show index info  
+                li.list-group-item
+                    a.btn.btn-lg.btn-primary.w-100(href="/evaluate") Evaualte Files 

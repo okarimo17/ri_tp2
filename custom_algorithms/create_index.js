@@ -3,46 +3,44 @@ const {getCorpusFiles} = require('./tools/helpers')
 const stemmer = require('./tools/stemmers')
 
 
-async function createIndex({sequelize,models}){
-    const {stem_model,document_model} = models
-    let {directory,files} = getCorpusFiles(true)
-    // await sequelize.sync({force:true})
 
-    for(let i=0;i<files.length;i++){
-        let file_name = files[i]
-        // let data = fs.createReadStream(`${directory}${file_name}`, { highWaterMark: CHUNK_SIZE });
-        let data = fs.readFileSync(`${directory}${file_name}`);
-        console.log(file_name)
-        // for await(const data of readStream) {
-            let words = JSON.parse(data.toString())
-            console.log(file_name+"-f2")
-            // single_file_word_handler(words[i],stem_model,document_model)
-            for(let j=0;j<words.length;j++){
-                if(j%50==0)
-                    console.log(file_name+" - "+j+" - "+words[j])
-                let word = words[j]
-                const stem_word = stemmer(word)
-                let stem_object = await stem_model.findOne({where:{'stem':stem_word}})
-                if(!stem_object){
-                    stem_object = await stem_model.create({stem:stem_word})
-                }
-                document_model.create({name:file_name,stem:stem_object.id,occurence:word})
-            }
-        // }
-    }
+
+function split_files_into_chunks(inputArray,perChunk=1){
+    var result = inputArray.reduce((resultArray, item, index) => { 
+        const chunkIndex = Math.floor(index/perChunk)
+        if(!resultArray[chunkIndex]) {
+            resultArray[chunkIndex] = [] 
+        }
+        resultArray[chunkIndex].push(item)
+        return resultArray
+    }, [])
+    return (result); 
 }
 
 
+async function createIndex(){
+    const data_set = {}
+    const data_set_info = []
 
-// async function single_file_word_handler(word,stem_model,document_model){
-//     const stem_word = stemmer(word)
-//     let stem_object = await stem_model.findOne({where:{'stem':stem_word}})
-//     if(!stem_object){
-//         stem_object = await stem_model.create({stem:stem_word})
-//     }
-//     const doc = await document_model.create({name:file_name,stem:stem_object.id,occurence:word})
-// }
+    let {directory,files} = getCorpusFiles(true)
+    for(let i=0;i<files.length;i++){
+        let file_name = files[i]
+        console.log('indexing:'+file_name)
+        let words = JSON.parse(fs.readFileSync(`${directory}${file_name}`))
+        for(let j=0;j<words.length;j++){
+            let word = words[j]
+            const stem_word = stemmer(word)
+            if(!data_set[stem_word]){
+                data_set[stem_word] =[]
+                data_set_info.push(stem_word)
+            }
+            data_set[stem_word].push({document:file_name,occurence:word})
+        }
+    }
+    fs.writeFileSync(`${directory}../dataset.json`,JSON.stringify(data_set),'utf-8')
+    fs.writeFileSync(`${directory}../dataset_info.json`,JSON.stringify(data_set_info),'utf-8')
 
+}
 
 
 
