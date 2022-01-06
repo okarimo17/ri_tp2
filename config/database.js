@@ -33,21 +33,19 @@ async function createDBModels(){
         name: {
             type: DataTypes.STRING,
         },
-    });
-    let occurence_model = await sequelize.define("occurence", {
-        word: {
+        occurence: {
             type: DataTypes.STRING,
         },
     });
     stem_model.hasMany(document_model, {
         foreignKey: "stem",
     });  
-    document_model.hasMany(occurence_model, {
-        foreignKey: "occurence",
-    });
 
+
+    await sequelize.sync({})
     return {
-        stem_model,document_model,occurence_model
+        models:{stem_model,document_model},
+        sequelize:sequelize
     }
 
 }

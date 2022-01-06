@@ -1,0 +1,7 @@
+extends ./layout.pug
+
+block content
+    div.py-4
+        ul.list-group
+            a.btn.btn-lg.w-100(href="/" class=`${type?"btn-"+type:"btn-success"}`) #{result}
+            a.btn.btn-lg.btn-primary.mt-4.btn-small(href="/") Go Back to homepage 

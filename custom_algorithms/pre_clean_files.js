@@ -4,7 +4,7 @@ const textCleaner = require('./tools/text_cleaner')
 const {getCorpusFiles} = require('./tools/helpers')
 
 
-function preCleanFiles(){
+function preCleanFiles(data){
     let {directory,files} = getCorpusFiles()
     files.map(function(file){
         readCleanSaveFile(directory,file)

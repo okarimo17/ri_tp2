@@ -28,9 +28,11 @@ function tokenizeTextAndRemoveStopWords(text){
     result= result.replace(/[\s+|\t+](-[\s+|\t+])+/g," ")
     // Remove - after text
     result= result.replace(/(\w)-[\s+|\t+]+/g,"$1 ")
+    result = result.replace(/-/g,'')
     // replacing many consucetive spaces with one space remove space arount the text (begining and end)
     result = result.replace(/ +/g, ' ').trim()
     let words = result.split(" ")
+
     // remove words that have only one letter and aren't a stop word
     words = words.filter(word =>{
         if ( word.length>=2 && s_words.indexOf(word)==-1 ){

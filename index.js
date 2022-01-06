@@ -7,9 +7,9 @@ const helpers = require('./custom_algorithms/tools/helpers')
 
 async function init(){
     // {stem_model,document_model,occurence_model} 
-    let models = await database_init()
+    let database = await database_init()
     server_init({
-        models,
+        database,
         helpers
     })
 }
