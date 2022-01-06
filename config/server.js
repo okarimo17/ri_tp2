@@ -89,8 +89,8 @@ function initServer({ helpers}){
     })
 
 
-    const server = application.listen("3004", () => {
-        console.log(`Server Started :: http://localhost:${3004}/`);
+    const server = application.listen(process.env.PORT || 3000, () => {
+        console.log(`Server Started :: http://localhost:${process.env.PORT || 3000}/`);
     });
     return server;
 }
